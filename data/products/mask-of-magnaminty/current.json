@@ -1,0 +1,14 @@
+{
+  "slug": "mask-of-magnaminty",
+  "url": "https://www.lush.com/us/en_US/p/mask-of-magnaminty",
+  "title": "Mask of Magnaminty",
+  "price": { "amount": 13.95, "currency": "USD", "formatted": "$13.95" },
+  "description": "A deep-cleansing face mask with aduki beans, peppermint and antiseptic honey.",
+  "ingredients": ["Kaolin", "Propylene Glycol", "Aduki Beans", "Honey", "Peppermint Oil", "Spearmint Oil", "Aloe Vera Gel"],
+  "badges": ["Vegetarian", "Self-Preserving"],
+  "images": [{ "url": "https://images.lush.com/mask-of-magnaminty-1.jpg", "alt": "Mask of Magnaminty face mask" }],
+  "category": "Face",
+  "collection": "Masks",
+  "fetchedAt": "2024-01-15T06:00:00.000Z",
+  "updatedAt": "2024-01-15T06:00:00.000Z"
+}

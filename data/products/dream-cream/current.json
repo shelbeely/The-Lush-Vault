@@ -1,0 +1,14 @@
+{
+  "slug": "dream-cream",
+  "url": "https://www.lush.com/us/en_US/p/dream-cream",
+  "title": "Dream Cream",
+  "price": { "amount": 14.95, "currency": "USD", "formatted": "$14.95" },
+  "description": "A rich, calming body lotion designed to soothe irritated skin and help it look and feel healthy.",
+  "ingredients": ["Water", "Fair Trade Organic Shea Butter", "Organic Cocoa Butter", "Oat Milk", "Chamomile Blue Oil", "Lavender Oil", "Rose Absolute", "Calamine Powder"],
+  "badges": ["Vegetarian", "Fresh"],
+  "images": [{ "url": "https://images.lush.com/dream-cream-1.jpg", "alt": "Dream Cream body lotion" }],
+  "category": "Body",
+  "collection": "Skin Care",
+  "fetchedAt": "2024-01-15T06:00:00.000Z",
+  "updatedAt": "2024-01-15T06:00:00.000Z"
+}
