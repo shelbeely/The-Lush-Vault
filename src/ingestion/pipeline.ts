@@ -49,12 +49,7 @@ export async function main(): Promise<void> {
       } else {
         console.log(`  [${isNew ? 'new' : 'update'}] ${product.slug}`);
         if (!dryRun) {
-          // Preserve updatedAt if no changes (shouldn't reach here, but guard)
-          if (existing && diff) {
-            product.updatedAt = product.fetchedAt;
-          } else if (!existing) {
-            product.updatedAt = product.fetchedAt;
-          }
+          product.updatedAt = product.fetchedAt;
           await writeProduct(product);
           if (diff) await writeDiff(diff);
         }
