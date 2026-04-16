@@ -19,7 +19,7 @@ const FALLBACK_DISALLOW: string[] = [
 let disallowPatterns: string[] = [];
 
 interface RobotsCache {
-  fetchedAt: string;
+  fetchedAt: string | null;
   disallowPatterns: string[];
 }
 

@@ -4,7 +4,7 @@ function parsePrice(raw: string | undefined): ProductPrice {
   if (!raw) return { amount: 0, currency: 'USD', formatted: '$0.00' };
   const match = raw.match(/\$?([\d,]+\.?\d*)/);
   if (!match) return { amount: 0, currency: 'USD', formatted: raw };
-  const amount = parseFloat(match[1].replace(',', ''));
+  const amount = parseFloat(match[1].replace(/,/g, ''));
   const formatted = raw.includes('$') ? raw.trim() : `$${match[1]}`;
   return { amount, currency: 'USD', formatted };
 }
