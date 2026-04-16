@@ -1,0 +1,13 @@
+{
+  "slug": "charity-pot",
+  "url": "https://www.lush.com/us/en_US/p/charity-pot",
+  "title": "Charity Pot",
+  "price": { "amount": 8.95, "currency": "USD", "formatted": "$8.95" },
+  "description": "A gentle, skin-loving lotion with cocoa butter and ylang ylang oil. 100% of the price goes to grassroots organizations.",
+  "ingredients": ["Water", "Fair Trade Organic Cocoa Butter", "Shea Butter", "Canola Oil", "Ylang Ylang Oil", "Mimosa Absolute", "Bergamot Oil"],
+  "badges": ["Vegetarian", "Charity"],
+  "images": [{ "url": "https://images.lush.com/charity-pot-1.jpg", "alt": "Charity Pot body lotion" }],
+  "category": "Body",
+  "fetchedAt": "2024-01-15T06:00:00.000Z",
+  "updatedAt": "2024-01-15T06:00:00.000Z"
+}

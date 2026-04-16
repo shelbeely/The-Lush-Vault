@@ -1,0 +1,14 @@
+{
+  "slug": "ocean-salt",
+  "url": "https://www.lush.com/us/en_US/p/ocean-salt",
+  "title": "Ocean Salt",
+  "price": { "amount": 14.95, "currency": "USD", "formatted": "$14.95" },
+  "description": "A sea salt scrub with avocado and lime to cleanse and soften skin.",
+  "ingredients": ["Sea Salt", "Avocado Oil", "Lime Juice", "Lime Oil", "Coconut Oil", "Vodka", "Absolute of Grapefruit"],
+  "badges": ["Vegan", "Fresh"],
+  "images": [{ "url": "https://images.lush.com/ocean-salt-1.jpg", "alt": "Ocean Salt face and body scrub" }],
+  "category": "Face",
+  "collection": "Scrubs",
+  "fetchedAt": "2024-01-15T06:00:00.000Z",
+  "updatedAt": "2024-01-15T06:00:00.000Z"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "product",
+  "title": "Product",
+  "type": "object",
+  "required": ["slug", "url", "title", "price", "description", "ingredients", "badges", "images", "category", "fetchedAt", "updatedAt"],
+  "properties": {
+    "slug": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "title": { "type": "string" },
+    "price": {
+      "type": "object",
+      "required": ["amount", "currency", "formatted"],
+      "properties": {
+        "amount": { "type": "number" },
+        "currency": { "type": "string", "enum": ["USD"] },
+        "formatted": { "type": "string" }
+      }
+    },
+    "description": { "type": "string" },
+    "ingredients": { "type": "array", "items": { "type": "string" } },
+    "badges": { "type": "array", "items": { "type": "string" } },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "alt"],
+        "properties": {
+          "url": { "type": "string" },
+          "alt": { "type": "string" }
+        }
+      }
+    },
+    "category": { "type": "string" },
+    "collection": { "type": "string" },
+    "fetchedAt": { "type": "string" },
+    "updatedAt": { "type": "string" }
+  },
+  "additionalProperties": false
+}

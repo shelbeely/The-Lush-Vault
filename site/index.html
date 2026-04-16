@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Lush Vault — US Product Archive</title>
+  <style>
+    :root {
+      --bg: #f7f7f5;
+      --surface: #ffffff;
+      --border: #e2e2de;
+      --text: #1a1a18;
+      --muted: #6b6b66;
+      --accent: #2e7d52;
+      --accent-hover: #245f3f;
+      --tag-bg: #eaf3ec;
+      --tag-text: #2e7d52;
+      --shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #141412;
+        --surface: #1e1e1c;
+        --border: #2e2e2a;
+        --text: #eaeae6;
+        --muted: #9a9a94;
+        --accent: #5ab882;
+        --accent-hover: #7ecf9d;
+        --tag-bg: #1c2e22;
+        --tag-text: #5ab882;
+        --shadow: 0 1px 4px rgba(0,0,0,0.3);
+      }
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    header h1 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: -0.02em;
+      flex: 1;
+    }
+    header p {
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    .controls {
+      padding: 1rem 1.5rem;
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      align-items: center;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    input[type="search"], select {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input[type="search"] { min-width: 220px; flex: 1; max-width: 360px; }
+    input[type="search"]:focus, select:focus { border-color: var(--accent); }
+    #count {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    main {
+      padding: 1.5rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1rem;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.1rem 1.2rem;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: box-shadow 0.15s, transform 0.1s;
+    }
+    .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.1); transform: translateY(-1px); }
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .card-meta {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .tag {
+      display: inline-block;
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      border-radius: 4px;
+      padding: 0.15rem 0.5rem;
+      font-size: 0.74rem;
+      font-weight: 500;
+    }
+    .card-price {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .card-link {
+      margin-top: auto;
+      display: inline-block;
+      padding: 0.45rem 0.9rem;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      text-align: center;
+      transition: background 0.15s;
+    }
+    .card-link:hover { background: var(--accent-hover); }
+    .updated {
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+    #empty {
+      display: none;
+      grid-column: 1 / -1;
+      text-align: center;
+      color: var(--muted);
+      padding: 3rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🛁 The Lush Vault</h1>
+    <p>US Product Archive — en_US locale — archival research only</p>
+  </header>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search by title or category…" />
+    <select id="categoryFilter">
+      <option value="">All categories</option>
+    </select>
+    <span id="count"></span>
+  </div>
+  <main id="grid">
+    <div id="empty">No products found.</div>
+  </main>
+
+  <script>
+    let allProducts = [];
+
+    function formatDate(iso) {
+      try { return new Date(iso).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }); }
+      catch { return iso; }
+    }
+
+    function renderCards(products) {
+      const grid = document.getElementById('grid');
+      const empty = document.getElementById('empty');
+      const count = document.getElementById('count');
+      const existing = grid.querySelectorAll('.card');
+      existing.forEach(el => el.remove());
+      count.textContent = `${products.length} product${products.length !== 1 ? 's' : ''}`;
+      if (products.length === 0) { empty.style.display = 'block'; return; }
+      empty.style.display = 'none';
+      for (const p of products) {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <div class="card-title">${escHtml(p.title)}</div>
+          <div class="card-meta">
+            <span class="tag">${escHtml(p.category)}</span>
+            ${p.price ? `<span class="card-price">${escHtml(p.price.formatted ?? '$' + p.price.amount)}</span>` : ''}
+          </div>
+          <div class="updated">Updated ${formatDate(p.updatedAt)}</div>
+          <a class="card-link" href="${escHtml(p.url)}" target="_blank" rel="noopener noreferrer">View on Lush ↗</a>
+        `;
+        grid.appendChild(card);
+      }
+    }
+
+    function escHtml(str) {
+      return String(str ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    function applyFilters() {
+      const q = document.getElementById('search').value.toLowerCase().trim();
+      const cat = document.getElementById('categoryFilter').value;
+      const filtered = allProducts.filter(p => {
+        const matchQ = !q || p.title.toLowerCase().includes(q) || p.category.toLowerCase().includes(q);
+        const matchCat = !cat || p.category === cat;
+        return matchQ && matchCat;
+      });
+      renderCards(filtered);
+    }
+
+    async function init() {
+      try {
+        const res = await fetch('../data/index/all.json');
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        allProducts = await res.json();
+
+        const categories = [...new Set(allProducts.map(p => p.category))].sort();
+        const sel = document.getElementById('categoryFilter');
+        for (const cat of categories) {
+          const opt = document.createElement('option');
+          opt.value = cat; opt.textContent = cat;
+          sel.appendChild(opt);
+        }
+        renderCards(allProducts);
+      } catch (err) {
+        document.getElementById('grid').innerHTML = `<div id="empty" style="display:block">Failed to load products: ${err.message}</div>`;
+      }
+    }
+
+    document.getElementById('search').addEventListener('input', applyFilters);
+    document.getElementById('categoryFilter').addEventListener('change', applyFilters);
+    init();
+  </script>
+</body>
+</html>

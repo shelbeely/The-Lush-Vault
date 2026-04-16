@@ -1,0 +1,14 @@
+{
+  "slug": "sleepy",
+  "url": "https://www.lush.com/us/en_US/p/sleepy",
+  "title": "Sleepy",
+  "price": { "amount": 14.95, "currency": "USD", "formatted": "$14.95" },
+  "description": "This dreamy, lavender-tinted lotion is designed to help you drift off to sleep.",
+  "ingredients": ["Water", "Organic Shea Butter", "Coconut Oil", "Lavender Oil", "Tonka Absolute", "Ylang Ylang Oil", "Benzyl Benzoate"],
+  "badges": ["Vegetarian", "Lush Fresh Handmade Cosmetics"],
+  "images": [{ "url": "https://images.lush.com/sleepy-1.jpg", "alt": "Sleepy body lotion" }],
+  "category": "Body",
+  "collection": "Sleep",
+  "fetchedAt": "2024-01-15T06:00:00.000Z",
+  "updatedAt": "2024-01-15T06:00:00.000Z"
+}

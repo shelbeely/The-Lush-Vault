@@ -1,0 +1,36 @@
+name: Sync Products
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Sync products updated since date (YYYY-MM-DD)'
+        required: false
+        type: string
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Run sync
+        run: |
+          if [ -n "${{ github.event.inputs.since }}" ]; then
+            npm run sync -- --since ${{ github.event.inputs.since }}
+          else
+            npm run sync
+          fi
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: sync products $(date -u +%Y-%m-%d)"
+          git push
