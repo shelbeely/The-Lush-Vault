@@ -23,7 +23,17 @@ export async function main(): Promise<void> {
   await loadRobots();
 
   console.log(`Fetching US product URLs${since ? ` since ${since}` : ''}...`);
-  const urls = await getUsProductUrls(since);
+  let urls: string[];
+  try {
+    urls = await getUsProductUrls(since);
+  } catch (err: unknown) {
+    const status = (err as { response?: { status?: number } })?.response?.status;
+    if (status === 403) {
+      console.warn('Sitemap fetch blocked by lush.com (403). Skipping sync — will retry on next scheduled run.');
+      return;
+    }
+    throw err;
+  }
   console.log(`Found ${urls.length} product URLs`);
 
   const existingIndex = await readIndex();
