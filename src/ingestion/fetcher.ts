@@ -48,8 +48,9 @@ async function withRetry<T>(fn: () => Promise<T>, attempt = 0): Promise<T> {
     return await fn();
   } catch (err: unknown) {
     const status = (err as { response?: { status?: number } })?.response?.status;
-    if ((status === 429 || (status !== undefined && status >= 500)) && attempt < MAX_RETRIES) {
-      const backoff = Math.pow(2, attempt) * 1000;
+    const retryable = status === 403 || status === 429 || (status !== undefined && status >= 500);
+    if (retryable && attempt < MAX_RETRIES) {
+      const backoff = Math.pow(2, attempt + 1) * 2000;
       await new Promise(resolve => setTimeout(resolve, backoff));
       return withRetry(fn, attempt + 1);
     }
