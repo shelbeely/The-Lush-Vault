@@ -223,7 +223,7 @@
 
     async function init() {
       try {
-        const res = await fetch('../data/index/all.json');
+        const res = await fetch('data/index/all.json');
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         allProducts = await res.json();
 

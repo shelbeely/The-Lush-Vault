@@ -23,8 +23,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v4
+      - name: Build site artifact
+        run: |
+          mkdir -p _site
+          cp -r site/. _site/
+          cp -r data _site/data
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site/
+          path: _site/
       - id: deployment
         uses: actions/deploy-pages@v4
