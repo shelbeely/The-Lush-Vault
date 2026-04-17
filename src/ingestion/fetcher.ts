@@ -1,10 +1,23 @@
 import axios from 'axios';
 import zlib from 'zlib';
 import { isAllowed } from './robots';
-
-const USER_AGENT = 'LushVaultArchive/1.0 (https://github.com/shelbeely/The-Lush-Vault; archival research; not commercial)';
+import { USER_AGENT } from './constants';
 const POLITE_DELAY_MIN = 2000;
 const POLITE_DELAY_MAX = 3000;
+
+const BROWSER_HEADERS: Record<string, string> = {
+  'User-Agent': USER_AGENT,
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+  'Accept-Language': 'en-US,en;q=0.9',
+  'Accept-Encoding': 'gzip, deflate, br',
+  'Cache-Control': 'no-cache',
+  'Pragma': 'no-cache',
+  'Sec-Fetch-Dest': 'document',
+  'Sec-Fetch-Mode': 'navigate',
+  'Sec-Fetch-Site': 'none',
+  'Sec-Fetch-User': '?1',
+  'Upgrade-Insecure-Requests': '1',
+};
 const MAX_RETRIES = 3;
 
 let lastRequestTime = 0;
@@ -52,7 +65,7 @@ export async function fetchHtml(url: string): Promise<string> {
   await politeDelay();
   return withRetry(async () => {
     const response = await axios.get<string>(cleanUrl, {
-      headers: { 'User-Agent': USER_AGENT },
+      headers: { ...BROWSER_HEADERS, 'Referer': 'https://www.lush.com/' },
       responseType: 'text',
       timeout: 15000,
     });
@@ -68,7 +81,7 @@ export async function fetchGzip(url: string): Promise<Buffer> {
   await politeDelay();
   return withRetry(async () => {
     const response = await axios.get<ArrayBuffer>(cleanUrl, {
-      headers: { 'User-Agent': USER_AGENT },
+      headers: BROWSER_HEADERS,
       responseType: 'arraybuffer',
       timeout: 30000,
     });

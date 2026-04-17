@@ -1,11 +1,11 @@
 import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
+import { USER_AGENT } from './constants';
 
 const ROBOTS_URL = 'https://www.lush.com/robots.txt';
 const CACHE_PATH = path.resolve(process.cwd(), 'data/meta/robots-cache.json');
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
-const USER_AGENT = 'LushVaultArchive/1.0 (https://github.com/shelbeely/The-Lush-Vault; archival research; not commercial)';
 
 const FALLBACK_DISALLOW: string[] = [
   '/static/',
