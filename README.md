@@ -6,6 +6,18 @@ An archival research tool for Lush US products. Crawls, parses, normalizes, and 
 
 ---
 
+## Archive Policy
+
+The Lush Vault stores limited factual product metadata for archival and research purposes: product names, canonical URLs, slugs, categories/collections, visible price text, observed availability markers, and timestamps.
+
+This project does not attempt to bypass access controls, authentication, paywalls, Cloudflare challenges, or `robots.txt` exclusions. It does not impersonate a browser.
+
+The crawler prefers Lush's public sitemap for discovery and only fetches public US `en_US` product pages (`https://www.lush.com/us/en_US/p/{slug}`) that are not disallowed by `robots.txt`.
+
+The Lush Vault is not a full mirror of lush.com. It does not intentionally archive full marketing copy, bulk images, checkout flows, account pages, or private/customer-specific content. The narrow archive shape is described by `ProductMetadata` in `src/types/product.ts`.
+
+---
+
 ## Scope
 
 - **US-only**: only `/us/en_US/` locale is fetched
@@ -13,6 +25,8 @@ An archival research tool for Lush US products. Crawls, parses, normalizes, and 
 - All requests respect `robots.txt` (fetched and cached)
 
 ## robots.txt Compliance
+
+The fetcher checks the **original** request URL against `robots.txt` *before* any tracking/canonical cleanup. URLs disallowed by `robots.txt` are skipped — never "cleaned" into an allowed form.
 
 Disallowed patterns enforced at runtime:
 

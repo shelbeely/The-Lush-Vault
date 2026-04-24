@@ -54,3 +54,26 @@ export interface ProductIndex {
   url: string;
   updatedAt: string;
 }
+
+/**
+ * Narrow factual product metadata record — the canonical archive scope
+ * for this project. The Vault deliberately does NOT archive full marketing
+ * copy, bulk images, ingredient lists, account/checkout flows, or any other
+ * material that would amount to a full mirror of lush.com.
+ *
+ * The richer `Product` interface above is retained for the existing
+ * normalized storage layout and parsing pipeline, but new archive surfaces
+ * should prefer `ProductMetadata`.
+ */
+export interface ProductMetadata {
+  slug: string;
+  url: string;
+  title: string;
+  priceRaw?: string;
+  category?: string;
+  collection?: string;
+  availabilityRaw?: string;
+  fetchedAt: string;
+  firstSeenAt?: string;
+  lastSeenAt?: string;
+}
