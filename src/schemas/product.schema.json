@@ -7,15 +7,32 @@
   "properties": {
     "slug": { "type": "string" },
     "url": { "type": "string", "format": "uri" },
+    "sourceUrl": { "type": "string" },
     "title": { "type": "string" },
+    "sku": { "type": "string" },
+    "size": { "type": "string" },
     "price": {
       "type": "object",
       "required": ["amount", "currency", "formatted"],
       "properties": {
         "amount": { "type": "number" },
-        "currency": { "type": "string", "enum": ["USD"] },
-        "formatted": { "type": "string" }
-      }
+        "currency": { "type": "string" },
+        "formatted": { "type": "string" },
+        "onSale": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
+    "availability": {
+      "type": "object",
+      "properties": {
+        "status": { "type": "string" },
+        "inStock": { "type": "boolean" },
+        "isAvailableForPurchase": { "type": "boolean" },
+        "quantityAvailable": { "type": ["number", "null"] },
+        "schemaAvailability": { "type": "string" },
+        "dataLocale": { "type": "string" }
+      },
+      "additionalProperties": false
     },
     "description": { "type": "string" },
     "ingredients": { "type": "array", "items": { "type": "string" } },
@@ -27,12 +44,15 @@
         "required": ["url", "alt"],
         "properties": {
           "url": { "type": "string" },
-          "alt": { "type": "string" }
-        }
+          "alt": { "type": "string" },
+          "thumbnail": { "type": "string" }
+        },
+        "additionalProperties": false
       }
     },
     "category": { "type": "string" },
     "collection": { "type": "string" },
+    "collections": { "type": "array", "items": { "type": "string" } },
     "fetchedAt": { "type": "string" },
     "updatedAt": { "type": "string" }
   },

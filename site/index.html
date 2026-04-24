@@ -155,6 +155,36 @@
       padding: 3rem;
       font-size: 1rem;
     }
+    .disclaimer {
+      background: #fff8e1;
+      border-top: 3px solid #f5a623;
+      border-bottom: 3px solid #f5a623;
+      color: #5a3e00;
+      padding: 0.85rem 1.5rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-align: center;
+      line-height: 1.5;
+    }
+    @media (prefers-color-scheme: dark) {
+      .disclaimer {
+        background: #2e2600;
+        border-color: #c47d00;
+        color: #f5c842;
+      }
+    }
+    footer {
+      padding: 1.5rem;
+      text-align: center;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+    }
+    footer .disclaimer-footer {
+      font-weight: 600;
+      margin-bottom: 0.35rem;
+    }
   </style>
 </head>
 <body>
@@ -162,6 +192,9 @@
     <h1>🛁 The Lush Vault</h1>
     <p>US Product Archive — en_US locale — archival research only</p>
   </header>
+  <div class="disclaimer" role="note" aria-label="Disclaimer">
+    ⚠️ This site is an unofficial fan archive and is <strong>not affiliated with, sponsored by, or endorsed by Lush Cosmetics</strong>. All product names, images, and trademarks are the property of Lush Ltd.
+  </div>
   <div class="controls">
     <input type="search" id="search" placeholder="Search by title or category…" />
     <select id="categoryFilter">
@@ -244,5 +277,10 @@
     document.getElementById('categoryFilter').addEventListener('change', applyFilters);
     init();
   </script>
+  <footer>
+    <div class="disclaimer-footer">⚠️ This site is an unofficial fan archive and is not affiliated with, sponsored by, or endorsed by Lush Cosmetics. All product names, images, and trademarks are the property of Lush Ltd.</div>
+    <div>Data is fetched from publicly accessible Lush US pages for archival and research purposes only.</div>
+  </footer>
+
 </body>
 </html>

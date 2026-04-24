@@ -1,5 +1,170 @@
 [
-  { "slug": "dream-cream", "title": "Dream Cream", "category": "Body", "url": "https://www.lush.com/us/en_US/p/dream-cream", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "sleepy", "title": "Sleepy", "category": "Body", "url": "https://www.lush.com/us/en_US/p/sleepy", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "charity-pot", "title": "Charity Pot", "category": "Body", "url": "https://www.lush.com/us/en_US/p/charity-pot", "updatedAt": "2024-01-15T06:00:00.000Z" }
+  {
+    "slug": "after-massage-bar",
+    "title": "After",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/after-massage-bar",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-body-lotion",
+    "title": "American Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aqua-mirablis-body-butter",
+    "title": "Aqua Mirabilis",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/aqua-mirablis-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aromaco-solid-deodorant",
+    "title": "Aromaco",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/aromaco-solid-deodorant",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "biomic-body-cream",
+    "title": "Biomic Self-Preserving",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/biomic-body-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "brazilian-boom-massage-bar",
+    "title": "Brazilian Boom",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/brazilian-boom-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "braziliant-body-butter",
+    "title": "Braziliant",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/braziliant-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "charity-pot",
+    "title": "Charity Pot",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/charity-pot",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "chelsea-morning-body-lotion",
+    "title": "Chelsea Morning",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/chelsea-morning-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cocoa-butter-hand-and-body-lotion",
+    "title": "Cocoa Butter",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/cocoa-butter-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-body-butter",
+    "title": "Coconut",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/coconut-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-drench-massage-bar",
+    "title": "Coconut Drench",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/coconut-drench-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "daisy-daikon-deodorant",
+    "title": "Daisy Daikon",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/daisy-daikon-deodorant",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "deep-sleep-massage-bar",
+    "title": "Deep Sleep",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/deep-sleep-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dfluff-shaving-cream",
+    "title": "D'Fluff",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dfluff-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-cream",
+    "title": "Dream Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/dream-cream",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "dream-cream-hand-and-body-lotion",
+    "title": "Dream Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-cream-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-cream-self-preserving-hand-and-body-lotion",
+    "title": "Dream Cream Self-Preserving",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-cream-self-preserving-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-time-temple-balm",
+    "title": "Dream Time",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-time-temple-balm",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dust-the-two-of-us-dusting-powder",
+    "title": "Dust The Two Of Us",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dust-the-two-of-us-dusting-powder",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "each-peach-massage-bar",
+    "title": "Each Peach (And Two's A Pair)",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/each-peach-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elbow-grease-moisturising-balm",
+    "title": "Elbow Grease",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/elbow-grease-moisturising-balm",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "frozen",
+    "title": "Frozen",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/frozen",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "sleepy",
+    "title": "Sleepy",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/sleepy",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  }
 ]
