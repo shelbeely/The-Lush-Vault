@@ -1,4 +1,331 @@
 [
-  { "slug": "ocean-salt", "title": "Ocean Salt", "category": "Face", "url": "https://www.lush.com/us/en_US/p/ocean-salt", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "mask-of-magnaminty", "title": "Mask of Magnaminty", "category": "Face", "url": "https://www.lush.com/us/en_US/p/mask-of-magnaminty", "updatedAt": "2024-01-15T06:00:00.000Z" }
+  {
+    "slug": "7-to-3-clensing-wipe",
+    "title": "7 to 3",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/7-to-3-clensing-wipe",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "9-to-5-2",
+    "title": "9 To 5 (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/9-to-5-2",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "9-to-5-cleanser",
+    "title": "9 to 5 Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/9-to-5-cleanser",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "acai-and-sacha-inchi-vitamin-e-cleanser",
+    "title": "Acai & Sacha Inchi",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/acai-and-sacha-inchi-vitamin-e-cleanser",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "aduki-washing-grains-facial-exfoliator",
+    "title": "Aduki Washing Grains",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/aduki-washing-grains-facial-exfoliator",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "angels-on-bare-skin-cleanser",
+    "title": "Angels on Bare Skin",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/angels-on-bare-skin-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aqua-marina-cleanser",
+    "title": "Aqua Marina",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/aqua-marina-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "argan-facialoil",
+    "title": "Argan",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/argan-facialoil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ayesha-face-mask",
+    "title": "Ayesha",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/ayesha-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baby-bear-facial-gummy-wash",
+    "title": "Baby Bear",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/baby-bear-facial-gummy-wash",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bb-seaweed-fresh-face-mask",
+    "title": "BB Seaweed",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bb-seaweed-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "beauty-sleep-face-and-body-mask",
+    "title": "Beauty Sleep",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/beauty-sleep-face-and-body-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "biomic-fresh-cleanser",
+    "title": "Biomic",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/biomic-fresh-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "birth-of-venus-jelly-mask",
+    "title": "Birth Of Venus",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/birth-of-venus-jelly-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "black-tea-mochi-face-mask",
+    "title": "Black Tea Mochi",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/black-tea-mochi-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blueberry-roly-poly-fresh-cleanser",
+    "title": "Blueberry Roly Poly",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/blueberry-roly-poly-fresh-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "breath-of-fresh-air-toner-water",
+    "title": "Breath Of Fresh Air",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/breath-of-fresh-air-toner-water",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+    "title": "Bright and Beautiful",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bring-us-some-figgy-pudding-fresh-face-mask",
+    "title": "Bring Us Some Figgy Pudding",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bring-us-some-figgy-pudding-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "catastrophe-cosmetic-fresh-face-mask",
+    "title": "Catastrophe Cosmetic",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/catastrophe-cosmetic-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "celestial-moisturiser",
+    "title": "Celestial",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/celestial-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "celestial-self-preserving-moisturiser",
+    "title": "Celestial Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/celestial-self-preserving-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "charcoal-facial-soap",
+    "title": "Charcoal",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/charcoal-facial-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-shie-fresh-face-mask",
+    "title": "Coconut Shie",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/coconut-shie-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cool-iced-shaving-cream",
+    "title": "Cool Iced",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cool-iced-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cosmetic-lad-moisturiser",
+    "title": "Cosmetic Lad (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cosmetic-lad-self-preservingmoisturiser",
+    "title": " Cosmetic Lad Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-self-preservingmoisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cucumber-eye-pads",
+    "title": "Cucumber Eye Pads",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cucumber-eye-pads",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cup-o-coffee-face-and-body-mask",
+    "title": "Cup O' Coffee",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cup-o-coffee-face-and-body-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cupcake-face-mask",
+    "title": "Cupcake",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cupcake-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dark-angels-cleanser",
+    "title": "Dark Angels",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dark-angels-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-shaving-cream",
+    "title": "Dirty",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dirty-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dont-look-at-me-fresh-face-mask",
+    "title": "Don't Look At Me",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dont-look-at-me-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-steam-steamer-tab",
+    "title": "Dream Steam",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dream-steam-steamer-tab",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "eau-roma-water-toner-water",
+    "title": "Eau Roma Water",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/eau-roma-water-toner-water",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enchanted-eye-cream",
+    "title": "Enchanted",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enchanted-eye-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzymion-moisturiser",
+    "title": "Enzymion (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzymion-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzymion-self-preserving-moisturiser",
+    "title": "Enzymion Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzymion-self-preserving-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzynamite-cleanser",
+    "title": "Enzynamite",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzynamite-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "family-face-time-face-mask",
+    "title": "Family Face Time",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/family-face-time-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flight-of-the-bumblebees-eye-pads",
+    "title": "Flight of the Bumblebee Eye Pads",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/flight-of-the-bumblebees-eye-pads",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-farmacy-facial-soap",
+    "title": "Fresh Farmacy",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/fresh-farmacy-facial-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fullofgrace-facial-serum",
+    "title": "Full of Grace",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/fullofgrace-facial-serum",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gingerbread-lip-scrub",
+    "title": "Gingerbread",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/gingerbread-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glen-cocoa-fresh-face-mask",
+    "title": "Glen Cocoa",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/glen-cocoa-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "mask-of-magnaminty",
+    "title": "Mask of Magnaminty",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_US/p/mask-of-magnaminty",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "ocean-salt",
+    "title": "Ocean Salt",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_US/p/ocean-salt",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  }
 ]

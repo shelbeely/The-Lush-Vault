@@ -1,7 +1,2445 @@
 [
-  { "slug": "dream-cream", "title": "Dream Cream", "category": "Body", "url": "https://www.lush.com/us/en_US/p/dream-cream", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "sleepy", "title": "Sleepy", "category": "Body", "url": "https://www.lush.com/us/en_US/p/sleepy", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "ocean-salt", "title": "Ocean Salt", "category": "Face", "url": "https://www.lush.com/us/en_US/p/ocean-salt", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "charity-pot", "title": "Charity Pot", "category": "Body", "url": "https://www.lush.com/us/en_US/p/charity-pot", "updatedAt": "2024-01-15T06:00:00.000Z" },
-  { "slug": "mask-of-magnaminty", "title": "Mask of Magnaminty", "category": "Face", "url": "https://www.lush.com/us/en_US/p/mask-of-magnaminty", "updatedAt": "2024-01-15T06:00:00.000Z" }
+  {
+    "slug": "1000-kisses-deep-perfume",
+    "title": "1000 Kisses Deep",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/1000-kisses-deep-perfume",
+    "updatedAt": "2026-04-24T17:58:39.000Z"
+  },
+  {
+    "slug": "25-43-body-spray",
+    "title": "25:43",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/25-43-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "29-high-street-perfume",
+    "title": "29 High Street",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/29-high-street-perfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "29-high-street-scented-candle",
+    "title": "29 High Street",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/29-high-street-scented-candle",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "7-to-3-clensing-wipe",
+    "title": "7 to 3",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/7-to-3-clensing-wipe",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "9-to-5-2",
+    "title": "9 To 5 (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/9-to-5-2",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "9-to-5-cleanser",
+    "title": "9 to 5 Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/9-to-5-cleanser",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "a-far-off-frozen-land-knot-wrap",
+    "title": "A Far Off Frozen Land",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/a-far-off-frozen-land-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "a-french-kiss-bubble-bar",
+    "title": "A French Kiss",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/a-french-kiss-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "a-lush-kind-of-love-gift",
+    "title": "A Lush Kind Of Love",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/a-lush-kind-of-love-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "abiba-perfume",
+    "title": "Abiba",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/abiba-perfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "abombinaball-2",
+    "title": "Abombinaball",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/abombinaball-2",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "abombinaball-3",
+    "title": "Abombinaball",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/abombinaball-3",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "acai-and-sacha-inchi-vitamin-e-cleanser",
+    "title": "Acai & Sacha Inchi",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/acai-and-sacha-inchi-vitamin-e-cleanser",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "aduki-washing-grains-facial-exfoliator",
+    "title": "Aduki Washing Grains",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/aduki-washing-grains-facial-exfoliator",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "after-massage-bar",
+    "title": "After",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/after-massage-bar",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "ahaa-fresh-scalp-treatment",
+    "title": "Ahaa",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/ahaa-fresh-scalp-treatment",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "alban-arthan-soap",
+    "title": "Alban Arthan",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/alban-arthan-soap",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "alban-hefin-soap",
+    "title": "Alban Hefin",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/alban-hefin-soap",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "alina-perfume",
+    "title": "Alina",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/alina-perfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "alina-solidperfume",
+    "title": "Alina",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/alina-solidperfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "all-roads-lead-to-oz-soap",
+    "title": "All Roads Lead To Oz",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/all-roads-lead-to-oz-soap",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "all-the-best-gift",
+    "title": "All the Best",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/all-the-best-gift",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "all-the-colours-tenugui-wrap",
+    "title": "All The Colors Tenugui Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/all-the-colours-tenugui-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "amandopondo-bubble-bar",
+    "title": "Amandopondo",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/amandopondo-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "amazing-knot-wrap",
+    "title": "Amazing Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/amazing-knot-wrap",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-bath-bomb",
+    "title": "Inclusion",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-bath-bomb",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-body-lotion",
+    "title": "American Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "american-cream-conditioner",
+    "title": "American Cream",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-conditioner",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-perfume",
+    "title": "American Cream",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-perfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-pressed-conditioner",
+    "title": "American Cream",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-pressed-conditioner",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "american-cream-solidperfume",
+    "title": "American Cream",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/american-cream-solidperfume",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "amethyst-soap",
+    "title": "Amethyst",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/amethyst-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "amor-eterno-knot-wrap",
+    "title": "Amor Eterno Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/amor-eterno-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "and-breathe-gift",
+    "title": "And Breathe",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/and-breathe-gift",
+    "updatedAt": "2026-04-24T17:59:24.000Z"
+  },
+  {
+    "slug": "angel-hair-shampoo-bar-2021",
+    "title": "Angel Hair",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/angel-hair-shampoo-bar-2021",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "angels-on-bare-skin-cleanser",
+    "title": "Angels on Bare Skin",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/angels-on-bare-skin-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "apple-crumble-bubble-bar",
+    "title": "Apple Crumble",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/apple-crumble-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aqua-marina-cleanser",
+    "title": "Aqua Marina",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/aqua-marina-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aqua-mirablis-body-butter",
+    "title": "Aqua Mirabilis",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/aqua-mirablis-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aquarius-knot-wrap",
+    "title": "Aquarius Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/aquarius-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "argan-facialoil",
+    "title": "Argan",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/argan-facialoil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aries-knot-wrap",
+    "title": "Aries Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/aries-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aromaco-solid-deodorant",
+    "title": "Aromaco",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/aromaco-solid-deodorant",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "atom-heart-mother-bath-bomb",
+    "title": "Atom Heart Mother",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/atom-heart-mother-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aubergine",
+    "title": "Aubergine",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/aubergine",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "aurora-glitter-crumble",
+    "title": "Aurora",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/aurora-glitter-crumble",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "australian-igloo-2",
+    "title": "Australian Igloo",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/australian-igloo-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "avo-cuddle-bubble-bar",
+    "title": "Avo Cuddle",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/avo-cuddle-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "avobath-bath-bomb",
+    "title": "Avobath",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/avobath-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "avocado-co-wash",
+    "title": "Avocado",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/avocado-co-wash",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "avocado-co-wash-body-spray",
+    "title": "Avocado Co-Wash",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/avocado-co-wash-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "avocado-wash-shower-gel",
+    "title": "Avocado Wash",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/avocado-wash-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ayesha-face-mask",
+    "title": "Ayesha",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/ayesha-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baby-bear-facial-gummy-wash",
+    "title": "Baby Bear",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/baby-bear-facial-gummy-wash",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baby-rainbow-carrot-orange-bubble-bar",
+    "title": "Baby Rainbow Carrots",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-orange-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baby-rainbow-carrot-pink-bubble-bar",
+    "title": "Baby Rainbow Carrots",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-pink-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baby-rainbow-carrot-yellow-bubble-bar",
+    "title": "Baby Rainbow Carrot - Yellow",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-yellow-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baked-alaska-solid-perfume",
+    "title": "Baked Alaska",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/baked-alaska-solid-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baklava-soap",
+    "title": "Baklava",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/baklava-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "banana-conditioner",
+    "title": "Banana",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/banana-conditioner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "banana-shampoo",
+    "title": "Banana",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/banana-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "banana-tote-bag",
+    "title": "Banana",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/banana-tote-bag",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bananaaaa-shower-cream",
+    "title": "Bananaaaa",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/bananaaaa-shower-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bananas-for-you-bubbleroon-bubble-bar",
+    "title": "Bananas For You Bubbleroon",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/bananas-for-you-bubbleroon-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "banoffee-pie-shower-gel",
+    "title": "Banoffee Pie",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/banoffee-pie-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "barbie-dream-body-scrub",
+    "title": "Barbie Dream",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/barbie-dream-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bath-art",
+    "title": "Bath Art",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/bath-art",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "baubles-knot-wrap",
+    "title": "Baubles Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/baubles-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bb-seaweed-fresh-face-mask",
+    "title": "BB Seaweed",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bb-seaweed-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "be-bright-knot-wrap",
+    "title": "Be Bright",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/be-bright-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "be-cool-knot-wrap",
+    "title": "Be Cool Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/be-cool-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "be-my-valentine-reusable-bubble-bar",
+    "title": "Be My Valentine",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/be-my-valentine-reusable-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "beauty-sleep-face-and-body-mask",
+    "title": "Beauty Sleep",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/beauty-sleep-face-and-body-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "best-foot-forward-gift-v2",
+    "title": "Best Foot Forward",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/best-foot-forward-gift-v2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "betel-perfume",
+    "title": "Betel",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/betel-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bff-makeup-brush",
+    "title": "BFF",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/bff-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-blue-bath-bomb",
+    "title": "Big Blue",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/big-blue-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-blue-perfume",
+    "title": "Big Blue ",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/big-blue-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-body-spray",
+    "title": "Big",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/big-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-dilemma-bath-bomb",
+    "title": "Big Dilemma ",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/big-dilemma-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-pressed-conditioner",
+    "title": "Big",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/big-pressed-conditioner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "big-shampoo",
+    "title": "Big",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/big-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "biggest-fan-makeup-brush",
+    "title": "Biggest Fan",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/biggest-fan-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "biomic-body-cream",
+    "title": "Biomic Self-Preserving",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/biomic-body-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "biomic-fresh-cleanser",
+    "title": "Biomic",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/biomic-fresh-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "birth-of-venus-jelly-mask",
+    "title": "Birth Of Venus",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/birth-of-venus-jelly-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "black-pearl-perfume",
+    "title": "Black Pearl",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/black-pearl-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "black-rose-bath-bomb",
+    "title": "Black Rose",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/black-rose-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "black-tea-mochi-face-mask",
+    "title": "Black Tea Mochi",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/black-tea-mochi-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blackberry-bath-bomb",
+    "title": "Blackberry",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/blackberry-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blissfulgift",
+    "title": "Blissful",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/blissfulgift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-beautiful-bath-bomb",
+    "title": "Blooming Cherry Blossoms",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/blooming-beautiful-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-beautiful-bubble-bar",
+    "title": "Blooming Beautiful",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/blooming-beautiful-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-beautiful-orange-blossom-bath-bomb",
+    "title": "Blooming Beautiful Orange Blossom",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/blooming-beautiful-orange-blossom-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-beautifulgift",
+    "title": "Blooming Beautiful",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/blooming-beautifulgift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-good-deeds-knot-wrap",
+    "title": "Blooming Good Deeds Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/blooming-good-deeds-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-lovely-knot-wrap",
+    "title": "Blooming Lovely",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/blooming-lovely-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-marvellous-mom",
+    "title": "Blooming Marvellous Mom",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/blooming-marvellous-mom",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blooming-spring-gift",
+    "title": "Blooming Spring",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/blooming-spring-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blue-pearl-lip-cream",
+    "title": "Blue Pearl",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/blue-pearl-lip-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blue-skies-and-fluffy-white-clouds-body-spray",
+    "title": "Blue Skies And Fluffy White Clouds",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/blue-skies-and-fluffy-white-clouds-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blue-skies-and-fluffy-white-clouds-bubble-bar",
+    "title": "Blue Skies and Fluffy White Clouds",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/blue-skies-and-fluffy-white-clouds-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blueberry-roly-poly-fresh-cleanser",
+    "title": "Blueberry Roly Poly",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/blueberry-roly-poly-fresh-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "blur-in-love-makeup-brush",
+    "title": "Blur In Love",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/blur-in-love-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bohemian-soap",
+    "title": "Bohemian",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/bohemian-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bom-perignon-december-2025",
+    "title": "Bom Perignon",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/bom-perignon-december-2025",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bond-street-1972-perfume",
+    "title": "Bond Street 1972",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/bond-street-1972-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bongo-shower-jelly",
+    "title": "Bongo",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/bongo-shower-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "book-a-bath-wicked",
+    "title": "Book a Bath: Wicked",
+    "category": "Spa",
+    "url": "https://www.lush.com/us/en_us/p/book-a-bath-wicked",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "boom-toothpaste-tabs",
+    "title": "Boom!",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/boom-toothpaste-tabs",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "brazilian-boom-massage-bar",
+    "title": "Brazilian Boom",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/brazilian-boom-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "braziliant-body-butter",
+    "title": "Braziliant",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/braziliant-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "breath-of-fresh-air-toner-water",
+    "title": "Breath Of Fresh Air",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/breath-of-fresh-air-toner-water",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "breath-of-god-perfume",
+    "title": "Breath Of God",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/breath-of-god-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+    "title": "Bright and Beautiful",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "brightside-bubble-bar",
+    "title": "Brightside",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/brightside-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bring-us-some-figgy-pudding-fresh-face-mask",
+    "title": "Bring Us Some Figgy Pudding",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/bring-us-some-figgy-pudding-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "brother-moon-bath-bomb",
+    "title": "Brother Moon",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/brother-moon-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "brun-henna-hair-dye",
+    "title": "Brun Henna",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/brun-henna-hair-dye",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bubblegrub-bubbleroon-bubble-bar",
+    "title": "Bubblegrub Bubbleroon",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/bubblegrub-bubbleroon-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bubblegum-lip-scrub",
+    "title": "Bubblegum",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/bubblegum-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "buffy-body-butter",
+    "title": "Buffy",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/buffy-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bunnies-picnic-knot-wrap",
+    "title": "Bunnies Picnic Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/bunnies-picnic-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "bunny-cottage-gift",
+    "title": "Bunny Cottage",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/bunny-cottage-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "butter-wouldnt-melt-lush-melt",
+    "title": "Sticky Dates",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/butter-wouldnt-melt-lush-melt",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "butterball-bath-bomb",
+    "title": "Butterball",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/butterball-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "buzz-lip-scrub",
+    "title": "Buzz",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/buzz-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "by-the-seaside-knot-wrap",
+    "title": "By the Seaside Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/by-the-seaside-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "calm-primer",
+    "title": "Calm",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/calm-primer",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "camping-life-lokta-paper",
+    "title": "Camping Life Lokta Paper",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/camping-life-lokta-paper",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cancer-knot-wrap",
+    "title": "Cancer Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/cancer-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "candy-rain-conditioner",
+    "title": "Candy Rain",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/candy-rain-conditioner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "candy-rain-perfume",
+    "title": "Candy Rain",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/candy-rain-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "capricorn-knot-wrap",
+    "title": "Capricorn Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/capricorn-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cardamom-coffee-perfume",
+    "title": "Cardamom Coffee",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/cardamom-coffee-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "catastrophe-cosmetic-fresh-face-mask",
+    "title": "Catastrophe Cosmetic",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/catastrophe-cosmetic-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "celebrate-shower-gel",
+    "title": "Celebrate Shower Gel",
+    "category": "Party",
+    "url": "https://www.lush.com/us/en_us/p/celebrate-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "celestial-moisturiser",
+    "title": "Celestial",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/celestial-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "celestial-self-preserving-moisturiser",
+    "title": "Celestial Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/celestial-self-preserving-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ceridwens-cauldron-bath-oil",
+    "title": "Ceridwen's Cauldron",
+    "category": "Bath Oils",
+    "url": "https://www.lush.com/us/en_us/p/ceridwens-cauldron-bath-oil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "charcoal-facial-soap",
+    "title": "Charcoal",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/charcoal-facial-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "charisma-skin-tint",
+    "title": "Charisma",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/charisma-skin-tint",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "charity-pot",
+    "title": "Charity Pot",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/charity-pot",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "checkmate-soap-dish",
+    "title": "Checkmate",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/checkmate-soap-dish",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cheek-to-cheek-makeup-brush",
+    "title": "Cheek To Cheek",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/cheek-to-cheek-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cheer-up-buttercup",
+    "title": "Cheer Up Buttercup",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/cheer-up-buttercup",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chelsea-morning-body-lotion",
+    "title": "Chelsea Morning",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/chelsea-morning-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chelsea-morning-perfume",
+    "title": "Chelsea Morning",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/chelsea-morning-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chelsea-morning-solid-perfume",
+    "title": "Chelsea Morning ",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/chelsea-morning-solid-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-baby-knotwrap",
+    "title": "Cherry Baby",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/cherry-baby-knotwrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-bubblegum-lip-oil",
+    "title": "Cherry Bubblegum",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cherry-bubblegum-lip-oil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-bubblegum-lip-scrub",
+    "title": "Cherry Bubblegum",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cherry-bubblegum-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-lip-jelly",
+    "title": "Cherry",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cherry-lip-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-lip-scrub",
+    "title": "Cherry",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cherry-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-on-top-soap",
+    "title": "Cherry On Top",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/cherry-on-top-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cherry-pie-body-scrub",
+    "title": "Cherry Pie",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/cherry-pie-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chirpy-chick-bath-bomb",
+    "title": "Chirpy Chick ",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/chirpy-chick-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chistery-bubble-bar",
+    "title": "Chistery",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/chistery-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "chris-the-carrot-gift",
+    "title": "Chris The Carrot",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/chris-the-carrot-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "christmas-balls-of-bicarb",
+    "title": "Christmas Balls Of Bicarb",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/christmas-balls-of-bicarb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "christmas-bathtime-favorites",
+    "title": "Christmas Bathtime Favorites",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/christmas-bathtime-favorites",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "christmas-bathtime-favourites-gift",
+    "title": "Christmas Bathtime Favourites",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/christmas-bathtime-favourites-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "christmas-companions-lokta-paper",
+    "title": "Christmas Companions Lokta Paper",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/christmas-companions-lokta-paper",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "christmas-deer-travels-knot-wrap",
+    "title": "Christmas Deer Travels Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/christmas-deer-travels-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "circular-ceramic-dish",
+    "title": "Circular Dish",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/circular-ceramic-dish",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "claddagh-soap",
+    "title": "Claddagh",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/claddagh-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "clear-the-air-lush-melt",
+    "title": "Clear the Air",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/clear-the-air-lush-melt",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "co-mingle-body-scrub",
+    "title": "Co-Mingle",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/co-mingle-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cocktail-perfume",
+    "title": "Cocktail",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/cocktail-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coco-loco-shower-oil",
+    "title": "Coco Loco",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/coco-loco-shower-oil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cocoa-butter-hand-and-body-lotion",
+    "title": "Cocoa Butter",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/cocoa-butter-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-body-butter",
+    "title": "Coconut",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/coconut-body-butter",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-drench-massage-bar",
+    "title": "Coconut Drench",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/coconut-drench-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-rice-cake-shampoo-bar-2021",
+    "title": "Coconut Rice Cake",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/coconut-rice-cake-shampoo-bar-2021",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "coconut-shie-fresh-face-mask",
+    "title": "Coconut Shie",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/coconut-shie-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cola-lip-jelly",
+    "title": "Cola",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cola-lip-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cold-bath-bomb",
+    "title": "Rest Up",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/cold-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cold-water-soother-epsom-salt-bath-bomb",
+    "title": "Cold Water Soother",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/cold-water-soother-epsom-salt-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "comet-glitter-crumble",
+    "title": "Comet",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/comet-glitter-crumble",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "comfort-and-joy",
+    "title": "Comfort And Joy",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/comfort-and-joy",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "comfort-zone-shower-bomb",
+    "title": "Comfort Zone",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/comfort-zone-shower-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "comforter-rose-bath-bomb",
+    "title": "Comforter Rose",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/comforter-rose-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "comforter-rose-body-scrub",
+    "title": "Comforter Rose",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/comforter-rose-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "confetti-perfume",
+    "title": "Confetti",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/confetti-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "conga-shower-jelly",
+    "title": "Conga",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/conga-shower-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "congratulations-knot-wrap",
+    "title": "Congratulations Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/congratulations-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cookie-dough-lip-oil",
+    "title": "Cookie Dough",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cookie-dough-lip-oil",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cookie-dough-lip-scrub",
+    "title": "Cookie Dough",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/cookie-dough-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cool-iced-shaving-cream",
+    "title": "Cool Iced",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cool-iced-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cork-pot-product-holder",
+    "title": "Cork Pot",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/cork-pot-product-holder",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cosmetic-lad-moisturiser",
+    "title": "Cosmetic Lad (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cosmetic-lad-self-preservingmoisturiser",
+    "title": " Cosmetic Lad Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-self-preservingmoisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cosmic-burst-knot-wrap",
+    "title": "Cosmic Burst Knot Wrap",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/cosmic-burst-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "courage-vegan-eyeliner",
+    "title": "Courage",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/courage-vegan-eyeliner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cozy",
+    "title": "Cozy",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/cozy",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "crackled-copper-lip-cream",
+    "title": "Crackled Copper",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/crackled-copper-lip-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "crash-shower-jelly",
+    "title": "Crash ",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/crash-shower-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creamed-almond-and-coconut-smoothie-shower-smoothie",
+    "title": "Creamed Almond and Coconut Smoothie",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/creamed-almond-and-coconut-smoothie-shower-smoothie",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creamy-candy-bath-melt",
+    "title": "Creamy Candy",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/creamy-candy-bath-melt",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creamy-candy-bubble-bar",
+    "title": "Creamy Candy",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/creamy-candy-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creme-brulee-4-wick-candle",
+    "title": "Crème Brûlée 4 Wick Candle",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/creme-brulee-4-wick-candle",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creme-brulee-body-scrub",
+    "title": "Crème Brûlée",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/creme-brulee-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creme-brulee-single-wick-candle",
+    "title": "Crème Brûlée",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/creme-brulee-single-wick-candle",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "creme-de-menthe-mouthwash",
+    "title": "Crème De Menthe",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/creme-de-menthe-mouthwash",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "crimson-reds-lipstick-square",
+    "title": "Crimson Reds",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/crimson-reds-lipstick-square",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "crush-gift",
+    "title": "Crush",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/crush-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cucumber-eye-pads",
+    "title": "Cucumber Eye Pads",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cucumber-eye-pads",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cup-o-coffee-face-and-body-mask",
+    "title": "Cup O' Coffee",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cup-o-coffee-face-and-body-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cupcake-face-mask",
+    "title": "Cupcake",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/cupcake-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "curl-power-hair-cream",
+    "title": "Curl Power",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/curl-power-hair-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "curly-coily-gift",
+    "title": "Curly Coily",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/curly-coily-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "curly-wurly-shampoo",
+    "title": "Curly Wurly",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/curly-wurly-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "cynthia-sylvia-stout-shampoo",
+    "title": "Cynthia Sylvia Stout",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/cynthia-sylvia-stout-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "daddy-o-shampoo-new",
+    "title": "Daddy-O",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/daddy-o-shampoo-new",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dads-garden-lemon-tree-body-spray",
+    "title": "Dad's Garden Lemon Tree",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/dads-garden-lemon-tree-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "daisy-daikon-deodorant",
+    "title": "Daisy Daikon",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/daisy-daikon-deodorant",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dancing-queen-fresh-foot-mask",
+    "title": "Dancing Queen",
+    "category": "Feet",
+    "url": "https://www.lush.com/us/en_us/p/dancing-queen-fresh-foot-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dark-angels-cleanser",
+    "title": "Dark Angels",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dark-angels-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dear-john-perfume",
+    "title": "Dear John",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/dear-john-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dear-john-the-road-to-pelindaba",
+    "title": "Dear John: The Road to Pelindaba",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/dear-john-the-road-to-pelindaba",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "death-and-decay-perfume",
+    "title": "Death and Decay",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/death-and-decay-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "deep-sleep-bath-bomb",
+    "title": "Deep Sleep",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/deep-sleep-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "deep-sleep-epsom-salt-bath-bomb",
+    "title": "Deep Sleep",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/deep-sleep-epsom-salt-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "deep-sleep-massage-bar",
+    "title": "Deep Sleep",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/deep-sleep-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "deep-sleepgift",
+    "title": "Deep Sleep",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/deep-sleepgift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "devils-nightcap-perfume",
+    "title": "Devil's Nightcap",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/devils-nightcap-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dfluff-shaving-cream",
+    "title": "D'Fluff",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dfluff-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "digital-bath-bot-01",
+    "title": "Bath Bot",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/digital-bath-bot-01",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-body-spray",
+    "title": "Dirty",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/dirty-body-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-perfume",
+    "title": "Dirty",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/dirty-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-perfume-gift",
+    "title": "Dirty Perfume",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/dirty-perfume-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-shaving-cream",
+    "title": "Dirty",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dirty-shaving-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-solidperfume",
+    "title": "Dirty",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/dirty-solidperfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-springwash-shower-gel",
+    "title": "Dirty Springwash",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/dirty-springwash-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-styling-cream",
+    "title": "Dirty",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/dirty-styling-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirty-toothpaste-tabs",
+    "title": "Dirty",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/dirty-toothpaste-tabs",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dirtygift",
+    "title": "Dirty",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/dirtygift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "do-not-disturb",
+    "title": "Do Not Disturb!",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/do-not-disturb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "doing-strange-things-in-the-name-of-art-greetings-card",
+    "title": "Doing Strange Things In The Name Of Art",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/doing-strange-things-in-the-name-of-art-greetings-card",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dont-eat-the-soap-postcard",
+    "title": "Don't Eat the Soap!!!",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/dont-eat-the-soap-postcard",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dont-look-at-me-fresh-face-mask",
+    "title": "Don't Look At Me",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dont-look-at-me-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dragons-blood-lip-cream",
+    "title": "Dragon's Blood",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/dragons-blood-lip-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dragons-egg-bath-bomb",
+    "title": "Dragon's Egg",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/dragons-egg-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-cream",
+    "title": "Dream Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/dream-cream",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "dream-cream-hand-and-body-lotion",
+    "title": "Dream Cream",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-cream-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-cream-self-preserving-hand-and-body-lotion",
+    "title": "Dream Cream Self-Preserving",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-cream-self-preserving-hand-and-body-lotion",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-steam-steamer-tab",
+    "title": "Dream Steam",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/dream-steam-steamer-tab",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dream-time-temple-balm",
+    "title": "Dream Time",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dream-time-temple-balm",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dreamland-gift-na",
+    "title": "Dreamland",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/dreamland-gift-na",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dreamland-knot-wrap",
+    "title": "Dreamland",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/dreamland-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "dust-the-two-of-us-dusting-powder",
+    "title": "Dust The Two Of Us",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/dust-the-two-of-us-dusting-powder",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "each-peach-massage-bar",
+    "title": "Each Peach (And Two's A Pair)",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/each-peach-massage-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "earth-naked-mascara",
+    "title": "Earth",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/earth-naked-mascara",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "easter-bunny-bath-bomb",
+    "title": "Easter Bunny",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/easter-bunny-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "easter-turtle-shower-jelly",
+    "title": "Turtle",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/easter-turtle-shower-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "eau-roma-water-toner-water",
+    "title": "Eau Roma Water",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/eau-roma-water-toner-water",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "eclipse-glitter-crumble",
+    "title": "Eclipse",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/eclipse-glitter-crumble",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ectoplasm-2",
+    "title": "Ectoplasm",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/ectoplasm-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elbow-grease-moisturising-balm",
+    "title": "Elbow Grease",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/elbow-grease-moisturising-balm",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elephant-jelly-shower-jelly",
+    "title": "Elephant Jelly",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/elephant-jelly-shower-jelly",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elphabas-broomstick-bubble-bar",
+    "title": "Elphaba's Broomstick",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/elphabas-broomstick-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elphabas-lair-body-scrub",
+    "title": "Elphaba's Lair",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/elphabas-lair-body-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "elsie-the-giraffe-reusable-bubble-bath",
+    "title": "Elsie The Giraffe",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/elsie-the-giraffe-reusable-bubble-bath",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "emotional-brilliance-finishing-powder",
+    "title": "Emotional Brilliance",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/emotional-brilliance-finishing-powder",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enchanted-eye-cream",
+    "title": "Enchanted",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enchanted-eye-cream",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "english-countryside-shower-gel",
+    "title": "English Countryside",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/english-countryside-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzymion-moisturiser",
+    "title": "Enzymion (Preserved)",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzymion-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzymion-self-preserving-moisturiser",
+    "title": "Enzymion Self-Preserving",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzymion-self-preserving-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "enzynamite-cleanser",
+    "title": "Enzynamite",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/enzynamite-cleanser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "et-bath-bomb",
+    "title": "E.T.",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/et-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "every-cloudgift",
+    "title": "Every Cloud",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/every-cloudgift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "eyes-right-black-vegan-mascara",
+    "title": "Eyes Right",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/eyes-right-black-vegan-mascara",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fairly-traded-honey-shampoo",
+    "title": "Fairly Traded Honey",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/fairly-traded-honey-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "family-face-time-face-mask",
+    "title": "Family Face Time",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/family-face-time-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fantasy-vegan-eyeliner",
+    "title": "Fantasy",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/fantasy-vegan-eyeliner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fearsome-friends-greetings-card",
+    "title": "Fearsome Friends",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fearsome-friends-greetings-card",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "feeling-good-gift",
+    "title": "Feeling Good",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/feeling-good-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "feeling-younger-skin-tint",
+    "title": "Feeling Younger",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/feeling-younger-skin-tint",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-2",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-green-pouch",
+    "title": "Fighting Animal Testing - Green Pouch",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-green-pouch",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-iron-on-patch-2",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-iron-on-patch-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-orange-pouch",
+    "title": "Fighting Animal Testing - Orange Pouch",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-orange-pouch",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-pin-badge",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-pin-badge",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-socks",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-socks",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fighting-animal-testing-tshirt",
+    "title": "Fighting Animal Testing",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-tshirt",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fizzy-o-therapy",
+    "title": "Fizzy O' Therapy",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/fizzy-o-therapy",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flamingo-fun",
+    "title": "Flamingo",
+    "category": "Fun",
+    "url": "https://www.lush.com/us/en_us/p/flamingo-fun",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flaxseed",
+    "title": "Flaxseed",
+    "category": "Hand & Body",
+    "url": "https://www.lush.com/us/en_us/p/flaxseed",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flight-of-the-bumblebees-eye-pads",
+    "title": "Flight of the Bumblebee Eye Pads",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/flight-of-the-bumblebees-eye-pads",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "floral-meadow-knot-wrap",
+    "title": "Floral Meadow",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/floral-meadow-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flourish-in-colour-knot-wrap",
+    "title": "Flourish in Color",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/flourish-in-colour-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flower-up-lokta-paper",
+    "title": "Flower Up Lokta Paper",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/flower-up-lokta-paper",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "flying-fox-shower-gel",
+    "title": "Flying Fox",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/flying-fox-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "foam-sweet-foam-postcard",
+    "title": "Foam Sweet Foam",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/foam-sweet-foam-postcard",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "follow-the-white-rabbit-bath-bomb",
+    "title": "Follow The White Rabbit",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/follow-the-white-rabbit-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "freeze-2",
+    "title": "Freeze",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/freeze-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "french-kiss-lip-scrub",
+    "title": "French Kiss",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/french-kiss-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-as-perfume",
+    "title": "Fresh As",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/fresh-as-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-as-solid-perfume-",
+    "title": "Fresh As",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/fresh-as-solid-perfume-",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-asgift",
+    "title": "Fresh As",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/fresh-asgift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-faced-makeup-brush",
+    "title": "Fresh Faced Brush",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/fresh-faced-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-facial-spa-treatment",
+    "title": "Fresh Facial Spa Treatment",
+    "category": "Spa",
+    "url": "https://www.lush.com/us/en_us/p/fresh-facial-spa-treatment",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-farmacy-facial-soap",
+    "title": "Fresh Farmacy",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/fresh-farmacy-facial-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-plant-life-knot-wrap",
+    "title": "Fresh Plant Life Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fresh-plant-life-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-values",
+    "title": "Fresh Values ",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fresh-values",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-values-iron-on-patch",
+    "title": "Fresh Values",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fresh-values-iron-on-patch",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-values-pin-badge",
+    "title": "Fresh As Pin",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fresh-values-pin-badge",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fresh-values-socks",
+    "title": "Fresh As",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fresh-values-socks",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "from-source-to-sea-vinyl",
+    "title": "From Source To Sea",
+    "category": "Music",
+    "url": "https://www.lush.com/us/en_us/p/from-source-to-sea-vinyl",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "frozen",
+    "title": "Frozen",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_us/p/frozen",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "frozen-reusable-bubble-bar",
+    "title": "Frozen",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/frozen-reusable-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fruit-fest-knot-wrap",
+    "title": "Fruit Fest Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/fruit-fest-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "fullofgrace-facial-serum",
+    "title": "Full of Grace",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/fullofgrace-facial-serum",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "furze-perfume",
+    "title": "Furze",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/furze-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gallop-to-success-bath-bomb",
+    "title": "Gallop To Success",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/gallop-to-success-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "garden-in-spring-lokta-paper",
+    "title": "Garden In Springtime",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/garden-in-spring-lokta-paper",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "garden-mural-knot-wrap",
+    "title": "Garden Mural Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/garden-mural-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "garden-party-gift",
+    "title": "Garden Party",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/garden-party-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gemini-knot-wrap",
+    "title": "Gemini Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/gemini-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "get-in-there-makeup-brush",
+    "title": "Get In There Brush",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/get-in-there-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "getting-ready-for-bed-knot-wrap",
+    "title": "Getting Ready For Bed Knot Wrap",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/getting-ready-for-bed-knot-wrap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gilded-walnut-foot-scrub",
+    "title": "Gilded Walnut",
+    "category": "Feet",
+    "url": "https://www.lush.com/us/en_us/p/gilded-walnut-foot-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ginger-perfume",
+    "title": "Ginger",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/ginger-perfume",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "ginger-shampoo",
+    "title": "Ginger",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/ginger-shampoo",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gingerbread-2",
+    "title": "Gingerbread",
+    "category": "Mouth",
+    "url": "https://www.lush.com/us/en_us/p/gingerbread-2",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gingerbread-lip-scrub",
+    "title": "Gingerbread",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/gingerbread-lip-scrub",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glam-nudes-lipstick-square",
+    "title": "Glam Nudes",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/glam-nudes-lipstick-square",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glen-cocoa-fresh-face-mask",
+    "title": "Glen Cocoa",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_us/p/glen-cocoa-fresh-face-mask",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glindas-wand-bubble-bar",
+    "title": "Glinda's Wand",
+    "category": "Bubble Bars",
+    "url": "https://www.lush.com/us/en_us/p/glindas-wand-bubble-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glindas-wedding-dress-bath-bomb",
+    "title": "Glinda's Wedding Dress",
+    "category": "Bath",
+    "url": "https://www.lush.com/us/en_us/p/glindas-wedding-dress-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glogg",
+    "title": "Glögg",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/glogg",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glory-conditioner",
+    "title": "Glory",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/glory-conditioner",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "glow-to-town-makeup-brush",
+    "title": "Glow To Town Brush",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/glow-to-town-makeup-brush",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "go-big-gift",
+    "title": "Go Big",
+    "category": "Gifts",
+    "url": "https://www.lush.com/us/en_us/p/go-big-gift",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "go-naked-greetings-card",
+    "title": "Go Naked",
+    "category": "Sundries",
+    "url": "https://www.lush.com/us/en_us/p/go-naked-greetings-card",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "goddess-bath-bomb",
+    "title": "Goddess",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/goddess-bath-bomb",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "goddess-hair-moisturiser",
+    "title": "Goddess",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/goddess-hair-moisturiser",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "goddess-perfume-library",
+    "title": "Goddess",
+    "category": "Fragrance",
+    "url": "https://www.lush.com/us/en_us/p/goddess-perfume-library",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "goddess-soap",
+    "title": "Goddess",
+    "category": "Handmade Soap ",
+    "url": "https://www.lush.com/us/en_us/p/goddess-soap",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "godiva-shampoo-bar",
+    "title": "Godiva",
+    "category": "Hair",
+    "url": "https://www.lush.com/us/en_us/p/godiva-shampoo-bar",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "gold-fun",
+    "title": "Gold",
+    "category": "Fun",
+    "url": "https://www.lush.com/us/en_us/p/gold-fun",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "golden-egg-bath-bomb-melt",
+    "title": "Golden Egg",
+    "category": "Bath Bombs",
+    "url": "https://www.lush.com/us/en_us/p/golden-egg-bath-bomb-melt",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "golden-egg-glitter-mist-spray",
+    "title": "Golden Egg",
+    "category": "Makeup",
+    "url": "https://www.lush.com/us/en_us/p/golden-egg-glitter-mist-spray",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "golden-egg-shower-gel",
+    "title": "Golden Egg",
+    "category": "Shower",
+    "url": "https://www.lush.com/us/en_us/p/golden-egg-shower-gel",
+    "updatedAt": "2026-04-24T18:04:56.000Z"
+  },
+  {
+    "slug": "mask-of-magnaminty",
+    "title": "Mask of Magnaminty",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_US/p/mask-of-magnaminty",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "ocean-salt",
+    "title": "Ocean Salt",
+    "category": "Face",
+    "url": "https://www.lush.com/us/en_US/p/ocean-salt",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  },
+  {
+    "slug": "sleepy",
+    "title": "Sleepy",
+    "category": "Body",
+    "url": "https://www.lush.com/us/en_US/p/sleepy",
+    "updatedAt": "2024-01-15T06:00:00.000Z"
+  }
 ]
