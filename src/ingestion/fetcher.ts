@@ -2,27 +2,30 @@ import axios from 'axios';
 import zlib from 'zlib';
 import { isAllowed } from './robots';
 import { USER_AGENT } from './constants';
+
 const POLITE_DELAY_MIN = 2000;
 const POLITE_DELAY_MAX = 3000;
 
-const BROWSER_HEADERS: Record<string, string> = {
+// Honest crawler headers — no browser impersonation (no Sec-Fetch-*,
+// Upgrade-Insecure-Requests, fake Referer, or no-cache headers).
+const REQUEST_HEADERS: Record<string, string> = {
   'User-Agent': USER_AGENT,
-  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+  'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
   'Accept-Language': 'en-US,en;q=0.9',
-  'Accept-Encoding': 'gzip, deflate, br',
-  'Cache-Control': 'no-cache',
-  'Pragma': 'no-cache',
-  'Sec-Fetch-Dest': 'document',
-  'Sec-Fetch-Mode': 'navigate',
-  'Sec-Fetch-Site': 'none',
-  'Sec-Fetch-User': '?1',
-  'Upgrade-Insecure-Requests': '1',
+  'Accept-Encoding': 'gzip, deflate',
 };
+
 const MAX_RETRIES = 3;
 
 let lastRequestTime = 0;
 
-function stripDisallowedParams(url: string): string {
+/**
+ * Strip tracking/cache-buster params for canonicalization.
+ * IMPORTANT: callers must run robots.txt checks against the ORIGINAL URL
+ * before invoking this helper. We never "clean" a disallowed URL into an
+ * allowed one.
+ */
+function canonicalize(url: string): string {
   try {
     const parsed = new URL(url);
     parsed.searchParams.delete('query');
@@ -59,14 +62,15 @@ async function withRetry<T>(fn: () => Promise<T>, attempt = 0): Promise<T> {
 }
 
 export async function fetchHtml(url: string): Promise<string> {
-  const cleanUrl = stripDisallowedParams(url);
-  if (!isAllowed(cleanUrl)) {
-    throw new Error(`robots.txt disallows: ${cleanUrl}`);
+  // Robots check on the ORIGINAL URL — do not strip params first.
+  if (!isAllowed(url)) {
+    throw new Error(`robots.txt disallows: ${url}`);
   }
+  const requestUrl = canonicalize(url);
   await politeDelay();
   return withRetry(async () => {
-    const response = await axios.get<string>(cleanUrl, {
-      headers: { ...BROWSER_HEADERS, 'Referer': 'https://www.lush.com/' },
+    const response = await axios.get<string>(requestUrl, {
+      headers: REQUEST_HEADERS,
       responseType: 'text',
       timeout: 15000,
     });
@@ -75,14 +79,15 @@ export async function fetchHtml(url: string): Promise<string> {
 }
 
 export async function fetchGzip(url: string): Promise<Buffer> {
-  const cleanUrl = stripDisallowedParams(url);
-  if (!isAllowed(cleanUrl)) {
-    throw new Error(`robots.txt disallows: ${cleanUrl}`);
+  // Robots check on the ORIGINAL URL — do not strip params first.
+  if (!isAllowed(url)) {
+    throw new Error(`robots.txt disallows: ${url}`);
   }
+  const requestUrl = canonicalize(url);
   await politeDelay();
   return withRetry(async () => {
-    const response = await axios.get<ArrayBuffer>(cleanUrl, {
-      headers: BROWSER_HEADERS,
+    const response = await axios.get<ArrayBuffer>(requestUrl, {
+      headers: REQUEST_HEADERS,
       responseType: 'arraybuffer',
       timeout: 30000,
     });
