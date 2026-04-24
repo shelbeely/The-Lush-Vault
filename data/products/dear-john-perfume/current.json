@@ -1,0 +1,68 @@
+{
+  "slug": "dear-john-perfume",
+  "url": "https://www.lush.com/us/en_us/p/dear-john-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dear-john-perfume",
+  "title": "Dear John",
+  "sku": "7445-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 135.0,
+    "currency": "USD",
+    "formatted": "$135.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 6,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A love letter to fatherhood. Warm and inviting, clove bud and coriander blend together providing comforting coffee notes, while cedarwood transforms this vetivert perfume by giving it a smoky hint of tobacco.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "*Limonene",
+    "Aqua (Water)",
+    "Glycerin",
+    "Cedarwood Oil",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "*Coumarin",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dear_john_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with dark amber liquid. A black label reads 'The Perfume Library' and 'Dear John'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dear_john_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dear_john_perfume_library_hero5628_thumbnail_4096.jpg",
+      "alt": "A number of black label perfume bottles are arranged randomly, with Dear John in the centre, lid off, ready to spritz.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dear_john_perfume_library_hero5628_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "Spicy"
+  ]
+}

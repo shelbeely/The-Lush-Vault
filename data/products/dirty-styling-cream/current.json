@@ -1,0 +1,75 @@
+{
+  "slug": "dirty-styling-cream",
+  "url": "https://www.lush.com/us/en_us/p/dirty-styling-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-styling-cream",
+  "title": "Dirty",
+  "sku": "3104-NA",
+  "size": "100g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Get a fix on your hair with this vegan cream for hair styling. This medium-hold has a matte finish and is ideal for keeping hair in place, and in order.",
+  "ingredients": [
+    "Linseed Mucilage",
+    "Lemon Balm Infusion",
+    "Rhus Succedanea Fruit Cera (Japan Wax)",
+    "Polyvinylpyrrolidone (PVP)",
+    "Propylene Glycol",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Stearic Acid",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Triethanolamine",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cetearyl Alcohol",
+    "Sandalwood Oil",
+    "Pinus Sylvestris Oil (Pine Oil)",
+    "Oakmoss Absolute",
+    "*Linalool",
+    "*Limonene",
+    "*Hydroxycitronellal",
+    "*Geraniol",
+    "Alpha-Isomethyl Ionone",
+    "Parfum",
+    "Methylparaben"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_styling_cream_2020_thumbnail_4096.png",
+      "alt": "A swatch of smooth, thick, light cream coloured Dirty hair styling cream.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_styling_cream_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3104_1_thumbnail_4096.jpg",
+      "alt": "A person ruffles their hand through their hair, creating a volumised look.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3104_1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Hair Styling",
+    "Hair Care",
+    "Vegan Hair Products",
+    "Dirty",
+    "Rewild your routine",
+    "Hydrating & Moisturizing Haircare"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "cold-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/cold-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cold-bath-bomb",
+  "title": "Rest Up",
+  "sku": "65164-NA",
+  "size": "185g",
+  "price": {
+    "amount": 7.5,
+    "currency": "USD",
+    "formatted": "$7.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Got a case of the fizzles? Get yourself in the tub to soothe your senses with a nice warm bath and get steamy with camphoric eucalyptus and minty peppermint.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Zea Mays Starch (Cornstarch)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Lavandula Latifolia Herb Oil (Spike Lavender Oil)",
+    "Lavandula Angustifolia Oil (Organic Lavender Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "English Peppermint Oil",
+    "Lemon Peel",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Gaultheria Procumbens Leaf Oil (Wintergreen Oil)",
+    "Candelilla Wax",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Mentha Piperita Leaf Extract (Peppermint Powder)",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Synthetic Fluorphlogopite",
+    "Sodium Coco-Sulfate",
+    "Propylene Glycol",
+    "Cocamidopropyl Betaine",
+    "Tin Oxide",
+    "Dipropylene Glycol",
+    "*Citral",
+    "*Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Yellow 5 Lake",
+    "Blue 1",
+    "Yellow 8",
+    "Blue 1 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cold_bath_bomb_ecom_2026_5b43eabe_thumbnail_4096.png",
+      "alt": "The Cold Bath Bomb features a marbled design of green and white swirls against a plain light grey background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cold_bath_bomb_ecom_2026_5b43eabe_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_cold_bath_bomb_hero_2026_4_10ccf7ff_thumbnail_4096.jpg",
+      "alt": "The green and white marbled \"Cold Bath Bomb\" rests on a wooden bath tray alongside a cup of tea. Green bath water is visible below, framed by mint green tiles and a white towel in the foreground.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_cold_bath_bomb_hero_2026_4_10ccf7ff_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_cold_bath_bomb_hero_2026_136_c4494d93_thumbnail_4096.jpg",
+      "alt": "A hand holds the green and white marbled Cold Bath Bomb over a bathtub filled with vibrant green water. The bathwater swirls with light green foam, perfectly matching the colors of the bath bomb.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_cold_bath_bomb_hero_2026_136_c4494d93_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_cold_bath_bomb_hero_2026_125_e1c557c2_thumbnail_4096.jpg",
+      "alt": "A hand holds the green and white marbled Cold Bath Bomb over a bathtub filled with vibrant green water. The bathwater swirls with light green foam, perfectly matching the colors of the bath bomb.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_cold_bath_bomb_hero_2026_125_e1c557c2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_cold_bath_bomb_hero_2026_140_083930d4_thumbnail_4096.jpg",
+      "alt": "A top-down view captures the Cold Bath Bomb dissolving in the water, creating a mesmerizing swirl of frothy green and creamy white foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_cold_bath_bomb_hero_2026_140_083930d4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/5_cold_bath_bomb_hero_2026_136_a5741920_thumbnail_4096.jpg",
+      "alt": "A smiling person relaxes in the bath, massaging the small, moisturizing melt from the Cold Bath Bomb onto their chest. The yellowish-green butter glides across their wet skin, offering a moment of soothing hydration.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/5_cold_bath_bomb_hero_2026_136_a5741920_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Fresh & Playful"
+  ]
+}

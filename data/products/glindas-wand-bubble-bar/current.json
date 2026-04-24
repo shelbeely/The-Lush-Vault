@@ -1,0 +1,93 @@
+{
+  "slug": "glindas-wand-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/glindas-wand-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/glindas-wand-bubble-bar",
+  "title": "Glinda's Wand",
+  "sku": "4681-NA",
+  "size": "115g",
+  "price": {
+    "amount": 14.5,
+    "currency": "USD",
+    "formatted": "$14.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An Enchanting bubble bar with bubbles that rise like magic, while the sweet and creamy scent of rose oil and vanilla absolute fills the air.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Parfum",
+    "Titanium Dioxide",
+    "*Limonene",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Synthetic Fluorphlogopite",
+    "Calcium Sodium Borosilicate",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Alcohol",
+    "*Citral",
+    "*Linalool",
+    "Red 27",
+    "Red 28 Lake",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glindas_bubble_wand_wicked_lush_2024_01_75605445_thumbnail_4096.png",
+      "alt": "Glinda's Wand. A white, round snowflake-shaped bubble bar with a pink centre and coated in shimmering, silver lustre sits at the top of a white and silver wooden stick handle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glindas_bubble_wand_wicked_lush_2024_01_75605445_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_01_3e8aad6d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_01_3e8aad6d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_03_3d99e2aa_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's hand holding the Glinda's Wand bubble bar by the silver, glittering stick as running tap water flows over the shimmering, snowflake bubble bar creating a blanket of bubbles on the water below. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_03_3d99e2aa_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_08-2_b4b01193_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's hand reaching in from the right-hand side holding the wooden stick of the Glenda's Wand bubble bar as they swish and swirl it around the bathwater which has been coated in a blanket of bubbles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_08-2_b4b01193_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_07_f576088f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/GLINDAS_WAND_BUBBLE_WAND_WICKED_X_LUSH_2024_07_f576088f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Bath Products",
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Floral",
+    "Sweet-scented goodies",
+    "Customised Lush Gifts",
+    "Wicked: For Good × Lush",
+    "Collaborations"
+  ]
+}

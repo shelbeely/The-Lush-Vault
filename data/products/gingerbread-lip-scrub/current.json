@@ -1,0 +1,74 @@
+{
+  "slug": "gingerbread-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/gingerbread-lip-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/gingerbread-lip-scrub",
+  "title": "Gingerbread",
+  "sku": "62031UK-NA",
+  "size": "25g",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Get your lips ready for the party season with this classic exfoliating, moisturising Christmas treat!",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Sucrose (Granulated Sugar)",
+    "Fair Trade Shea Butter",
+    "Maris Sal (Fine Sea Salt)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Cinnamomum Zeylanicum Leaf Oil (Cinnamon Leaf Oil)",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Zingiber Officinale Root Oil (Ginger Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Theobroma Cacao Seed Powder (Cocoa Powder)",
+    "Titanium Dioxide",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "*Benzyl Benzoate",
+    "*Cinnamal",
+    "*Citral",
+    "*Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Aroma"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gingerbread_lip_scrub_2023_42d19ff2_thumbnail_4096.png",
+      "alt": "Gingerbread. A sample of exfoliating, golden gingerbread sugar lip scrub.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gingerbread_lip_scrub_2023_42d19ff2_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_2_8470bd52_thumbnail_4096.jpg",
+      "alt": "Image shows the model in front of a starry backdrop as they gently apply the Gingerbread lip scrub to their lips.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_2_8470bd52_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_4_59009af5_thumbnail_4096.jpg",
+      "alt": "Image shows the model in front of a starry backdrop as they gently apply the Gingerbread lip scrub to their lips.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_4_59009af5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_3_ed04cbd3_thumbnail_4096.jpg",
+      "alt": "Image shows the model in front of a starry backdrop as they gently apply the Gingerbread lip scrub to their lips.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gingerbread_lip_scrub_hero_2023_3_ed04cbd3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "co-mingle-body-scrub",
+  "url": "https://www.lush.com/us/en_us/p/co-mingle-body-scrub",
+  "sourceUrl": "https://www.lush.com/uk/en/p/co-mingle-body-scrub",
+  "title": "Co-Mingle",
+  "sku": "61377-UK",
+  "size": "225g",
+  "price": {
+    "amount": 20.0,
+    "currency": "GBP",
+    "formatted": "20.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "How to use a body scrub, cleanser and moisturiser all in one? Jump in shower or bath, lather on this lavender mousse, rinse and go. The world is waiting for you! ",
+  "ingredients": [
+    "Glycerin",
+    "Cupressus Sempervirens Leaf Extract (Cypress Leaf Extract)",
+    "Spring Water",
+    "Sodium Laureth Sulfate",
+    "Bambusa Arundinacea Stem Powder (Bamboo Stem Powder)",
+    "Tagua Nut Powder",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Propylene Glycol",
+    "Bertholletia Excelsa Seed Oil (Brazil Nut Oil)",
+    "Vanilla Pod Infusion",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Stearic Acid",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Organic Goji Berry Juice",
+    "Citric Acid",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Titanium Dioxide",
+    " Talc (Talc Powder)",
+    "Triethanolamine",
+    "Cetearyl Alcohol",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Coumarin",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 77491",
+    "Colour 45410:2",
+    "Colour 77499"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/co_mingle_body_scrub_ecom_2022_c4a1eb07_thumbnail_4096.png",
+      "alt": "A swatch of pale pink Co-Mingle body scrub, thick with ground tagua nut and bamboo.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/co_mingle_body_scrub_ecom_2022_c4a1eb07_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-Co-Mingle-Body-Scrub-Hero_02_Digital_-2024-PDP_Her_7dcef5d9_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-Co-Mingle-Body-Scrub-Hero_02_Digital_-2024-PDP_Her_7dcef5d9_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-Co-Mingle-Body-Scrub-Hero_01_Digital_-2024-PDP_Her_0718ecc2_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-Co-Mingle-Body-Scrub-Hero_01_Digital_-2024-PDP_Her_0718ecc2_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/co-mingle_body_scrub_2022_2000x1364-4_c9974038_thumbnail_4096.jpg",
+      "alt": "A hand massages a thick white lather of Co-Mingle into their left shoulder. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/co-mingle_body_scrub_2022_2000x1364-4_c9974038_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Body Scrubs",
+    "Shower Products",
+    "Vegan Shower Products",
+    "Body Care",
+    "Skin Care for Cold Weather",
+    "Rewild your routine",
+    "Lavender",
+    "Winter Bath & Shower Products",
+    "For the Unconventional",
+    "Floral",
+    "Customised Lush Gifts",
+    "For the Life and Soul",
+    "Leaving Soon"
+  ]
+}

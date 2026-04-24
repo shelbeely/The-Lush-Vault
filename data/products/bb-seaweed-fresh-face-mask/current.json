@@ -1,0 +1,96 @@
+{
+  "slug": "bb-seaweed-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/bb-seaweed-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bb-seaweed-fresh-face-mask",
+  "title": "BB Seaweed",
+  "sku": "62373-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 14,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "A brightening fresh face mask to cool and calm sensitive skin. It is packed full of gentle ingredients to soften and soothe, helping to reduce skin redness.",
+  "ingredients": [
+    "Lime Tree Flower and Sweet Violet Leaf Decoction",
+    "Kaolin",
+    "Honey",
+    "Glycerin",
+    "Prunus Amygdalus Dulcis Seed (Ground Almonds)",
+    "Bladderwrack Seaweed",
+    "Organic Aloe Vera Gel",
+    "Millet Flakes",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Hectorite (Bentone Gel)",
+    "Fresh Rose Petals",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Seaweed Absolute",
+    "*Citral",
+    "*Geraniol",
+    "*Benzyl Benzoate",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Fresh",
+    "100% Recycled Pot",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_fresh_face_mask_2020_thumbnail_4096.png",
+      "alt": "A swatch of thick, cream coloured BB Seaweed face mask, softly textured with toothed wrack seaweed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_fresh_face_mask_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_38_45adc0d6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_38_45adc0d6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_42_0d301455_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_42_0d301455_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_46_a9d31031_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bb_seaweed_face_mask_2024_46_a9d31031_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Fresh",
+    "Calming Skin Redness",
+    "Best for a calm face",
+    "Face Masks",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "For the Nature-Lover",
+    "Rosemary",
+    "Hydrating Dry Skin",
+    "Balancing Oily Skin",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Aloe Vera"
+  ]
+}

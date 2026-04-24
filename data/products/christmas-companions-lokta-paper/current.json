@@ -1,0 +1,54 @@
+{
+  "slug": "christmas-companions-lokta-paper",
+  "url": "https://www.lush.com/us/en_us/p/christmas-companions-lokta-paper",
+  "sourceUrl": "https://www.lush.com/uk/en/p/christmas-companions-lokta-paper",
+  "title": "Christmas Companions Lokta Paper",
+  "sku": "221151-UN",
+  "size": "35cm x 35cm",
+  "price": {
+    "amount": 2.0,
+    "currency": "GBP",
+    "formatted": "2.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "A reusable handmade lokta paper that celebrates our furry companions at Christmas. At 35x35cm, its the perfect wrapping paper to gift a bath bomb or 100g Lush bottle!",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_companions_lokta_wrap_christmas_ecom_2025_95ff8775_thumbnail_4096.png",
+      "alt": "Christmas Companions. A square sheet of Lokta wrapping paper. It features a pink, scalloped border, red background and illustrations of colourful dogs, cats, rabbits and birds with snowflakes, Santa hats and fairy lights. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_companions_lokta_wrap_christmas_ecom_2025_95ff8775_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_christmas_companion_lokta_wrap_2025_22_f3082c92_thumbnail_4096.jpg",
+      "alt": "\nA small, round gift wrapped in a colorful, patterned \"Christmas Companions\" lokta paper with reindeers and other festive characters. It's tied with pink string and sitting on a light purple, ribbon-wrapped box.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_christmas_companion_lokta_wrap_2025_22_f3082c92_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Companions-Lokta-Wrap_texture__b2314a71_thumbnail_4.jpg",
+      "alt": "A close-up of \"Christmas Companions\" lokta paper with a festive pattern of whimsical cats in various colors, flying birds, and small snowflakes on a red-and-pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Companions-Lokta-Wrap_texture__b2314a71_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Companions-Lokta-Wrap_ecom_Dig_090c7c6c_thumbnail_4.png",
+      "alt": "Christmas Companions. A square sheet of Lokta wrapping paper. It features a pink, scalloped border, red background and illustrations of colourful dogs, cats, rabbits and birds with snowflakes, Santa hats and fairy lights. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Companions-Lokta-Wrap_ecom_Dig_090c7c6c_thumbnail_1.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Christmas"
+  ]
+}

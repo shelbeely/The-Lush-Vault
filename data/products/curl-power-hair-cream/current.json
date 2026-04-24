@@ -1,0 +1,119 @@
+{
+  "slug": "curl-power-hair-cream",
+  "url": "https://www.lush.com/us/en_us/p/curl-power-hair-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/curl-power-hair-cream",
+  "title": "Curl Power",
+  "sku": "60543-NA",
+  "size": "95g",
+  "price": {
+    "amount": 17.0,
+    "currency": "USD",
+    "formatted": "$17.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A protein-rich hair styling cream that celebrates curls. With linseed gel and molasses to moisturise, this hair smoothing and curl defining cream is curl-fection.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Linseed Gel",
+    "Cetearyl Alcohol",
+    "Glycerin",
+    "Parfum",
+    "Ethyl Macadamiate",
+    "Propylene Glycol",
+    "Polyvinylpyrrolidone (PVP)",
+    "Coconut Vinegar",
+    "Molasses",
+    "Behentrimonium chloride",
+    "Squalane",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Litsea Cubeba Fruit Oil (Litsea Cubeba Oil)",
+    "Olibanum Oil",
+    "Cetrimonium Chloride",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Soya Lecithin",
+    "Hydrolyzed Wheat Protein",
+    "Hydroxystearic/Linolenic/Oleic Polyglycerides",
+    "Phenoxyethanol",
+    "Benzyl Alcohol",
+    "Amyl Cinnamal",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curl_power_hair_cream_2020__thumbnail_4096.png",
+      "alt": "A swatch of smooth, thick, cream coloured Curl Power hair styling cream.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curl_power_hair_cream_2020__thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2023-StillLife-Curl-Power_03_Digital_-2024-PDP_b6560973_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2023-StillLife-Curl-Power_03_Digital_-2024-PDP_b6560973_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-01_b64cf1ee_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-01_b64cf1ee_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-02_848d60e0_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-02_848d60e0_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-03_59f9f2c3_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-03_59f9f2c3_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-05_56ae5781_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-2025-Curlfriends-Hero-Curl-Power-Routine-05_56ae5781_thumbnail_128.JPG"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Hair Treatments",
+    "Hair Care",
+    "Hair Styling",
+    "Vegan Hair Products",
+    "Summer Essentials",
+    "Natural Care For Textured Hair",
+    "Trending Now",
+    "Gourmand",
+    "Citrus",
+    "Customised Lush Gifts",
+    "Cocoa Butter Collection",
+    "Shop Haircare By Benefit",
+    "Soften & Shine Haircare",
+    "As seen at Curly Con",
+    "Hydrating & Moisturizing Haircare",
+    "Ways to Shop",
+    "Spring Cleaning",
+    "Spring Haircare",
+    "Bring it Back "
+  ]
+}

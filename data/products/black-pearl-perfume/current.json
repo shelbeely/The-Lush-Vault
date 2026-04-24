@@ -1,0 +1,64 @@
+{
+  "slug": "black-pearl-perfume",
+  "url": "https://www.lush.com/us/en_us/p/black-pearl-perfume",
+  "sourceUrl": "https://www.lush.com/au/en/p/black-pearl-perfume",
+  "title": "Black Pearl",
+  "sku": "64668-AU",
+  "size": "30ml",
+  "price": {
+    "amount": 55.0,
+    "currency": "AUD",
+    "formatted": "55.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Black Pearl has returned to calm stormy seas with chamomile blue and lavender oil. Spritz on this limited edition perfume, inhaling warming myrrh and exhaling your woes.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Frankincense Resinoid",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "*Coumarin",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_pearl_perfume_ecom_2025_3c473519_thumbnail_4096.png",
+      "alt": "A clear glass square bottle of Black Pearl Perfume with a black spray top, centered on a light grey background. The label is black with white, handwritten-style text and a small green \"LUSH CLUB\" sticker in the top left corner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_pearl_perfume_ecom_2025_3c473519_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_pearl_perfume_lush_2025_01_70d7807e_thumbnail_4096.jpg",
+      "alt": "\nA clear glass bottle of Black Pearl Perfume stands on a reflective surface against a lavender gradient background. It is flanked by a dried sprig of lavender, a white chamomile flower, and dried yellow petals.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_pearl_perfume_lush_2025_01_70d7807e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_ab4905cb_thumbnail_4096.jpg",
+      "alt": "Six Lush Club fragrances (Body Spray in Snowcake, VIMT-NO, 25:43; Perfume in Big Blue, Candy Rain, Black Pearl) are shown floating diagonally against a vibrant green and yellow background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_ab4905cb_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Perfume"
+  ]
+}

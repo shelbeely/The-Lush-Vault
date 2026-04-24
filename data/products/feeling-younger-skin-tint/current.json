@@ -1,0 +1,72 @@
+{
+  "slug": "feeling-younger-skin-tint",
+  "url": "https://www.lush.com/us/en_us/p/feeling-younger-skin-tint",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/feeling-younger-skin-tint",
+  "title": "Feeling Younger",
+  "sku": "6356-NA",
+  "size": "20g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 26,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Lift your look and soften your skin with this lightweight, vitamin-rich highlighter with light reflective pigments. ",
+  "ingredients": [
+    "Avena Sativa Kernel Extract (Oatmeal Extract)",
+    "Orange Flower Water",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Synthetic Fluorphlogopite",
+    "Titanium Dioxide",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Propylene Glycol",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Triethanolamine",
+    "Tincture of Benzoin",
+    "Alcohol Denat.",
+    "Cetearyl Alcohol",
+    "Tin Oxide",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/feeling_younger_skin_tint_2020_thumbnail_4096.png",
+      "alt": "A swatch of slightly shimmery, off white Feeling Younger skin tint.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/feeling_younger_skin_tint_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/feeling_younger_hero_image_thumbnail_4096.jpeg",
+      "alt": "A close-up of a person dabbing tiny splotches of creamy, shimmery Feeling Younger skin tint at the top of their cheekbones.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/feeling_younger_hero_image_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Skin Tints and Face Powders",
+    "Vegan Makeup",
+    "Makeup",
+    "Travel-size Essentials",
+    "Lush Living Room ",
+    "Halloween Makeup"
+  ]
+}

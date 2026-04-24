@@ -1,0 +1,101 @@
+{
+  "slug": "dont-look-at-me-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/dont-look-at-me-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dont-look-at-me-fresh-face-mask",
+  "title": "Don't Look At Me",
+  "sku": "62369-NA",
+  "size": "75g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 20,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Our brightening bestselling fresh face mask, with vitamin C-rich freshly squeezed lemon, exfoliating ground white rice and softening organic silken tofu — and it’s bright blue!",
+  "ingredients": [
+    "Kaolin",
+    "Citrus Limon Juice (Fresh Organic Lemon Juice)",
+    "Glycerin",
+    "Rice Syrup",
+    "Oryza Sativa Starch (Ground White Rice)",
+    "Glycine Soja Extract (Organic Silken Tofu)",
+    "Astrocaryum Murumuru Seed Butter (Murumuru Butter)",
+    "Bentone",
+    "Aqua (Water)",
+    "Oryza Sativa Extract (Rice Milk)",
+    "Parfum",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "*Citral",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_fresh_face_mask_2020_thumbnail_4096.png",
+      "alt": "A swatch of finely textured, aqua blue coloured Don't Look At Me face mask.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_fresh_face_mask_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_07_8ea9169f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_07_8ea9169f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_10_29aef02b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_10_29aef02b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_15_75b4c6bd_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_face_mask_2024_15_75b4c6bd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_hero_texture_2023_c5f6a1d6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_look_at_me_hero_texture_2023_c5f6a1d6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Fresh",
+    "Vegan Skincare",
+    "Brightening Dull Skin",
+    "Face Masks",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "Summer Treats",
+    "Zest is Best",
+    "Gifts for Mum",
+    "For the Nature-Lover",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Fresh Fruit Enzymes",
+    "Spring Skincare"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "aurora-glitter-crumble",
+  "url": "https://www.lush.com/us/en_us/p/aurora-glitter-crumble",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/aurora-glitter-crumble",
+  "title": "Aurora",
+  "sku": "62518-NA",
+  "size": "4g",
+  "price": {
+    "amount": 27.0,
+    "currency": "USD",
+    "formatted": "$27.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 18,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": " A fusion of gold and green lustre creates an iridescent sweep of jade shimmer, with twinkling satin-like glints and crystal-like flecks of sparkle.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Synthetic Fluorphlogopite",
+    "Titanium Dioxide",
+    "Calcium Sodium Borosilicate",
+    "Zea Mays Starch (Cornstarch)",
+    "Tin Oxide",
+    "Yellow 5 Lake",
+    "Blue 1 Lake",
+    "Blue 1",
+    "Chromium Oxide Greens",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumbeles_2023_b676ba2a_thumbnail_4096.png",
+      "alt": "Aurora Glitter Crumble. A neatly smudged swatch of crumbly, shimmering, jade-green metallic eyeshadow. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumbeles_2023_b676ba2a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_3_d3ab3069_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, jade-green, shimmering eyeshadow made by the Aurora Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_3_d3ab3069_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_5_48c42471_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, jade-green, shimmering eyeshadow made by the Aurora Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_5_48c42471_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_b93e2f2c_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, jade-green, shimmering eyeshadow made by the Aurora Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aurora_glitter_crumble_2024_b93e2f2c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glitter_crumbels_swatch_hero_portrait_2024_01_1ab8a7d6_thumbnail_4096.jpg",
+      "alt": "The image shows four model's forearms laid next to each other in varying shades of skin colour. There is a line of ten Glitter Crumble swatches across all four arms to showcase how each product colour shows up on different skin tones.\n",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glitter_crumbels_swatch_hero_portrait_2024_01_1ab8a7d6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup",
+    "Glitter Products"
+  ]
+}

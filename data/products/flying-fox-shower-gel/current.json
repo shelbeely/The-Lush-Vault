@@ -1,0 +1,76 @@
+{
+  "slug": "flying-fox-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/flying-fox-shower-gel",
+  "sourceUrl": "https://www.lush.com/uk/en/p/flying-fox-shower-gel",
+  "title": "Flying Fox",
+  "sku": "62348-UK",
+  "size": "625g",
+  "price": {
+    "amount": 36.0,
+    "currency": "GBP",
+    "formatted": "36.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Get your paws on this. Ylang ylang and jasmine restores you to your finest self while cypress and palmarosa clear your thoughts.",
+  "ingredients": [
+    "Honey",
+    "Glycerin",
+    "Sodium Laureth Sulfate",
+    "Sodium Cocoamphoacetate",
+    "Angelica Root; Burdock Root and Jasmine Flower Decoction",
+    "Parfum",
+    "Cupressus Sempervirens Oil (Cypress Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Palmarosa Oil",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/flying_fox_shower_gel_2018_d461d398_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/flying_fox_shower_gel_2018_d461d398_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_02_a7d94e2d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_02_a7d94e2d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_04_4d6255ef_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_04_4d6255ef_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_06_06349261_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Flying-Fox-Shower-Gel-Hero_06_06349261_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Gels",
+    "Shower Products",
+    "The Archive",
+    "Customised Lush Gifts",
+    "For the Unconventional",
+    "Leaving Soon"
+  ]
+}

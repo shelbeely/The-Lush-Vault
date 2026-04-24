@@ -1,0 +1,89 @@
+{
+  "slug": "cherry-bubblegum-lip-oil",
+  "url": "https://www.lush.com/us/en_us/p/cherry-bubblegum-lip-oil",
+  "sourceUrl": "https://www.lush.com/uk/en/p/cherry-bubblegum-lip-oil",
+  "title": "Cherry Bubblegum",
+  "sku": "64643-UK",
+  "size": "4g",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Sweep this cherry-flavoured Valentine's Day lip oil on for an instant hit of hydration or layer over your favourite lippie for a slick of gloss.",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Aroma",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Prunus Avium Seed Oil (Cherry Kernel Oil)",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "Tocopherol",
+    "Helianthus Annuus Seed Oil (Sunflower Oil)",
+    "Synthetic Fluorphlogopite",
+    "*Citral",
+    "Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 77491"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_oil_valentines_ecom_2026_667cbaa9_thumbnail_4096.png",
+      "alt": "Cherry Bubblegum. A neatly smeared swatch of deep terra cotta-coloured solid lip oil. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_oil_valentines_ecom_2026_667cbaa9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_cherry_bubblegum_lip_oil_portrait_vlentines_2026_5f5bb47a_thumbnail_4096.jpg",
+      "alt": "A black tube of Lush \"Cherry Bubblegum\" lip oil sits open on a pink podium. The reddish-pink product is visible at the top, with its cap resting beside it against a pink curtain featuring a heart-shaped spotlight.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_cherry_bubblegum_lip_oil_portrait_vlentines_2026_5f5bb47a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_bubblegum_lip_oil_lush_2026_10_f7688257_thumbnail_4096.jpg",
+      "alt": "A person wearing strawberry-patterned pyjamas smiles while applying a reddish-pink Lush \"Cherry Bubblegum\" solid lip oil to their bottom lip. They are reclining on a patterned bedspread in a warm, dimly lit room.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_bubblegum_lip_oil_lush_2026_10_f7688257_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_bubblegum_lip_oil_lush_2026_12_c1f92434_thumbnail_4096.jpg",
+      "alt": "A person with dark skin holds a small, round, pink compact mirror, reflecting their lips as they apply the Lush \"Cherry Bubblegum\" lip oil. The background shows a soft beige carpet and a hint of a pink wall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_bubblegum_lip_oil_lush_2026_12_c1f92434_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_bubblegum_lip_oil_lush_2026_03_43070bb4_thumbnail_4096.jpg",
+      "alt": "A person with long, dark braids lies on a patterned bedspread, looking into a small pink hand mirror while applying a black tube of Cherry Bubblegum solid lip oil. They are wearing light blue pyjamas with a pink strawberry pattern.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_bubblegum_lip_oil_lush_2026_03_43070bb4_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "Lip Scrubs & Balms",
+    "Valentine’s Day Gift Ideas",
+    "Valentine's Bestie Baskets  ",
+    "For the Dreamer",
+    "Fruity ",
+    "Self-care Valentine's",
+    "Leaving Soon"
+  ]
+}

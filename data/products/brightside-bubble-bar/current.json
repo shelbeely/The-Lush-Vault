@@ -1,0 +1,95 @@
+{
+  "slug": "brightside-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/brightside-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/brightside-bubble-bar",
+  "title": "Brightside",
+  "sku": "3846-NA",
+  "size": "200g",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Hop in the bath with one of these uplifting bubble bars, Sicilian mandarin, bergamot and tangerine essential oils to help you look on the bright side of life! ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "*Limonene",
+    "Citrus Nobilis Peel Oil (Mandarin Oil)",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "*Citral",
+    "*Linalool",
+    "Parfum",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Red 4",
+    "Orange 4"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brightside_bubble_bar_2020_e97dc36e_thumbnail_4096.png",
+      "alt": "Brightside. A deep orange, light orange and vibrant yellow swirled, oval shaped, bubble bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brightside_bubble_bar_2020_e97dc36e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_group_hero_2024__1_292a587a_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of two hands holding two different sizes of vibrant Brightside bubble bars above the firey orange, bubbly water below. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_group_hero_2024__1_292a587a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_hero_2024__1_f94cea7a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_hero_2024__1_f94cea7a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_hero_2024__6_af7e43a1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bright_side_bubble_bar_hero_2024__6_af7e43a1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bright_side_mini_bubble_bar_hero_2024__5_42637864_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bright_side_mini_bubble_bar_hero_2024__5_42637864_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Zesty",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Plastic Free",
+    "Gifts for Kids & Teens",
+    "Our bestselling collection of bathing beauties",
+    "Bath and Shower",
+    "Awake ",
+    "Citrus",
+    "Colorful Products",
+    "Gifts Under $10",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "Sporty Soaperstar Gifts",
+    "For the Dreamer",
+    "Bestsellers"
+  ]
+}

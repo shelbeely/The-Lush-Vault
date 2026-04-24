@@ -1,0 +1,97 @@
+{
+  "slug": "godiva-shampoo-bar",
+  "url": "https://www.lush.com/us/en_us/p/godiva-shampoo-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/godiva-shampoo-bar",
+  "title": "Godiva",
+  "sku": "2392-NA",
+  "size": "55g",
+  "price": {
+    "amount": 15.0,
+    "currency": "USD",
+    "formatted": "$15.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This natural, 2 in 1 shampoo and conditioner​ bar gets the job done. With a light jasmine scent, lightly condition and cleanse hair for soft, luscious locks.",
+  "ingredients": [
+    "Sodium Coco-Sulfate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cetearyl Alcohol & Sodium Lauryl Sulfate",
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Propylene Glycol",
+    "Parfum",
+    "Hibiscus Flowers Extracted in Organic Extra Virgin Olive Oil",
+    "Stearic Acid",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Cetearyl Alcohol",
+    "Cupressus Sempervirens Oil (Cypress Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Palmarosa Oil",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Organic Camellia Japonica Oil",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Organic Macadamia Nut Oil",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Dried Jasmine Flowers",
+    "Behentrimonium chloride",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_logo_2023_80bd6f5e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_logo_2023_80bd6f5e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_cork_pot_hero_2024_eb014d14_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_cork_pot_hero_2024_eb014d14_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_hero_2023_6_2f89d32d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_hero_2023_6_2f89d32d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_hero_2023_8_7185c626_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/godiva_shampoo_bar_hero_2023_8_7185c626_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Shampoo Bars",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Plastic Free",
+    "Self-care Under $20",
+    "Floral",
+    "Jasmine",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Hydrating & Moisturizing Haircare",
+    "As seen at Curly Con"
+  ]
+}

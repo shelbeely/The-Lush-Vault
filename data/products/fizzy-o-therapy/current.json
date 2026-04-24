@@ -1,0 +1,65 @@
+{
+  "slug": "fizzy-o-therapy",
+  "url": "https://www.lush.com/us/en_us/p/fizzy-o-therapy",
+  "sourceUrl": "https://www.lush.com/au/en/p/fizzy-o-therapy",
+  "title": "Fizzy O' Therapy",
+  "sku": "22-UN",
+  "size": "85g",
+  "price": {
+    "amount": 8.0,
+    "currency": "AUD",
+    "formatted": "8.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Rest and recover in the bath with this retro classic, made with warming spices and soothing ginger powder.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Ginger Powder",
+    "Mustard Powder",
+    "Cinnamomum Zeylanicum Leaf Oil (Cinnamon Leaf Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Aqua (Water)",
+    "Dipropylene Glycol",
+    "*Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Fizzy-OTherapy_bath_bomb_2024_a0ae59ff_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Fizzy-OTherapy_bath_bomb_2024_a0ae59ff_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Fizzy-O-Therapy-Bath-Bomb-Hero_04_4_ebb7572b_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Fizzy-O-Therapy-Bath-Bomb-Hero_04_4_ebb7572b_thumbnail_128.JPG"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Bombs",
+    "The Archive",
+    "Spicy",
+    "Last Chance Exclusives"
+  ]
+}

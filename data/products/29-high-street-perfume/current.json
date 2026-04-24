@@ -1,0 +1,73 @@
+{
+  "slug": "29-high-street-perfume",
+  "url": "https://www.lush.com/us/en_us/p/29-high-street-perfume",
+  "title": "29 High Street",
+  "sku": "5029-NA",
+  "size": "30ml",
+  "price": {
+    "amount": 65.0,
+    "currency": "USD",
+    "formatted": "$65.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 30,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "This warm, sweet and fruity perfume evokes the fragrance that fills every Lush shop and the magic that spills out of every door. ",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "*Limonene",
+    "*Linalool",
+    "Alpha-Isomethyl Ionone",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Sandalwood Oil",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "*Anise Alcohol",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "*Citronellol",
+    "Coumarin",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "Hexyl Cinnamal",
+    "Hydroxycitronellal",
+    "*Isoeugenol"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_perfume_30ml_2021_57722890_thumbnail_4096.png",
+      "alt": "29 High Street. A square, clear glass perfume bottle with a black metal lid, filled with yellow, transparent liquid. A white label on the front of the front has a blue-lined illustration of a stone-arched doorway on a bricked wall. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_perfume_30ml_2021_57722890_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_perfume_landscape_2025_1_44897929_thumbnail_4096.jpg",
+      "alt": "The image shows the square, clear glass bottle of 29 High Street perfume on a warm beige background with an arched layer projecting stretching shadows across the scene.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_perfume_landscape_2025_1_44897929_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Vegan",
+    "Perfumes",
+    "Fragrances",
+    "Vegan Perfume"
+  ]
+}

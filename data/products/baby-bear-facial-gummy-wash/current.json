@@ -1,0 +1,84 @@
+{
+  "slug": "baby-bear-facial-gummy-wash",
+  "url": "https://www.lush.com/us/en_us/p/baby-bear-facial-gummy-wash",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/baby-bear-facial-gummy-wash",
+  "title": "Baby Bear",
+  "sku": "64983-NA",
+  "size": "60g",
+  "price": {
+    "amount": 7.0,
+    "currency": "USD",
+    "formatted": "$7.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Let this Baby Bear facial gummy wash care for your skin this Easter with its soothing British honey, and hydrating carrageenan and glycerine base.",
+  "ingredients": [
+    "Glycerin",
+    "Aqua (Water)",
+    "Sodium Lauroyl Sarcosinate",
+    "Propylene Glycol",
+    "Honey",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Citrus Sinensis Peel Oil Expressed (Orange Oil)",
+    "Theobroma Cacao Seed Powder (Cocoa Powder)",
+    "Titanium Dioxide",
+    "*Limonene",
+    "Parfum",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_ecom_2026_6724d984_thumbnail_4096.png",
+      "alt": "Baby Bear. A gelatinous facial gummy in the shape of a friendly bear face. The product is a pale caramel colour, complete with rounded ears, big eyes and a smiling mouth. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_ecom_2026_6724d984_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_25_6b302577_thumbnail_4096.jpg",
+      "alt": "A pale, bear-shaped gummy facial cleanser rests on a folded white flannel by a white square basin. A light green cup holding two bamboo toothbrushes and a black tap are visible against pale green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_25_6b302577_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_6_1_464525b9_thumbnail_4096.jpg",
+      "alt": "A model holds a small, bear-shaped facial jelly in their hands to create a lather. The \"Baby Bear\" facial jelly has a simple, rounded face. In the background, a white sink, a towel, and a ceramic soap dish are visible against pale green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_6_1_464525b9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_17_4671ce3e_thumbnail_4096.jpg",
+      "alt": "A reflection in a bathroom mirror of a smiling model with dark hair in bunches, applying a white foaming lather to their face, created by the \"Baby Bear\" gummy facial cleanser, against pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_17_4671ce3e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_23_1_41fd34c7_thumbnail_4096.jpg",
+      "alt": "A reflection in a bathroom mirror of a smiling model with dark hair in bunches, applying a white foaming lather to their face, created by the \"Baby Bear\" gummy facial cleanser, against pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_bear_facial_gummy_easter_hero_2026_23_1_41fd34c7_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Cleansers",
+    "Easter",
+    "Gourmand",
+    "Honey I Washed The Kids",
+    "Mother’s Day",
+    "Leaving Soon",
+    "Spring Skincare"
+  ]
+}

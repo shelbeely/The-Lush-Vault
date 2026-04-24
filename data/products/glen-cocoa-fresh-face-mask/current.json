@@ -1,0 +1,92 @@
+{
+  "slug": "glen-cocoa-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/glen-cocoa-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/glen-cocoa-fresh-face-mask",
+  "title": "Glen Cocoa",
+  "sku": "62367-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 14,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "A deliciously indulgent, fresh chocolate face mask full of softening almond butter and absorbent cocoa powder that gently exfoliates for smooth skin.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Glycerin",
+    "Theobroma Cacao Seed Powder (Cocoa Powder)",
+    "Almond Butter",
+    "Kaolin",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Violet Leaf Absolute",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Citronellol",
+    "Geraniol",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_fresh_face_mask_ecom_image_2021_thumbnail_4096.png",
+      "alt": "A swatch of thick, chocolately brown Glen Cocoa face mask.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_fresh_face_mask_ecom_image_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_06_f849aa4f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_06_f849aa4f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_09_91dd037d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_09_91dd037d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_12_cc77f122_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_face_mask_2024_12_cc77f122_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_hero_texture_2024_34e7f03c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glen_cocoa_hero_texture_2024_34e7f03c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Fresh",
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Sweet-scented goodies",
+    "Gourmand",
+    "Summer Treats",
+    "Cooling Mint Chocolate",
+    "Caramel Latte",
+    "Hydrating Dry Skin"
+  ]
+}

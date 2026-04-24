@@ -1,0 +1,76 @@
+{
+  "slug": "cynthia-sylvia-stout-shampoo",
+  "url": "https://www.lush.com/us/en_us/p/cynthia-sylvia-stout-shampoo",
+  "sourceUrl": "https://www.lush.com/uk/en/p/cynthia-sylvia-stout-shampoo",
+  "title": "Cynthia Sylvia Stout",
+  "sku": "626-UK",
+  "size": "555g",
+  "price": {
+    "amount": 32.0,
+    "currency": "GBP",
+    "formatted": "32.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "A gentle shampoo made with beer, vinegar, and lemon juice to give your locks a glossy sheen. ",
+  "ingredients": [
+    "Stout",
+    "Aqua (Water)",
+    "Ammonium Laureth Sulfate",
+    "Maris Sal (Fine Sea Salt)",
+    "Lauryl Betaine",
+    "Propylene Glycol",
+    "Benzyl Alcohol",
+    "Vitis Vinifera Leaf Oil (Wine Lees Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Citrus Limon Juice (Fresh Organic Lemon Juice)",
+    "Yeast",
+    "Balsamic Vinegar",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cynthia_sylvia_stout_shampoo_2020_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cynthia_sylvia_stout_shampoo_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/626_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/626_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Herbal",
+    "Shampoo",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Customised Lush Gifts",
+    "For the Nature-Lover",
+    "St Patrick’s Day",
+    "Shop Haircare By Benefit",
+    "Soften & Shine Haircare",
+    "Volumising Hair",
+    "Leaving Soon"
+  ]
+}

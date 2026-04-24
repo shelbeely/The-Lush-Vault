@@ -1,0 +1,48 @@
+{
+  "slug": "bff-makeup-brush",
+  "url": "https://www.lush.com/us/en_us/p/bff-makeup-brush",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bff-makeup-brush",
+  "title": "BFF",
+  "sku": "210306-NA",
+  "size": "Each",
+  "price": {
+    "amount": 35.0,
+    "currency": "USD",
+    "formatted": "$35.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 1,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Everyone needs a BFF! This domed foundation brush has your back when it comes to buffing out your favourite base product.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bff_makeup_brush_2020_1_fbae6bea_thumbnail_4096.png",
+      "alt": "BFF Brush. A domed, foundation buffing brush, with white and brown bristles and a gold and dark wooden handle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bff_makeup_brush_2020_1_fbae6bea_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/BFF_Brush_ae46b439_thumbnail_4096.jpg",
+      "alt": "A person with long, dark hair holds a BFF Brush, ready to buff out the dark contours drawn onto their cheeks and jawline.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/BFF_Brush_ae46b439_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Makeup Brushes",
+    "Makeup",
+    "Firework Makeup"
+  ]
+}

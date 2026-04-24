@@ -1,0 +1,95 @@
+{
+  "slug": "dragons-blood-lip-cream",
+  "url": "https://www.lush.com/us/en_us/p/dragons-blood-lip-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dragons-blood-lip-cream",
+  "title": "Dragon's Blood",
+  "sku": "62501-NA",
+  "size": "7g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 13,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Moisurise dry lips with a conditioning organic shea butter and castor oil lip cream. With a rich red pop of colour, this is a staple in every makeup bag.\n",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Butyrospermum Parkii Butter (Organic Shea Butter)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Candelilla Wax",
+    "Flavour",
+    "Fenugreek Absolute",
+    "Brazilian Orange Oil",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Sesame Seed Absolute ",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "*Anise Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Eugenol",
+    "*Farnesol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Red 7",
+    "Red 28 Lake",
+    "Red 30"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_2023_8200b82b_thumbnail_4096.png",
+      "alt": "Drago's Blood. A neatly smudged swatch of thick, textured, deep red lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_2023_8200b82b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_26_f3146d39_thumbnail_4096.jpg",
+      "alt": "A smiling person with dark hair and skin, wearing a purple top, is shown from the chest up. They are wearing the Lush, deep red Dragon's Blood lip cream on a pink and purple gradient background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_26_f3146d39_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_27_dce4d7f8_thumbnail_4096.jpg",
+      "alt": "A smiling person with dark hair and skin, wearing a purple top, is shown from the chest up. They are wearing the Lush, deep red Dragon's Blood lip cream while making a pouty face on a pink and purple gradient background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_27_dce4d7f8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_28_f6bbe6dd_thumbnail_4096.jpg",
+      "alt": "A smiling person with dark hair and skin, wearing a purple top, is shown from the chest up. They are wearing the Lush, deep red Dragon's Blood lip cream and holding the product up to their face. The background is a pink and purple gradient.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dragons_blood_lip_cream_hero_2025_28_f6bbe6dd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_1_fb28de4a_thumbnail_4096.jpg",
+      "alt": "The image shows an aerial view of three forearms of differing skin tones. Across each of the arms are swatched the five Firework Lush lip creams, from light to dark, to display how they show on different skin tones. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_1_fb28de4a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Lipstick",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Vegan Makeup",
+    "Ways to Shop",
+    "Makeup"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "biomic-body-cream",
+  "url": "https://www.lush.com/us/en_us/p/biomic-body-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/biomic-body-cream",
+  "title": "Biomic Self-Preserving",
+  "sku": "61428-NA",
+  "size": "100g",
+  "price": {
+    "amount": 17.0,
+    "currency": "USD",
+    "formatted": "$17.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 14,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This rich, easily absorbed and skin firming-body cream is for areas of your body that need special care, whilst also not having any synthetic preservatives. ",
+  "ingredients": [
+    "Meadowsweet Infusion",
+    "Glycerin",
+    "Organic Cold Pressed Almond Oil",
+    "Propylene Glycol",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Fresh Rose Petal Infusion",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Stearic Acid",
+    "Tiger Lily Extract",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Plukenetia Volubilis Seed Oil (Organic Sacha Inchi Oil)",
+    "Organic Cold Pressed Evening Primrose Oil",
+    "Cetearyl Alcohol",
+    "Mel (Organic Orange Blossom Honey)",
+    "Triethanolamine",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Cera Alba (Beeswax)",
+    "Benzyl Salicylate",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/biomic_self_preserving_body_cream_2022_88f8a661_thumbnail_4096.png",
+      "alt": "A swatch of cream coloured Biomic body cream.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/biomic_self_preserving_body_cream_2022_88f8a661_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/biomic_body_cream_sp_hero_image_2000x1364_2022_10_75190e45_thumbnail_4096.jpg",
+      "alt": "A smiling person wrapped in a towel gently rubs traces of a cream coloured body lotion, into their shoulder.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/biomic_body_cream_sp_hero_image_2000x1364_2022_10_75190e45_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Lotions",
+    "Body Care",
+    "Super Powered Ingredients",
+    "Self-care Under $20",
+    "Floral",
+    "Jasmine",
+    "Customised Lush Gifts"
+  ]
+}

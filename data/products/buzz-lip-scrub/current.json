@@ -1,0 +1,83 @@
+{
+  "slug": "buzz-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/buzz-lip-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/buzz-lip-scrub",
+  "title": "Buzz",
+  "sku": "64720-NA",
+  "size": "20g",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Perk up your lips with a scrub of softening caster sugar and coffee oil (with a hint of caffeine!) to boost your mood and your pout.",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Organic Arenga Sugar",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Coffea Arabica Seed Oil (Coffee Oil)"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buzz_lip_scrub_mothers_day_2026_87c3fab1_thumbnail_4096.png",
+      "alt": "Buzz. A neatly smeared swatch of thick, textured, deep caramel-coloured lip scrub with visible sugar granules.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buzz_lip_scrub_mothers_day_2026_87c3fab1_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_buzz_lip_scrub_mothers_day_lush_2026_04_86d2d80f_thumbnail_4096.jpg",
+      "alt": "A model's hands open a small glass jar of Lush \"Buzz\" Lip Scrub in front of a bathroom mirror. The caramel-coloured, textured scrub is visible inside. The reflection shows the person in a white top against pale green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_buzz_lip_scrub_mothers_day_lush_2026_04_86d2d80f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_buzz_lip_scrub_mothers_day_lush_2026_18_52c77873_thumbnail_4096.jpg",
+      "alt": "A close-up shot shows a model's finger dipping into a small glass jar of Lush \"Buzz\" Lip Scrub to scoop out the textured, caramel-coloured product. The scene is set against a background of pale green bathroom tiles and soft floral decorations.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_buzz_lip_scrub_mothers_day_lush_2026_18_52c77873_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_buzz_lip_scrub_mothers_day_lush_2026_21_c68f8a2b_thumbnail_4096.jpg",
+      "alt": "A close-up shot shows a model applying Lush \"Buzz\" Lip Scrub to their lips using their index finger. They have long, lime-green hair and facial piercings. The image is taken in a brightly lit bathroom, with a soft blur around the edges.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_buzz_lip_scrub_mothers_day_lush_2026_21_c68f8a2b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_buzz_lip_scrub_mothers_day_lush_2026_42_ccc621fd_thumbnail_4096.jpg",
+      "alt": "A model with long green hair looks into a bathroom mirror while applying Lush \"Buzz\" Lip Scrub. They hold the small open jar in one hand and use their other index finger to gently rub the textured product onto their lower lip.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_buzz_lip_scrub_mothers_day_lush_2026_42_ccc621fd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_buzz_lip_scrub_mothers_day_lush_2026_50_a3ca4c2c_thumbnail_4096.jpg",
+      "alt": "A close-up, front-on portrait of a model with long, bright green hair applying Lush \"Buzz\" Lip Scrub. They use a finger to rub the brown, sugary product onto their lips while looking directly into the camera against a green-tiled background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_buzz_lip_scrub_mothers_day_lush_2026_50_a3ca4c2c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buzz_lip_scrub_mothers_day_texture_2026_de41d9de_thumbnail_4096.jpg",
+      "alt": "A close-up, aerial view of textured, thick caramel-coloured Buzz lip scrub. The texture is rich and gritty, arranged in several diagonal, overlapping swoops that create ridges and valleys.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buzz_lip_scrub_mothers_day_texture_2026_de41d9de_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Gourmand",
+    "New Products",
+    "Vegan Skincare",
+    "Lip Scrubs & Balms",
+    "Mother’s Day",
+    "Gifts for Mum",
+    "Gifts Under $25"
+  ]
+}

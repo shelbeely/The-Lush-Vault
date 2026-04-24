@@ -1,0 +1,59 @@
+{
+  "slug": "cancer-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/cancer-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cancer-knot-wrap",
+  "title": "Cancer Knot Wrap",
+  "sku": "217320-NA",
+  "size": "217320-NA",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Releasing as part of our Zodiac 2024 collection, Cancer Knot Wrap is a reusable gift wrapping option, made from 100% recycled plastic bottles. ",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cancer_knot_wrap_2024_5bbc6208_thumbnail_4096.png",
+      "alt": "Cancer. A playfully fun, square knot wrap with clouds and crabs on blue skies on each corner. There is a large red crab in the centre of a colourfully banded circle filled with aquatic creatures and affiliations. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cancer_knot_wrap_2024_5bbc6208_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cancer_zodiac_knotwrap_2024_09_25f0d9c6_thumbnail_4096.jpg",
+      "alt": "The model is sat in a roll-top bathtub facing away, on a pastel, star-filled background. They have fashioned the Cancer knot wrap into a playful hair wrap holding up their blonde ponytail. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cancer_zodiac_knotwrap_2024_09_25f0d9c6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cancer_zodiac_knotwrap_2024_06_5795adc7_thumbnail_4096.jpg",
+      "alt": "The model is sat in a roll-top bathtub facing away, on a pastel, star-filled background. They have fashioned the Cancer knot wrap into a playful hair wrap holding up their blonde ponytail. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cancer_zodiac_knotwrap_2024_06_5795adc7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cancer_knot_wrap_texture_2024_2_47cda45e_thumbnail_4096.jpg",
+      "alt": "A super close-up of the Cancer knot wrap focuses on the texture and dimension of the fabric and the vividity of the colours. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cancer_knot_wrap_texture_2024_2_47cda45e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Lifestyle",
+    "Zodiac Gift Guide",
+    "Gifts for Cancer"
+  ]
+}

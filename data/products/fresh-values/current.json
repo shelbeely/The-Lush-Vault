@@ -1,0 +1,61 @@
+{
+  "slug": "fresh-values",
+  "url": "https://www.lush.com/us/en_us/p/fresh-values",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-values",
+  "title": "Fresh Values ",
+  "sku": "217413-NA",
+  "size": "Each",
+  "price": {
+    "amount": 21.0,
+    "currency": "USD",
+    "formatted": "$21.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 15,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Keeping it fresh",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Fresh-Merch-2024-Drawstring-Bag-PDP-01_3c824143_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Fresh-Merch-2024-Drawstring-Bag-PDP-01_3c824143_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_3_143782d_71ac0dea_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_3_143782d_71ac0dea_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_1_484da5f_3dc57bd0_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_1_484da5f_3dc57bd0_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_2_7f3e5f4_4e244c16_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/drawstring_bag_fresh_values_apparel_hero_2024_2_7f3e5f4_4e244c16_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Fresh-Merch-2024-Drawstring-Bag-PDP-01_3c824143_thumbna_0732ce74_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Fresh-Merch-2024-Drawstring-Bag-PDP-01_3c824143_thumbna_0732ce74_thumbnail_1.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Gifts for Kids & Teens",
+    "Gifts for Dad",
+    "For the Artist"
+  ]
+}

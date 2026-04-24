@@ -1,0 +1,76 @@
+{
+  "slug": "american-cream-body-lotion",
+  "url": "https://www.lush.com/us/en_us/p/american-cream-body-lotion",
+  "sourceUrl": "https://www.lush.com/uk/en/p/american-cream-body-lotion",
+  "title": "American Cream",
+  "sku": "8756-UK",
+  "size": "225g",
+  "price": {
+    "amount": 26.0,
+    "currency": "GBP",
+    "formatted": "26.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "A candy-sweet, strawberry and vanilla body lotion, reminiscent of a nostalgic pick 'n' mix treat.",
+  "ingredients": [
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Orange Infusion",
+    "Strawberry Infusion",
+    "Aqua (Water)",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Stearic Acid",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Triethanolamine",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Cetearyl Alcohol",
+    "Alpha-Isomethyl Ionone",
+    "Coumarin",
+    "*Linalool",
+    "Parfum",
+    "Colour 17200"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_body_lotion_community_2018_ee865621_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_body_lotion_community_2018_ee865621_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_body_lotion_community_hero_2018-1_17ddab3a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_body_lotion_community_hero_2018-1_17ddab3a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Lotions",
+    "Vegan Body Care Products",
+    "Body Care",
+    "The Archive",
+    "Berries & Cream Trifle",
+    "Customised Lush Gifts",
+    "Vanilla",
+    "Gourmand",
+    "Skin Care for Cold Weather"
+  ]
+}

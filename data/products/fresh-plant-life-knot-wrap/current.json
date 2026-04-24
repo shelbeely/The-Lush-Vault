@@ -1,0 +1,55 @@
+{
+  "slug": "fresh-plant-life-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/fresh-plant-life-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/fresh-plant-life-knot-wrap",
+  "title": "Fresh Plant Life Knot Wrap",
+  "sku": "215317-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "This re-usable, recycled plastic gift wrap is perfect for wrapping your favourite Lush products, with a leafy, green, lush design.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [
+    "Size: Medium - 70cm",
+    "Pattern: Typographic",
+    "Pattern: Floral"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_knot_wrap_ecom_2023_903fb3ce_thumbnail_4096.png",
+      "alt": "Fresh Plant Life. A vibrant, green knot wrap with lots of colourful flowers and the words \"Fresh Plant Life\" in the centre.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_knot_wrap_ecom_2023_903fb3ce_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_AYR_knot_wrap_hero_2023_3_ec322534_thumbnail_4096.jpg",
+      "alt": "Model is sat with a cup of coffee. A gift is on the table wrapped neatly in the Fresh Plant Life knot wrap with bright colours.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_AYR_knot_wrap_hero_2023_3_ec322534_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_knot_wrap_hero_2023-8_51e798dc_thumbnail_4096.jpg",
+      "alt": "Image shows a super close-up of the knot wrap, focusing on the green lettering with orange, yellow and purple flowers.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_plant_life_knot_wrap_hero_2023-8_51e798dc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps"
+  ]
+}

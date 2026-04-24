@@ -1,0 +1,82 @@
+{
+  "slug": "daisy-daikon-deodorant",
+  "url": "https://www.lush.com/us/en_us/p/daisy-daikon-deodorant",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/daisy-daikon-deodorant",
+  "title": "Daisy Daikon",
+  "sku": "64393-NA",
+  "size": "80g",
+  "price": {
+    "amount": 8.8,
+    "currency": "USD",
+    "formatted": "$8.80",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 37,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A gentle, minty naked deodorant with softening illipe and shea butter, deodorising bicarb and fresh daikon juice to control body odour.",
+  "ingredients": [
+    "Zea Mays Starch (Cornstarch)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Sodium Bicarbonate",
+    "Raphanus Sativus Root Juice (Fresh Daikon Radish Juice)",
+    "Butyrospermum Parkii Butter (Organic Shea Butter)",
+    "Glycerin",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Artemisia Dracunculus Oil (Tarragon Oil)",
+    "Sandalwood Oil",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Thymus Vulgaris Leaf Extract (Thyme Extract)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Alpha-Isomethyl Ionone",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Fresh Pansy",
+    "Viola Odorata Flower Extract (Fresh Viola Flower)"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/daisy_daikon_deodorant_ecom_2025_fdb22a85_thumbnail_4096.png",
+      "alt": "Daisy Daikon. A neatly smudged swatch of thick, creamy, solid deodorant. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/daisy_daikon_deodorant_ecom_2025_fdb22a85_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_daisy_daikon_deodorant_hero_christmas_2025_162_8ecc1226_thumbnail_4096.jpg",
+      "alt": "The image shows a warm beige background. A hand reaches in from the right, holding a clear, recycled-plastic pot of Daisy Daikon solid deodorant in a flat palm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_daisy_daikon_deodorant_hero_christmas_2025_162_8ecc1226_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_daisy_daikon_deodorant_hero_christmas_2025_164_ce9f9c60_thumbnail_4096.jpg",
+      "alt": "The image shows a person with a joyful expression, wearing a towel. They rub the creamy Daisy Daikon solid deodorant into their raised underarm. The background is a light beige.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_daisy_daikon_deodorant_hero_christmas_2025_164_ce9f9c60_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_daisy_daikon_deodorant_hero_christmas_2025_177_7de5d4e8_thumbnail_4096.jpg",
+      "alt": "The image shows a person with a joyful expression, wearing a towel. They rub the creamy Daisy Daikon solid deodorant into their raised underarm. The background is a light beige.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_daisy_daikon_deodorant_hero_christmas_2025_177_7de5d4e8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Deodorants & Dusting Powders",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Mint",
+    "Sporty Soaperstar Gifts"
+  ]
+}

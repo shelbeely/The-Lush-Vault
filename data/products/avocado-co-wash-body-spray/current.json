@@ -1,0 +1,87 @@
+{
+  "slug": "avocado-co-wash-body-spray",
+  "url": "https://www.lush.com/us/en_us/p/avocado-co-wash-body-spray",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/avocado-co-wash-body-spray",
+  "title": "Avocado Co-Wash",
+  "sku": "9212-NA",
+  "size": "200ml",
+  "price": {
+    "amount": 40.0,
+    "currency": "USD",
+    "formatted": "$40.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 30,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A sherbet sharp and deliciously tart body spray. Balanced with a warm olibanum core, this energising scent will come alive on the skin.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Litsea Cubeba Fruit Oil (Litsea Cubeba Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Olibanum Oil",
+    "Amyl Cinnamal",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Avocado_Co-Wash_Body_Spray_200ml_12cf418b_thumbnail_4096.png",
+      "alt": "Avocado Co-Wash. A black spray bottle of Lush Avocado Co-Wash Body Spray. The product label is black with a lime green banded border. White text states the product name and the scent description.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Avocado_Co-Wash_Body_Spray_200ml_12cf418b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_01_a3b3f336_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_01_a3b3f336_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_02_2be81106_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_02_2be81106_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_03_47ab16ab_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co-wash_body_spray_lush_2025_03_47ab16ab_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Zesty",
+    "Body Sprays",
+    "Fragrances",
+    "Vegan Perfume",
+    "Online Exclusives",
+    "Rewild your routine",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Citrus",
+    "Summer Gourmand",
+    "Gourmand",
+    "Gifts for Libra",
+    "Top Lush Scents",
+    "Hydrating & Moisturizing Haircare",
+    "As seen at Curly Con"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "elphabas-lair-body-scrub",
+  "url": "https://www.lush.com/us/en_us/p/elphabas-lair-body-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/elphabas-lair-body-scrub",
+  "title": "Elphaba's Lair",
+  "sku": "64615-NA",
+  "size": "315g",
+  "price": {
+    "amount": 28.0,
+    "currency": "USD",
+    "formatted": "$28.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 33,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Find your inner emerald spark with our Wicked: For Good x Lush body scrub of exfoliating apple juice and sea salt wrapped up in a floral mimosa and neroli scent.",
+  "ingredients": [
+    "Coarse Sea Salt",
+    "Maris Sal (Fine Sea Salt)",
+    "Sodium Laureth Sulfate",
+    "Pyrus Malus Fruit Extract (Fresh Apple Extract)",
+    "Sodium Cocoamphoacetate",
+    "Parfum",
+    "Propylene Glycol",
+    "Organic Apple Juice",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Mimosa Absolute",
+    "Lactic Acid",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Lauryl Betaine",
+    "Tin Oxide",
+    "Amyl Cinnamal",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Yellow 10 Lake",
+    "Yellow 5 Lake",
+    "Blue 1 Lake",
+    "Blue 1",
+    "CI 75810 (Chlorophyllin)"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elphabas_lair_body_scrub_wicked_x_lush_2025_afc3325e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elphabas_lair_body_scrub_wicked_x_lush_2025_afc3325e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-2_714a484c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-2_714a484c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-3_fe4e7d91_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-3_fe4e7d91_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-4_c9327419_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-4_c9327419_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-5_43c6c58c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR-5_43c6c58c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR_cb1aafa9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ELPHABAS_LAIR_cb1aafa9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Collaborations",
+    "Body Scrubs",
+    "Shower Products",
+    "Vegan",
+    "Vegan Shower Products",
+    "Wicked: For Good × Lush"
+  ]
+}

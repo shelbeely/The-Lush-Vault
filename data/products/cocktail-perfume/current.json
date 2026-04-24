@@ -1,0 +1,74 @@
+{
+  "slug": "cocktail-perfume",
+  "url": "https://www.lush.com/us/en_us/p/cocktail-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cocktail-perfume",
+  "title": "Cocktail",
+  "sku": "1666-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 150.0,
+    "currency": "USD",
+    "formatted": "$150.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 5,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An uncompromising floral fragrance. Make a strong statement with smouldering jasmine, elegant rose and regeneratively sourced ylang ylang from Ghana. The sultry floral notes of ho wood make this perfume an irresistible after-dark companion.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Aqua (Water)",
+    "Parfum",
+    "*Linalool",
+    "Glycerin",
+    "Cinnamomum Camphora Oil (Ho Wood Oil)",
+    "Ghanaian Ylang Ylang Oil",
+    "Coumarin",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Cinnamal",
+    "*Citronellol",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocktail_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with light amber liquid. A black label reads 'The Perfume Library' and 'Cocktail'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocktail_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocktail_perfume_library_hero5525_thumbnail_4096.jpg",
+      "alt": "A number of black label perfume bottles are arranged randomly, with Cocktail in the centre, lid off, ready to spritz.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocktail_perfume_library_hero5525_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "Floral",
+    "Jasmine",
+    "Spring Fragrance"
+  ]
+}

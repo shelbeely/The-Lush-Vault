@@ -1,0 +1,96 @@
+{
+  "slug": "be-my-valentine-reusable-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/be-my-valentine-reusable-bubble-bar",
+  "sourceUrl": "https://www.lush.com/uk/en/p/be-my-valentine-reusable-bubble-bar",
+  "title": "Be My Valentine",
+  "sku": "64635-UN",
+  "size": "120g",
+  "price": {
+    "amount": 9.0,
+    "currency": "GBP",
+    "formatted": "9.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Aim this Valentine’s bubble bar at the one you want to win over and they're sure to be lovestruck by these beautiful bubbles of elegant rose and refreshing lemon.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Parfum",
+    "*Limonene",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Brazilian Orange Oil",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Titanium Dioxide",
+    "Hydroxypropyl Methylcellulose",
+    "Sodium Carboxymethyl Cellulose",
+    "Benzyl Alcohol",
+    "*Citral",
+    "Citronellol",
+    "Geraniol",
+    "*Linalool",
+    "Colour 45410:1",
+    "Colour 16035"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_valentines_ecom_202_b6986562_thumbnail_4.png",
+      "alt": "Be My Valentine. A bright pink, heart-shaped bubble bar with a wooden craft stick pierced through the centre like an arrow, and the front of the heart is decorated with a small cluster of tiny red hearts.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_valentines_ecom_202_b6986562_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_be_my_valentine_reusable_bubble_bar_portrait_valentin_b7f3e132_thumbnail_4.jpg",
+      "alt": "The image shows a pink heart-shaped bubble bar on a wooden stick sitting on a pink podium. It is decorated with small red hearts in the centre and set against a pink curtain with a heart spotlight.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_be_my_valentine_reusable_bubble_bar_portrait_valentin_b7f3e132_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_0c3e48a5_thumbnail_4.jpg",
+      "alt": "The image shows a hand holding the pink heart-shaped Be My Valentine bubble bar by the wooden stick under a stream of water. The product is held over a tub of pale pink, bubbly bathwater as it begins to dissolve.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_0c3e48a5_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_2864803c_thumbnail_4.jpg",
+      "alt": "A hand holds the pink heart-shaped Be My Valentine bubble bar on a stick under a stream of water. The bubble bar is held over a tub of pale pink, bubbly bathwater as it begins to dissolve, creating a deeper pink. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_2864803c_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_e91b4599_thumbnail_4.jpg",
+      "alt": "A hand holds the pink heart-shaped Be My Valentine bubble bar on a stick under a stream of water. The bubble bar is held over a tub of pale pink, bubbly bathwater as it begins to dissolve, creating a deeper pink. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_e91b4599_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_d150973f_thumbnail_4.jpg",
+      "alt": "A close-up, aerial view of a thick layer of pale pink bubbles and foam covering the surface of the bathwater, created by the Be My Valentine bubble bar. The bubbles vary in size, creating a dense, frothy texture with soft pink hues.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/be_my_valentine_reusable_bubble_bar_hero_valentines_202_d150973f_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Valentine’s Day Gift Ideas",
+    "Bubble Bath Bars",
+    "Rose",
+    "Floral",
+    "Leaving Soon"
+  ]
+}

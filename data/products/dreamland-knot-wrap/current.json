@@ -1,0 +1,62 @@
+{
+  "slug": "dreamland-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/dreamland-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/dreamland-knot-wrap",
+  "title": "Dreamland",
+  "sku": "218130-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Made from organic cotton, this Knot Wrap features a magical, mystical design of sun, moon, stars and clouds. Wrap a few of our bestselling Sleepy products, like Sleepy bubble bar or body lotion, for a gift to help them relax and drift off to dreamland.\n",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_ecom_2024_068f1936_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_ecom_2024_068f1936_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Dreamland-Knot-Wrap_float_portrait_d6ad41d9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Dreamland-Knot-Wrap_float_portrait_d6ad41d9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Dreamland-Knot-Wrap_1_835a9fb4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Dreamland-Knot-Wrap_1_835a9fb4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_texture_hero_portrait_2024_a53ecbcd_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_texture_hero_portrait_2024_a53ecbcd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_ecom_2024_32dd6485_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dreamland_knot_wrap_ecom_2024_32dd6485_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps",
+    "Christmas"
+  ]
+}

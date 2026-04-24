@@ -1,0 +1,50 @@
+{
+  "slug": "amor-eterno-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/amor-eterno-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/amor-eterno-knot-wrap",
+  "title": "Amor Eterno Knot Wrap",
+  "sku": "221164-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Celebrate Día de Muertos and honour your loved ones again and again with this reuseable Knot Wrap featuring a bold, bright and beautiful design.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amore_eterno_knot_wrap_ecom_dia_de_muertos_2025_34308650_thumbnail_4096.png",
+      "alt": "Amor Eterno Knot Wrap. The image shows a square, multicoloured fabric wrap with a symmetrical, folk-art Día De Muertos design. It features a central cross, two large flaming hearts with eyes, sugar skulls, and vibrant flowers and leaves.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amore_eterno_knot_wrap_ecom_dia_de_muertos_2025_34308650_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_hero_2025_2_40bf9fd3_thumbnail_4096.jpg",
+      "alt": "The image shows the vibrantly coloured, Día De Muertos-themed Amor Eterno fabric knot wrap. The wrap is suspended mid-air on a vibrant pink background with blurred marigold flowers around the edge. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_hero_2025_2_40bf9fd3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_hero_2025_4_320e458e_thumbnail_4096.jpg",
+      "alt": "The image shows the colourful, Día De Muertos-themed Amor Eterno knot wrap tied around a square gift on a plinth. A colourful arch frames the scene, with sliced citrus and flowers surrounding the product on a reflective pink surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_hero_2025_4_320e458e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_texture_hero_portrait_2025_f69390d5_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the Dia De Muertos-themed, Amor Eterni fabric knot wrap. It focuses on the material texture, softness and colour vibrancy of the fabric wrap. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amor_eterno_knot_wrap_DDM_texture_hero_portrait_2025_f69390d5_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

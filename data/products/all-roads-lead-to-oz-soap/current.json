@@ -1,0 +1,94 @@
+{
+  "slug": "all-roads-lead-to-oz-soap",
+  "url": "https://www.lush.com/us/en_us/p/all-roads-lead-to-oz-soap",
+  "title": "All Roads Lead To Oz",
+  "sku": "64612-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 39,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Follow this Wicked: For Good x Lush brick of soap into the shower and pave the way for zesty bergamot and juicy grapefruit washes.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Propylene Glycol",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "*Limonene",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Olibanum (Olibanum Resinoid)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Poppy Seed Oil",
+    "Zea Mays Starch (Cornstarch)",
+    "Sodium Chloride",
+    "Titanium Dioxide",
+    "Citric Acid",
+    "Sodium Bicarbonate",
+    "Sodium Hydroxide",
+    "Synthetic Fluorphlogopite",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Tin Oxide",
+    "*Citral",
+    "Hydroxycitronellal",
+    "*Linalool",
+    "Parfum",
+    "Yellow 10 Lake",
+    "Yellow 8",
+    "Yellow 5 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_roads_lead_to_oz_soap_lush_x_wicked_2025_be1c6f76_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_roads_lead_to_oz_soap_lush_x_wicked_2025_be1c6f76_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ_8fd1c752_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ_8fd1c752_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-5_6966f3e9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-5_6966f3e9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-4_e29b8be1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-4_e29b8be1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-2_e78b0256_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_ALL_ROADS_LEAD_TO_OZ-2_e78b0256_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Collaborations",
+    "Handmade Soap",
+    "Shower Products",
+    "Plastic Free",
+    "Vegan",
+    "Vegan Shower Products",
+    "Wicked: For Good × Lush"
+  ]
+}

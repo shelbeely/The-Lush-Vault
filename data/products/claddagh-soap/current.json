@@ -1,0 +1,97 @@
+{
+  "slug": "claddagh-soap",
+  "url": "https://www.lush.com/us/en_us/p/claddagh-soap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/claddagh-soap",
+  "title": "Claddagh",
+  "sku": "4798-UN",
+  "size": "100g",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Celebrate St Patrick’s Day with those dear to your heart and gift them their very own Claddagh soap, infused with herbaceous pine and fir.",
+  "ingredients": [
+    "Fair Trade Organic Clove Infusion",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Parfum",
+    "Oryza Sativa Bran Oil (Rice Bran Oil)",
+    "Pinus Sylvestris Oil (Pine Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Abies Balsamea Extract (Fir Needle Extract)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Cocos Nucifera Oil (Organic Extra Virgin Coconut Oil)",
+    "Titanium Dioxide",
+    "Sodium Chloride",
+    "Citric Acid",
+    "Synthetic Fluorphlogopite",
+    "Sodium Hydroxide",
+    "Sodium Bicarbonate",
+    "Silica",
+    "Tin Oxide",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 77491",
+    "Colour 47005"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_2025_1a112ac1_thumbnail_4096.png",
+      "alt": "Claddagh. A St. Patrick's Day-themed soap shaped like the traditional Irish Claddagh. The soap is a golden-caramel colour with golden lustre throughout and shaped like two hands reaching in to hold a red heart with a crown on top.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_2025_1a112ac1_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_2_5597f25a_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hand reaching under running tap water above white porcelain. Their hand is holding the traditional Claddagh-shaped soap as droplets splash off the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_2_5597f25a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_7_62b39472_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hands holding the traditional Claddagh-shaped soap after lathering it up with water in their palm, creating a delicate, golden, soapy lather over their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_7_62b39472_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_4_c05eafe0_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hands holding the traditional Claddagh-shaped soap after lathering it up with water in their palm, creating a delicate, golden, soapy lather over their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_4_c05eafe0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_9_d47a3b88_thumbnail_4096.jpg",
+      "alt": "The model's hands are holding the glittering, golden, traditional Irish Claddagh hands, heart and crown shaped soap in their palms after using the product to create a delicate lather over their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/claddagh_soap_st_patricks_day_hero_2025_9_d47a3b88_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "St Patrick’s Day",
+    "Plastic Free",
+    "Vegan",
+    "Keep Clean",
+    "Customised Lush Gifts",
+    "Handmade Soap",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "easter-bunny-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/easter-bunny-bath-bomb",
+  "sourceUrl": "https://www.lush.com/au/en/p/easter-bunny-bath-bomb",
+  "title": "Easter Bunny",
+  "sku": "4735-UN",
+  "size": "240g",
+  "price": {
+    "amount": 20.0,
+    "currency": "AUD",
+    "formatted": "20.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Take a tumble down the rabbit hole and banish those April showers with the uplifting Easter Bunny bath bomb full of bright grapefruit and sweet vanilla.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Alcohol Denat.",
+    "Glycerin",
+    "Aqua (Water)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Titanium Dioxide",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Dipropylene Glycol",
+    "Calcium Sodium Borosilicate",
+    "Propylene Glycol",
+    "Sodium Coco-Sulfate",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Silica",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 47005",
+    "Colour 47005:1",
+    "Colour 42090:2",
+    "Colour 77491",
+    "Colour 15985:1",
+    "Colour 19140:1",
+    "Colour 59040"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_ecom_easter_2025_dc944014_thumbnail_4096.png",
+      "alt": "Easter Bunny. A bath bomb shaped like a bunny sitting in an eggshell. The eggshell is a bright green colour and the bunny is a sparkling, gold lustre poking out of the eggshell with its paws over the edge, ears up, and little buck teeth.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_ecom_easter_2025_dc944014_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_easter_bunny_bath_bomb_easter_hero_2026_1_1_49206845_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_easter_bunny_bath_bomb_easter_hero_2026_1_1_49206845_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_1_2147b700_thumbnail_4096.jpg",
+      "alt": "The Easter Bunny bath bomb, a golden rabbit popping out of a green grass-like base, dissolves in water. It releases vibrant trails of neon yellow and emerald green foam. Shimmering plastic-free glitter sparkles across the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_1_2147b700_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_6_c6fb2f31_thumbnail_4096.jpg",
+      "alt": "The Easter Bunny bath bomb, a golden rabbit popping out of a green grass-like base, floats in vibrant neon green bathwater. It releases swirling trails of bright yellow foam across the surface. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_6_c6fb2f31_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_2_ba97cbfb_thumbnail_4096.jpg",
+      "alt": "A gold-shimmering Easter Bunny bath bomb, shaped like a rabbit emerging from a green egg, floats in vibrant neon green bathwater. It releases swirling trails of bright yellow foam across the surface. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_2_ba97cbfb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_10_c000edf5_thumbnail_4096.jpg",
+      "alt": "A gold-shimmering Easter Bunny bath bomb, shaped like a rabbit in a green egg, floats in vibrant neon green bathwater. It releases swirling trails of bright yellow foam across the surface. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_bunny_bath_bomb_easter_hero_2026_10_c000edf5_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Customised Lush Gifts",
+    "Easter",
+    "Bath Products",
+    "Bath Bombs",
+    "Zesty",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Fruity ",
+    "Gifts for Kids & Teens"
+  ]
+}

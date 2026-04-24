@@ -1,0 +1,83 @@
+{
+  "slug": "enzymion-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/enzymion-moisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/enzymion-moisturiser",
+  "title": "Enzymion (Preserved)",
+  "sku": "217-NA",
+  "size": "45g",
+  "price": {
+    "amount": 38.0,
+    "currency": "USD",
+    "formatted": "$38.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 14,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "When life gives us lemons, we make Enzymion, a light moistrusier and brightening face cream for oily skin that leaves skin feeling fresher and more balanced. ",
+  "ingredients": [
+    "Fresh Organic Lemon Infusion",
+    "Organic Aloe Vera Gel",
+    "Cocoa Butter",
+    "Stearic Acid",
+    "Cold Pressed Organic Avocado Oil",
+    "Glycerin",
+    "Fresh Papaya Juice",
+    "Triethanolamine",
+    "Organic Cold Pressed Evening Primrose Oil",
+    "Cold Pressed Organic Wheatgerm Oil",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Citrus Limon Juice (Fresh Organic Lemon Juice)",
+    "Cetearyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "*Limonene",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzymion_moisturiser_2020_thumbnail_4096.png",
+      "alt": "A swatch of smooth, light, cream coloured Enzymion facial moisturiser.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzymion_moisturiser_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzymion_hero_thumbnail_4096.jpeg",
+      "alt": "Enzymion, a smooth, light, cream coloured facial moisturiser, is swiped across the face with two fingers, visibly sinking in.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzymion_hero_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan Skincare",
+    "Moisturisers",
+    "Brightening Dull Skin",
+    "Clarifying Spot-Prone Skin",
+    "Summer Essentials",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Fresh from head-to-toe",
+    "Awake ",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Fresh Fruit Enzymes",
+    "Aloe Vera",
+    "Spring Skincare"
+  ]
+}

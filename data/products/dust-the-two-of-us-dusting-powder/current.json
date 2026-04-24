@@ -1,0 +1,94 @@
+{
+  "slug": "dust-the-two-of-us-dusting-powder",
+  "url": "https://www.lush.com/us/en_us/p/dust-the-two-of-us-dusting-powder",
+  "sourceUrl": "https://www.lush.com/uk/en/p/dust-the-two-of-us-dusting-powder",
+  "title": "Dust The Two Of Us",
+  "sku": "64655-UK",
+  "size": "70g",
+  "price": {
+    "amount": 12.0,
+    "currency": "GBP",
+    "formatted": "12.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Struggling for Valentine’s Day gift ideas? Here’s one you can enjoy together! Dust clouds of jasmine and ylang ylang over bed or body and set the mood.",
+  "ingredients": [
+    "Zea Mays Starch (Cornstarch)",
+    "Magnesium Carbonate",
+    "Glycine Soja Flour (Soybean Flour)",
+    "Babassu Flour",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Cananga Oil",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 45410:2",
+    "Colour 42090:2",
+    "Colour 77491"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dust_the_two_of_us_dusting_powder_valentines_2025_a8241034_thumbnail_4096.png",
+      "alt": "A swatch of the pale pink Dust The Two Of Us dusting powder is shown against a plain background, highlighting its soft, fine texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dust_the_two_of_us_dusting_powder_valentines_2025_a8241034_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_dust_the_two_of_us_dusting_powder_portrait_valentines_58743518_thumbnail_4.jpg",
+      "alt": "A black bottle of Dust The Two Of Us dusting powder rests on a pink pedestal against a soft pink curtain background illuminated by a heart-shaped spotlight.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_dust_the_two_of_us_dusting_powder_portrait_valentines_58743518_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_dust_the_two_of_us_dusting_powder_lush_2026_03_83a2a1fe_thumbnail_4096.jpg",
+      "alt": "A person wearing pink and white striped pajamas holds a pot of Dust The Two Of Us dusting powder, lifting the lid to reveal the sifter top against a backdrop of pink sheets and polaroid photos.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_dust_the_two_of_us_dusting_powder_lush_2026_03_83a2a1fe_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_dust_the_two_of_us_dusting_powder_lush_2026_10_26160629_thumbnail_4096.jpg",
+      "alt": "A person wearing pink and white striped pajamas smooths the white Dust The Two Of Us dusting powder onto their forearm, a gold bracelet visible on their wrist against a soft pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_dust_the_two_of_us_dusting_powder_lush_2026_10_26160629_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_dust_the_two_of_us_dusting_powder_lush_2026_07_1_85b896a4_thumbnail_4096.jpg",
+      "alt": "A person wearing pink and white striped pajamas shakes the white Dust The Two Of Us dusting powder onto their forearm, a gold bracelet visible on their wrist against a dark red curtain background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_dust_the_two_of_us_dusting_powder_lush_2026_07_1_85b896a4_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Deodorants & Dusting Powders",
+    "Valentine’s Day Gift Ideas",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Customised Lush Gifts",
+    "Dusting Powders",
+    "Valentine's Bestie Baskets  ",
+    "Sex Bomb",
+    "Floral",
+    "Leaving Soon"
+  ]
+}

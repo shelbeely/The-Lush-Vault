@@ -1,0 +1,97 @@
+{
+  "slug": "avobath-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/avobath-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/avobath-bath-bomb",
+  "title": "Avobath",
+  "sku": "5019-NA",
+  "size": "175g",
+  "price": {
+    "amount": 6.5,
+    "currency": "USD",
+    "formatted": "$6.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Guac this way to ultimate softness with a little help from fresh avocado. Take a long soak and let your skin drink up the moisturising goodness of your favourite mashable green fruit.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Persea Gratissima Fruit (Fresh Avocado)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Yellow 5 Lake",
+    "Blue 1 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avobath_bath_bomb_2026_02_2d270a3e_thumbnail_4096.png",
+      "alt": "A bright green, spherical bath bomb called Avobath Bath bomb with a speckled texture. The round top tapers into a faceted base, all set against a solid black background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avobath_bath_bomb_2026_02_2d270a3e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_avobath_bath_bomb_wbbd_model_hero_2026_27_0681d8c7_thumbnail_4096.jpg",
+      "alt": "The green Avobath Bath bomb sits on the white edge of a bathtub filled with shimmering green water. In the background, lit candles rest on a small wooden stand against a white tiled wall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_avobath_bath_bomb_wbbd_model_hero_2026_27_0681d8c7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_avobath_bath_bomb_wbbd_model_hero_2026_2_1888097c_thumbnail_4096.jpg",
+      "alt": "Hands hold the bright green Avobath Bath bomb as it fizzes in a tub of pale green water. A stream of frothy, light green bubbles flows from the bomb, with submerged legs visible in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_avobath_bath_bomb_wbbd_model_hero_2026_2_1888097c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_avobath_bath_bomb_wbbd_hero_2026_7_58cbb3e3_thumbnail_4096.jpg",
+      "alt": "Top-down view of the Avobath Bath bomb dissolving in vibrant green water. A concentrated cluster of frothy, light green bubbles fizzes in the center of the shimmering, lime-colored bathwater.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_avobath_bath_bomb_wbbd_hero_2026_7_58cbb3e3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_avobath_bath_bomb_wbbd_model_hero_2026_22_1_3e7e2cad_thumbnail_4096.jpg",
+      "alt": "A close-up view of a hand with a pink and black tip manicure resting gently on the surface of vibrant, turquoise-green bathwater. The white tub's edge is visible.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_avobath_bath_bomb_wbbd_model_hero_2026_22_1_3e7e2cad_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Vegan",
+    "Plastic Free",
+    "Rewild your routine",
+    "Our bestselling collection of bathing beauties",
+    "Keep Your Cool with Summer Essentials",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Awake ",
+    "Citrus",
+    "LUSH x ONE PIECE",
+    "Customised Lush Gifts",
+    "Citrus & Uplifting",
+    "Fresh & Playful"
+  ]
+}

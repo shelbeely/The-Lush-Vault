@@ -1,0 +1,61 @@
+{
+  "slug": "fruit-fest-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/fruit-fest-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/fruit-fest-knot-wrap",
+  "title": "Fruit Fest Knot Wrap",
+  "sku": "216604-UK",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Create a personalised Mother's Day gift of their favourite products by wrapping them up in this fabulously fruity 50cm x 50cm reusable gift wrap!",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_2024__a789c8f9_thumbnail_4096.png",
+      "alt": "Fruit Fest. A square knot wrap with a dark black background. Contrasting, brightly coloured fruits like oranges and limes are drawn on top. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_2024__a789c8f9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_2024__044e8e20_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_2024__044e8e20_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_texture_hero_2024_701787f9_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the Fruit Fest knot wrap focusing on the folds and sheen of the fabric. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fruit_fest_knot_wrap_texture_hero_2024_701787f9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fruit__fest_knot_wrap_hero_2024_2_78d27af4_thumbnail_4096.jpg",
+      "alt": "The image shows the model sitting on the floor with a pale blue bathrobe on as they receive a gift wrapped in the Fruit Fest knot wrap.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fruit__fest_knot_wrap_hero_2024_2_78d27af4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fruit__fest_knot_wrap_hero_2024_2_78d27af4_thumbnail_40_5288ec57_thumbnail_4.jpg",
+      "alt": "The image shows the model sitting on the floor with a pale blue bathrobe on as they receive a gift wrapped in the Fruit Fest knot wrap.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fruit__fest_knot_wrap_hero_2024_2_78d27af4_thumbnail_40_5288ec57_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps"
+  ]
+}

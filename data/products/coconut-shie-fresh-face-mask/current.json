@@ -1,0 +1,87 @@
+{
+  "slug": "coconut-shie-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/coconut-shie-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/coconut-shie-fresh-face-mask",
+  "title": "Coconut Shie",
+  "sku": "62995-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 12,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This moisturising coconut face mask steps right up to the task of drenching skin in comfortable hydration, leaving behind soothed, soft and supple complexions.",
+  "ingredients": [
+    "Kaolin",
+    "Glycerin",
+    "Cocos Nucifera Fruit Powder (Coconut Milk Powder)",
+    "Coconut Water",
+    "Zea Mays Starch (Cornstarch)",
+    "Cocos Nucifera Fruit Extract (Coconut Yoghurt)",
+    "Cocos Nucifera Flower Extract (Coconut Blossom Nectar)",
+    "Coconut",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "Parfum",
+    "Zinc Oxide"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_shie_face_mask_ecom_2025_4474ab32_thumbnail_4096.png",
+      "alt": "Coconut Shie. A neatly smudged swatch of thick, ivory-coloured, smooth face mask. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_shie_face_mask_ecom_2025_4474ab32_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_coconut_shie_face_mask_2025_01_0470a54e_thumbnail_4096.jpg",
+      "alt": "An image of the model's face on a warm, beige background. Their copper hair is tied back, and they have applied the thick Coconut Shie face mask onto their cheek as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_coconut_shie_face_mask_2025_01_0470a54e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_coconut_shie_face_mask_2025_07_8512201d_thumbnail_4096.jpg",
+      "alt": "An image of the model's face on a warm, beige background. Their copper hair is tied back, and they have applied the thick Coconut Shie face mask over their full face as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_coconut_shie_face_mask_2025_07_8512201d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_coconut_shie_face_mask_texture_2025_01_116af645_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the creamy, smooth Coconut Shie face mask product, focusing on the thick consistency. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_coconut_shie_face_mask_texture_2025_01_116af645_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_coconut_shie_fresh_face_mask_lush_2025_01_0e3cc9a6_thumbnail_4096.jpg",
+      "alt": "The image shows a clear, recycled plastic, open pot of Coconut Shie face mask with teal labels, the lid leaning on the side and a smeared swatch of the textured product on the cream-tiled floor beside the pot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_coconut_shie_fresh_face_mask_lush_2025_01_0e3cc9a6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Skincare",
+    "Vegan",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Face Masks",
+    "Skincare",
+    "Vanilla",
+    "Gourmand",
+    "Hydrating Dry Skin",
+    "Skin Care for Cold Weather"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "by-the-seaside-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/by-the-seaside-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/by-the-seaside-knot-wrap",
+  "title": "By the Seaside Knot Wrap",
+  "sku": "216785-NA",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 5,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "By the Seaside Knot Wrap is reusable gift wrapping made from 100% recycled plastic bottles, that doubles-up as a wearable bandana or scarf.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_ecom_2024_720ceacc_thumbnail_4096.png",
+      "alt": "By The Seaside. A square knot wrap with a drawn, floral border depicting a sunny beach day complete with Brighton Pier, blue skies, deck chairs and seagulls. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_ecom_2024_720ceacc_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_1_6d136553_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hands as they stand at a counter and neatly tie the By The Seasing knot wrap around a gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_1_6d136553_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_2_dcb4fee8_thumbnail_4096.jpg",
+      "alt": "The image shows the model as they sit at a table and neatly tie the By The Seaside knot wrap around a gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_2_dcb4fee8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_3_699385c9_thumbnail_4096.jpg",
+      "alt": "The image shows the model as they sit at a table and neatly tie the By The Seaside knot wrap around a gift by lifting the corners and bringing them together. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_3_699385c9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_5_dd043a81_thumbnail_4096.jpg",
+      "alt": "The image shows the model as they sit at a table and neatly tie the By The Seaside knot wrap around a gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_2024_5_dd043a81_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_texture_2024_bdb6a2af_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the By The Seaside knot wrap with the lighting focusing on the texture of the material and the vibrant colours. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_hero_texture_2024_bdb6a2af_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_ecom_2024_d11f61f0_thumbnail_4096.png",
+      "alt": "By The Seaside. A square knot wrap with a drawn, floral border depicting a sunny beach day complete with Brighton Pier, blue skies, deck chairs and seagulls. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/by_the_seaside_knot_wrap_ecom_2024_d11f61f0_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

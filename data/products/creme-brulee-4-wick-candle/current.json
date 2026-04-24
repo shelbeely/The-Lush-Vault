@@ -1,0 +1,54 @@
+{
+  "slug": "creme-brulee-4-wick-candle",
+  "url": "https://www.lush.com/us/en_us/p/creme-brulee-4-wick-candle",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/creme-brulee-4-wick-candle",
+  "title": "Crème Brûlée 4 Wick Candle",
+  "sku": "214898-NA",
+  "size": "425g",
+  "price": {
+    "amount": 55.0,
+    "currency": "USD",
+    "formatted": "$55.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 29,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Dessert is served in creamy notes of vanilla, gently layered with cosy sandalwood and gourmand tonka.",
+  "ingredients": [
+    "Coumarin"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_4_wick_candle_2023_d98d21ee_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_4_wick_candle_2023_d98d21ee_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Creme-Brulee-4-Wick-Candle-OPUS-Hero-01_dc116ba2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Creme-Brulee-4-Wick-Candle-OPUS-Hero-01_dc116ba2_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Candles",
+    "Gourmand",
+    "Lifestyle",
+    "Autumn & Winter Fragrances",
+    "Home Fragrances",
+    "Cosy Season",
+    "Blissful Bather Gifts"
+  ]
+}

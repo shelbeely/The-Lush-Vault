@@ -1,0 +1,95 @@
+{
+  "slug": "conga-shower-jelly",
+  "url": "https://www.lush.com/us/en_us/p/conga-shower-jelly",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/conga-shower-jelly",
+  "title": "Conga",
+  "sku": "9777-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 49,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Come on shake your jelly baby, use this Conga! You can’t resist this sweet raspberry-scented lather any longer.",
+  "ingredients": [
+    "Glycerin",
+    "Almond Milk",
+    "Sodium Laureth Sulfate",
+    "Propylene Glycol",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Parfum",
+    "Rubus Idaeus Juice (Fresh Raspberry Juice)",
+    "Titanium Dioxide",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Artemisia Pallens Herb Oil (Davana Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Aqua (Water)",
+    "Alpha-Isomethyl Ionone",
+    "Benzyl Alcohol",
+    "*Coumarin",
+    "*Limonene",
+    "Red 28"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/conga_shower_jelly_2020_thumbnail_4096.png",
+      "alt": "Conga. A bubblegum pink, glossy-looking, cylindrical-shaped shower jelly, which is slightly wider at the base than at the top.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/conga_shower_jelly_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_03_7bc69b2e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_03_7bc69b2e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_07_f4b5fb81_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_07_f4b5fb81_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_05_016d6223_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_05_016d6223_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_10_ffd639ad_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/conga_jelly_2024_10_ffd639ad_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Products",
+    "Shower Jellies",
+    "Vegan",
+    "Vegan Shower Products",
+    "Summer Essentials",
+    "Shower in Summertime Freshness",
+    "Bath and Shower",
+    "The Adventurer Mom",
+    "Cooling",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Summer Treats",
+    "Berries & Cream Trifle",
+    "Gifts Under $10",
+    "Customised Lush Gifts"
+  ]
+}

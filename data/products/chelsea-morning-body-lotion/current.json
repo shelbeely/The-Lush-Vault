@@ -1,0 +1,52 @@
+{
+  "slug": "chelsea-morning-body-lotion",
+  "url": "https://www.lush.com/us/en_us/p/chelsea-morning-body-lotion",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/chelsea-morning-body-lotion",
+  "title": "Chelsea Morning",
+  "sku": "64417-NA",
+  "size": "64417-NA",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Rise and shine!",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_body_lotion_ecom_2025_8399d4cf_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_body_lotion_ecom_2025_8399d4cf_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/XL_kitchen_box_hero_portrait_2025_4cb01ced_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/XL_kitchen_box_hero_portrait_2025_4cb01ced_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/standard_kitchen_box_hero_portrait_2025_cc7a08bf_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/standard_kitchen_box_hero_portrait_2025_cc7a08bf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/shower_kitchen_box_hero_portrait_2025_25644ce4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/shower_kitchen_box_hero_portrait_2025_25644ce4_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

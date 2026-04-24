@@ -1,0 +1,100 @@
+{
+  "slug": "big-blue-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/big-blue-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/big-blue-bath-bomb",
+  "title": "Big Blue",
+  "sku": "5020-NA",
+  "size": "190g",
+  "price": {
+    "amount": 6.5,
+    "currency": "USD",
+    "formatted": "$6.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This calming bath bomb evokes a summer’s day at the seaside: perfect for drifting off.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Coarse Sea Salt",
+    "Maris Sal (Fine Sea Salt)",
+    "Parfum",
+    "Laminaria Longissima Extract (Kombu Seaweed)",
+    "Lemon Oil",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Seaweed Absolute",
+    "Aqua (Water)",
+    "Dipropylene Glycol",
+    "*Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1",
+    "Yellow 5"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_blue_bath_bomb_2026_03_4347c9e3_thumbnail_4096.png",
+      "alt": "A spherical Big Blue bath bomb with a crisp white top and a vibrant light blue body. The textured surface is flecked with small bits of seaweed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_blue_bath_bomb_2026_03_4347c9e3_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_big_blue_bath_bomb_wbbd_model_hero_2026_10_08d93045_thumbnail_4096.jpg",
+      "alt": "The blue and white Big Blue bath bomb sits on the white edge of a bathtub filled with bright blue water. In the background, a lit candle rests on a wooden stand against white tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_big_blue_bath_bomb_wbbd_model_hero_2026_10_08d93045_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_big_blue_bath_bomb_wbbd_model_hero_2026_3_165358a3_thumbnail_4096.jpg",
+      "alt": "Hands hold the Big Blue bath bomb as it fizzes in a tub of bright blue water. A cloud of frothy blue foam surrounds the bomb, while small green pieces of seaweed float throughout the water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_big_blue_bath_bomb_wbbd_model_hero_2026_3_165358a3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_big_blue_bath_bomb_wbbd_hero_2026_8_1e023e3b_thumbnail_4096.jpg",
+      "alt": "A top-down view of the Big Blue bath bomb fizzing in turquoise water. The white sphere is surrounded by a halo of blue and white foam, with small green seaweed strands floating in the vibrant bathwater.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_big_blue_bath_bomb_wbbd_hero_2026_8_1e023e3b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_big_blue_bath_bomb_wbbd_hero_2026_15_9cf76b9d_thumbnail_4096.jpg",
+      "alt": "A top-down view of the dissolved Big Blue bath bomb in turquoise water. A frothy white cloud of bubbles sits in the center, surrounded by floating strands of dark green seaweed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_big_blue_bath_bomb_wbbd_hero_2026_15_9cf76b9d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_big_blue_bath_bomb_wbbd_model_hero_2026_8_d57c27bc_thumbnail_4096.jpg",
+      "alt": "A hand with pale pink nails skims turquoise water filled with seaweed from the Big blue bath bomb. Submerged legs are visible in the background of the bright, ocean-like bathwater.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_big_blue_bath_bomb_wbbd_model_hero_2026_8_d57c27bc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Plastic Free",
+    "Corporate Gifts",
+    "Muscle Recovery",
+    "Rewild your routine",
+    "Ocean-inspired faves",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "LUSH x ONE PIECE",
+    "Customised Lush Gifts",
+    "For the Nature-Lover",
+    "Calming & Relaxing",
+    "Woody & Grounding",
+    "Fresh & Playful"
+  ]
+}

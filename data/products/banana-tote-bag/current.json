@@ -1,0 +1,62 @@
+{
+  "slug": "banana-tote-bag",
+  "url": "https://www.lush.com/us/en_us/p/banana-tote-bag",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/banana-tote-bag",
+  "title": "Banana",
+  "sku": "220711-NA",
+  "size": "Each",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 17,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "You need a tote bag just as fresh as your cosmetics products! Made from 100% organic cotton and lightweight so you can fold it up ready for your next shopping spree.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_fruit_tote_bag_ecom_2025_9a59aed8_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_fruit_tote_bag_ecom_2025_9a59aed8_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_banana_fruit_tote_bag_2026_1_416c06c2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_banana_fruit_tote_bag_2026_1_416c06c2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_banana_fruit_tote_bag_2026_2_b89b5f0f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_banana_fruit_tote_bag_2026_2_b89b5f0f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_banana_fruit_tote_bag_2026_3_292914f2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_banana_fruit_tote_bag_2026_3_292914f2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_group_fruit_tote_bag_2026_48_1_27fcf8b0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_group_fruit_tote_bag_2026_48_1_27fcf8b0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Valentine’s Day Gift Ideas",
+    "Valentine's Bestie Baskets  ",
+    "Gifts for Kids & Teens",
+    "Banana Beauty"
+  ]
+}

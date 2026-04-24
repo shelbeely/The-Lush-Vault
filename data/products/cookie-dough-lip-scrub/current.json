@@ -1,0 +1,71 @@
+{
+  "slug": "cookie-dough-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/cookie-dough-lip-scrub",
+  "sourceUrl": "https://www.lush.com/au/en/p/cookie-dough-lip-scrub",
+  "title": "Cookie Dough",
+  "sku": "1554-AU",
+  "size": "25g",
+  "price": {
+    "amount": 14.0,
+    "currency": "AUD",
+    "formatted": "14.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "If you’re a fan of getting your hand stuck in the cookie jar, get your fingers stuck into this cocoa and vanilla lip scrub! ",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Sucrose (Granulated Sugar)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Maris Sal (Fine Sea Salt)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Balsam Fir Resin",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Theobroma Cacao Seed Powder (Fair Trade Cocoa Powder)",
+    "Titanium Dioxide",
+    "*Limonene",
+    "Aroma"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_scrub_2020_671c646b_thumbnail_4096.png",
+      "alt": "A sample of golden caster sugar coloured Cookie Dough sugar lip scrub.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_scrub_2020_671c646b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_01_Digital_196f2106_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_01_Digital_196f2106_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_05_Quiz_de_c1159291_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_05_Quiz_de_c1159291_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_06_Quiz_de_b72b08e6_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas-2022-salted-caramel-lip-scrub-hero_06_Quiz_de_b72b08e6_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bestsellers"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "english-countryside-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/english-countryside-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/english-countryside-shower-gel",
+  "title": "English Countryside",
+  "sku": "63483-NA",
+  "size": "250ml",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Out in the sticks",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/English_Countryside_Shower_gel_ecom_march_kitchen_box_2_3a292703_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/English_Countryside_Shower_gel_ecom_march_kitchen_box_2_3a292703_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath_box_hero_march_kitchen_box_2025_landscape_9aaa1ad6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath_box_hero_march_kitchen_box_2025_landscape_9aaa1ad6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower_box_hero_march_kitchen_box_2025_landscape_0874dadd_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower_box_hero_march_kitchen_box_2025_landscape_0874dadd_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

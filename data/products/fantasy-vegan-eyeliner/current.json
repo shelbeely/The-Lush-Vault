@@ -1,0 +1,79 @@
+{
+  "slug": "fantasy-vegan-eyeliner",
+  "url": "https://www.lush.com/us/en_us/p/fantasy-vegan-eyeliner",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fantasy-vegan-eyeliner",
+  "title": "Fantasy",
+  "sku": "5755-NA",
+  "size": "5g",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 12,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Go for gold with Fantasy, our decadent golden metallic shade of vegan liquid eyeliner.",
+  "ingredients": [
+    "Fair Trade Organic Aloe Vera Gel",
+    "Calcium Sodium Borosilicate",
+    "Aqua (Water)",
+    "Styrene/Acrylates/Ammonium Methacrylate Copolymer",
+    "Stearic Acid",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Triethanolamine",
+    "Glycerin",
+    "Glyceryl Stearate SE",
+    "Silica",
+    "Xanthan Gum",
+    "Polyvinylpyrrolidone (PVP)",
+    "Butylene Glycol",
+    "Sodium Laureth Sulfate",
+    "Potassium Sorbate",
+    "Tetrasodium EDTA",
+    "Ammonium Hydroxide",
+    "Tin Oxide",
+    "Iron Oxides",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/venus_eyeliner_2020_thumbnail_4096.png",
+      "alt": "A swatch of shimmery gold liquid eyeliner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/venus_eyeliner_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/hero_fantasy_thumbnail_4096.png",
+      "alt": "A person with dark hair pouts, their eyelids covered in shimmery gold Fantasy eyeliner and their lips in bright red lipstick.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/hero_fantasy_thumbnail_128.png"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Mascara & Eyeliner",
+    "Vegan Makeup",
+    "Makeup",
+    "Summer Essentials",
+    "Lush Living Room ",
+    "Halloween Makeup",
+    "Gifts for Aquarius",
+    "For the Dreamer"
+  ]
+}

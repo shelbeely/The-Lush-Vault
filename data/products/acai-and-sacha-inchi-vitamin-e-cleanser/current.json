@@ -1,0 +1,91 @@
+{
+  "slug": "acai-and-sacha-inchi-vitamin-e-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/acai-and-sacha-inchi-vitamin-e-cleanser",
+  "title": "Acai & Sacha Inchi",
+  "sku": "63719-NA",
+  "size": "60g",
+  "price": {
+    "amount": 23.0,
+    "currency": "USD",
+    "formatted": "$23.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Oil-based cleansing, but make it light! Packed with vitamin E rich oils and naturally active ingredients to keep your complexion looking fresh and clear.",
+  "ingredients": [
+    "Sesame Oil",
+    "Juniperberry Water",
+    "Cera Alba (Beeswax)",
+    "Mel (Fair Trade Organic Honey)",
+    "Plukenetia Volubilis Seed Oil (Organic Sacha Inchi Oil)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Açaí Oil",
+    "Fresh Fennel Extracted In Organic Extra Virgin Olive Oil",
+    "Fresh Turmeric Root Extracted In Organic Extra Virgin Olive Oil",
+    "Glycerin",
+    "Mel (Manuka Honey)",
+    "Juniperberry Oil",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Kenyan Geranium Oil",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Tincture of Benzoin",
+    "Benzoic Acid",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Limonene"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/acai_and_sacha_inchi_vitamin_e_facial_cleanser_ecom_202_8a33dea8_thumbnail_4.png",
+      "alt": "Acai And Sacha Inchi. A neatly smudged swatch of creamy, soft, buttery-yellow facial cleanser. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/acai_and_sacha_inchi_vitamin_e_facial_cleanser_ecom_202_8a33dea8_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_acai_and_sacha_inchi_cleansing_balm_lush_2025_12_f99ceb9f_thumbnail_4096.jpg",
+      "alt": "A person with a shaved head and facial piercings laughs as they apply a dab of Acai And Sacha Inchi facial cleanser to their cheek. They have an eyebrow bar and nose ring, and are shown against a solid olive-green background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_acai_and_sacha_inchi_cleansing_balm_lush_2025_12_f99ceb9f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_acai_and_sacha_inchi_cleansing_balm_lush_2025_57_6b31966e_thumbnail_4096.jpg",
+      "alt": "A person with a shaved head and facial piercings smiles with their eyes closed while massaging the Acai And Sacha Inchi cleanser into their face. They have tattooed hands and are shown from the chest up against a plain olive-green background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_acai_and_sacha_inchi_cleansing_balm_lush_2025_57_6b31966e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_acai_and_sacha_inchi_cleansing_balm_lush_2025_67_98f29f1e_thumbnail_4096.jpg",
+      "alt": "A person with a shaved head and facial piercings smiles while using a white cotton pad to wipe the Acai And Sacha Inchi cleanser from their cheek. They have tattooed hands and are shown against a solid olive-green background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_acai_and_sacha_inchi_cleansing_balm_lush_2025_67_98f29f1e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_acai_and_sacha_inchi_cleansing_balm_lush_2025_1_0f83bdc7_thumbnail_4096.jpg",
+      "alt": "An open brown glass jar of Lush \"Acai & Sacha Inchi\" Vitamin E facial cleanser sits on a beige tiled surface. A thick dab of the pale yellow, creamy product is smeared on the tiles next to the jar and its black lid.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_acai_and_sacha_inchi_cleansing_balm_lush_2025_1_0f83bdc7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/acai_and_sacha_inchi_vitamin_e_facial_cleanser_texture__c8d27539_thumbnail_4.jpg",
+      "alt": "A super close-up image showing diagonal, overlapping smears of the thick, creamy, pale yellow Lush \"Acai & Sacha Inchi\" Vitamin E facial cleanser. The smooth product has a matte finish and subtle ridged textures.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/acai_and_sacha_inchi_vitamin_e_facial_cleanser_texture__c8d27539_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Skincare",
+    "Cleansers",
+    "Clarifying Spot-Prone Skin",
+    "Skincare By Needs",
+    "Spring Cleaning",
+    "Spring Skincare",
+    "Balancing Oily Skin"
+  ]
+}

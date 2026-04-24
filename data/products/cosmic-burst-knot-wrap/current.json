@@ -1,0 +1,66 @@
+{
+  "slug": "cosmic-burst-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/cosmic-burst-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/cosmic-burst-knot-wrap",
+  "title": "Cosmic Burst Knot Wrap",
+  "sku": "221156-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Wrap oodles of Lush goodies in this bold, colourful Knot Wrap, a reusable and sustainable alternative to traditional gift wrapping — bound to make a statement. ",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [
+    "Organic Cotton",
+    "Size: Medium - 70cm"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap_01_Digital_Adrian_908x_2cd867ec_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap_01_Digital_Adrian_908x_2cd867ec_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap-Hero-Portrait_Digital__1dcee831_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap-Hero-Portrait_Digital__1dcee831_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap-PDP-Hero-01_e0a2e8e1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap-PDP-Hero-01_e0a2e8e1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-wrap-texture-hero-portrait__967f1d9a_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-wrap-texture-hero-portrait__967f1d9a_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap_01_Digital_Adrian_908x_56e92b1d_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Cosmic-Burst-Knot-Wrap_01_Digital_Adrian_908x_56e92b1d_thumbnail_1.png"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Lifestyle",
+    "Knot Wrap Archive"
+  ]
+}

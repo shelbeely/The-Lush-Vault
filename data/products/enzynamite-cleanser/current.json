@@ -1,0 +1,85 @@
+{
+  "slug": "enzynamite-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/enzynamite-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/enzynamite-cleanser",
+  "title": "Enzynamite",
+  "sku": "62360-NA",
+  "size": "75g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 9,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "For radiant results reach for an enzymic cleanser. Full of fresh fruits and cleansing kaolin — you’ll be glowing in no time.",
+  "ingredients": [
+    "Glycerin",
+    "Kaolin",
+    "Wheat Germ",
+    "Carica Papaya Fruit (Fresh Papaya)",
+    "Ananas Sativus Fruit (Fresh Pineapple)",
+    "Fresh Lime",
+    "Brazilian Orange Oil",
+    "*Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_cleanser_ecom_2025_1_21edeaab_thumbnail_4096.png",
+      "alt": "Enzynamite. A round, smudged swatch of pale, golden, creamy face mask with visible textured exfoliating pieces.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_cleanser_ecom_2025_1_21edeaab_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_02_192f4d0d_thumbnail_4096.jpg",
+      "alt": "The image shows the model smiling into the distance as they apply the creamy Enzynamite face mask to their cheek. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_02_192f4d0d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_13_f2ddfae9_thumbnail_4096.jpg",
+      "alt": "The model is wrapped in a fluffy, white towel as they use both hands to gently apply the Enzynamite face mask. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_13_f2ddfae9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_15_d1705bd9_thumbnail_4096.jpg",
+      "alt": "The model is wrapped in a fluffy, white towel, smiling into the distance with their face evenly coated in the Enzynamite face mask.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_fresh_face_cleanser_2024_15_d1705bd9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_cleanser_texture_2024_70483d63_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzynamite_cleanser_texture_2024_70483d63_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Face Masks",
+    "Fresh",
+    "Brightening Dull Skin",
+    "Cleansers",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Fresh Fruit Enzymes"
+  ]
+}

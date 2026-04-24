@@ -1,0 +1,106 @@
+{
+  "slug": "glory-conditioner",
+  "url": "https://www.lush.com/us/en_us/p/glory-conditioner",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/glory-conditioner",
+  "title": "Glory",
+  "sku": "60537-NA",
+  "size": "95g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 47,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Inspired by a homemade recipe, this softening afro and curly hair conditioner will deeply moisturise and leave it anything other than medi-okra.",
+  "ingredients": [
+    "Cocos Nucifera Fruit Extract (Coconut Cream)",
+    "Fresh Okra Gel",
+    "Glycerin",
+    "Cetearyl Alcohol",
+    "Cetrimonium Chloride",
+    "Ethyl Macadamiate",
+    "Propylene Glycol",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Olea Europaea Fruit Oil (Olive Oil)",
+    "Behentrimonium chloride",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Aqua (Water)",
+    "Phenoxyethanol",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Cinnamal",
+    "*Citral",
+    "Coumarin",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "CI 75810 (Chlorophyllin)"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glory_conditioner_2020_thumbnail_4096.png",
+      "alt": "A swatch of thick, slightly textured, light green coloured Glory conditioner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glory_conditioner_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_9_e7533304_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_9_e7533304_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_8_a4526adf_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_8_a4526adf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_7_b2fa563b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_7_b2fa563b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_6_94cf580d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_6_94cf580d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_5_2b3420b8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_5_2b3420b8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Conditioners",
+    "Hair Care",
+    "Vegan",
+    "Vegan Hair Products",
+    "Rewild your routine",
+    "Natural Care For Textured Hair",
+    "Self-care Under $20",
+    "For the Artist",
+    "Spicy",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Care for Damaged Hair",
+    "As seen at Curly Con",
+    "Ways to Shop"
+  ]
+}

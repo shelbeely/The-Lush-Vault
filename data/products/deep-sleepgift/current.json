@@ -1,0 +1,75 @@
+{
+  "slug": "deep-sleepgift",
+  "url": "https://www.lush.com/us/en_us/p/deep-sleepgift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/deep-sleepgift",
+  "title": "Deep Sleep",
+  "sku": "63456-NA",
+  "size": "Each",
+  "price": {
+    "amount": 26.0,
+    "currency": "USD",
+    "formatted": "$26.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 43,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "While we can’t guarantee deep sleep, this gift of soothing sweet and lavender-scented soaks will give you the head start you’re looking for. ",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_gift_ecom_2025_97da0066_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_gift_ecom_2025_97da0066_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_ayr_gift_2025_01_259626d3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_ayr_gift_2025_01_259626d3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_epsom_salt_cube_hero_2023_5_558f357b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_epsom_salt_cube_hero_2023_5_558f357b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_5c95cf58_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_5c95cf58_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_hero_image_newsite_2021-3_7ed96d4a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_hero_image_newsite_2021-3_7ed96d4a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Bomb Gift Sets",
+    "Lavender",
+    "Gifts",
+    "Gifts for Every Budget",
+    "Gifts by Recipient",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Dad",
+    "Gifts for Mum",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Mother’s Day",
+    "Gifts Under $50"
+  ]
+}

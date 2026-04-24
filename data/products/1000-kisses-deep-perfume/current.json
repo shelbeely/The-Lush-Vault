@@ -1,0 +1,62 @@
+{
+  "slug": "1000-kisses-deep-perfume",
+  "url": "https://www.lush.com/us/en_us/p/1000-kisses-deep-perfume",
+  "title": "1000 Kisses Deep",
+  "sku": "1643-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 135.0,
+    "currency": "USD",
+    "formatted": "$135.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "This fragrance has you at first breath with a spark of clean mandarin to lift your heart, followed by a deep and distinctive amber perfume that’ll hold your hand and never let go.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "*Limonene",
+    "Coumarin",
+    "Aqua (Water)",
+    "Glycerin",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "*Anise Alcohol",
+    "*Citral",
+    "*Eugenol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1000_kisses_deep_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with amber liquid. A black label reads 'The Perfume Library' and '1000 Kisses Deep'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1000_kisses_deep_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1000_kisses_deep_perfume_hero_image_2021_thumbnail_4096.jpg",
+      "alt": "1000 Kisses Deep, a bottled, black label perfume, lies flat, with light shining through it, creating a golden cast of light.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1000_kisses_deep_perfume_hero_image_2021_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:58:39.000Z",
+  "updatedAt": "2026-04-24T17:58:39.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Citrus",
+    "Autumn & Winter Fragrances"
+  ]
+}

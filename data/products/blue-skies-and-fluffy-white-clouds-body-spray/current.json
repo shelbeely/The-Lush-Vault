@@ -1,0 +1,71 @@
+{
+  "slug": "blue-skies-and-fluffy-white-clouds-body-spray",
+  "url": "https://www.lush.com/us/en_us/p/blue-skies-and-fluffy-white-clouds-body-spray",
+  "sourceUrl": "https://www.lush.com/uk/en/p/blue-skies-and-fluffy-white-clouds-body-spray",
+  "title": "Blue Skies And Fluffy White Clouds",
+  "sku": "63863-UK",
+  "size": "200ml",
+  "price": {
+    "amount": 32.0,
+    "currency": "GBP",
+    "formatted": "32.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Ground yourself with this body spray of woody olibanum and earthy patchouli. Soon it will all be Blue Skies And Fluffy White Clouds.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Aqua (Water)",
+    "Dark Sumatran Patchouli Oil",
+    "Glycerin",
+    "Parfum",
+    "Frankincense Resinoid",
+    "Cinnamomum Zeylanicum Leaf Oil (Cinnamon Leaf Oil)",
+    "Synthetic Musk",
+    "Amyl Cinnamal",
+    "*Eugenol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_200ml_202_8a7332cf_thumbnail_4.png",
+      "alt": "A recycled black plastic LUSH body spray bottle with a trigger nozzle stands upright with a blue rimmed label with white text that reads \"Blue Skies and Fluffy White Clouds Body Spray\".",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_200ml_202_8a7332cf_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_3_2e8c7320_thumbnail_4096.jpg",
+      "alt": "The image shows a recycled black plastic LUSH spray bottle of \"Blue Skies and Fluffy White Clouds\" sitting on a pile of books on a light blue bedside table. A matching lamp, alarm clock, and glasses sit nearby, next to a blue bed and wall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_3_2e8c7320_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_02__feacdbc8_thumbnail_40.jpg",
+      "alt": "The image shows a light-toned hand spraying a bottle of LUSH 'Blue Skies and Fluffy White Clouds' body spray. A warm-toned hand is cupped below, catching the fine mist against a bright, sky-blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_02__feacdbc8_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_1_954b1a10_thumbnail_4096.jpg",
+      "alt": "The image shows a bottle of LUSH 'Blue Skies and Fluffy White Clouds' body spray on a glass shelf. A teal towel hangs below, with a blue cup and brushes nearby, against a bright, tiled, sky-blue bathroom wall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_body_spray_2025_1_954b1a10_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Body Sprays",
+    "Autumn & Winter Fragrances",
+    "Gifts for Dad",
+    "Fragrances"
+  ]
+}

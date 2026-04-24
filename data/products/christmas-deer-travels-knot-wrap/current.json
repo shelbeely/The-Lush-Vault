@@ -1,0 +1,66 @@
+{
+  "slug": "christmas-deer-travels-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/christmas-deer-travels-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/christmas-deer-travels-knot-wrap",
+  "title": "Christmas Deer Travels Knot Wrap",
+  "sku": "215457-UN",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Showcasing Lush's Christmas Deer's dearest travel memories, this Knot Wrap is made from 100% recycled plastic bottles.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [
+    "Size: Small - 35-55cm",
+    "Pattern: Conversational",
+    "Pattern: Characters"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knot_wrap_ecom_2023_96a6347c_thumbnail_4096.png",
+      "alt": "Christmas Deer Travels. A light pink knot wrap with images of travel pictures, postcards and trinkets. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knot_wrap_ecom_2023_96a6347c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knot_wrap_ecom_2023_1_4d8c1c31_thumbnail_4096.png",
+      "alt": "Christmas Deer Travels. A light pink knot wrap with images of travel pictures, postcards and trinkets. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knot_wrap_ecom_2023_1_4d8c1c31_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_hero_20234126__ef2e5698_thumbnail_4096.jpg",
+      "alt": "Christmas Deer Travels Knot Wrap is shown two ways: folded and wrapping a gift on a dark chromatic platform among bold shapes.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_hero_20234126__ef2e5698_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_christmas_2023_0ee1ce60_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_christmas_2023_0ee1ce60_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_2023_1_fb3b54cc_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/christmas_deer_travels_knotwrap_2023_1_fb3b54cc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Christmas"
+  ]
+}

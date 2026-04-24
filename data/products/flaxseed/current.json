@@ -1,0 +1,81 @@
+{
+  "slug": "flaxseed",
+  "url": "https://www.lush.com/us/en_us/p/flaxseed",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/flaxseed",
+  "title": "Flaxseed",
+  "sku": "63162-NA",
+  "size": "35g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 40,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Your flaxseed fave",
+  "ingredients": [
+    "Rosemary Infusion",
+    "Glycerin",
+    "Propylene Glycol",
+    "Organic Linseed Oil",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Moringa Oil",
+    "Linum Usitatissimum Seed Extract (Linseed Extract)",
+    "Stearic Acid",
+    "Triticum Vulgare Germ Oil (Wheatgerm Oil)",
+    "Cetearyl Alcohol",
+    "Mel (Fair Trade Organic Honey)",
+    "Triethanolamine",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Hinoki Oil",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Cera Alba (Beeswax)",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush-Club-2025-Flaxseed-Hand-Cream_ecom_blob_Digital_Ad_0e1928dc_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush-Club-2025-Flaxseed-Hand-Cream_ecom_blob_Digital_Ad_0e1928dc_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-08_Digital_-2024-_2170c3ee_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-08_Digital_-2024-_2170c3ee_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-04_Digital_-2024-_af2ed6f9_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-04_Digital_-2024-_af2ed6f9_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-05_Digital_-2024-_f7e653e8_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush-Version-Flaxseed-Hand-Cream-Hero-05_Digital_-2024-_f7e653e8_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Hand & Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skin Care for Cold Weather",
+    "The Lush Version",
+    "Hand Care",
+    "Body Care"
+  ]
+}

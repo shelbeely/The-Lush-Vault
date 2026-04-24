@@ -1,0 +1,51 @@
+{
+  "slug": "fighting-animal-testing-pin-badge",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-pin-badge",
+  "sourceUrl": "https://www.lush.com/uk/en/p/fighting-animal-testing-pin-badge",
+  "title": "Fighting Animal Testing",
+  "sku": "214827-UN",
+  "size": "Each",
+  "price": {
+    "amount": 3.5,
+    "currency": "GBP",
+    "formatted": "3.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Take a stand against animal testing and help to spread the word with this pin badge.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fat_pin_merch_2023_fd831818_thumbnail_4096.png",
+      "alt": "Pin badge is shaped around the fighting bunny logo and detailed in black with \"Fighting Animal Testing\" text in silver.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fat_pin_merch_2023_fd831818_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_enamel_pin_merch_2023-1_d593f286_thumbnail_4096.jpeg",
+      "alt": "Image is a close-up of the model wearing a black blazer with the Fighting Animal Testing pin badge secured to the lapel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_enamel_pin_merch_2023-1_d593f286_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_enamel_pin_merch_2023-3_631a628b_thumbnail_4096.jpeg",
+      "alt": "Image is a close-up of the model wearing a black blazer with the Fighting Animal Testing pin badge secured to the lapel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_enamel_pin_merch_2023-3_631a628b_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Gifts for Dad",
+    "For the Artist",
+    "Pins & Patches"
+  ]
+}

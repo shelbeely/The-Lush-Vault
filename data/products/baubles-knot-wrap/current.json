@@ -1,0 +1,44 @@
+{
+  "slug": "baubles-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/baubles-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/baubles-knot-wrap",
+  "title": "Baubles Knot Wrap",
+  "sku": "213094-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "This Knot Wrap is the perfect way for wrapping their favourite treats for Christmas 2022. Use and reuse for sustainable wrapping, wearing or gifting. ",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baubles_knot_wrap_2022_bc9e0bae_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baubles_knot_wrap_2022_bc9e0bae_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baubles_knot_wrap_hero_2022-1_548ffcdf_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baubles_knot_wrap_hero_2022-1_548ffcdf_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

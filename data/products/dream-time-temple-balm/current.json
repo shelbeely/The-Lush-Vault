@@ -1,0 +1,90 @@
+{
+  "slug": "dream-time-temple-balm",
+  "url": "https://www.lush.com/us/en_us/p/dream-time-temple-balm",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dream-time-temple-balm",
+  "title": "Dream Time",
+  "sku": "62710-NA",
+  "size": "11g",
+  "price": {
+    "amount": 15.0,
+    "currency": "USD",
+    "formatted": "$15.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 34,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Our calming temple balm acts as a natural sleep remedy, assisting slumbers with a lavender and chamomile scent, for a good night's sleep.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Lavandula Hybrida Oil (Lavandin Oil)",
+    "Zingiber Officinale Root Oil (Ginger Oil)",
+    "Sandalwood Oil",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_temple_balm_ecom_2024_7c1aa824_thumbnail_4096.png",
+      "alt": "Dream Time. A smudged swatch of thick, natural yellow balm. In front of it stands the cylindrical black packaged Temple Balm with a purple product sticker. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_temple_balm_ecom_2024_7c1aa824_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_16_6b048e06_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's forearms and hands as they are lying in bed in lavender-purple sheets. They are gently swiping the temple balm across their wrists.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_16_6b048e06_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_14_d5817e6c_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model as they are lying in bed in lavender-purple sheets. They have just taken the back lid off of the Temple Balm and are reading the front label. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_14_d5817e6c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_03_b900d2a5_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's head as they are lying in bed in lavender-purple sheets. They are gently applying the balm directly to their temple as their eyes are closed in relaxation.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_03_b900d2a5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_temple_balm_product_hero_791c5f96_thumbnail_4096.jpg",
+      "alt": "A close-up of the Dream Time temple balm surrounded by purple lighting. There is a single sprig of lavender and a single chamomile flower beside the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_temple_balm_product_hero_791c5f96_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Sleep Tight",
+    "Body Care",
+    "Vegan",
+    "Vegan Body Care Products",
+    "Floral",
+    "Customised Lush Gifts",
+    "For the Dreamer",
+    "Solid Perfume",
+    "Sleepy",
+    "Mother’s Day",
+    "Small Gifts",
+    "Blissful Bather Gifts",
+    "Bring it Back "
+  ]
+}

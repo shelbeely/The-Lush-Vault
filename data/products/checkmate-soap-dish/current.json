@@ -1,0 +1,55 @@
+{
+  "slug": "checkmate-soap-dish",
+  "url": "https://www.lush.com/us/en_us/p/checkmate-soap-dish",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/checkmate-soap-dish",
+  "title": "Checkmate",
+  "sku": "220783-NA",
+  "size": "Each",
+  "price": {
+    "amount": 30.0,
+    "currency": "USD",
+    "formatted": "$30.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 21,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Display your favourite soap in this handmade ceramic dish, using 78% recycled clay and a bespoke checkboard design.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pink_checkmate_soap_dish_lifestyle_ecom_2025_816850c1_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pink_checkmate_soap_dish_lifestyle_ecom_2025_816850c1_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_24_Digital_-2_d1e8168b_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_24_Digital_-2_d1e8168b_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_22_Digital_-2_26960eee_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_22_Digital_-2_26960eee_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_21_Digital_-2_2b6b0d17_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2025-Pink-Checkmate-Soap-Dish_hero_21_Digital_-2_2b6b0d17_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Handmade Soap",
+    "Bathroom Accessories",
+    "Lifestyle"
+  ]
+}

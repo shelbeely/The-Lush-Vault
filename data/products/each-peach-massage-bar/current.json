@@ -1,0 +1,86 @@
+{
+  "slug": "each-peach-massage-bar",
+  "url": "https://www.lush.com/us/en_us/p/each-peach-massage-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/each-peach-massage-bar",
+  "title": "Each Peach (And Two's A Pair)",
+  "sku": "2729-NA",
+  "size": "70g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An uplifting and mood-boosting citrus massage bar to beat stress. Grapefruit, lime, and orange oils combine to leave you feeling clear headed and full of energy.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "*Limonene",
+    "Perfume",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Brazilian Orange Oil",
+    "Avocado Butter",
+    "Mango Kernel Butter",
+    "Citrus Nobilis Peel Oil (Mandarin Oil)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Carthamus Tinctorius Flower (Safflower Petals)",
+    "*Citral",
+    "*Geraniol",
+    "*Citronellol",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/each_peach_massage_bar_side_2021_19f12e8e_thumbnail_4096.png",
+      "alt": "Each Peach (And Two's A Pair). A buttery yellow, oval shaped, solid massage bar, with an embossed orange fruit flower design.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/each_peach_massage_bar_side_2021_19f12e8e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-4_fa4419c7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-4_fa4419c7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-6_3cdca520_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-6_3cdca520_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-5_8046512b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/each_peach_and_twos_a_pair_massage_bar_hero_2023-5_8046512b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Zesty",
+    "Massage Oil Bars",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Plastic Free",
+    "Plastic-Free Body Care",
+    "Fresh from head-to-toe",
+    "Citrus",
+    "Lush | Bridgerton",
+    "Summer Gourmand",
+    "Customised Lush Gifts",
+    "Travel-size Essentials",
+    "Trending Now"
+  ]
+}

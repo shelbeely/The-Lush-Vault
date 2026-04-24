@@ -1,0 +1,59 @@
+{
+  "slug": "blooming-lovely-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/blooming-lovely-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blooming-lovely-knot-wrap",
+  "title": "Blooming Lovely",
+  "sku": "222298-NA",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 8,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Get them smiling this Easter by wrapping up all their springtime Lush essentials with this playful Knot Wrap, a reusable alternative to single-use wrapping paper.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [
+    "Size: Medium - 70cm"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_2026_2a550fdc_thumbnail_4096.png",
+      "alt": "Blooming Lovely. A square fabric Knot Wrap featuring 3D-style cartoon illustrations. It shows a cheerful garden scene with flowers, a strawberry, a bee, a snail, and a chick, all rendered in bright, saturated colours on a bold blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_2026_2a550fdc_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_hero_2026_1_7da36e0a_thumbnail_4096.jpg",
+      "alt": "A vibrant \"Blooming Lovely\" fabric Knot Wrap, tied in a decorative bow, rests on a wooden bath trap over a soapy bathtub. The fabric features a colourful, 3D-style garden print with a large red strawberry and green foliage.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_hero_2026_1_7da36e0a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_hero_2026_3_402f9802_thumbnail_4096.jpg",
+      "alt": "A model's hands are shown tying a \"Blooming Lovely\" Knot Wrap into a bow over a gift. The fabric features a colourful, 3D-style garden print. The gift rests on a wooden bath tray over a soapy bathtub in a bright bathroom.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_hero_2026_3_402f9802_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_texture_2026_07_ca947829_thumbnail_4096.jpg",
+      "alt": "A super close-up shot of the \"Blooming Lovely\" fabric Knot Wrap featuring colourful, 3D-style garden illustrations. A pink snail and a smiling pink flower are visible amongst other cheerful, soft-focus garden characters.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_lovely_knot_wrap_easter_texture_2026_07_ca947829_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps",
+    "Easter"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "goddess-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/goddess-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/goddess-bath-bomb",
+  "title": "Goddess",
+  "sku": "5023-NA",
+  "size": "190g",
+  "price": {
+    "amount": 12.0,
+    "currency": "USD",
+    "formatted": "$12.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Heavenly scent, jasmine absolute seduces you into lilac and silver waters, while the darkness of oudh and the richness of sandalwood keep you there, lingering a little longer.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Titanium Dioxide",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Sandalwood Oil",
+    "Oudh Oil",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Aqua (Water)",
+    "Zea Mays Starch (Cornstarch)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    " Talc (Talc Powder)",
+    "Synthetic Fluorphlogopite",
+    "Sodium Coco-Sulfate",
+    "Tin Oxide",
+    "Cocamidopropyl Betaine",
+    "Laureth 4",
+    "Dipropylene Glycol",
+    "*Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Iron Oxides",
+    "Blue 1",
+    "Yellow 5",
+    "Red 33",
+    "Red 28 Lake",
+    "Blue 1 Lake",
+    "Yellow 5 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_2021_thumbnail_4096.png",
+      "alt": "Goddess. A shimmering purple bath bomb, round with a concave carving out of the top. Its base is layered with lilac and grey.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_1080x1920_33e3f340_thumbnail_4096.jpg",
+      "alt": "Goddess bath water, purple and lilac and silver and bubbly as can be.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_1080x1920_33e3f340_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_2018_b123e2eb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_2018_b123e2eb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_2018_1_4f0f48c0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_bath_bomb_hero_image_2018_1_4f0f48c0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Winter Cosmetics",
+    "Winter Bath & Shower Products",
+    "Plastic Free",
+    "Our bestselling collection of bathing beauties",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Self-care Under $20",
+    "Goddess",
+    "For the Artist",
+    "Floral",
+    "Jasmine",
+    "Customised Lush Gifts",
+    "Cocoa Butter Collection",
+    "Floral & Sensual",
+    "Woody & Grounding",
+    "Fruity & Imaginative",
+    "Calming & Relaxing"
+  ]
+}

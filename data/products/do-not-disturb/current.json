@@ -1,0 +1,50 @@
+{
+  "slug": "do-not-disturb",
+  "url": "https://www.lush.com/us/en_us/p/do-not-disturb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/do-not-disturb",
+  "title": "Do Not Disturb!",
+  "sku": "215698-UN",
+  "size": "Each",
+  "price": {
+    "amount": 3.0,
+    "currency": "GBP",
+    "formatted": "3.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "This greetings card is made from 100% recycled paper, and comes with a detachable pin badge made from 100% recycled plastic yoghurt pots.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_39020514_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_39020514_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_61dc4220_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_61dc4220_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_3_85490871_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_3_85490871_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_5_d526101b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/do_not_disturb_greetings_card_2023_5_d526101b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

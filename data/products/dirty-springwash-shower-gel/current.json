@@ -1,0 +1,96 @@
+{
+  "slug": "dirty-springwash-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/dirty-springwash-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-springwash-shower-gel",
+  "title": "Dirty Springwash",
+  "sku": "7013-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 13.5,
+    "currency": "USD",
+    "formatted": "$13.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 35,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "A rapturous tingle of menthol crystals and a crisp breath of spearmint tempts like untrodden snow, galvanising you into action.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Sodium Cocoamphoacetate",
+    "Lauryl Betaine",
+    "Sodium Bicarbonate",
+    "Parfum",
+    "Maris Sal (Fine Sea Salt)",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Menthol (Menthol Crystals)",
+    "Thymus Zygis Oil (Thyme Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1",
+    "Propylene Glycol"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gel_2020_thumbnail_4096.png",
+      "alt": "A sample of icy blue Dirty Springwash shower gel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gel_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-7_5e32825c_thumbnail_4096.jpeg",
+      "alt": "A close-up of hands holding the Dirty Springwash shower gel bottle under a shower stream on a light blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-7_5e32825c_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-3_4300c493_thumbnail_4096.jpeg",
+      "alt": "A person pours blue Dirty Spirngwash shower gel into their hand as water droplets fall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-3_4300c493_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Products",
+    "Shower Gels",
+    "Vegan",
+    "Vegan Shower Products",
+    "Gifts for Dad",
+    "Dirty",
+    "Summer Essentials",
+    "Corporate Gifts",
+    "Keep Clean",
+    "Layer on a dose of herbaceous freshness",
+    "Dads Deserve Pampering",
+    "Infuse a little luxury into your showers",
+    "Shower in Summertime Freshness",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Trending Now",
+    "Awake ",
+    "Cooling",
+    "Rewild your routine",
+    "Travel-size Essentials",
+    "Cooling Mint Chocolate",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "For the Nature-Lover",
+    "Mint",
+    "Personalized Shower Gels",
+    "Sporty Soaperstar Gifts",
+    "Muscle Recovery"
+  ]
+}

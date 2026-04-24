@@ -1,0 +1,89 @@
+{
+  "slug": "comfort-zone-shower-bomb",
+  "url": "https://www.lush.com/us/en_us/p/comfort-zone-shower-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/comfort-zone-shower-bomb",
+  "title": "Comfort Zone",
+  "sku": "9561-UN",
+  "size": "30g",
+  "price": {
+    "amount": 3.5,
+    "currency": "GBP",
+    "formatted": "3.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Envelop yourself in moussey clouds of foamy froth and cuddle up to the cosy nostalgia of blackcurrant absolute. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Citric Acid",
+    "Potato Starch",
+    "Sodium Laureth Sulfate",
+    "Calcium Lactate Gluconate",
+    "Algin (Sodium Alginate)",
+    "Parfum",
+    "Cocamidopropyl Betaine",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Ribes Nigrum Fruit Extract (Blackcurrant Extract)",
+    "Cupressus Sempervirens Oil (Cypress Oil)",
+    "Chia Seeds",
+    "Rubus Idaeus Fruit (Fresh Raspberries)",
+    "Aqua (Water)",
+    "Propylene Glycol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 17200",
+    "Colour 45410:1"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/comfort_zone_shower_bomb_2020_10ce3d97_thumbnail_4096.png",
+      "alt": "Comfort Zone. A bubblegum pink, cone shaped shower bomb, with ridged edges.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/comfort_zone_shower_bomb_2020_10ce3d97_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_a401925a_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_a401925a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_8f82d97a_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_8f82d97a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_337b9564_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_Shower-2019-Comfort-Zone-Shower-Bomb-Hero_337b9564_thumbnail_128.png"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Shower Products",
+    "Vegan Shower Products",
+    "Shower Bombs",
+    "Plastic Free",
+    "Sweet",
+    "Fruity ",
+    "Exfoliating & Invigorating",
+    "Berries & Cream Trifle",
+    "Beauty Gifts Under £10",
+    "Customised Lush Gifts",
+    "Comforter"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "digital-bath-bot-01",
+  "url": "https://www.lush.com/us/en_us/p/digital-bath-bot-01",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/digital-bath-bot-01",
+  "title": "Bath Bot",
+  "sku": "215175-NA",
+  "size": "Each",
+  "price": {
+    "amount": 180.0,
+    "currency": "USD",
+    "formatted": "$180.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Bath Bot offers the ultimate sensory bathing experience at home. It pairs an explosion of colour with a wireless 360° sound experience to accompany every bath.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_bot_ecom_duo_2024_f8bfd9d8_thumbnail_4096.png",
+      "alt": "Bath Bot. Two slick, bath bomb-shaped speaker gadgets with a flat base and modern design. One is fully white and the other is black and white. There is an embossed power button visible and the word \"LUSH\". ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_bot_ecom_duo_2024_f8bfd9d8_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_bath_bot_white_wbbd_model_hero_2026_1_5f470e56_thumbnail_4096.jpg",
+      "alt": "A round, white bath bomb-shaped waterproof speaker with glowing blue and rainbow lights sits on the edge of a white tiled bathtub filled with swirling bathwater. A hand rests on the tub nearby, next to a yellow striped towel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_bath_bot_white_wbbd_model_hero_2026_1_5f470e56_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_bath_bot_black_wbbd_model_hero_2026_5_d4ae7858_thumbnail_4096.jpg",
+      "alt": "A model in a bathtub holds a black, spherical, bath bomb-shaped waterproof speaker that glows with pink and purple light. The device is partially submerged in the clear bathwater, with ripples expanding around the person's hands.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_bath_bot_black_wbbd_model_hero_2026_5_d4ae7858_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_bath_bot_white_wbbd_model_hero_2026_16_0aafd34d_thumbnail_4096.jpg",
+      "alt": "A person relaxes in a white bathtub filled with swirling purple water and white foam. A white bath bomb-shaped waterproof speaker with a red and blue glow floats in the centre. Lush candles and skin care sit on a wooden stand in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_bath_bot_white_wbbd_model_hero_2026_16_0aafd34d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath & Body Gifts",
+    "Bath Products",
+    "Gifts",
+    "Bath Bomb Gift Sets",
+    "Gifts for Friends",
+    "Bath Bombs",
+    "Gifts for Him",
+    "Gifts for Her",
+    "Gifts for Aquarius",
+    "Gifts for Dad",
+    "Lifestyle",
+    "Gifts for Every Budget",
+    "Gifts by Recipient",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts Over $50",
+    "Gifts Over $100"
+  ]
+}

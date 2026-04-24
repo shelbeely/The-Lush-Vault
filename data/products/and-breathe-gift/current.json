@@ -1,0 +1,107 @@
+{
+  "slug": "and-breathe-gift",
+  "url": "https://www.lush.com/us/en_us/p/and-breathe-gift",
+  "title": "And Breathe",
+  "sku": "63476-NA",
+  "size": "Each",
+  "price": {
+    "amount": 105.0,
+    "currency": "USD",
+    "formatted": "$105.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Escape with the perfect gift when it's been a tough day, week, or month. Settle down with 10 treats for your bath, shower and body care needs... and breathe.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/and_breathe_gift_pr_2025_21743626_thumbnail_4096.png",
+      "alt": "And Breathe. A large, square gift box wrapped in a delicately decorated colour gradient of teal, yellow, pink and orange, tied with a teal ribbon and gift tag. There are ten included Lush products surrounding the gift box. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/and_breathe_gift_pr_2025_21743626_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/and_breathe_ayr_gift_2025_05_bcff3655_thumbnail_4096.jpg",
+      "alt": "The image shows the colourful And Breathe Lush gift box sitting on a pastel purple platform on a purple-tiled background. The ten included Lush products surround the box on separate smaller platforms. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/and_breathe_ayr_gift_2025_05_bcff3655_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_epsom_salt_cube_hero_2023_5_a78af2c9_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's hand gently placing the Lush Deep Sleep Epsom salt cube bath bomb into the water as it begins to give off pink and purple foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_epsom_salt_cube_hero_2023_5_a78af2c9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_b15b661c_thumbnail_4096.jpg",
+      "alt": "An aerial view of the Twilight bath bomb as it slowly dissolves. The bath has been covered in a blanket of thick, velvety, pastel pink foam as a flash of blue emerges from the centre of the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_b15b661c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_hero_image_newsite_2021-3_9708547f_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the Butterball bath bomb. The white bath bomb dissolves in the water leaving behind delicate white foam and tiny chunks of solid cocoa butter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_hero_image_newsite_2021-3_9708547f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_bubble_bar_hero_2024__16_1_43bc6b21_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hand as it crumbles a mini Sleepy bubble bar under running tap water to produce a mountain of bubbles below and delicate, purple bath water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sleepy_bubble_bar_hero_2024__16_1_43bc6b21_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Sleepy-Body-Lotion-OPUS-Hero-06_ec0a973f_thumbnail_4096.jpg",
+      "alt": "The image shows the model wrapped in a thick, white towel across their chest. The model has a few tattoos and is applying the Sleepy body lotion to their forearm.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Sleepy-Body-Lotion-OPUS-Hero-06_ec0a973f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20222_9b248102_thumbnail_4096.jpg",
+      "alt": "The image shows the model from the chest up as they are standing under running shower water on a pastel-purple background. Their chest and shoulders are covered in the lavender-coloured Sleepy shower gel they are beginning to wash off.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20222_9b248102_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_16_28dfb9d9_thumbnail_4096.jpg",
+      "alt": "A close-up image of a model's hands as they use the push-up tube of Dream Time temple balm on their wrist.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_time_balm_hero_2024_16_28dfb9d9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Dream-Cream-Body-Lotion-Hero_05_90e39849_thumbnail_4096.jpg",
+      "alt": "The model is topless and stands on a sandy, golden background. They have long hair and are closing their eyes and smiling as they apply the Dream Cream body lotion to their chest while holding the black pot in front of them.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Dream-Cream-Body-Lotion-Hero_05_90e39849_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Sleepy-Soap-Hero-05_db556521_thumbnail_4096.jpg",
+      "alt": "The image shows the model on a sandy, golden background as they are standing under running shower water. The model uses the Sleepy soap slice on their forearm as it begins to lather up with soapy suds. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Sleepy-Soap-Hero-05_db556521_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath-2024-comforter-clouds-bubble-bar-hero_ee252240_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hand as it crumbles a mini The Comforter bubble bar under running tap water to produce a mountain of bubbles below and vibrant, pink bath water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath-2024-comforter-clouds-bubble-bar-hero_ee252240_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Bath & Body Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Them",
+    "Gifts",
+    "Gifts for Every Budget",
+    "Gifts by Recipient",
+    "Gifts for Dad",
+    "Gifts for Mum",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Bath Bomb Gift Sets",
+    "Gifts for Friends",
+    "Gifts Over $50",
+    "Gifts Over $100"
+  ]
+}

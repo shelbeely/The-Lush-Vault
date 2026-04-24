@@ -1,0 +1,83 @@
+{
+  "slug": "breath-of-god-perfume",
+  "url": "https://www.lush.com/us/en_us/p/breath-of-god-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/breath-of-god-perfume",
+  "title": "Breath Of God",
+  "sku": "7313-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 150.0,
+    "currency": "USD",
+    "formatted": "$150.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 4,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Take a moment. Inhale. Exhale.\nThis award-winning neroli perfume was built to carve a moment of deep contemplation.",
+  "ingredients": [
+    "Alcohol Denat.",
+    "Parfum",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "*Limonene",
+    "Aqua (Water)",
+    "Glycerin",
+    "Cedarwood Oil",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Piper Nigrum Fruit Oil (Black Pepper Oil)",
+    "Sandalwood Oil",
+    "Juniperus Oxycedrus Wood Oil (Cade Oil)",
+    "*Benzyl Alcohol",
+    "*Benzyl Cinnamate",
+    "*Benzyl Salicylate",
+    "*Cinnamal",
+    "*Citral",
+    "*Geraniol",
+    "*Benzyl Benzoate",
+    "*Citronellol",
+    "*Farnesol",
+    "*Isoeugenol",
+    "*Linalool",
+    "Alpha-Isomethyl Ionone",
+    "Coumarin",
+    "Eugenol"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_god_100ml_perfume_ecom_2024_1d1ffb1e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/breath_of_god_100ml_perfume_ecom_2024_1d1ffb1e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_god_landscape_perfume_2024_85e3cf97_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/breath_of_god_landscape_perfume_2024_85e3cf97_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "Awake ",
+    "Citrus",
+    "Zodiac Gift Guide",
+    "Gifts for Aquarius"
+  ]
+}

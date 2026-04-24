@@ -1,0 +1,69 @@
+{
+  "slug": "flight-of-the-bumblebees-eye-pads",
+  "url": "https://www.lush.com/us/en_us/p/flight-of-the-bumblebees-eye-pads",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/flight-of-the-bumblebees-eye-pads",
+  "title": "Flight of the Bumblebee Eye Pads",
+  "sku": "62423-NA",
+  "size": "25g",
+  "price": {
+    "amount": 4.5,
+    "currency": "USD",
+    "formatted": "$4.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 22,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Made with teas from flower petals for calming and soothing your eyes.",
+  "ingredients": [
+    "Glycerin",
+    "Marigold Petals and Eyebright Infusion",
+    "Roman Chamomile Flower Infusion",
+    "Aloe Barbadensis Leaf Juice (Fresh Aloe Gel)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Kaolin",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Titanium Dioxide",
+    "Marigold Petals",
+    "Capsicum Annuum Fruit Extract (Paprika Oleoresin)"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fight_of_the_bubblebees_eye_pads_ff_may_2023_7efdf25f_thumbnail_4096.png",
+      "alt": "Flight of the Bumblebees. A pair of eye pads; one shaped as a bright yellow bumblebee and the other shaped as a blooming, orange flower. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fight_of_the_bubblebees_eye_pads_ff_may_2023_7efdf25f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024-3_00d06070_thumbnail_4096.jpg",
+      "alt": "The image shows the model laid back in the bathtub with the Flight Of The Bumblebees eye pads over their eyes ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024-3_00d06070_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024_e43cd9db_thumbnail_4096.jpg",
+      "alt": "The image shows the model laid back in the bathtub with the Flight Of The Bumblebees eye pads over their eyes ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024_e43cd9db_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024_a826ea77_thumbnail_4096.jpg",
+      "alt": "The image shows the model laid back in the bathtub with the Flight Of The Bumblebees eye pads over their eyes ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Flight_of_the_bumble_bee_hero_mothers_day_2024_a826ea77_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Eye Masks",
+    "Fresh"
+  ]
+}

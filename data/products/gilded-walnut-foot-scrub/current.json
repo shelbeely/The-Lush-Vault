@@ -1,0 +1,91 @@
+{
+  "slug": "gilded-walnut-foot-scrub",
+  "url": "https://www.lush.com/us/en_us/p/gilded-walnut-foot-scrub",
+  "sourceUrl": "https://www.lush.com/uk/en/p/gilded-walnut-foot-scrub",
+  "title": "Gilded Walnut",
+  "sku": "4922-UN",
+  "size": "125g",
+  "price": {
+    "amount": 9.0,
+    "currency": "GBP",
+    "formatted": "9.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Double down on the exfoliation and go for gold. A butter-rich foot scrub to leave heels hydrated and your soles softened.",
+  "ingredients": [
+    "Maris Sal (Fine Sea Salt)",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Sodium Bicarbonate",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Sodium Laureth Sulfate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Walnut Butter",
+    "Synthetic Fluorphlogopite",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Ground Almond Shells",
+    "Walnut Oil",
+    "Titanium Dioxide",
+    "Lauryl Betaine",
+    "Silica",
+    "Tin Oxide",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 77491"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/guilded_walnut_foot_scrub_ecom_2025_6e7c2d10_thumbnail_4096.png",
+      "alt": "Gilded Walnut. A cube-shaped product, coated in dense, sparkling golden glitter. Its base colour appears a subtle beige, with the glitter creating a rough, textured surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/guilded_walnut_foot_scrub_ecom_2025_6e7c2d10_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_gilded_walnut_foot_scrub_hero_2025_10_0a5e0805_thumbnail_4096.jpg",
+      "alt": "The image shows the cube-shaped Gilded Walnut product, coated in sparkling golden glitter, resting on a pink towel. In the blurred background, a person's feet soak in a wooden tub as a hand rubs a foot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_gilded_walnut_foot_scrub_hero_2025_10_0a5e0805_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_gilded_walnut_foot_scrub_hero_2025_06_64de37e1_thumbnail_4096.jpg",
+      "alt": "The image shows a hand rubbing the cube-shaped Gilded Walnut product onto a bare foot. A white, bubbly lather forms on the skin. The foot is poised over a wooden bucket filled with water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_gilded_walnut_foot_scrub_hero_2025_06_64de37e1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_gilded_walnut_foot_scrub_hero_2025_07_b6d5ae6c_thumbnail_4096.jpg",
+      "alt": "The image shows a hand rubbing the cube-shaped Gilded Walnut product onto a bare ankle and foot. A white, bubbly lather forms on the skin. The foot is poised over a wooden bucket filled with water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_gilded_walnut_foot_scrub_hero_2025_07_b6d5ae6c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_gilded_walnut_foot_scrub_hero_2025_09_e65ddbfc_thumbnail_4096.jpg",
+      "alt": "The image shows a hand rubbing the cube-shaped Gilded Walnut product onto a bare ankle and foot. A white, bubbly lather forms on the skin. The foot is poised over a wooden bucket filled with water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_gilded_walnut_foot_scrub_hero_2025_09_e65ddbfc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Feet",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Plastic Free",
+    "Foot Care",
+    "Body Care",
+    "Vegan Body Care Products",
+    "Leaving Soon"
+  ]
+}

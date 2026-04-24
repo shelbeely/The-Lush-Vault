@@ -1,0 +1,93 @@
+{
+  "slug": "blueberry-roly-poly-fresh-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/blueberry-roly-poly-fresh-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blueberry-roly-poly-fresh-cleanser",
+  "title": "Blueberry Roly Poly",
+  "sku": "63707-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 41,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A glow-boosting, soapless cleanser packed with antioxidant-rich blueberries and calming calamine to soothe flushes, blushes and breakouts.",
+  "ingredients": [
+    "Glycerin",
+    "Calamine (Calamine Powder)",
+    "Kaolin",
+    "Vaccinium Corymbosum Fruit (Organic Blueberries)",
+    "Aloe Barbadensis Leaf Juice (Fresh Aloe Gel)",
+    "Cocos Nucifera Fruit Extract (Coconut Yoghurt)",
+    "Maris Sal (Fine Sea Salt)",
+    "Juniperberry Oil",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Kenyan Geranium Oil",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Zea Mays Starch (Cornstarch)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Limonene",
+    "Manganese Violet",
+    "Red 28",
+    "Blue 1 Lake",
+    "Blue 1",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blueberry_roly_poly_cleanser_ecom_2025_713a83bb_thumbnail_4096.png",
+      "alt": "Blueberry Roly Poly. A neatly smudged swatch of thick, textured, ivory-coloured facial cleanser with flecks of blended, fresh blueberries throughout. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blueberry_roly_poly_cleanser_ecom_2025_713a83bb_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_blueberry_roly_poly_cleanser_2025_01_c6b310fa_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's face on an olive-green background. Their dark hair is tied back, and they are applying the textured Blueberry Roly Poly facial cleanser to the skin on their cheek as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_blueberry_roly_poly_cleanser_2025_01_c6b310fa_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_blueberry_roly_poly_cleanser_2025_14_79232f62_thumbnail_4096.jpg",
+      "alt": "An image of the model's face on an olive-green background. Their dark hair is tied back with a loose fringe, and they are applying the textured Blueberry Roly Poly facial cleanser to their skin as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_blueberry_roly_poly_cleanser_2025_14_79232f62_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_blueberry_rolypoly_cleanser_texture_2025_01_65cac2bb_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the ivory-coloured, textured Blueberry Roly Poly facial cleanser with flecks of real, fresh, blended blueberries, focusing on the consistency of grainy dough. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_blueberry_rolypoly_cleanser_texture_2025_01_65cac2bb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_blueberry_roly_poly_fresh_cleanser_lush_2025_02_1d9ef7ea_thumbnail_4096.jpg",
+      "alt": "The image shows a clear, recycled plastic, open pot of Blueberry Roly Poly facial cleanser with black labels, the lid leaning on the side and a smeared swatch of the textured product on the cream-tiled floor beside the pot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_blueberry_roly_poly_fresh_cleanser_lush_2025_02_1d9ef7ea_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Cleansers",
+    "Vegan Skincare",
+    "Skincare",
+    "Clarifying Spot-Prone Skin",
+    "Fresh",
+    "Matcha & Blueberry",
+    "Calming Skin Redness",
+    "Balancing Oily Skin",
+    "Spring Skincare"
+  ]
+}

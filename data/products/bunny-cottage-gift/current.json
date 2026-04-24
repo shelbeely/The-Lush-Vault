@@ -1,0 +1,79 @@
+{
+  "slug": "bunny-cottage-gift",
+  "url": "https://www.lush.com/us/en_us/p/bunny-cottage-gift",
+  "sourceUrl": "https://www.lush.com/uk/en/p/bunny-cottage-gift",
+  "title": "Bunny Cottage",
+  "sku": "64891-UK",
+  "size": "Each",
+  "price": {
+    "amount": 25.0,
+    "currency": "GBP",
+    "formatted": "25.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Hop over to ours for Easter! We have a bath gift with four bathtime treats for you. Help yourself to sweet fizzers and foamers that’ll put a spring in your step!",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_easter_gift_lush_2026_01_04c2477c_thumbnail_4096.png",
+      "alt": "Bunny Cottage. A house-shaped tin decorated with a bunny and yellow bricks. Arranged in front are four Easter-themed bath products, including three bath bombs and a bubble bar. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_easter_gift_lush_2026_01_04c2477c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_gift_easter_hero_2026_3_01f6c016_thumbnail_4096.jpg",
+      "alt": "A \"Bunny Cottage\" Easter gift set is displayed on the edge of a white bathtub. It features a house-shaped gift box with bunny illustrations. In front of the box sit the four included Easter-themed bathing products, against green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_gift_easter_hero_2026_3_01f6c016_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_gift_easter_hero_2026_2_36236f70_thumbnail_4096.jpg",
+      "alt": "A house-shaped \"Bunny Cottage\" Easter gift tin sits on the white edge of a bathtub. The colourful tin features illustrations of bunnies, Easter eggs, and chickens against a yellow brick background. All set against pale green bathroom tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunny_cottage_gift_easter_hero_2026_2_36236f70_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilemma_bath_bomb_easter_hero_2026_46_9b712efd_thumbnail_4096.jpg",
+      "alt": "An aerial view image of a model's hand holding the \"Big Dilemma\" Lush Easter bath bomb above swirling orange bathwater. The egg-shaped bath bomb has the head of a cockerel on top, complete black eyes, an orange beak and red details.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilemma_bath_bomb_easter_hero_2026_46_9b712efd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_3_79697f4b_thumbnail_4096.jpg",
+      "alt": "An aerial view image of the \"Golden Egg' Easter-themed bath bomb from Lush. The bath bomb is a perfect egg shape, covered in thick, sparkling, gold lustre. The product begins to dissolve, creating soft, yellow bathwater. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_3_79697f4b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/munching_bunny_bath_bomb_easter_hero_2026_09_cc4f88ab_thumbnail_4096.jpg",
+      "alt": "An aerial view image of the Lush \"Munching Bunny\" rabbit-shaped bath bomb, creating a swirl of pale purple foam. The bunny has a small orange carrot detail on its paws. The product dissolves, leaving a thick blanket of velvety lilac foam. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/munching_bunny_bath_bomb_easter_hero_2026_09_cc4f88ab_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_a74a44e5_thumbnail_4.jpg",
+      "alt": "The image shows a close-up of a model's hand holding a bright pink \"Baby Rainbow Carrot\" bubble bar by its green paper stalks. The bubble bar is held under a stream of running water over a bathtub filled with thick white bubbles and pink water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_a74a44e5_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Easter",
+    "Gifts",
+    "Gifts £20-£40",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts for Kids & Teens",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "blue-pearl-lip-cream",
+  "url": "https://www.lush.com/us/en_us/p/blue-pearl-lip-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blue-pearl-lip-cream",
+  "title": "Blue Pearl",
+  "sku": "62503-NA",
+  "size": "7g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 14,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A rich lip cream that'll moisturise and condition with shea butter, castor oil and organic candelilla wax - how blue-tiful! ",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Butyrospermum Parkii Butter (Organic Shea Butter)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Candelilla Wax",
+    "Flavour",
+    "Fenugreek Absolute",
+    "Brazilian Orange Oil",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Sesame Seed Absolute ",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "*Anise Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Eugenol",
+    "*Farnesol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Zinc Oxide",
+    "Blue 1 Lake",
+    "Red 28 Lake"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_2023_d326e457_thumbnail_4096.png",
+      "alt": "Blue Pearl. A neatly smudged swatch of thick, textured, creamy, sky-blue lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_2023_d326e457_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_36_31e34d83_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle, blue shimmering lips from using the Blue Pearl lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_36_31e34d83_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_37_1bf1bf0d_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle, blue shimmering lips from using the Blue Pearl lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_37_1bf1bf0d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_38_043f7e7b_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle, blue shimmering lips from using the Blue Pearl lip cream product, which they are holding up to their face.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_38_043f7e7b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_39_f93737f3_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle, blue shimmering lips from the Blue Pearl lip cream product, which they are applying in the image.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_pearl_lip_cream_hero_2025_39_f93737f3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_3f6aad2e_thumbnail_4096.jpg",
+      "alt": "The image shows an aerial view of three forearms of differing skin tones. Across each of the arms are swatched the five Firework Lush lip creams, from light to dark, to display how they show on different skin tones. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_3f6aad2e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Lipstick",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup"
+  ]
+}

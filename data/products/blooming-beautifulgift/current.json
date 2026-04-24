@@ -1,0 +1,75 @@
+{
+  "slug": "blooming-beautifulgift",
+  "url": "https://www.lush.com/us/en_us/p/blooming-beautifulgift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blooming-beautifulgift",
+  "title": "Blooming Beautiful",
+  "sku": "63457-NA",
+  "size": "Each",
+  "price": {
+    "amount": 29.0,
+    "currency": "USD",
+    "formatted": "$29.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 40,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A gift that believes beauty isn’t just skin deep, but it can’t hurt to nourish your whole body for the full package! Enjoy a trio of swoon-worthy floral treats.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_gift_pr_2025_691e1700_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_gift_pr_2025_691e1700_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_ayr_gift_2025_02_566b5ee5_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_ayr_gift_2025_02_566b5ee5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/rose_jam_bubble_bar_hero_2019_e5daa183_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/rose_jam_bubble_bar_hero_2019_e5daa183_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2025-Sakura-Bath-Bomb-Hero-05_1_63d107ca_thumbnail_47bd87b8_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2025-Sakura-Bath-Bomb-Hero-05_1_63d107ca_thumbnail_47bd87b8_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sex_bomb_bath_bomb_hero_2025_05_8299ed42_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sex_bomb_bath_bomb_hero_2025_05_8299ed42_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Vegan",
+    "Bath Bomb Gift Sets",
+    "Gifts for Kids & Teens",
+    "Gifts",
+    "Gifts by Recipient",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Every Budget",
+    "Gifts for Mum",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Mother’s Day",
+    "Gifts Under $50"
+  ]
+}

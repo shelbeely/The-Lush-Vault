@@ -1,0 +1,77 @@
+{
+  "slug": "dream-steam-steamer-tab",
+  "url": "https://www.lush.com/us/en_us/p/dream-steam-steamer-tab",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dream-steam-steamer-tab",
+  "title": "Dream Steam",
+  "sku": "3588-NA",
+  "size": "7g",
+  "price": {
+    "amount": 4.0,
+    "currency": "USD",
+    "formatted": "$4.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A toner tab made with rose absolute to help reduce face reness and inflammation. Just add to water and feel the steam remedy the magic back to your complexion. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Parfum",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Rose Petals",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citronellol",
+    "*Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_steam_steamer_tab_2020_2dbbcdbb_thumbnail_4096.png",
+      "alt": "A cream coloured, powdery, circular solid toner tab, pressed with rose petals.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_steam_steamer_tab_2020_2dbbcdbb_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3588_b98d58e3_thumbnail_4096.jpg",
+      "alt": "A bearded person hovers their face above a steaming bowl, looking focused yet relaxed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3588_b98d58e3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Toners",
+    "Vegan Skincare",
+    "Winter Cosmetics",
+    "Self-Preserving Skincare",
+    "Plastic Free",
+    "Super Powered Ingredients",
+    "Floral",
+    "Travel-size Essentials",
+    "Calming Skin Redness",
+    "Skincare By Needs",
+    "Teen skin",
+    "Leaving Soon"
+  ]
+}

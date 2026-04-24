@@ -1,0 +1,84 @@
+{
+  "slug": "cherry-lip-jelly",
+  "url": "https://www.lush.com/us/en_us/p/cherry-lip-jelly",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cherry-lip-jelly",
+  "title": "Cherry",
+  "sku": "62525-NA",
+  "size": "7g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 19,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "We’ve cherry picked the best base possible. Castor oil, berry wax and glycerine create a smooth lip jelly that’ll work hard to keep your lips soft and soothed. ",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Glycerin",
+    "Rhus Verniciflua Peel Wax (Berry Wax)",
+    "Flavour",
+    "Arrowroot Powder",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Cold Pressed Raspberry Seed Oil",
+    "Tocopherol",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "Synthetic Fluorphlogopite",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "*Limonene",
+    "Yellow 5 Lake",
+    "Red 30",
+    "Zinc Oxide"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2023_a5087053_thumbnail_4096.png",
+      "alt": "Cherry. A neatly smudged swatch of thick, glossy, vibrant, cherry-red lip jelly. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2023_a5087053_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_05_bd200d60_thumbnail_4096.jpg",
+      "alt": "The model has long, straight dark hair and is on a pastel pink, blue and purple hue background. Their make-up has been done with the focal point being the juicy coating of cherry-red tint on their lips created by the Cherry lip jelly. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_05_bd200d60_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_09_600a83aa_thumbnail_4096.jpg",
+      "alt": "The model has long, dark hair and is on a pastel pink, blue and purple hue background. Their hand is by their face adjusting the juicy coating of blushed-red tint on their lips created by the Cherry lip jelly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_09_600a83aa_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_07__622fbc90_thumbnail_4096.jpg",
+      "alt": "The model has long, straight dark hair and is on a pastel pink, blue and purple hue background. Their make-up has been done with the focal point being the juicy coating of cherry-red tint on their lips created by the Cherry lip jelly. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_jelly_2024_07__622fbc90_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Lipstick",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup",
+    "For the Dreamer"
+  ]
+}

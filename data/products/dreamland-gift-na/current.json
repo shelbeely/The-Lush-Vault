@@ -1,0 +1,49 @@
+{
+  "slug": "dreamland-gift-na",
+  "url": "https://www.lush.com/us/en_us/p/dreamland-gift-na",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dreamland-gift-na",
+  "title": "Dreamland",
+  "sku": "200-NA",
+  "size": "1200g",
+  "price": {
+    "amount": 68.0,
+    "currency": "USD",
+    "formatted": "$68.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 19,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A relaxing gift all about rest. Ethically sourced and complete with an eye mask, this is perfect for helping anyone unwind with six bestselling bathers. ",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2024-dreamland-gift-PDP-contents_fdd1045d_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2024-dreamland-gift-PDP-contents_fdd1045d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2024-dreamland-gift-PDP-contents_5407216e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2024-dreamland-gift-PDP-contents_5407216e_thumbnail_128.png"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Sleepy",
+    "Gifts for Her",
+    "Gifts for Them",
+    "Gifts",
+    "Gifts Over $50"
+  ]
+}

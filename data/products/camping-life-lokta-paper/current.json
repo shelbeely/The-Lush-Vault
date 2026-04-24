@@ -1,0 +1,54 @@
+{
+  "slug": "camping-life-lokta-paper",
+  "url": "https://www.lush.com/us/en_us/p/camping-life-lokta-paper",
+  "sourceUrl": "https://www.lush.com/uk/en/p/camping-life-lokta-paper",
+  "title": "Camping Life Lokta Paper",
+  "sku": "219578-UN",
+  "size": "35cm x 35cm",
+  "price": {
+    "amount": 2.0,
+    "currency": "GBP",
+    "formatted": "2.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "For the dad who loves the great outdoors, from the child subjected to it – wrap up their Father’s Day gift in reusable gift wrap inspired by camping. ",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/camping_life_35cm_lokta_wrap_fathers_day_2025_5e9e7c89_thumbnail_4096.png",
+      "alt": "Camping Life. A square sheet of gift wrapping Lokta paper. The design consists of different sizes of squares and rectangles containing different illustrations including a tent, campfire, mountains, bird, binoculars, compass and more. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/camping_life_35cm_lokta_wrap_fathers_day_2025_5e9e7c89_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/camping_life_lokta_wrap_fathers_day_hero_2025_9_63d32442_thumbnail_4096.jpg",
+      "alt": "The image shows a blurred background of a wooden-slatted wall and a \"LUSH\" green triangle flag. The foreground shows the Camping Life Lokta wrapping paper tied neatly around a bath bomb-sized gift and tied with twine. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/camping_life_lokta_wrap_fathers_day_hero_2025_9_63d32442_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/camping_life_lokta_wrap_fathers_day_hero_2025_1_16bba031_thumbnail_4096.jpg",
+      "alt": "The image shows the model sitting down in beige and khaki clothing with the 70's Ties knot wrap as a neck scarf. They are holding the Camping Life-wrapped gift in their hands as they begin to open it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/camping_life_lokta_wrap_fathers_day_hero_2025_1_16bba031_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/camping_life_35cm_lokta_wrap_fathers_day_2025_1_ecf0a653_thumbnail_4096.png",
+      "alt": "Camping Life. A square sheet of gift wrapping Lokta paper. The design consists of different sizes of squares and rectangles containing different illustrations including a tent, campfire, mountains, bird, binoculars, compass and more. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/camping_life_35cm_lokta_wrap_fathers_day_2025_1_ecf0a653_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Lifestyle"
+  ]
+}

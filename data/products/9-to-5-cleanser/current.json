@@ -1,0 +1,75 @@
+{
+  "slug": "9-to-5-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/9-to-5-cleanser",
+  "title": "9 to 5 Self-Preserving",
+  "sku": "63056-NA",
+  "size": "55ml (mini)",
+  "price": {
+    "amount": 11.5,
+    "currency": "USD",
+    "formatted": "$11.50",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 32,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Add this gentle face wash and cleanser for sensitive skin into your daily routine for a soothing, fragrant cleanse  with moisturising jojoba oil for skin.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Glycerin",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Stearic Acid",
+    "Triethanolamine",
+    "Everlasting Flower Absolute",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Fresh Phalaenopsis Orchid Petals Extracted in Almond Oil",
+    "Cetearyl Alcohol",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/SP_9_to_5_cleanser_2024_942d7626_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/SP_9_to_5_cleanser_2024_942d7626_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_2_1d7b5642_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_2_1d7b5642_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_9_39383fd6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_9_39383fd6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_5_c2ea4c57_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9-5_SP_cleanser_hero_2024_5_c2ea4c57_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Vegan Skincare",
+    "Cleansers",
+    "Halloween Makeup",
+    "The Mini Collection",
+    "Supporting Skin Barrier",
+    "Sensitive skin"
+  ]
+}

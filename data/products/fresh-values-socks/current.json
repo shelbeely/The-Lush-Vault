@@ -1,0 +1,58 @@
+{
+  "slug": "fresh-values-socks",
+  "url": "https://www.lush.com/us/en_us/p/fresh-values-socks",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-values-socks",
+  "title": "Fresh As",
+  "sku": "216740-NA",
+  "size": "S/M",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Happy feet are guaranteed in these fun mismatched socks. These soft cotton socks are the perfect treat for your tootsies.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_2023_d163b0ba_thumbnail_4096.png",
+      "alt": "Fresh Values. Black socks with the toe, heel and top striped with bright yellow and green. Socks have an avocado and tomato on. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_2023_d163b0ba_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_1_96bb3c5b_thumbnail_4096.jpg",
+      "alt": "A shot of the model's calves down shows them standing on tip toes showing the Fresh Values socks.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_1_96bb3c5b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_3_89670441_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_3_89670441_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_2_00887696_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/socks_fresh_values_apparel_hero_2024_2_00887696_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Apparel",
+    "Lifestyle",
+    " LUSH x Lazy Oaf",
+    "Gifts for Kids & Teens",
+    "Gifts for Dad",
+    "For the Artist"
+  ]
+}

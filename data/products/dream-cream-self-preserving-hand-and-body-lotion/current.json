@@ -1,0 +1,93 @@
+{
+  "slug": "dream-cream-self-preserving-hand-and-body-lotion",
+  "url": "https://www.lush.com/us/en_us/p/dream-cream-self-preserving-hand-and-body-lotion",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dream-cream-self-preserving-hand-and-body-lotion",
+  "title": "Dream Cream Self-Preserving",
+  "sku": "7517-NA",
+  "size": "45g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Dermatologically tested for eczema-prone skin, this herbal hand and body lotion for sensitive skin has the consistency of cool liquid silk, ready to moisturise.",
+  "ingredients": [
+    "Oat Milk",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Triethanolamine",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Cetearyl Alcohol",
+    "Tincture of Benzoin",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_sp_2020_14eb3f28_thumbnail_4096_4129cbcc_thumbnail_4.png",
+      "alt": "A swatch of buttery cream coloured Dream Cream Self Preserving body lotion.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_sp_2020_14eb3f28_thumbnail_4096_4129cbcc_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_2_d54004a8_thumbnail__a0e42fa3_thumbnail_4.jpg",
+      "alt": "The image shows a close-up shot of the black, recycled plastic pot as the model scoops out the Dream Cream product with two fingers.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_2_d54004a8_thumbnail__a0e42fa3_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_7_571472cd_thumbnail__d02dea32_thumbnail_4.jpg",
+      "alt": "The image shows the model's head and shoulders. They have their eyes closed and a relaxed expression on their face and they gently smooth the body lotion over their chest.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_7_571472cd_thumbnail__d02dea32_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_3_12996a67_thumbnail__3791d71f_thumbnail_4.jpg",
+      "alt": "The image shows a side view of the model. Their dark hair lays straight down as they apply the body lotion in circular movements over their shoulder. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_2024_3_12996a67_thumbnail__3791d71f_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Rewild your routine",
+    "Sleep Tight",
+    "Travel-size Essentials",
+    "Body Care",
+    "Winter Cosmetics",
+    "Skin Care for Cold Weather",
+    "Vegan",
+    "Super Powered Ingredients",
+    "Body Lotions",
+    "Floral",
+    "Vegan Body Care Products",
+    "Customised Lush Gifts",
+    "Gifts for Mum",
+    "For the Nature-Lover",
+    "Refresh Your Routine ",
+    "Burr Basket Ideas"
+  ]
+}

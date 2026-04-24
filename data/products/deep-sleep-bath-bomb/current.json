@@ -1,0 +1,87 @@
+{
+  "slug": "deep-sleep-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/deep-sleep-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/deep-sleep-bath-bomb",
+  "title": "Deep Sleep",
+  "sku": "5030-NA",
+  "size": "185g",
+  "price": {
+    "amount": 11.0,
+    "currency": "USD",
+    "formatted": "$11.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Lavender and German chamomile flowers are wrapped in biodegradable muslin, infusing in the warm water to create a hypnotic blend.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Lavender Flowers",
+    "German Chamomile Flowers",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Anthemis Nobilis Flower Oil (Chamomile Oil)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Aqua (Water)",
+    "Dipropylene Glycol",
+    "*Linalool",
+    "Parfum",
+    "Red 33",
+    "Blue 1"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_bath_bomb_2021_thumbnail_4096.png",
+      "alt": "Deep Sleep. A round, purple bath bomb, beautifully wrapped in muslin tied in a knot and secured with a purple tie.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_bath_bomb_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_deep_sleep_bath_bomb_wbbd_hero_2026_2_afdd7b0f_thumbnail_4096.jpg",
+      "alt": "Deep Sleep. Two hands holding a spherical bath bomb wrapped in a cream-colored muslin cloth. The cloth is tied at the top with a knotted purple cord. The background is a solid, vibrant purple.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_deep_sleep_bath_bomb_wbbd_hero_2026_2_afdd7b0f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_deep_sleep_bath_bomb_wbbd_hero_2026_5_87785a76_thumbnail_4096.jpg",
+      "alt": "Deep Sleep bath bomb. The spherical bath bomb is wrapped in cream-colored muslin, tied with a purple cord, and half-submerged in water. The water reflects the vibrant purple, with ripples spreading across the surface from the product.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_deep_sleep_bath_bomb_wbbd_hero_2026_5_87785a76_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_deep_sleep_bath_bomb_wbbd_hero_2026_9_1cb62b37_thumbnail_4096.jpg",
+      "alt": "The spherical bath bomb is wrapped in cream-colored muslin, tied with a purple cord, and half-submerged in water. The water reflects the vibrant purple, with ripples spreading across the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_deep_sleep_bath_bomb_wbbd_hero_2026_9_1cb62b37_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Products",
+    "Sleepy",
+    "Bath Bombs",
+    "Vegan",
+    "Vegan Bath Products",
+    "Winter Cosmetics",
+    "Winter Bath & Shower Products",
+    "Plastic Free",
+    "Corporate Gifts",
+    "Our bestselling collection of bathing beauties",
+    "Lavender",
+    "Sleep Tight",
+    "Self-care Under $20",
+    "Floral",
+    "For the Dreamer",
+    "Calming & Relaxing"
+  ]
+}

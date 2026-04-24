@@ -1,0 +1,94 @@
+{
+  "slug": "angel-hair-shampoo-bar-2021",
+  "url": "https://www.lush.com/us/en_us/p/angel-hair-shampoo-bar-2021",
+  "sourceUrl": "https://www.lush.com/au/en/p/angel-hair-shampoo-bar-2021",
+  "title": "Angel Hair",
+  "sku": "5323-UN",
+  "size": "55g",
+  "price": {
+    "amount": 20.0,
+    "currency": "AUD",
+    "formatted": "20.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "This soothing, organic shampoo bar works best for individuals with a sensitive scalp. Feel the benefits of calming rose water and ylang ylang flower for hair.",
+  "ingredients": [
+    "Sodium Coco-Sulfate",
+    "Aquafaba",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Perfume",
+    "Sodium Bicarbonate",
+    "Rosebud",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Titanium Dioxide",
+    "Hamamelis Virginiana Leaf Extract (Witch Hazel Extract)",
+    "Synthetic Musk",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Propylene Glycol",
+    "*Benzyl Alcohol",
+    "*Citronellol",
+    "*Eugenol",
+    "*Geraniol",
+    "Colour 77491",
+    "Colour 45410:1",
+    "Colour 45410:2"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/scs_angel_hair_shampoo_bar_logo_2022_19821515_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/scs_angel_hair_shampoo_bar_logo_2022_19821515_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_cork_pot_hero_2024_55ec5995_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_cork_pot_hero_2024_55ec5995_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_hero_image_newsite_2021-2_c0f29840_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_hero_image_newsite_2021-2_c0f29840_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_hero_image_newsite_2021-4_f726f0e9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angel_hair_shampoo_bar_hero_image_newsite_2021-4_f726f0e9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Shampoo Bars",
+    "Hair Care",
+    "Plastic Free",
+    "Summer Essentials",
+    "Keep Clean",
+    "Vegan Hair Products",
+    "Plastic-Free Shower Products",
+    "Pink Is Powerful",
+    "LUSH × BARBIE",
+    "Sweet",
+    "Floral",
+    "Scalp Care",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Soften & Shine Haircare",
+    "Last Chance Exclusives"
+  ]
+}

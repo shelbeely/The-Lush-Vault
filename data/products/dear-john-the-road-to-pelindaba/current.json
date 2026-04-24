@@ -1,0 +1,44 @@
+{
+  "slug": "dear-john-the-road-to-pelindaba",
+  "url": "https://www.lush.com/us/en_us/p/dear-john-the-road-to-pelindaba",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dear-john-the-road-to-pelindaba",
+  "title": "Dear John: The Road to Pelindaba",
+  "sku": "205101-NA",
+  "size": "Each",
+  "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "formatted": "$25.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Dear John: The Road to Pelindaba by Jeff Osment is a biography of Lush co-founder Mark Constantine, published by Lush.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dear_john_book_2020_18ac0b93_thumbnail_4096.png",
+      "alt": "The book 'Dear John: The Road to Pelindaba', a cream coloured cover with the title printed in a handwritten font.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dear_john_book_2020_18ac0b93_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/untitled-3_d4b09faa_thumbnail_4096.jpeg",
+      "alt": "The book presented at an angle on a wooden surface. Placed next to a drinking cup, a spoon and aromatherapy bottles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/untitled-3_d4b09faa_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Books & Music"
+  ]
+}

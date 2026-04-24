@@ -1,0 +1,84 @@
+{
+  "slug": "enzymion-self-preserving-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/enzymion-self-preserving-moisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/enzymion-self-preserving-moisturiser",
+  "title": "Enzymion Self-Preserving",
+  "sku": "61256-NA",
+  "size": "45g",
+  "price": {
+    "amount": 38.0,
+    "currency": "USD",
+    "formatted": "$38.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 20,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This light-weight vegan moisturiser will leave skin feeling fresh and balanced. Now in a new rich self-preserving formula, you can protect your skin's microbiome leaving a bright, matte finish.",
+  "ingredients": [
+    "Fresh Lemon Infusion",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Parfum",
+    "Propylene Glycol",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Organic Cold Pressed Evening Primrose Oil",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Aqua (Water)",
+    "Triticum Vulgare Germ Oil (Wheatgerm Oil)",
+    "Triethanolamine",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Aloe Barbadensis Leaf Juice (Fresh Aloe Gel)",
+    "Freshly Juiced Lemon",
+    "Freshly Juiced Papaya",
+    "Cetearyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzymion_moisturiser_2020_bb457e89_thumbnail_4096.png",
+      "alt": "A swatch of smooth, light, cream coloured Enzymion facial moisturiser.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzymion_moisturiser_2020_bb457e89_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enzymion_self_preserving_facial_moisturiser_hero_image_newsite_2022-7_123650.jpg",
+      "alt": "A person with coily, afro hair smiles as they rub a small patch of cream coloured Enzymion moisturiser into their cheek.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enzymion_self_preserving_facial_moisturiser_hero_image_newsite_2022-7_123650.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Moisturisers",
+    "Skincare",
+    "Vegan Skincare",
+    "Brightening Dull Skin",
+    "Clarifying Spot-Prone Skin",
+    "Self-Preserving Skincare",
+    "Super Powered Ingredients",
+    "Awake ",
+    "Customised Lush Gifts",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Fresh Fruit Enzymes",
+    "Aloe Vera",
+    "Spring Skincare"
+  ]
+}

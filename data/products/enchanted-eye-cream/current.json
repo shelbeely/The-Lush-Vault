@@ -1,0 +1,86 @@
+{
+  "slug": "enchanted-eye-cream",
+  "url": "https://www.lush.com/us/en_us/p/enchanted-eye-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/enchanted-eye-cream",
+  "title": "Enchanted",
+  "sku": "272-NA",
+  "size": "45g",
+  "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "formatted": "$33.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 24,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An elixir of organic oils and lavender honey water helps depuff and brightens the under eye. A firming cream that is simple and effective, for all skin types.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Lavender Honey Water",
+    "Stearic Acid",
+    "Organic Cold Pressed Almond Oil",
+    "Glycerin",
+    "Organic Cold Pressed Jojoba Oil",
+    "Cetearyl Alcohol",
+    "Triethanolamine",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sp_enchanted_eye_cream_2024_1871c240_thumbnail_4096.png",
+      "alt": "Enchanted. A neatly smudged swatch of perfectly smooth, crisp-white eye cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sp_enchanted_eye_cream_2024_1871c240_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_2024_20_0f20e672_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's face. They are smiling with three drops of Enchanted eye cream neatly spotted under their eyes as they are about to smooth it into their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_2024_20_0f20e672_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_2024_17_b1854658_thumbnail_4096.jpg",
+      "alt": "The model is on a warm, earthy-brown background with soft, natural light. They are smiling with three drops of the Enchanted eye cream below their eyes. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_2024_17_b1854658_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_finished_skin_2024_12_08d81eac_thumbnail_4096.jpg",
+      "alt": "The model is on an earth-toned, warm background. They have their eyes closed as they are smiling at the camera with glowing, freshly moisturised skin and bright under-eyes.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_finished_skin_2024_12_08d81eac_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_texture_20_d3bc2d9d_thumbnail_4096.jpg",
+      "alt": "The image shows three circular product droplets getting larger. They are perfect circular swatches of bright white Enchanted eye cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/enchanted_eye_cream_texture_20_d3bc2d9d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Moisturisers",
+    "Best for a calm face",
+    "Calming Skin Redness",
+    "Skin Care for Cold Weather",
+    "Winter Cosmetics",
+    "Skincare Routines",
+    "For the Dreamer",
+    " Lightly-scented",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Ways to Shop",
+    "Hydrating Dry Skin",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "Spring Skincare"
+  ]
+}

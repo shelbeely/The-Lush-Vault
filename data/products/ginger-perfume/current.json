@@ -1,0 +1,78 @@
+{
+  "slug": "ginger-perfume",
+  "url": "https://www.lush.com/us/en_us/p/ginger-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/ginger-perfume",
+  "title": "Ginger",
+  "sku": "1650-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 135.0,
+    "currency": "USD",
+    "formatted": "$135.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An elegant but enlivening blend of spicy ginger, mimosa and sandalwood, that unfolds slowly with the warmth of your skin.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Mimosa Absolute",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Zingiber Officinale Root Oil (Ginger Oil)",
+    "Citrus Nobilis Peel Oil (Mandarin Oil)",
+    "Kenyan Geranium Oil",
+    "Sandalwood Oil",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "Citronellol",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with a light amber liquid. A black label reads 'The Perfume Library' and 'Ginger'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_perfume_hero_image_2021_thumbnail_4096.jpg",
+      "alt": "Ginger, a bottled, black label perfume, lies flat, with light shining through it, creating a pale golden cast of light.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_perfume_hero_image_2021_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Winter Cosmetics",
+    "Fresh from head-to-toe",
+    "Floral",
+    "Spicy",
+    "Autumn & Winter Fragrances",
+    "Gifts for Capricorn",
+    "Our Staff Picks"
+  ]
+}

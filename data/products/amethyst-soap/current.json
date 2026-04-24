@@ -1,0 +1,83 @@
+{
+  "slug": "amethyst-soap",
+  "url": "https://www.lush.com/us/en_us/p/amethyst-soap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/amethyst-soap",
+  "title": "Amethyst",
+  "sku": "4919-UN",
+  "size": "65g",
+  "price": {
+    "amount": 10.0,
+    "currency": "GBP",
+    "formatted": "10.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "A softening soap collected for its beauty, loved for its benefits. Inside, find a whipped balanite base that’ll create soothing creamy suds.",
+  "ingredients": [
+    "Lavender Water",
+    "Propylene Glycol",
+    "Balanites Oil",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Aqua (Water)",
+    "Aquafaba",
+    "Sodium Hydroxide",
+    "Sodium Stearate",
+    "Parfum",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Vaccinium Corymbosum Fruit (Organic Blueberries)",
+    "Avena Sativa Kernel Flour (Oat Flour)",
+    "Silken Tofu",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Citric Acid",
+    "Xanthan Gum",
+    "Sodium Chloride",
+    "Gelidium Cartilagineum Extract (Agar Agar)",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "*Limonene",
+    "*Linalool",
+    "Colour 17200",
+    "Colour 42090"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_ecom_2025_ca9058ba_thumbnail_4096.png",
+      "alt": "Amethyst soap. A cylindrical log of dark, translucent purple soap, showing a lighter, swirled purple pattern on its cut end.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_ecom_2025_ca9058ba_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_1_c41519c6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_1_c41519c6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_3_b46de3f0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_3_b46de3f0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_8_bc3b8850_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amethyst_soap_hero_2025_8_bc3b8850_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

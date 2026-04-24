@@ -1,0 +1,75 @@
+{
+  "slug": "eclipse-glitter-crumble",
+  "url": "https://www.lush.com/us/en_us/p/eclipse-glitter-crumble",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/eclipse-glitter-crumble",
+  "title": "Eclipse",
+  "sku": "62515-NA",
+  "size": "4g",
+  "price": {
+    "amount": 27.0,
+    "currency": "USD",
+    "formatted": "$27.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 25,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A metallic fusion of silver and gold lustre creates a liquid-like shimmer across gunmetal lids.",
+  "ingredients": [
+    "Synthetic Fluorphlogopite",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Tin Oxide",
+    "Iron Oxides",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumbeles_swatch_2023_cc68bfb5_thumbnail_4096.png",
+      "alt": "Eclipse Glitter Crumble. A neatly smudged swatch of crumbly, shimmering, gunmetal-brown, metallic eyeshadow. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumbeles_swatch_2023_cc68bfb5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_01_649d96a8_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, gunmetal-brown, shimmering eyeshadow made by the Eclipse Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_01_649d96a8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_08_7b8e5424_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, gunmetal-brown, shimmering eyeshadow made by the Eclipse Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_08_7b8e5424_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_11_50ef69c3_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model's face on a pale blue-to-green gradient background. The model's make-up is done with the focal point being a subtle, gunmetal-brown, shimmering eyeshadow made by the Eclipse Glitter Crumble. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eclipse_glitter_crumble_2024_11_50ef69c3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glitter_crumbels_swatch_hero_portrait_2024_01_3c37b646_thumbnail_4096.jpg",
+      "alt": "The image shows four model's forearms laid next to each other in varying shades of skin colour. There is a line of ten Glitter Crumble swatches across all four arms to showcase how each product colour shows up on different skin tones.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glitter_crumbels_swatch_hero_portrait_2024_01_3c37b646_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup",
+    "Glitter Products"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "blooming-marvellous-mom",
+  "url": "https://www.lush.com/us/en_us/p/blooming-marvellous-mom",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blooming-marvellous-mom",
+  "title": "Blooming Marvellous Mom",
+  "sku": "64752-NA",
+  "size": "Each",
+  "price": {
+    "amount": 69.0,
+    "currency": "USD",
+    "formatted": "$69.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Give mom the best gift of all — some peace and quiet! This Mother’s Day, treat them to eight delightful bath bombs to make their dreams a reality.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_ecom_Digi_965699da_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_ecom_Digi_965699da_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_04_D_5ccf0aed_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_04_D_5ccf0aed_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_06_D_81602cb3_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_06_D_81602cb3_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_05_D_1f6f16a6_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mothers-Day-2026-Blooming-Marvellous-Mom-Gift_hero_05_D_1f6f16a6_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Bomb Gift Sets",
+    "New Products",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Mother’s Day"
+  ]
+}

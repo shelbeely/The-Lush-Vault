@@ -1,0 +1,85 @@
+{
+  "slug": "baby-rainbow-carrot-yellow-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-yellow-bubble-bar",
+  "sourceUrl": "https://www.lush.com/au/en/p/baby-rainbow-carrot-yellow-bubble-bar",
+  "title": "Baby Rainbow Carrot - Yellow",
+  "sku": "532-UN",
+  "size": "40g",
+  "price": {
+    "amount": 7.5,
+    "currency": "AUD",
+    "formatted": "7.50 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Paint the rainbow with the Easter Bunny's favourite crop! Choose from three colours with a zesty bergamot and lemon scent that is oh so a-peel-ing.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Barosma Betulina Leaf Oil (Buchu Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Carrot Powder",
+    "*Limonene",
+    "*Linalool",
+    "Colour 45350",
+    "Colour 19140",
+    "Green Raffia"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/yellow_baby_rainbow_carrot_reusable_bubble_bar_2023_78f8394c_thumbnail_4096.png",
+      "alt": "Baby Rainbow Carrot. A bubble bar shaped like a perfect yellow carrot complete with green raffia leaves on top. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/yellow_baby_rainbow_carrot_reusable_bubble_bar_2023_78f8394c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_baby_rainbow_carrots_reusable_bubble_bar_yellow_easte_0ad49cd3_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_baby_rainbow_carrots_reusable_bubble_bar_yellow_easte_0ad49cd3_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_fec95307_thumbnail_4.jpg",
+      "alt": "A hand holds a bright yellow, carrot-shaped bubble bar with green raffia stems under a stream of running water. The bar dissolves into vibrant, lime-green bathwater topped with a thick layer of frothy white bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_fec95307_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_386b3550_thumbnail_4.jpg",
+      "alt": "A hand holds a bright yellow carrot-shaped bubble bar by its green stems, dipping it into lime-green bathwater. Thick white foam and yellow bubbles gather around the carrot's base as it creates a vibrant bath.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_386b3550_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_1cf7fea1_thumbnail_4.jpg",
+      "alt": "A top-down view of vibrant yellow bathwater with an island of thick, frothy white bubbles. Small clusters of foam drift across the clear yellow surface, creating a soft, indulgent texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_yellow_easter_h_1cf7fea1_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bubble Bath Bars",
+    "Easter",
+    "Zesty",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Bath Products",
+    "Gifts for Kids & Teens"
+  ]
+}

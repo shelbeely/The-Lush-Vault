@@ -1,0 +1,96 @@
+{
+  "slug": "gallop-to-success-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/gallop-to-success-bath-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/gallop-to-success-bath-bomb",
+  "title": "Gallop To Success",
+  "sku": "64660-UN",
+  "size": "145g",
+  "price": {
+    "amount": 5.0,
+    "currency": "GBP",
+    "formatted": "5.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Start your Lunar New Year celebration on the right hoof with Gallop To Success, a horse-shaped bath bomb full of calming orange flower and uplifting bergamot.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Alcohol Denat.",
+    "Zea Mays Starch (Cornstarch)",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Citrus Aurantium Amara Flower Extract (Orange Flower Extract)",
+    "Citrus Nobilis Peel Oil (Mandarin Oil)",
+    "Isomalt (Popping Candy)",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Sodium Coco-Sulfate",
+    "Synthetic Fluorphlogopite",
+    "Propylene Glycol",
+    "Cocamidopropyl Betaine",
+    "Silica",
+    "Tin Oxide",
+    "*Limonene",
+    "*Linalool",
+    "Colour 15985:1",
+    "Colour 19140:1",
+    "Colour 14700",
+    "Colour 19140",
+    "Colour 77491",
+    "Colour 45410:1"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Naked",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/galloping_to_success_bath_bomb_LNY_ecom_2026_0b119367_thumbnail_4096.png",
+      "alt": "The gold, rearing horse shape of the Gallop To Success Bath Bomb shimmers with Plastic Free Glitter against a light background",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/galloping_to_success_bath_bomb_LNY_ecom_2026_0b119367_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_4_7d977954_thumbnail_4096.jpg",
+      "alt": "The Gallop To Success Bath Bomb stands upright, showcasing its rearing horse shape and shimmering gold Plastic Free Glitter against a geometric orange background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_4_7d977954_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_1_a37c6c42_thumbnail_4096.jpg",
+      "alt": "The gold, horse-shaped Gallop To Success Bath Bomb dissolves in bright orange water, releasing frothy foam and shimmering gold Plastic Free Glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_1_a37c6c42_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_2_f13ed814_thumbnail_4096.jpg",
+      "alt": "The gold Gallop To Success Bath Bomb dissolves in vibrant orange bath water, releasing swirling foam and shimmering gold Plastic Free Glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_2_f13ed814_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_3_5589808c_thumbnail_4096.jpg",
+      "alt": "The golden horse shape of the Gallop To Success Bath Bomb dissolves into swirling orange bath art, releasing a stream of shimmering gold Plastic Free Glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gallop_to_success_bath_bomb_hero_2025_3_5589808c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Products",
+    "Vegan",
+    "Lunar New Year",
+    "Vegan Bath Products",
+    "Bath Bombs",
+    "Leaving Soon",
+    "Fresh & Playful",
+    "Citrus & Uplifting"
+  ]
+}

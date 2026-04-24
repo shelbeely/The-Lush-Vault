@@ -1,0 +1,68 @@
+{
+  "slug": "american-cream-perfume",
+  "url": "https://www.lush.com/us/en_us/p/american-cream-perfume",
+  "title": "American Cream",
+  "sku": "9222-NA",
+  "size": "30ml",
+  "price": {
+    "amount": 55.0,
+    "currency": "USD",
+    "formatted": "$55.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 13,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Drop into our diner and order a splash of this delicious vanilla scent. Sweet vanilla absolute and benzoin resinoid to create this creamy milkshake perfume you (and others) won’t be able to get enough of.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Alpha-Isomethyl Ionone",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "*Anise Alcohol",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_perfume_100ml_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with light amber liquid. A white label reads 'American Cream'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_perfume_100ml_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_hero_2022-3_67e35c9d_thumbnail_4096.jpg",
+      "alt": "Two perfume bottles balance on a pink ball an cylindrical podium.  Next to it is a pink and white flower and a vanilla pod.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_hero_2022-3_67e35c9d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "American Cream",
+    "Gourmand",
+    "Berries & Cream Trifle",
+    "Vanilla",
+    "Valentine's Bestie Baskets  ",
+    "Spring Fragrance"
+  ]
+}

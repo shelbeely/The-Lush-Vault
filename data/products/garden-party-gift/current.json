@@ -1,0 +1,74 @@
+{
+  "slug": "garden-party-gift",
+  "url": "https://www.lush.com/us/en_us/p/garden-party-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/garden-party-gift",
+  "title": "Garden Party",
+  "sku": "60612-NA",
+  "size": "245g",
+  "price": {
+    "amount": 37.0,
+    "currency": "USD",
+    "formatted": "$37.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Invite someone to relax in fragrant surroundings with this ethically sourced shower gift. Full of familiar garden scents to soften the skin and soothe the mind. ",
+  "ingredients": [],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/garden_party_pr_gift_2021_thumbnail_4096.png",
+      "alt": "Garden Party. A blue square hat box, printed with flowering plants and butterflies, tied with pink string and a yellow gift tag.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/garden_party_pr_gift_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/garden_party_gift_hero_image_2021_01_thumbnail_4096.jpg",
+      "alt": "Garden Party, opened onto a light blue background, with its included products and eco packaging pops arranged randomly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/garden_party_gift_hero_image_2021_01_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/honey_I_washed_the_kids_soap_hero_image_2021-1_501029f4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/honey_I_washed_the_kids_soap_hero_image_2021-1_501029f4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20221_67bba573_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20221_67bba573_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ros_argan_body_conditioner_hero_image_2020_modelAAB02-_8aa55966_thumbnail_40.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ros_argan_body_conditioner_hero_image_2020_modelAAB02-_8aa55966_thumbnail_12.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts",
+    "Gifts for Friends",
+    "Corporate Gifts",
+    "Bath & Body Gifts",
+    "Floral",
+    "Birthday Gifts",
+    "Gifts for Virgo",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts Under $50"
+  ]
+}

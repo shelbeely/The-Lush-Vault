@@ -1,0 +1,73 @@
+{
+  "slug": "devils-nightcap-perfume",
+  "url": "https://www.lush.com/us/en_us/p/devils-nightcap-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/devils-nightcap-perfume",
+  "title": "Devil's Nightcap",
+  "sku": "7434-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 270.0,
+    "currency": "USD",
+    "formatted": "$270.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A devilishly delightful earthy perfume. Embark on a journey through the ancient countryside and ground down with smoky oakwood absolute. Under the silver beams of a full moon, clear your mind and inspire your imagination with uplifting orange flower and mystical oakmoss absolute.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Oakmoss Absolute",
+    "Oakwood Absolute",
+    "Citrus Aurantium Amara Flower Extract (Orange Flower Extract)",
+    "Alpha-Isomethyl Ionone",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "Citronellol",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Farnesol",
+    "*Geraniol",
+    "Hydroxycitronellal",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/devils_nightcap_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with dark mahogany liquid. A black label reads 'The Perfume Library' and 'Devil's Nightcap'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/devils_nightcap_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/devils_nightcap_husband_perfume_library_hero5441_thumbnail_4096.jpg",
+      "alt": "A number of black label perfume bottles are arranged randomly, with Devil's Nightcap in the centre, lid off, ready to spritz.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/devils_nightcap_husband_perfume_library_hero5441_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "Autumn & Winter Fragrances"
+  ]
+}

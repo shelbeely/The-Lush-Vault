@@ -1,0 +1,86 @@
+{
+  "slug": "dirty-solidperfume",
+  "url": "https://www.lush.com/us/en_us/p/dirty-solidperfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-solidperfume",
+  "title": "Dirty",
+  "sku": "62940-NA",
+  "size": "11g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 27,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "The sandalwood, spearmint and neroli in this solid perfume do all the freshening up so you don’t have to.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Parfum",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Artemisia Dracunculus Oil (Tarragon Oil)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Thymus Vulgaris Leaf Extract (Thyme Extract)",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Coumarin",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "Hydroxycitronellal",
+    "Blue 1 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_pack_11g_2024_64c6f295_thumbnail_4096.png",
+      "alt": "Dirty. A short, cylindrical black push-up tube of the Dirty solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_pack_11g_2024_64c6f295_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_hero_2024_d2bc5062_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_hero_2024_d2bc5062_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_hero_2024_1_8eac30ca_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_hero_2024_1_8eac30ca_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_pack_11g_2024_cdc2d5c9_thumbnail_4096.png",
+      "alt": "Dirty. A short, cylindrical black push-up tube of the Dirty solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_solid_perfume_pack_11g_2024_cdc2d5c9_thumbnail_128.png"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mint",
+    "Fragrances",
+    "Solid Perfume",
+    "For the Nature-Lover",
+    "Travel-size Essentials",
+    "Refresh Your Routine ",
+    "Small Gifts",
+    "Sporty Soaperstar Gifts"
+  ]
+}

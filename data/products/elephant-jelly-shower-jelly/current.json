@@ -1,0 +1,92 @@
+{
+  "slug": "elephant-jelly-shower-jelly",
+  "url": "https://www.lush.com/us/en_us/p/elephant-jelly-shower-jelly",
+  "sourceUrl": "https://www.lush.com/uk/en/p/elephant-jelly-shower-jelly",
+  "title": "Elephant Jelly",
+  "sku": "64726-UK",
+  "size": "80g",
+  "price": {
+    "amount": 7.5,
+    "currency": "GBP",
+    "formatted": "7.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Lather this limited-edition elephant-shaped shower jelly for washes that help to fund the creation of a wildlife corridor to protect threatened mammals in Cameroon.",
+  "ingredients": [
+    "Glycerin",
+    "Cymbopogon Flexuosus Herb Extract (Fresh Lemongrass Extract)",
+    "Sodium Coco-Sulfate",
+    "Propylene Glycol",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Olibanum (Olibanum Resinoid)",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "Piper Nigrum Fruit Oil (Black Pepper Oil)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Zea Mays Starch (Cornstarch)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Citral",
+    "Coumarin",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 77499"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_ecom_2025_9339a1e7_thumbnail_4096.png",
+      "alt": "Elephant Jelly. A fun, gelatinous, Lush shower jelly in the shape of an elephant's face, complete with large ears, long trunk and tusks, in a metallic silver colour. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_ecom_2025_9339a1e7_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_1_cb4ae714_thumbnail_4096.jpg",
+      "alt": "The image shows a pair of light-toned hands reaching in from the right. They are cupped and gently holding the metallic silver Elephant Jelly in their hands. The background is a solid yellow with blurred water droplets falling. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_1_cb4ae714_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_2_df69ca3b_thumbnail_4096.jpg",
+      "alt": "The image shows a blonde, smiling model in the shower, from the shoulders up. They are using a metallic silver elephant jelly to wash their shoulder. Water droplets and suds are visible on their skin, and the background is a solid bright yellow.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_2_df69ca3b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_3_a41c9569_thumbnail_4096.jpg",
+      "alt": "The image shows a blonde, smiling model in the shower, from the shoulders up. They are using a metallic silver elephant jelly to wash their shoulder. Water droplets and suds are visible on their skin, and the background is a solid bright yellow.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_3_a41c9569_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_6_0e762317_thumbnail_4096.jpg",
+      "alt": "The image shows a blonde, smiling model in the shower, from the shoulders up. They are using a metallic silver elephant jelly to wash their shoulder. Water droplets and suds are visible on their skin, and the background is a solid bright yellow.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_6_0e762317_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_7_1179c98b_thumbnail_4096.jpg",
+      "alt": "The image shows a blonde, smiling model in the shower, from the shoulders up. They are using a metallic silver elephant jelly to wash their shoulder. Water droplets and suds are visible on their skin, and the background is a solid bright yellow.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elephant_jelly_shower_jelly_giving_hero_2025_7_1179c98b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Jellies",
+    "Shower Products",
+    "Lush Giving Products",
+    "Vegan Shower Products"
+  ]
+}

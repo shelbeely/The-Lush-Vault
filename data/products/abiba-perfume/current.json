@@ -1,0 +1,70 @@
+{
+  "slug": "abiba-perfume",
+  "url": "https://www.lush.com/us/en_us/p/abiba-perfume",
+  "title": "Abiba",
+  "sku": "62895-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 180.0,
+    "currency": "USD",
+    "formatted": "$180.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 6,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "This intimate, spicy and empowering fragrance draws on scent memories of a trip to Ghana and the stories shared over shea butter.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Ghanaian Ylang Ylang Oil",
+    "Bay Oil",
+    "Carrot Seed Oil",
+    "Frangipani Absolute",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Benzyl Salicylate",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/abiba_100ml_perfume_ecom_2024_83f39c14_thumbnail_4096.png",
+      "alt": "Abiba. A rectangular, glass perfume bottle with a black cap is filled with translucent, almost-yellow liquid. The name \"Abiba\" is arched on the front of the bottle along with flower decals.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/abiba_100ml_perfume_ecom_2024_83f39c14_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/abiba_landscape_perfume_2024_89e37d3b_thumbnail_4096.jpg",
+      "alt": "The image shows the Abiba glass perfume bottle. It is sitting on a soft, beige background with curved, cream paper creating soft, gliding shapes behind the product.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/abiba_landscape_perfume_2024_89e37d3b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Vegan",
+    "Perfumes",
+    "Floral",
+    "Fragrances",
+    "Vegan Perfume",
+    "Spicy"
+  ]
+}

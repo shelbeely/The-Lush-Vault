@@ -1,0 +1,93 @@
+{
+  "slug": "dirty-shaving-cream",
+  "url": "https://www.lush.com/us/en_us/p/dirty-shaving-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-shaving-cream",
+  "title": "Dirty",
+  "sku": "63059-NA",
+  "size": "50g (mini)",
+  "price": {
+    "amount": 10.5,
+    "currency": "USD",
+    "formatted": "$10.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 32,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "For irresistibly smooth skin, our shaving lotion for sensitive skin combines protective shea butter and soothing oat milk, whilst sandalwood leaves a light, fragrant impression.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Oat Milk",
+    "Carthamus Tinctorius Seed Oil (Safflower Oil)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Stearic Acid",
+    "Glycerin",
+    "Cetearyl Alcohol",
+    "Triethanolamine",
+    "Honey",
+    "Tincture of Benzoin",
+    "Cedarwood Oil",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Sandalwood Oil",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Coumarin",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_shaving_cream_2020_c55abb9f_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_shaving_cream_2020_c55abb9f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_01_Digital_-2024-PDP_Hero_5eb42072_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_01_Digital_-2024-PDP_Hero_5eb42072_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_02_Digital_-2024-PDP_Hero_fadc7d37_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_02_Digital_-2024-PDP_Hero_fadc7d37_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_03_Digital_-2024-PDP_Hero_6052d1b8_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_03_Digital_-2024-PDP_Hero_6052d1b8_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Dirty",
+    "Shaving",
+    "Skincare",
+    "Rewild your routine",
+    "Gifts for Dad",
+    "Layer on a dose of herbaceous freshness",
+    "Lavender",
+    "Bath and Shower",
+    "Customised Lush Gifts",
+    "Top Lush Scents",
+    "Ways to Shop",
+    "By Ingredients",
+    "Shea Butter"
+  ]
+}

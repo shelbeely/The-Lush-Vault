@@ -1,0 +1,65 @@
+{
+  "slug": "creme-brulee-single-wick-candle",
+  "url": "https://www.lush.com/us/en_us/p/creme-brulee-single-wick-candle",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/creme-brulee-single-wick-candle",
+  "title": "Crème Brûlée",
+  "sku": "218167-NA",
+  "size": "200g",
+  "price": {
+    "amount": 22.0,
+    "currency": "USD",
+    "formatted": "$22.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 32,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "If you want to create a cosy, welcoming atmosphere, light this gloriously gourmand candle and fill your home with soft powdery tonka and warming sandalwood.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_scented_1_wick_candle_ecom_2025_d446b405_thumbnail_4096.png",
+      "alt": "Crème Brûlée. A round, black, candle tin with a removable lid. The black label on the front reads \"Crème Brûlée Scented Candle\" in white text.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_scented_1_wick_candle_ecom_2025_d446b405_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_candle_portrait_2025_af626d49_thumbnail_4096.jpg",
+      "alt": "The image shows a blurred, cream background. In the foreground, the Creme Brûlée black tin candle sits on a rustic wooden stool with an unused match beside it and a cream cloth.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_candle_portrait_2025_af626d49_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_candle_portrait_2025_01_18c31db0_thumbnail_4096.jpg",
+      "alt": "The image shows a blurred, cream background. In the foreground, the Creme Brûlée black tin candle sits with a lit flame on a rustic wooden stool with an unused match beside it and a cream cloth.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_brulee_candle_portrait_2025_01_18c31db0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/karma_creme_brulee_twilight_candle_group_portrait_2025__74b7b1be_thumbnail_4.jpg",
+      "alt": "The image shows a warm beige background with a ceramic vase of wheat. Three back tin candles are sitting with their wicks lit on a marble-topped counter. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/karma_creme_brulee_twilight_candle_group_portrait_2025__74b7b1be_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gourmand",
+    "Home Fragrances",
+    "Fragrances",
+    "Candles",
+    "Lifestyle",
+    "For the Artist",
+    "For the Life and Soul",
+    "Autumn & Winter Fragrances",
+    "Cosy Season",
+    "Vanilla",
+    "Spring Fragrance"
+  ]
+}

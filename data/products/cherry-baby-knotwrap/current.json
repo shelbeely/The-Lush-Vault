@@ -1,0 +1,51 @@
+{
+  "slug": "cherry-baby-knotwrap",
+  "url": "https://www.lush.com/us/en_us/p/cherry-baby-knotwrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cherry-baby-knotwrap",
+  "title": "Cherry Baby",
+  "sku": "222201-NA",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 12,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Pluck a few of your favourite Lush products and wrap them up in this colourful Knot Wrap. This sustainable alternative to wrapping paper is something you’ll cherry-ish.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_ecom_a7774a5f_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_ecom_a7774a5f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_texture_landscape_66d64f12_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_texture_landscape_66d64f12_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_texture_6dddc2bb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Sundry-2026-Cherry-Baby-Knot-Wrap_texture_6dddc2bb_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Valentine's Bestie Baskets  ",
+    "Leaving Soon"
+  ]
+}

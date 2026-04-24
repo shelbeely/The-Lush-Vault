@@ -1,0 +1,47 @@
+{
+  "slug": "cheer-up-buttercup",
+  "url": "https://www.lush.com/us/en_us/p/cheer-up-buttercup",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cheer-up-buttercup",
+  "title": "Cheer Up Buttercup",
+  "sku": "64018-NA",
+  "size": "64018-NA",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Chin up!",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cheer_up_butter_cup_july_kitchen_ecom_2025_fbb438cf_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cheer_up_butter_cup_july_kitchen_ecom_2025_fbb438cf_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/XL_box_july_kitchen_hero_portrait_2025_351d01cb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/XL_box_july_kitchen_hero_portrait_2025_351d01cb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_box_july_kitchen_hero_portrait_2025_b31ac432_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_box_july_kitchen_hero_portrait_2025_b31ac432_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "7-to-3-clensing-wipe",
+  "url": "https://www.lush.com/us/en_us/p/7-to-3-clensing-wipe",
+  "sourceUrl": "https://www.lush.com/uk/en/p/7-to-3-clensing-wipe",
+  "title": "7 to 3",
+  "sku": "5120-UN",
+  "size": "7g",
+  "price": {
+    "amount": 3.0,
+    "currency": "GBP",
+    "formatted": "3.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Biodegradable, naked and preservative-free, these uplifting and calming facial cleansing wipes are perfect for removing makeup whilst moisturising your skin.",
+  "ingredients": [
+    "Lilium Hybrid Flower Extract (Fresh White Lily)",
+    " Talc (Talc Powder)",
+    "Glycerin",
+    "Sodium Lauroyl Sarcosinate",
+    "Propylene Glycol",
+    "Ground Cannellini Beans",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Everlasting Flower Absolute",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Amyl Cinnamal",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "Cinnamyl Alcohol",
+    "Citronellol",
+    "Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/7_to_3_cleansing_wipe_2020_fd3ed7af_thumbnail_4096.png",
+      "alt": "7 to 3. A circular, cream in colour, naked cleansing pad.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/7_to_3_cleansing_wipe_2020_fd3ed7af_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/7-3_face_clenser_2018_2_of_7_dfd79dc1_thumbnail_4096.jpeg",
+      "alt": "7 to 3, a circular, cream coloured, cleansing pad, is brushed over the cheek, creating a cleansing cream when hydrated.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/7-3_face_clenser_2018_2_of_7_dfd79dc1_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Cleansers",
+    "Vegan Skincare",
+    "Skincare",
+    "Summer Essentials",
+    "Plastic Free",
+    "Floral",
+    "Travel-size Essentials",
+    "Soothing & Moisturizing"
+  ]
+}

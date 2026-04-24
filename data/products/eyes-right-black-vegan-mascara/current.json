@@ -1,0 +1,62 @@
+{
+  "slug": "eyes-right-black-vegan-mascara",
+  "url": "https://www.lush.com/us/en_us/p/eyes-right-black-vegan-mascara",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/eyes-right-black-vegan-mascara",
+  "title": "Eyes Right",
+  "sku": "6428-NA",
+  "size": "9g",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 9,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Keep it simple and effective with Eyes Right, our gentle, jet black, vegan mascara that is perfect for every dear wear. ",
+  "ingredients": [
+    "Fresh Wheatgrass Infusion",
+    "Aqua (Water)",
+    "Rhus Succedanea Fruit Cera (Japan Wax)",
+    "Stearic Acid",
+    " Talc (Talc Powder)",
+    "Triethanolamine",
+    "Organic Carnauba Wax",
+    "Polyvinylpyrrolidone (PVP)",
+    "Iron Oxides",
+    "Methylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eyes_right_mascara_2020_thumbnail_4096.png",
+      "alt": "A tube and wand of Eyes Right mascara, both made of black Lush plastic, are positioned in front of a swatch of black mascara.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eyes_right_mascara_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Eyes_Right_5c34bd01_thumbnail_4096.jpg",
+      "alt": "A close-up of a person applying Eyes Right, a black, lightweight mascara, to their lashes, smiling as they do so.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Eyes_Right_5c34bd01_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Mascara & Eyeliner",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup",
+    "Ways to Shop"
+  ]
+}

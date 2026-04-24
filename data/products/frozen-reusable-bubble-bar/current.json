@@ -1,0 +1,88 @@
+{
+  "slug": "frozen-reusable-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/frozen-reusable-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/frozen-reusable-bubble-bar",
+  "title": "Frozen",
+  "sku": "4443-NA",
+  "size": "90g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Magic is but a bubble bath away. Let it go and blast the bath with spearmint bubbles and cleansing sea salt for a gently invigorating soak. Soak under a fantastical dream come to life. \n",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Titanium Dioxide",
+    "Maris Sal (Fine Sea Salt)",
+    "Zea Mays Starch (Cornstarch)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Benzyl Alcohol",
+    "*Limonene",
+    "Parfum",
+    "Blue 1 Lake",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_f2875f39_thumbnail_4096.png",
+      "alt": "Frozen. A reusable bubble bar comprised of a wooden stick handle and a typical, five-pointed star-shaped, blue bubble bar on top. There is a snowflake shape embossed on the star and a visible silver shimmer throughout the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_f2875f39_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_3_4835eee5_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up shot of the Frozen reusable bubble bar stick being held under running tap water. The icy-blue star at the end creates bubbly, cool-blue water below. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_3_4835eee5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_4_bd34a1d3_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up shot of the Frozen reusable bubble bar stick being held under running tap water. The icy-blue star at the end creates bubbly, cool-blue water below. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_4_bd34a1d3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_10_f03230de_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up shot of the Frozen reusable bubble bar stick being swirled around cool, icy-blue bath water surrounded by a thick blanket of foamy bubbles made by the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_10_f03230de_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_8_37d436e6_thumbnail_4096.jpg",
+      "alt": "The image shows the colourful aftermath of using the Frozen reusable bubble bark stick. There is turquoise, icy-blue bath water surrounded by mountains of bright bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_bubble_wand_2024_8_37d436e6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Mint",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Products",
+    "Customised Lush Gifts",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Glitter Products"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "courage-vegan-eyeliner",
+  "url": "https://www.lush.com/us/en_us/p/courage-vegan-eyeliner",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/courage-vegan-eyeliner",
+  "title": "Courage",
+  "sku": "60546-NA",
+  "size": "5g",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 8,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Go green with Courage, our metallic emerald green shade of vegan liquid eyeliner.",
+  "ingredients": [
+    "Fair Trade Organic Aloe Vera Gel",
+    "Aqua (Water)",
+    "Styrene/Acrylates/Ammonium Methacrylate Copolymer",
+    "Stearic Acid",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Triethanolamine",
+    "Glycerin",
+    "Glyceryl Stearate SE",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Xanthan Gum",
+    "Polyvinylpyrrolidone (PVP)",
+    "Butylene Glycol",
+    "Sodium Laureth Sulfate",
+    "Potassium Sorbate",
+    "Tetrasodium EDTA",
+    "Ammonium Hydroxide",
+    "Tin Oxide",
+    "Yellow 5 Lake",
+    "Blue 1 Lake",
+    "Iron Oxides",
+    "Ferric Ferrocyanide",
+    "Blue 1",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/jujube_eyeliner_2020_thumbnail_4096.png",
+      "alt": "A swatch of shimmery, emerald green liquid eyeliner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/jujube_eyeliner_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/hero_courage_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/hero_courage_thumbnail_128.png"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

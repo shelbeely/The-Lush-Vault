@@ -1,0 +1,67 @@
+{
+  "slug": "confetti-perfume",
+  "url": "https://www.lush.com/us/en_us/p/confetti-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/confetti-perfume",
+  "title": "Confetti",
+  "sku": "1800-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 190.0,
+    "currency": "USD",
+    "formatted": "$190.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 6,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An infatuating floral perfume. Delicate violet leaf absolute blossoms with sensual rose, while smoky sandalwood oil marks the final chapter - everlasting love and comfort. ",
+  "ingredients": [
+    "Organic DRF Alcohol",
+    "Parfum",
+    "Alpha-Isomethyl Ionone",
+    "Aqua (Water)",
+    "Glycerin",
+    "Geraniol",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Violet Leaf Absolute",
+    "Sandalwood Oil",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Citronellol",
+    "*Eugenol",
+    "*Farnesol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/confetti_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with lime green liquid. A black label reads 'The Perfume Library' and 'Confetti'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/confetti_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/confetti_perfume_100ml_light_beam_hero_image_2021_1_thumbnail_4096.jpg",
+      "alt": "Confetti, a bottled, black label perfume, lies flat, with light shining through it, creating a green cast of light.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/confetti_perfume_100ml_light_beam_hero_image_2021_1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes"
+  ]
+}

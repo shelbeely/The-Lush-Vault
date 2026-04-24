@@ -1,0 +1,40 @@
+{
+  "slug": "fearsome-friends-greetings-card",
+  "url": "https://www.lush.com/us/en_us/p/fearsome-friends-greetings-card",
+  "sourceUrl": "https://www.lush.com/uk/en/p/fearsome-friends-greetings-card",
+  "title": "Fearsome Friends",
+  "sku": "220669-UN",
+  "size": "Each",
+  "price": {
+    "amount": 5.0,
+    "currency": "GBP",
+    "formatted": "5.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Top a gift or mail this seasonal greetings card and pumpkin pin to a friend and spread the Halloween spirit.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Halloween-2025-Fearsome-Friends-Greeting-Card_ecom_Digi_3061291f_thumbnail_4.png",
+      "alt": "Fearsome Friends. A square, multicoloured greetings card with a design of framed Halloween monster portraits. Including a vampire, a bat, a witch, and a mummy, against a purple and pink striped background. A removable pumpkin badge is attached.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Halloween-2025-Fearsome-Friends-Greeting-Card_ecom_Digi_3061291f_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Halloween-2025-Fearsome-Friends-Greeting-Card-Enamel-Pi_2759e9d7_thumbnail_4.jpg",
+      "alt": "The image shows the square 'Fearsome Friends' card, with a multicoloured grid of monster portraits and a detachable pumpkin pin badge. It stands on a purple plinth against a deep purple background with distinct shadows.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Halloween-2025-Fearsome-Friends-Greeting-Card-Enamel-Pi_2759e9d7_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

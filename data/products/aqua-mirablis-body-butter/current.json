@@ -1,0 +1,74 @@
+{
+  "slug": "aqua-mirablis-body-butter",
+  "url": "https://www.lush.com/us/en_us/p/aqua-mirablis-body-butter",
+  "sourceUrl": "https://www.lush.com/au/en/p/aqua-mirablis-body-butter",
+  "title": "Aqua Mirabilis",
+  "sku": "1518-UN",
+  "size": "40g",
+  "price": {
+    "amount": 10.0,
+    "currency": "AUD",
+    "formatted": "10.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "An underwater miracle for your skin leaves you soft and silky-smooth.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Prunus Armeniaca Kernel Oil (Apricot Kernel Oil)",
+    "Sodium Bicarbonate",
+    "Laureth 4",
+    "Ground Almond Shells",
+    "Citric Acid",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Sandalwood Oil",
+    "Marigold Petals",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-aqua-mirablis-underwater-body-scrub_16129194_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-aqua-mirablis-underwater-body-scrub_16129194_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_01_3221f961_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_01_3221f961_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_03_59018bfa_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_03_59018bfa_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_02_cba7ac8c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Aqua-Mirablis-Body-Scrub-Vertical-Hero_02_cba7ac8c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Shower Products",
+    "Body Care",
+    "Shower Products",
+    "Vegan Body Care Products",
+    "Customised Lush Gifts",
+    "For the Nature-Lover"
+  ]
+}

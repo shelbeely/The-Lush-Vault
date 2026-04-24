@@ -1,0 +1,80 @@
+{
+  "slug": "dirty-perfume",
+  "url": "https://www.lush.com/us/en_us/p/dirty-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-perfume",
+  "title": "Dirty",
+  "sku": "7302-NA",
+  "size": "30ml",
+  "price": {
+    "amount": 55.0,
+    "currency": "USD",
+    "formatted": "$55.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 8,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Spray and go with this minty fresh perfume to clear the mind and lift the spirits. A cooling current bursts from the bottle, scenting the skin with invigorating spearmint, peppery tarragon and woody sandalwood.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Hydroxycitronellal",
+    "*Linalool",
+    "Artemisia Dracunculus Oil (Tarragon Oil)",
+    "Sandalwood Oil",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Thymus Vulgaris Leaf Extract (Thyme Extract)",
+    "*Coumarin",
+    "*Cinnamyl Alcohol",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Geraniol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_kisses_deep_perfume_100ml_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with ivory coloured liquid. A white label reads 'Dirty'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_kisses_deep_perfume_100ml_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_landscape_perfume_2022-1_c3cc2563_thumbnail_4096.jpg",
+      "alt": "Dirty perfume is placed on green grass. Green leaves with water droplets are draped in the corners on a blue backdrop.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_landscape_perfume_2022-1_c3cc2563_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_landscape_perfume_2022_29a4fec1_thumbnail_4096.jpg",
+      "alt": "Dirty perfume is placed on green grass. Green leaves with water droplets are draped in the corners on a blue backdrop.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_landscape_perfume_2022_29a4fec1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Gifts for Dad",
+    "Dirty",
+    "Layer on a dose of herbaceous freshness",
+    "Dads Deserve Pampering",
+    "Cooling Mint Chocolate",
+    "For the Nature-Lover",
+    "Refresh Your Routine ",
+    "Mint"
+  ]
+}

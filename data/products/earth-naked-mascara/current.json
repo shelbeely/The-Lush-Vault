@@ -1,0 +1,73 @@
+{
+  "slug": "earth-naked-mascara",
+  "url": "https://www.lush.com/us/en_us/p/earth-naked-mascara",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/earth-naked-mascara",
+  "title": "Earth",
+  "sku": "167-NA",
+  "size": "12g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Earth Naked Mascara, a vegan, solid brown mascara, with gorgeous nourishing ingredients for natural definition.",
+  "ingredients": [
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Acacia Senegal Gum (Acacia Gum)",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Rice Bran Wax",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Glycerin",
+    "Propylene Glycol",
+    "Rhus Succedanea Fruit Cera (Japan Wax)",
+    "Stearic Acid",
+    "Organic Carnauba Wax",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Synthetic Fluorphlogopite",
+    "Triethanolamine",
+    " Talc (Talc Powder)",
+    "Phenoxyethanol",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brown_naked_mascara_2022_d9e84d7c_thumbnail_4096.png",
+      "alt": "A Solid cylindrical block of brown mascara next to three different style mascara spoolie brushes.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brown_naked_mascara_2022_d9e84d7c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/earth_naked_maskara_hero_2000x1364_5a82fe2d_thumbnail_4096.jpg",
+      "alt": "A model with subtly defined brown eyelashes smiles while looking face-on at the camera. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/earth_naked_maskara_hero_2000x1364_5a82fe2d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mascara & Eyeliner",
+    "Vegan Makeup",
+    "Makeup",
+    "Add drama with cruelty-free mascaras",
+    "Plastic Free",
+    "Travel-size Essentials",
+    "Gifts for Virgo"
+  ]
+}

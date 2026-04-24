@@ -1,0 +1,80 @@
+{
+  "slug": "cherry-bubblegum-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/cherry-bubblegum-lip-scrub",
+  "sourceUrl": "https://www.lush.com/uk/en/p/cherry-bubblegum-lip-scrub",
+  "title": "Cherry Bubblegum",
+  "sku": "64641-UK",
+  "size": "25g",
+  "price": {
+    "amount": 7.5,
+    "currency": "GBP",
+    "formatted": "7.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Don't let dry lips burst your Valentine’s Day bubble. Scrub up with Cherry Bubblegum lip scrub for soft, smooth, kissable lips that'll blow you away.",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Aroma",
+    "Citric Acid",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Synthetic Fluorphlogopite",
+    "*Citral",
+    "Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 77491",
+    "Colour 45380"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_scrub_valentines_ecom_2026_13221f59_thumbnail_4096.png",
+      "alt": "Cherry Bubblegum. A neatly smudged swatch of rich, textured soft terracotta brown lip scrub with visible sugar granules. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_scrub_valentines_ecom_2026_13221f59_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_cherry_lip_scrub_portrait_vlentines_2025_1_084b2f91_thumbnail_4096.jpg",
+      "alt": "A small, clear glass jar of Lush \"Cherry Bubblegum\" lip scrub sits on a pink podium. The reddish-brown scrub is shown with its black lid resting nearby against a pink curtain with a heart-shaped spotlight.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_cherry_lip_scrub_portrait_vlentines_2025_1_084b2f91_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_lip_scrub_lush_2025_09_1_1b53c142_thumbnail_4096.jpg",
+      "alt": "A woman in pink striped pyjamas looks upward as she applies a shimmering Cherry Bubblegum lip scrub to her bottom lip with her finger. She is wearing ornate gold earrings and a nose ring while reclining in a warm, romantic bedroom setting.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_lip_scrub_lush_2025_09_1_1b53c142_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_scrub_texture_valentines_2026_1_68bddc4d_thumbnail_4096.jpg",
+      "alt": "A close-up image showing the thick, grainy texture of Lush \"Cherry Bubblegum\" lip scrub. The shimmering, reddish-brown paste is spread in diagonal, overlapping ridges, highlighting its sugary consistency.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_bubblegum_lip_scrub_texture_valentines_2026_1_68bddc4d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Valentine’s Day Gift Ideas",
+    "Valentine's Bestie Baskets  ",
+    "Skincare",
+    "Fruity ",
+    "Self-care Valentine's",
+    "Leaving Soon"
+  ]
+}

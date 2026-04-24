@@ -1,0 +1,77 @@
+{
+  "slug": "celestial-self-preserving-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/celestial-self-preserving-moisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/celestial-self-preserving-moisturiser",
+  "title": "Celestial Self-Preserving",
+  "sku": "60813-NA",
+  "size": "45g",
+  "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "formatted": "$33.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Now in a rich self-preserved formula to help protect your skin's microbiome, this best selling simple and soothing vegan moisturiser. With sweet smelling almond oil it is perfect for keeping sensitive skin feeling smooth.",
+  "ingredients": [
+    "Vanilla Water",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Glycerin",
+    "Almond Milk",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Organic Illipe Butter",
+    "Parfum",
+    "Stearic Acid",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Vanilla Pod Extract",
+    "Cetearyl Alcohol",
+    "Triethanolamine"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_2021_29e09061_thumbnail_4096.png",
+      "alt": "A swatch of smooth, nicely thick, orchid white Celestial facial moisturiser, flecked with vanilla pod seeds.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_2021_29e09061_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celestial_self_preserving_facial_moisturiser_hero_image_newsite_2022-3_3410d.jpg",
+      "alt": "A person with short hair, partly coloured green, smiles blissfully, as they enjoy pushing their cheeks upwards with their hands.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celestial_self_preserving_facial_moisturiser_hero_image_newsite_2022-3_3410d.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Moisturisers",
+    "Cult Classics",
+    "Calming Skin Redness",
+    "Skincare Routines",
+    "Winter Cosmetics",
+    "Skincare",
+    "Vegan",
+    "Skin Care for Cold Weather",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "Customised Lush Gifts",
+    "Sensitive skin",
+    "Supporting Skin Barrier",
+    "Vanilla",
+    "Teen skin"
+  ]
+}

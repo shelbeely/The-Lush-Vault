@@ -1,0 +1,92 @@
+{
+  "slug": "fairly-traded-honey-shampoo",
+  "url": "https://www.lush.com/us/en_us/p/fairly-traded-honey-shampoo",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fairly-traded-honey-shampoo",
+  "title": "Fairly Traded Honey",
+  "sku": "3776-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 22,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Nourish hair with our smoothing, hydrating honey shampoo, made with over 50% Fairly Traded Honey. Add shine to your tresses with beeswax & floral essential oils.",
+  "ingredients": [
+    "Fairly Traded Honey",
+    "Linseed Mucilage",
+    "Sodium Laureth Sulfate",
+    "Sunflower Lecithin",
+    "Lauryl Betaine",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Beeswax Absolute",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "*Citral",
+    "Geraniol",
+    "Citronellol",
+    "*Limonene",
+    "*Linalool",
+    "Hydroxycitronellal",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fairly_traded_honey_shampoo_2020_thumbnail_4096.png",
+      "alt": "A sample of liquid gold Fairly Traded Honey shampoo.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fairly_traded_honey_shampoo_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_13_7e0a9872_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_13_7e0a9872_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_12_913dba4f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_12_913dba4f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_11_3cbcf26d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_11_3cbcf26d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_10_ea190d3c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare_2025_1125x2000_10_ea190d3c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Hair Care",
+    "Winter Cosmetics",
+    "Hair Products For Cold Weather",
+    "Keep Clean",
+    "Rewild your routine",
+    "Discover bestselling goodies",
+    "Self-care Under $20",
+    "Honey",
+    "Care for Damaged Hair",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "Shop Haircare By Benefit",
+    "Soften & Shine Haircare",
+    "As seen at Curly Con"
+  ]
+}

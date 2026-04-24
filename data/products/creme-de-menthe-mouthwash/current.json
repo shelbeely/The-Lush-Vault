@@ -1,0 +1,79 @@
+{
+  "slug": "creme-de-menthe-mouthwash",
+  "url": "https://www.lush.com/us/en_us/p/creme-de-menthe-mouthwash",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/creme-de-menthe-mouthwash",
+  "title": "Crème De Menthe",
+  "sku": "61266-NA",
+  "size": "45g",
+  "price": {
+    "amount": 12.0,
+    "currency": "USD",
+    "formatted": "$12.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 46,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A classic minty mouthwash that can be with you on the go. Menthol will tingle your taste buds and all our oral care range packaging is recyclable.",
+  "ingredients": [
+    "Dicalcium Phosphate Anhydrous",
+    "Sodium Bicarbonate",
+    "Silica",
+    "Citric Acid",
+    "Sorbitol",
+    "Malic Acid",
+    "Glycerin",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "Xylitol",
+    "Aroma",
+    "Menthol (Menthol Crystals)",
+    "Wild Mint Oil",
+    "Mentha Piperita Leaf Extract (Peppermint Powder)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Limonene",
+    "Yellow 5 Lake",
+    "Blue 1 Lake",
+    "Zea Mays Starch (Cornstarch)"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_de_menthe_mouthwash_tabs_2020_b534cff6_thumbnail_4096.png",
+      "alt": "A pile of small, diamond-shaped, green Crème De Menthe mouthwash tabs shot from above.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_de_menthe_mouthwash_tabs_2020_b534cff6_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creme_de_menthe_toothpaste_tabs_hero_2000x1364_2022-2_62cca816_thumbnail_409.jpg",
+      "alt": "A person prepares to put a small green mouthwash tab into their open mouth with their hand.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creme_de_menthe_toothpaste_tabs_hero_2000x1364_2022-2_62cca816_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Oral Care",
+    "Vegan",
+    "Mouthwash",
+    "Keep Clean",
+    "Carry on with Lush",
+    "Peppermint Oil",
+    "Travel-size Essentials",
+    "Lush Living Room ",
+    "Customised Lush Gifts",
+    "Mint",
+    "Bestsellers",
+    "Bring it Back "
+  ]
+}

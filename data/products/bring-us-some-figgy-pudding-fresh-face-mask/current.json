@@ -1,0 +1,83 @@
+{
+  "slug": "bring-us-some-figgy-pudding-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/bring-us-some-figgy-pudding-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bring-us-some-figgy-pudding-fresh-face-mask",
+  "title": "Bring Us Some Figgy Pudding",
+  "sku": "62585-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 6,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Leave some room for dessert. Smooth on a delicious fresh face mask, filled with figs, apples and sultanas for cleansed and hydrated skin.",
+  "ingredients": [
+    "Kaolin",
+    "Glycerin",
+    "Linseed Decoction",
+    "Fresh Figs",
+    "Fresh Apple Pulp",
+    "Tapioca Starch (Tapioca Starch)",
+    "Dried Sultanas",
+    "Demerara Sugar",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "*Limonene",
+    "Parfum"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bring_us_some_figgy_pudding_face_mask_ecom_2025_913f5987_thumbnail_4096.png",
+      "alt": "Bring Us Some Figgy Pudding. A neatly smudged swatch of thick, creamy, textured face mask. There are flecks of finely ground dried figs throughout the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bring_us_some_figgy_pudding_face_mask_ecom_2025_913f5987_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_bring_us_some_figgy_pudding_face_mask_2025_03_67275b65_thumbnail_4096.jpg",
+      "alt": "An image of the model's face on a warm, beige background. Their copper hair is tied back, and they have applied the textured Bring Us Some Figgy Pudding face mask onto their cheek as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_bring_us_some_figgy_pudding_face_mask_2025_03_67275b65_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_bring_us_some_figgy_pudding_face_mask_2025_09_f852100d_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's face on a warm, beige background. Their copper hair is tied back, and they have applied the textured Bring Us Some Figgy Pudding face mask all over their face as they smile.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_bring_us_some_figgy_pudding_face_mask_2025_09_f852100d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_bring_us_some_figgy_pudding_face_mask_texture_2025_01_0dffeb72_thumbnail_4.jpg",
+      "alt": "A super close-up image of the creamy, textured Bring Us Some Figgy Pudding face mask product, focusing on the consistency and flecks of finely blended dried figs throughout. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_bring_us_some_figgy_pudding_face_mask_texture_2025_01_0dffeb72_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_bring_us_some_figgy_pudding_fresh_face_mask_lush_2025_f306bffe_thumbnail_4.jpg",
+      "alt": "The image shows a clear, recycled plastic, open pot of Bring Us Some Figgy Pudding face mask with green labels, the lid leaning on the side and a smeared swatch of the textured product on the cream-tiled floor beside the pot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_bring_us_some_figgy_pudding_fresh_face_mask_lush_2025_f306bffe_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Skincare",
+    "Vegan",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Face Masks",
+    "Skincare",
+    "Brightening Dull Skin",
+    "By Ingredients",
+    "Fresh Fruit Enzymes",
+    "Hydrating Dry Skin"
+  ]
+}

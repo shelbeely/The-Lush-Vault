@@ -1,0 +1,107 @@
+{
+  "slug": "dream-cream-hand-and-body-lotion",
+  "url": "https://www.lush.com/us/en_us/p/dream-cream-hand-and-body-lotion",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dream-cream-hand-and-body-lotion",
+  "title": "Dream Cream",
+  "sku": "31-NA",
+  "size": "240g",
+  "price": {
+    "amount": 30.0,
+    "currency": "USD",
+    "formatted": "$30.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This herbal hand and body lotion for sensitive skin has the consistency of cool liquid silk, ready to moisturise and hydrate from head to toe. ",
+  "ingredients": [
+    "Oat Milk",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Glycerin",
+    "Stearic Acid",
+    "Triethanolamine",
+    "Parfum",
+    "Tincture of Benzoin",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Cetearyl Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_2020_thumbnail_4096.png",
+      "alt": "A swatch of cream coloured Dream Cream body lotion.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-05_ef7af943_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-05_ef7af943_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-06_e6c9046e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-06_e6c9046e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-10_db3f60d2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-10_db3f60d2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-02_9459a0d3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-02_9459a0d3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-03_51e7ee15_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AYR-2024-Dream-Cream-Body-Lotion-OPUS-Hero-03_51e7ee15_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Lotions",
+    "Body Care",
+    "Vegan",
+    "Vegan Body Care Products",
+    "Bestsellers",
+    "Winter Cosmetics",
+    "Summer Essentials",
+    "Corporate Gifts",
+    "Rewild your routine",
+    "Discover bestselling goodies",
+    " Lightly-scented",
+    "Self-care Under $10",
+    "Customised Lush Gifts",
+    "The Scent House",
+    "Cocoa Butter Collection",
+    "Ways to Shop",
+    "Burr Basket Ideas",
+    "Bring it Back "
+  ]
+}

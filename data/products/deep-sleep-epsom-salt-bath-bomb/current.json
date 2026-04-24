@@ -1,0 +1,103 @@
+{
+  "slug": "deep-sleep-epsom-salt-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/deep-sleep-epsom-salt-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/deep-sleep-epsom-salt-bath-bomb",
+  "title": "Deep Sleep",
+  "sku": "453-NA",
+  "size": "165g",
+  "price": {
+    "amount": 8.5,
+    "currency": "USD",
+    "formatted": "$8.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "The sleepy dream team of lavender, chamomile, and neroli combine in this bath bomb, as the restorative Epsom salts restore balance to tired muscles.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Magnesium Sulfate (Epsom Salts)",
+    "Citric Acid",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Anthemis Nobilis Flower Oil (Chamomile Oil)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Organic Cold Pressed Passion Seed Oil",
+    "Aqua (Water)",
+    "Propylene Glycol",
+    "Dipropylene Glycol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Red 27",
+    "Red 28",
+    "Blue 1",
+    "Red 4",
+    "Red 33"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_bath_cube_2022_7d9f194a_thumbnail_4096.png",
+      "alt": "A cube-shaped Deep sleep Salt Cube bath bomb split diagonally into vibrant purple and neon pink. The purple top surface features the embossed \"LUSH\" logo.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_bath_cube_2022_7d9f194a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__a2d64528_thumbnail_4.jpg",
+      "alt": "A hand holds the purple and pink Deep sleep Salt Cube bath bomb against a matching lavender background. The top surface of the cube displays a textured, embossed \"LUSH\" logo.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__a2d64528_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__804ed0be_thumbnail_4.jpg",
+      "alt": "A top-down view of the Deep sleep Salt Cube bath bomb fizzing in vibrant purple water. The pink and purple cube is surrounded by a thick, frothy cloud of white bubbles and foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__804ed0be_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__01441fa4_thumbnail_4.jpg",
+      "alt": "A top-down view of the Deep sleep Salt Cube bath bomb fizzing in deep purple water. The pink and blue cube is surrounded by a ring of frothy white foam and bubbles as it dissolves.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_deep_sleep_epsom_salt_cube_bath_bomb_wbbd_hero_2026__01441fa4_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Bombs",
+    "Sleep Tight",
+    "Bath Products",
+    "Sleepy",
+    "Vegan",
+    "Vegan Bath Products",
+    "Super Powered Ingredients",
+    "Muscle Recovery",
+    "Plastic Free",
+    "Lavender",
+    "Bath and Shower",
+    "Scent Families",
+    "LUSH x ONE PIECE",
+    "Floral",
+    " LUSH x Lazy Oaf",
+    "Gifts Under $10",
+    "Customised Lush Gifts",
+    "The Scent House",
+    "Gifts for Mum",
+    "For the Dreamer",
+    "For the Life and Soul",
+    "Calming & Relaxing",
+    "Gifts for Dad",
+    "Mother’s Day",
+    "Sporty Soaperstar Gifts",
+    "Bestsellers",
+    "Trending Now"
+  ]
+}

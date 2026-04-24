@@ -1,0 +1,48 @@
+{
+  "slug": "biggest-fan-makeup-brush",
+  "url": "https://www.lush.com/us/en_us/p/biggest-fan-makeup-brush",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/biggest-fan-makeup-brush",
+  "title": "Biggest Fan",
+  "sku": "210312-NA",
+  "size": "Each",
+  "price": {
+    "amount": 35.0,
+    "currency": "USD",
+    "formatted": "$35.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Sculpt, highlight and blend cream and powder products into the skin with Biggest Fan brush. ",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/biggest_fan_makeup_brush_2020_1_e4f0add4_thumbnail_4096.png",
+      "alt": "Biggest Fan Brush. A large fan brush for blending & powdering, with brown and white bristles and a gold and dark wooden handle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/biggest_fan_makeup_brush_2020_1_e4f0add4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Biggest_Fan_Brush_29959672_thumbnail_4096.jpg",
+      "alt": "A person with blonde hair holds a Biggest Fan Brush close to their cheekbone, as if about to blend a contour in.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Biggest_Fan_Brush_29959672_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Makeup",
+    "Makeup Brushes",
+    "Firework Makeup"
+  ]
+}

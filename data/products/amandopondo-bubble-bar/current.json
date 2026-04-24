@@ -1,0 +1,77 @@
+{
+  "slug": "amandopondo-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/amandopondo-bubble-bar",
+  "sourceUrl": "https://www.lush.com/uk/en/p/amandopondo-bubble-bar",
+  "title": "Amandopondo",
+  "sku": "130-UN",
+  "size": "100g",
+  "price": {
+    "amount": 5.5,
+    "currency": "GBP",
+    "formatted": "5.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Soothe and satiate your mood and your skin with a caress of gentle rose absolute, while waves of orange and lemon oils cleanse and cherish bodies that crave a little extra love.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Rosebud",
+    "Parfum",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Brazilian Orange Oil",
+    "Rosa Damascena Extract (Rose Extract)",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/amandopondo_bubble_bar_ecom_2019_3dead42e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/amandopondo_bubble_bar_ecom_2019_3dead42e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-02_04fed788_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-02_04fed788_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-03_7a13729f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-03_7a13729f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-04_b784b2a8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-Amandapondo-Bubble-Bar-Hero-04_b784b2a8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Bubble Bath Bars",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Customised Lush Gifts",
+    "Rose"
+  ]
+}

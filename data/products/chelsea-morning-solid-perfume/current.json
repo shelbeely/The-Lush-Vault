@@ -1,0 +1,92 @@
+{
+  "slug": "chelsea-morning-solid-perfume",
+  "url": "https://www.lush.com/us/en_us/p/chelsea-morning-solid-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/chelsea-morning-solid-perfume",
+  "title": "Chelsea Morning ",
+  "sku": "62883-NA",
+  "size": "11g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 29,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A sweet, sunny and buttery perfume that’ll stick to your senses like butterscotch. With bright, biscuity notes and a hint of citrus, it’s a gourmand fragrance with a heart of gold.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Parfum",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Fenugreek Absolute",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Silica",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Coumarin",
+    "*Eugenol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Linalool",
+    "Yellow 6 Lake",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_pack_11g_2024_c7598ed4_thumbnail_4096.png",
+      "alt": "Chelsea Morning. A short, cylindrical black push-up tube of Chelsea morning solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_pack_11g_2024_c7598ed4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_hero_2024_208cba9f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_hero_2024_208cba9f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_pack_11g_2024_a18a146e_thumbnail_4096.png",
+      "alt": "Chelsea Morning. A short, cylindrical black push-up tube of Chelsea morning solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_pack_11g_2024_a18a146e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_hero_2024_1_00167d85_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_solid_perfume_hero_2024_1_00167d85_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Solid Perfume",
+    "Fragrances",
+    "Vegan Perfume",
+    "Sweet-scented goodies",
+    "Gourmand",
+    "Trending Now",
+    "Travel-size Essentials",
+    "Cosy Season",
+    "Autumn & Winter Fragrances",
+    "Vanilla"
+  ]
+}

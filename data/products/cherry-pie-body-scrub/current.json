@@ -1,0 +1,95 @@
+{
+  "slug": "cherry-pie-body-scrub",
+  "url": "https://www.lush.com/us/en_us/p/cherry-pie-body-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cherry-pie-body-scrub",
+  "title": "Cherry Pie",
+  "sku": "64708-NA",
+  "size": "45g",
+  "price": {
+    "amount": 8.0,
+    "currency": "USD",
+    "formatted": "$8.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Three cheers for cherry! This Mother's Day, polish and hydrate skin with our ground cherry stone and cocoa butter bar of sweetness.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Prunus Avium Seed Oil (Cherry Kernel Oil)",
+    "Sodium Bicarbonate",
+    "Laureth 4",
+    "Ground Cherry Stones",
+    "Citric Acid",
+    "Parfum",
+    "Artemisia Pallens Herb Oil (Davana Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Theobroma Cacao Extract (Cocoa Extract)",
+    "Red Cornflowers",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Propylene Glycol",
+    "Benzyl Benzoate",
+    "Cinnamyl Alcohol",
+    "Coumarin",
+    "*Geraniol",
+    "Hexyl Cinnamal",
+    "Red 4",
+    "Red 27 Lake",
+    "Red 33"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_pie_underwater_scrub_bath_melt_mothers_day_lush__6be72394_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_pie_underwater_scrub_bath_melt_mothers_day_lush__6be72394_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_cherry_pie_underwater_scrub_mothers_day_lush_2026_08_1726f184_thumbnail_4.jpg",
+      "alt": "A pink, textured exfoliating bar sits on a small beige dish on a white bath ledge. Blurred orange tulips frame the foreground, while a hand reaches into pale green foamy bathwater in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_cherry_pie_underwater_scrub_mothers_day_lush_2026_08_1726f184_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_pie_underwater_scrub_mothers_day_lush_2026_09_b2a7c784_thumbnail_4.jpg",
+      "alt": "A smiling woman with dark hair holds the pink, textured \"Cherry Pie\" scrub bar to her nose, closing her eyes to take in the scent. The scene is set against a mint green tiled wall with blurred pink and white tulips in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_pie_underwater_scrub_mothers_day_lush_2026_09_b2a7c784_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_pie_underwater_scrub_mothers_day_lush_2026_10_a4d69259_thumbnail_4.jpg",
+      "alt": "A hand holds a pink, textured \"Cherry Pie\" scrub bar underwater. The bathwater is milky pink with floating red exfoliating bits and foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_pie_underwater_scrub_mothers_day_lush_2026_10_a4d69259_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_pie_underwater_scrub_mothers_day_lush_2026_17_57c33fe0_thumbnail_4.jpg",
+      "alt": "A person rubs a beige and pink scrub bar on their wet arm, leaving a creamy, exfoliating layer. The scene is in a bath with milky pink water and blurred green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_pie_underwater_scrub_mothers_day_lush_2026_17_57c33fe0_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_cherry_pie_underwater_scrub_mothers_day_lush_2026_24_d5de865c_thumbnail_4.jpg",
+      "alt": "A person massages a creamy layer of \"Cherry Pie\" scrub onto their wet forearm in a milky pink bath. The scene features stacked colorful star toys in the foreground and tulips against a mint green tiled wall in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_cherry_pie_underwater_scrub_mothers_day_lush_2026_24_d5de865c_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Scrubs",
+    "Shower Products",
+    "Vegan",
+    "New Products",
+    "Vegan Shower Products",
+    "Mother’s Day",
+    "Gifts for Mum"
+  ]
+}

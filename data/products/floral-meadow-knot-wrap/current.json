@@ -1,0 +1,61 @@
+{
+  "slug": "floral-meadow-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/floral-meadow-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/floral-meadow-knot-wrap",
+  "title": "Floral Meadow",
+  "sku": "222275-NA",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 8.0,
+    "currency": "USD",
+    "formatted": "$8.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 9,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Celebrate Mother’s Day with a colourful Knot Wrap that will remind mum of their naughty days running through fields of flowers, filled with their Lush essentials!",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [
+    "Size: Small - 35-55cm",
+    "Organic Cotton"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/floral_meadow_knot_wrap_mothers_day_2026_d203a0b3_thumbnail_4096.png",
+      "alt": "Floral Meadow. A vibrant, square fabric knot-wrap featuring an impressionist floral design. Bright pink poppy-like flowers and green leaves are scattered across a pale pink background with a bold magenta border, creating a fresh, meadow-like pattern.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/floral_meadow_knot_wrap_mothers_day_2026_d203a0b3_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_floral_meadow_knotwrap_mothers_day_lush_2026_05_7176ce9b_thumbnail_4096.jpg",
+      "alt": "The image shows a model's hand resting on a gift wrapped in a pink \"Floral Meadow\" fabric knot-wrap. The wrap features an impressionist design of red flowers and green stems on a light pink background, finished with a lilac \"Just For You\" gift tag.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_floral_meadow_knotwrap_mothers_day_lush_2026_05_7176ce9b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/floral_meadow_knot_wrap_mothers_day_2026_08_a3015efd_thumbnail_4096.jpg",
+      "alt": "A gift wrapped in a \"Floral Meadow\" fabric knot-wrap sits on a wooden bath bridge over a white tub. The wrap features an impressionist design of red flowers and green stems on a light pink background, finished with a lilac \"Just For You\" gift tag.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/floral_meadow_knot_wrap_mothers_day_2026_08_a3015efd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_floral_meadow_knot_wrap_mothers_day_texture_2026_20_549a5f34_thumbnail_409.jpg",
+      "alt": "A super close-up texture shot of the \"Floral Meadow\" fabric knot wrap. The image focuses on the soft texture of the knot wrap material and the vibrancy of the colours in the bright, floral design.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_floral_meadow_knot_wrap_mothers_day_texture_2026_20_549a5f34_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mother’s Day",
+    "New Products",
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

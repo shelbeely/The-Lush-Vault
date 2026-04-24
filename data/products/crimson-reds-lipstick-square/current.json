@@ -1,0 +1,79 @@
+{
+  "slug": "crimson-reds-lipstick-square",
+  "url": "https://www.lush.com/us/en_us/p/crimson-reds-lipstick-square",
+  "sourceUrl": "https://www.lush.com/uk/en/p/crimson-reds-lipstick-square",
+  "title": "Crimson Reds",
+  "sku": "63778-UK",
+  "size": "13g",
+  "price": {
+    "amount": 24.0,
+    "currency": "GBP",
+    "formatted": "24.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Create bold, bright red lips with a palette for the creative type, with three shades that you can blend as you like!",
+  "ingredients": [
+    "Citrullus Lanatus Seed Oil (Kalahari Melon Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Citrus Aurantium Dulcis Peel Cera (Orange Peel Wax)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Glycerin",
+    "Caprylic/Capric Triglyceride",
+    "Synthetic Fluorphlogopite",
+    "Rosa Damascena Flower Cera (Rose Wax)",
+    "Polyvinylpyrrolidone (PVP)",
+    "Cetearyl Alcohol",
+    "CI77499",
+    "CI15850:1",
+    "CI19140:1",
+    "CI73360",
+    "CI12085"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_firework_make_up_2025_01_698651b3_thumbnail_409.png",
+      "alt": "A square, two-toned block of \"Crimson Reds\" Lipstrick Square with opaque black and vibrant red sections. The red side features a raised circular, gear-like texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_firework_make_up_2025_01_698651b3_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_hero_2025_110_796ab9bf_thumbnail_4096.jpg",
+      "alt": "A person with dark hair, wearing a green top and a septum ring, smiles with deep crimson red lips (consistent with the \"Crimson Reds\" Lipstrick Square). They rest their chin on their hands against a bright magenta background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_hero_2025_110_796ab9bf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_hero_2025_111_d013d237_thumbnail_4096.jpg",
+      "alt": "A person with dark hair, wearing a chartreuse green top and a septum ring, smiles directly at the camera. They wear a deep crimson red lip color consistent with the \"Crimson Reds\" Lipstrick Square, against a bright magenta background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_square_hero_2025_111_d013d237_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_squares_hero_swatch_2025_0af5959f_thumbnail_4096.jpg",
+      "alt": "Three forearms with various complexions are shown on a light grey background. Each has three vertical swatches of Lush Lip square swatches: black, deep crimson red, and a vibrant orange/magenta/red-orange.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crimson_reds_lipstick_squares_hero_swatch_2025_0af5959f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Lipstick",
+    "Vegan",
+    "Firework Makeup",
+    "Vegan Makeup",
+    "Lips"
+  ]
+}

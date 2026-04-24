@@ -1,0 +1,92 @@
+{
+  "slug": "brother-moon-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/brother-moon-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/brother-moon-bath-bomb",
+  "title": "Brother Moon",
+  "sku": "1196-NA",
+  "size": "190g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Fresh, green rhubarb notes are infused with zesty grapefruit and calming rose oil to leave you beaming as it orbits around you, creating astronomical bath art.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Zea Mays Starch (Cornstarch)",
+    "Parfum",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Zein (Corn Protein)",
+    " Talc (Talc Powder)",
+    "Alcohol Denat.",
+    "Synthetic Fluorphlogopite",
+    "Cocamidopropyl Betaine",
+    "Sodium Coco-Sulfate",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "Citronellol",
+    "Geraniol",
+    "*Limonene",
+    "Red 28 Lake",
+    "Blue 1 Lake",
+    "Blue 1",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_top_wbbd_bath_bomb_ecom_2024_243307fe_thumbnail_4096.png",
+      "alt": "Brother Moon. A perfectly round, enchanted purple colour bath bomb with an embossed crescent moon on the top, coated in shimmer silver lustre. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_top_wbbd_bath_bomb_ecom_2024_243307fe_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_3_0c0efa96_thumbnail_4096.jpg",
+      "alt": "The Brother Moon bath bomb has just been placed into the bath water as it starts to give off subtle purple foam laced with silver sparkles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_3_0c0efa96_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_7_e259ac0d_thumbnail_4096.jpg",
+      "alt": "The Brother Moon bath bomb is slowly dissolving in the bath water as it starts to give off subtle purple and blue foam laced with silver sparkles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_7_e259ac0d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_5_20a8ca6c_thumbnail_4096.jpg",
+      "alt": "The Brother Moon bath bomb is slowly dissolving in the bath water as it starts to give off subtle purple and blue foam laced with silver sparkles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brother_moon_bath_bomb_wbbd_hero_image_2024_5_20a8ca6c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Bombs",
+    "Refreshing & Uplifting",
+    "Gifts Under $10",
+    "Bath Products",
+    "Customised Lush Gifts",
+    "Fruity & Imaginative",
+    "Citrus & Uplifting",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "gingerbread-2",
+  "url": "https://www.lush.com/us/en_us/p/gingerbread-2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/gingerbread-2",
+  "title": "Gingerbread",
+  "sku": "62031GIE-UK",
+  "size": "25g",
+  "price": {
+    "amount": 0.01,
+    "currency": "USD",
+    "formatted": "$0.01",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 19,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Keep lips soft all season",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gingerbread_lip_scrub_2023_139ce271_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gingerbread_lip_scrub_2023_139ce271_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_box_november_kitchen_portrait_hero_2024_dae916ac_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_box_november_kitchen_portrait_hero_2024_dae916ac_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

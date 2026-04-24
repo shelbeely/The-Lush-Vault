@@ -1,0 +1,98 @@
+{
+  "slug": "fullofgrace-facial-serum",
+  "url": "https://www.lush.com/us/en_us/p/fullofgrace-facial-serum",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fullofgrace-facial-serum",
+  "title": "Full of Grace",
+  "sku": "1715-NA",
+  "size": "20g",
+  "price": {
+    "amount": 19.0,
+    "currency": "USD",
+    "formatted": "$19.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A delicate nighttime facial serum for sensitive skin, full of nourishing portobello mushrooms and tropical butters for glowy skin any day of the week.",
+  "ingredients": [
+    "Astrocaryum Murumuru Seed Butter (Murumuru Butter)",
+    "Calamine (Calamine Powder)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Fresh Rose Petal Infusion",
+    "Organic Cold Pressed Almond Oil",
+    "Parfum",
+    "Fresh Portobello Mushrooms",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Citral",
+    "*Citronellol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_bar_ecom_2024_8dfd3cdc_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_bar_ecom_2024_8dfd3cdc_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_01_a94d7855_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_01_a94d7855_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_09_bee8e65c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_09_bee8e65c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_12_c9da2374_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_12_c9da2374_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_15_4f9efd91_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/full_of_grace_serum_hero_2024_15_4f9efd91_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare Routines",
+    "Plastic Free",
+    "Skincare",
+    "Vegan",
+    "Moisturisers",
+    "Self-Preserving Skincare",
+    "Facial Serums & Oils",
+    "Vegan Skincare",
+    "Customised Lush Gifts",
+    "Plastic-Free Skincare",
+    "Cult Classics",
+    "Sensitive skin",
+    "Hydrating Dry Skin",
+    "Supporting Skin Barrier",
+    "Mature skin",
+    "Travel-size Essentials",
+    "Teen skin",
+    "Skin Care for Cold Weather"
+  ]
+}

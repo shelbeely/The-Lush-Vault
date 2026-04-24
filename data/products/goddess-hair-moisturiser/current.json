@@ -1,0 +1,80 @@
+{
+  "slug": "goddess-hair-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/goddess-hair-moisturiser",
+  "sourceUrl": "https://www.lush.com/uk/en/p/goddess-hair-moisturiser",
+  "title": "Goddess",
+  "sku": "9677-UK",
+  "size": "100g",
+  "price": {
+    "amount": 16.0,
+    "currency": "GBP",
+    "formatted": "16.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "A pantheon of ingredients designed to provide heavenly hydration, this coconut hair cream and moisturiser adds a divine shine to your locks.",
+  "ingredients": [
+    "Oat Milk",
+    "Aqua (Water)",
+    "Glycerin",
+    "Olea Europaea Fruit Oil (Olive Oil)",
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Cetearyl Alcohol",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Polyvinylpyrrolidone (PVP)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Sandalwood Oil",
+    "Oudh Oil",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Avocado Butter",
+    "Phenoxyethanol",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Citronellol",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_hair_moisturiser_2019_0ff1f607_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_hair_moisturiser_2019_0ff1f607_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_hair_moisturiser_hair_lab_2019-4_1caee3a6_thumbnail_4096.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_hair_moisturiser_hair_lab_2019-4_1caee3a6_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Hair Styling",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "fresh-asgift",
+  "url": "https://www.lush.com/us/en_us/p/fresh-asgift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-asgift",
+  "title": "Fresh As",
+  "sku": "63454-NA",
+  "size": "Each",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 45,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Give the gift of fresh! A perfect pairing of zingy citrus and eucalyptus shower treats to leave you feeling invigorated.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Fresh-As-Gift-PDP_01_063cc56a_thumbnail_4096.PNG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Fresh-As-Gift-PDP_01_063cc56a_thumbnail_128.PNG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_gift_AYR_hero_2025_1_34e7ad41_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_gift_AYR_hero_2025_1_34e7ad41_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_outback_mate_soap_hero_image_newsite_2021-2_1ac_09672353_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_outback_mate_soap_hero_image_newsite_2021-2_1ac_09672353_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/happy_hippy_shower_gel_2022-4_b68dc340_thumbnail_4096_9a90fd5c_thumbnail_40.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/happy_hippy_shower_gel_2022-4_b68dc340_thumbnail_4096_9a90fd5c_thumbnail_12.jpeg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gifts by Recipient",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts",
+    "Cooling",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Vegan Gifts",
+    "Vegan",
+    "Gifts for Every Budget",
+    "Shower Gifts",
+    "Gifts for Dad",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Gifts Under $50"
+  ]
+}

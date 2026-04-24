@@ -1,0 +1,68 @@
+{
+  "slug": "big-blue-perfume",
+  "url": "https://www.lush.com/us/en_us/p/big-blue-perfume",
+  "sourceUrl": "https://www.lush.com/au/en/p/big-blue-perfume",
+  "title": "Big Blue ",
+  "sku": "64667-AU",
+  "size": "30ml",
+  "price": {
+    "amount": 45.0,
+    "currency": "AUD",
+    "formatted": "45.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Dive into limited edition Big Blue perfume and sail away on a tide of herbaceous lavender, aquatic seaweed and rolling waves of refreshing Sicilian lemon.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Palmarosa Oil",
+    "Seaweed Absolute",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "*Coumarin",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_blue_perfume_ecom_2025_e8d16d50_thumbnail_4096.png",
+      "alt": "A clear glass square bottle of Big Blue Perfume with a black spray top, centered on a light grey background. The label is black with white, handwritten-style text and a small green \"LUSH CLUB\" sticker in the top left corner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_blue_perfume_ecom_2025_e8d16d50_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_blue_black_friday_perfume_lush_2025_01_1_copy_73eaa314_thumbnail_4096.jpg",
+      "alt": "A clear bottle of Big Blue Perfume stands on a reflective surface against a turquoise and green background. It is flanked by a pile of salt crystals, a lavender sprig, and a lemon curl.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_blue_black_friday_perfume_lush_2025_01_1_copy_73eaa314_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_5986152f_thumbnail_4096.jpg",
+      "alt": "Six Lush Club fragrances (Body Spray in Snowcake, VIMT-NO, 25:43; Perfume in Big Blue, Candy Rain, Black Pearl) are shown floating diagonally against a vibrant green and yellow background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_5986152f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Perfume"
+  ]
+}

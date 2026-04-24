@@ -1,0 +1,48 @@
+{
+  "slug": "glow-to-town-makeup-brush",
+  "url": "https://www.lush.com/us/en_us/p/glow-to-town-makeup-brush",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/glow-to-town-makeup-brush",
+  "title": "Glow To Town Brush",
+  "sku": "210305-NA",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Glow To Town is a flame headed highlighter brush, designed in-house to blend cream and powder highlighters seamlessly into the skin. ",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glow_to_town_makeup_brush_2020_1d1fbaed_thumbnail_4096.png",
+      "alt": "Glow To Town Brush. A flame shaped, blending/powder brush. Tapered, fluffy brown bristles. A gold and dark wooden handle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glow_to_town_makeup_brush_2020_1d1fbaed_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Glow_to_Town_Brush_1_359e3efd_thumbnail_4096.jpg",
+      "alt": "A close-up of person using Glow To Town, a blending/powder brush to blend highlight into their upper cheek area.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Glow_to_Town_Brush_1_359e3efd_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Makeup Brushes",
+    "Makeup",
+    "Firework Makeup"
+  ]
+}

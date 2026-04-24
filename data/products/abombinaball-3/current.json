@@ -1,0 +1,40 @@
+{
+  "slug": "abombinaball-3",
+  "url": "https://www.lush.com/us/en_us/p/abombinaball-3",
+  "title": "Abombinaball",
+  "sku": "63311GIE-UK",
+  "size": "100g",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Get yeti to party",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/abombinaball_shower_jelly_2024_1d4b0c07_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/abombinaball_shower_jelly_2024_1d4b0c07_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_81d42394_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_81d42394_thumbnail_128.png"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z"
+}

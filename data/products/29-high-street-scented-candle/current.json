@@ -1,0 +1,59 @@
+{
+  "slug": "29-high-street-scented-candle",
+  "url": "https://www.lush.com/us/en_us/p/29-high-street-scented-candle",
+  "title": "29 High Street",
+  "sku": "218169-NA",
+  "size": "200g",
+  "price": {
+    "amount": 22.0,
+    "currency": "USD",
+    "formatted": "$22.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 39,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "This bright and powdery, soft and uplifting scented candle evokes all the magic and warmth of your local Lush shop.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_scented_1_wick_candle_ecom_2025_ee67bbdf_thumbnail_4096.png",
+      "alt": "29 High Street. A round, black, candle tin with a removable lid. The black label on the front reads \"29 High Street\" in white text.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_scented_1_wick_candle_ecom_2025_ee67bbdf_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_candle_2025_14_02adef6b_thumbnail_4096.jpg",
+      "alt": "The image shows a natural, bright bedroom background. The foreground shows the black tin 29 High Street candle sitting on top of a small pile of books. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_candle_2025_14_02adef6b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_candle_2025_04_1feb68c3_thumbnail_4096.jpg",
+      "alt": "The image shows a blurred background of a patterned blanket. The foreground shows the lit black tin 29 High Street candle sitting on top of a small pile of books. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/29_high_street_candle_2025_04_1feb68c3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/intergalatic_honey_i_washed_the_kids_29_high_street_can_f8231ffe_thumbnail_4.jpg",
+      "alt": "The image shows a warm beige background with a ceramic vase of Hare's Tail Grass. Three back tin candles are sitting with their wicks lit on a marble-topped counter with one having just been blown out with smoke rising,",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/intergalatic_honey_i_washed_the_kids_29_high_street_can_f8231ffe_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Home Fragrances",
+    "Fragrances",
+    "Lifestyle",
+    "New Creations. New Sensations.",
+    "Candles",
+    "For the Artist",
+    "For the Life and Soul",
+    "Cosy Season"
+  ]
+}

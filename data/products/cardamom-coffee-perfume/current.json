@@ -1,0 +1,76 @@
+{
+  "slug": "cardamom-coffee-perfume",
+  "url": "https://www.lush.com/us/en_us/p/cardamom-coffee-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cardamom-coffee-perfume",
+  "title": "Cardamom Coffee",
+  "sku": "7316-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 270.0,
+    "currency": "USD",
+    "formatted": "$270.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "The spice of life. Inhale deeply. Sips of sweet Colombian cocoa absolute and waves of warming cardamom oil wrap you in a comforting embrace. Exhale slowly, and settle down with herbal olive leaf absolute and woody oudh oil.",
+  "ingredients": [
+    "Alcohol Denat.",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Elettaria Cardamomum Seed Oil (Cardamom Oil)",
+    "Olive Leaf Absolute",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Colombian Cocoa Absolute",
+    "Oudh Oil",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Cinnamal",
+    "*Citral",
+    "*Coumarin",
+    "*Eugenol",
+    "*Citronellol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cardamom_coffee_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with mahogany liquid. A black label reads 'The Perfume Library' and 'Cardamom Coffee'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cardamom_coffee_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cardamom_coffee_perfume_library_hero5583_thumbnail_4096.jpg",
+      "alt": "A number of black label perfume bottles are arranged randomly, with Cardamom Coffee in the centre, lid off, ready to spritz.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cardamom_coffee_perfume_library_hero5583_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Vegan",
+    "Vegan Perfume",
+    "Gourmand",
+    "Autumn & Winter Fragrances",
+    "Caramel Latte",
+    "Spicy"
+  ]
+}

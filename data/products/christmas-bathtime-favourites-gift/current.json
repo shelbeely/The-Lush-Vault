@@ -1,0 +1,50 @@
+{
+  "slug": "christmas-bathtime-favourites-gift",
+  "url": "https://www.lush.com/us/en_us/p/christmas-bathtime-favourites-gift",
+  "sourceUrl": "https://www.lush.com/au/en/p/christmas-bathtime-favourites-gift",
+  "title": "Christmas Bathtime Favourites",
+  "sku": "61601-AU",
+  "size": "Each",
+  "price": {
+    "amount": 104.0,
+    "currency": "AUD",
+    "formatted": "104.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "au"
+  },
+  "description": "Every bath lover's dreams come true, this festive gift box is filled with eight Christmas bath bombs.\n",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AU_christmas_bathtime_favourites_gift_PR_2022_3a47b1e4_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AU_christmas_bathtime_favourites_gift_PR_2022_3a47b1e4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/web_AU_christmas_bathtime_favourites_gift_PR_2022_a6da656e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/web_AU_christmas_bathtime_favourites_gift_PR_2022_a6da656e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/AU_NZ_christmas_bathtime_favourites_gift_hero_2022-1_cd7a4ca1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/AU_NZ_christmas_bathtime_favourites_gift_hero_2022-1_cd7a4ca1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gifts Over $60"
+  ]
+}

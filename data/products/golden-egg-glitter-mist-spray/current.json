@@ -1,0 +1,99 @@
+{
+  "slug": "golden-egg-glitter-mist-spray",
+  "url": "https://www.lush.com/us/en_us/p/golden-egg-glitter-mist-spray",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/golden-egg-glitter-mist-spray",
+  "title": "Golden Egg",
+  "sku": "62478-NA",
+  "size": "250ml",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A golden oldie scent, well-loved and gorgeously gourmand. Spritz a little caramel-scented, plastic-free glitter over skin and hair for the golden touch. ",
+  "ingredients": [
+    "Aqua (Water)",
+    "Parfum",
+    "Himalayan Rock Salt",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Brazilian Orange Oil",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Tin Oxide",
+    "Amyl Cinnamal",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Iron Oxides",
+    "Yellow 5",
+    "Methylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_250g_pack_ecom_2025_46ac4848_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_250g_pack_ecom_2025_46ac4848_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_03_31a89aea_thumbnail_4096.jpg",
+      "alt": "An arm is reaching from the right-hand side. The hand holds a transparent, cylindrical plastic spray bottle with golden, shimmering liquid and a black top. A colourful label reads \"Golden Egg Glitter Mist\" on a pink-to-orange gradient background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_03_31a89aea_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_05_8f4808a7_thumbnail_4096.jpg",
+      "alt": "The image shows a model's forearm extended from the bottom as the skin appears moisturised with a subtle, delicate shimmer over the skin after having used the Golden Egg Glitter Mist spray product on a pink-to-orange gradient background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_05_8f4808a7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_07_1_4eca32c1_thumbnail_4096.jpg",
+      "alt": "The image shows a model's forearm extended from the bottom as the skin appears moisturised with a subtle, delicate shimmer over the skin after having used the Golden Egg Glitter Mist spray product on a pink-to-orange gradient background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_glitter_mist_2024_07_1_4eca32c1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/super_milk_glitter_mist_floating_group_portrait_2025_fa8c3ad3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/super_milk_glitter_mist_floating_group_portrait_2025_fa8c3ad3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Care",
+    "Vegan",
+    "Body Sprays",
+    "Vegan Body Care Products",
+    "Vegan Makeup",
+    "Firework Makeup",
+    "Fragrances",
+    "Gourmand",
+    "Ways to Shop",
+    "Makeup",
+    "Glitter Mists",
+    "Autumn & Winter Fragrances",
+    "Halloween Makeup",
+    "Gifts for Kids & Teens",
+    "Glitter Products",
+    "For the Dreamer",
+    "Easter"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "after-massage-bar",
+  "url": "https://www.lush.com/us/en_us/p/after-massage-bar",
+  "title": "After",
+  "sku": "450-NA",
+  "size": "65g",
+  "price": {
+    "amount": 15.0,
+    "currency": "USD",
+    "formatted": "$15.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Always asking yourself how to soothe aching muscles​? This refreshing magnesium and menthol massage bar will help to unwind your mind and ease aching muscles.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Calamine (Calamine Powder)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Arnica Flower and Devil’s Claw Root Decoction",
+    "Borage Oil",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Citrullus Lanatus Seed Oil (Kalahari Melon Oil)",
+    "Magnesium Chloride",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Hamamelis Virginiana Leaf Extract (Witch Hazel Extract)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Aqua (Water)",
+    "*Citral",
+    "*Farnesol",
+    "*Geraniol",
+    "*Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/after_massage_bar_2022_aadb6323_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/after_massage_bar_2022_aadb6323_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_2_8678cd3d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_2_8678cd3d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_6_65af12ac_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_6_65af12ac_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_12_9109a6a0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/after_magnesium_massage_bar_hero_2023_12_9109a6a0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Massage Oil Bars",
+    "Body Care",
+    "Vegan",
+    "Hand Care",
+    "Super Powered Ingredients",
+    "Muscle Recovery",
+    "Rewild your routine",
+    "Plastic Free",
+    "Plastic-Free Body Care",
+    "The Sports Star Mom",
+    "Peppermint Oil",
+    "Refreshing & Uplifting",
+    "Customised Lush Gifts",
+    "Mint",
+    "Small Gifts",
+    "Sporty Soaperstar Gifts"
+  ]
+}

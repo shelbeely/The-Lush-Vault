@@ -1,0 +1,60 @@
+{
+  "slug": "fresh-facial-spa-treatment",
+  "url": "https://www.lush.com/us/en_us/p/fresh-facial-spa-treatment",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-facial-spa-treatment",
+  "title": "Fresh Facial Spa Treatment",
+  "sku": "40110-NA",
+  "size": "25 Minute Treatment",
+  "price": {
+    "amount": 90.0,
+    "currency": "USD",
+    "formatted": "$90.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Refresh & glow in just 25 minutes with our fresh facial spa treatment! Deep cleanse, exfoliate & hydrate with handmade products—give your skin a boost.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_facial_treatment_ecom_2025_2872870b_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_facial_treatment_ecom_2025_2872870b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_fresh_facial_treatmet_2025_18_decc5041_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_fresh_facial_treatmet_2025_18_decc5041_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_fresh_facial_texture_mask_of_mag_19_a28f8af0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_fresh_facial_texture_mask_of_mag_19_a28f8af0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_facial_reaction_2025_36_8f226fbc_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_facial_reaction_2025_36_8f226fbc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Spa",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mother’s Day",
+    "Gifts for Him",
+    "Gifts for Her",
+    "Birthday Gifts",
+    "Spa Treatments",
+    "Gifts for Aquarius",
+    "Gifts for Mum",
+    "Spring Skincare"
+  ]
+}

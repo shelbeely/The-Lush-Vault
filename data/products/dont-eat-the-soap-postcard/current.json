@@ -1,0 +1,49 @@
+{
+  "slug": "dont-eat-the-soap-postcard",
+  "url": "https://www.lush.com/us/en_us/p/dont-eat-the-soap-postcard",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dont-eat-the-soap-postcard",
+  "title": "Don't Eat the Soap!!!",
+  "sku": "215161-NA",
+  "size": "14.8cm x 10.5cm",
+  "price": {
+    "amount": 1.5,
+    "currency": "USD",
+    "formatted": "$1.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Showcasing a playful and irreverent design by British artist Jon Burgerman and printed on 100% recycled card, this postcard is printed in Dorset on the south coast of England.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_ecom_2023_d5e626c5_thumbnail_4096.png",
+      "alt": "Don't Eat The Soap. A whimsical postcard depicting a friendly yellow monster eating blue soap with bubbles all around.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_ecom_2023_d5e626c5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_hero_image_2023-1_e168b3e9_thumbnail_4096.jpg",
+      "alt": "Image shows the Don't Eat The Soap postcard on a pastel pink noticeboard surrounded by badges and a gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_hero_image_2023-1_e168b3e9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_hero_image_2023-2_2b310594_thumbnail_4096.jpg",
+      "alt": "Model is pinning the Don't Eat The Soap postcard on a pastel pink noticeboard surrounded by badges and a gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dont_eat_the_soap_postcard_hero_image_2023-2_2b310594_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Greeting Cards",
+    "Lifestyle"
+  ]
+}

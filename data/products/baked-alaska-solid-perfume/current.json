@@ -1,0 +1,43 @@
+{
+  "slug": "baked-alaska-solid-perfume",
+  "url": "https://www.lush.com/us/en_us/p/baked-alaska-solid-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/baked-alaska-solid-perfume",
+  "title": "Baked Alaska",
+  "sku": "63283GIE-UK",
+  "size": "10g",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Tart notes of lemon myrtle, grapefruit and uplifting ylang ylang to brighten your day.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baked_alaska_solid_perfume_2024_4e9c704b_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baked_alaska_solid_perfume_2024_4e9c704b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dec_kitchen_bath_box_hero_landscape_2024_base_96080c7a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dec_kitchen_bath_box_hero_landscape_2024_base_96080c7a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "abombinaball-2",
+  "url": "https://www.lush.com/us/en_us/p/abombinaball-2",
+  "title": "Abombinaball",
+  "sku": "4715G-UN",
+  "size": "4715G-UN",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Adorable alpine attraction",
+  "ingredients": [],
+  "badges": [
+    "Naked",
+    "Contains Glitter",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/abombinaball_bath_bomb_39222f44_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/abombinaball_bath_bomb_39222f44_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_c4c773c8_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_c4c773c8_thumbnail_128.png"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z"
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "creamed-almond-and-coconut-smoothie-shower-smoothie",
+  "url": "https://www.lush.com/us/en_us/p/creamed-almond-and-coconut-smoothie-shower-smoothie",
+  "sourceUrl": "https://www.lush.com/au/en/p/creamed-almond-and-coconut-smoothie-shower-smoothie",
+  "title": "Creamed Almond and Coconut Smoothie",
+  "sku": "1412-AU",
+  "size": "225g",
+  "price": {
+    "amount": 44.0,
+    "currency": "AUD",
+    "formatted": "44.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "A sumptuous and soothing shower soap with creamy almond and coconut oils to soften, cleanse and moisturise your skin.",
+  "ingredients": [
+    "Vanilla Pod Infusion",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Glycerin",
+    "Rapeseed Oil; Coconut Oil",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Sodium Coco-Sulfate",
+    "Aqua (Water)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Sodium Chloride",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Sodium Hydroxide",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamed_almond_and_coconut_smoothie_ecom_2023_27075cdf__8a15a283_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamed_almond_and_coconut_smoothie_ecom_2023_27075cdf__8a15a283_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_769bffcb_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_769bffcb_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_2d8915df_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_2d8915df_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_f93a55bf_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Creamed-Almond-And-Coconut-Smoothie-Shower-_f93a55bf_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Gels",
+    "Shower Products",
+    "Vegan Shower Products",
+    "The Archive",
+    "Customised Lush Gifts",
+    "Gourmand",
+    "Last Chance Exclusives"
+  ]
+}

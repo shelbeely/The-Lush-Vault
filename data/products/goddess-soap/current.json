@@ -1,0 +1,100 @@
+{
+  "slug": "goddess-soap",
+  "url": "https://www.lush.com/us/en_us/p/goddess-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/goddess-soap",
+  "title": "Goddess",
+  "sku": "2259-NA",
+  "size": "100g",
+  "price": {
+    "amount": 13.5,
+    "currency": "USD",
+    "formatted": "$13.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Seductive fragrance of jasmine and oudh combine with plastic-free shimmer, making this soap the ultimate indulgence.",
+  "ingredients": [
+    "White Tea Infusion",
+    "Propylene Glycol",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Aqua (Water)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Sodium Hydroxide",
+    "Parfum",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Sandalwood Oil",
+    "Oudh Oil",
+    "Titanium Dioxide",
+    "Citric Acid",
+    "Sodium Bicarbonate",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Tin Oxide",
+    "*Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Iron Oxides",
+    "Red 33",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_2020_thumbnail_4096.png",
+      "alt": "Goddess. A deep purple, smooth, trapezium shaped soap, with a touch of shimmer, and bumps along its left side.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_33249b7e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_33249b7e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_5_18cfb9e6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_5_18cfb9e6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_4_531da929_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_soap_hero_hero_image_2024_4_531da929_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Handmade Soap",
+    "Shower Products",
+    "Vegan",
+    "Vegan Bath Products",
+    "Winter Cosmetics",
+    "Winter Bath & Shower Products",
+    "Plastic Free",
+    "Keep Clean",
+    "Rewild your routine",
+    "Plastic-Free Shower Products",
+    "Bath and Shower",
+    "Goddess",
+    "Scent Families",
+    "Travel-size Essentials",
+    "Customised Lush Gifts"
+  ]
+}

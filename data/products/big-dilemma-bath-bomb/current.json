@@ -1,0 +1,99 @@
+{
+  "slug": "big-dilemma-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/big-dilemma-bath-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/big-dilemma-bath-bomb",
+  "title": "Big Dilemma ",
+  "sku": "64867-UN",
+  "size": "165g",
+  "price": {
+    "amount": 6.5,
+    "currency": "GBP",
+    "formatted": "6.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "We’ve got a Big Easter Dilemma with this egg-shaped bath bomb, but so long as it’s sweetly scented with benzoin and zesty lemon myrtle, we don’t mind which came first.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Aqua (Water)",
+    "Zea Mays Starch (Cornstarch)",
+    "Zein (Corn Protein)",
+    "Titanium Dioxide",
+    "Sodium Coco-Sulfate",
+    "Alcohol Denat.",
+    "Synthetic Fluorphlogopite",
+    "Cocamidopropyl Betaine",
+    "Tin Oxide",
+    "*Citral",
+    "Citronellol",
+    "Coumarin",
+    "Geraniol",
+    "*Limonene",
+    "Perfume",
+    "Colour 15510",
+    "Colour 15985:1",
+    "Colour 19140:1",
+    "Colour 14700",
+    "Colour 77499"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_dilemma_bath_bomb_easter_ecom_2026_1a4627f5_thumbnail_4096.png",
+      "alt": "A creamy, egg-shaped Big Dilemma bath bomb against a plain grey background. One side features a white chicken face with a red comb and wattle, an orange beak, and grey eyes, while the rest of the egg is a soft peach color.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_dilemma_bath_bomb_easter_ecom_2026_1a4627f5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilema_bath_bomb_easter_hero_2026_1_082d12e6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilema_bath_bomb_easter_hero_2026_1_082d12e6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilemma_bath_bomb_easter_hero_2026_46_aa15182f_thumbnail_4096.jpg",
+      "alt": "An egg-shaped Big Dilemma bath bomb held in a hand over vibrant orange bathwater. The bath bomb features a white chicken face with a red comb and wattle, an orange beak, and small grey eyes, set against a peach-colored egg base.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_big_dilemma_bath_bomb_easter_hero_2026_46_aa15182f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_big_dilemma_bath_bomb_easter_hero_2026_54_6e8fe80c_thumbnail_4096.jpg",
+      "alt": "The Big Dilemma bath bomb dissolves in water, creating a center of creamy white foam surrounded by expanding swirls of deep orange and bright pink. Tiny bubbles gather on the surface of the marbled water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_big_dilemma_bath_bomb_easter_hero_2026_54_6e8fe80c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_big_dilemma_bath_bomb_easter_hero_2026_39_545f3b7d_thumbnail_4096.jpg",
+      "alt": "The Big Dilemma bath bomb dissolves in water, creating expanding ripples of thick, opaque orange and creamy white foam. The marbled pattern spreads across the surface, resembling a liquid silk texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_big_dilemma_bath_bomb_easter_hero_2026_39_545f3b7d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Products",
+    "Vegan",
+    "Vegan Bath Products",
+    "Easter",
+    "Bath Bombs",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Citrus",
+    "Fruity ",
+    "Beauty Gifts Under £10",
+    "Gifts for Kids & Teens",
+    "Sweet & Comforting",
+    "Leaving Soon"
+  ]
+}

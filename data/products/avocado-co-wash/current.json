@@ -1,0 +1,106 @@
+{
+  "slug": "avocado-co-wash",
+  "url": "https://www.lush.com/us/en_us/p/avocado-co-wash",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/avocado-co-wash",
+  "title": "Avocado",
+  "sku": "1063-NA",
+  "size": "100g",
+  "price": {
+    "amount": 19.0,
+    "currency": "USD",
+    "formatted": "$19.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This cleansing avocado and olive oil shampoo provides deep condition for curly hair. Use as a co-wash for a cider vinegar hair rinse that fully moisturises.",
+  "ingredients": [
+    "Sodium Cocoyl Isethionate",
+    "Stearic Acid",
+    "Rosemary; Lavender Flower and Nettle Infusion",
+    "Persea Gratissima Fruit (Fresh Avocado)",
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Cocamidopropyl Betaine",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Ethyl Macadamiate",
+    "Parfum",
+    "Behentrimonium chloride",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Litsea Cubeba",
+    "Olibanum Oil",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Extra Virgin Olive Oil",
+    "Citric Acid",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Cetrimonium Chloride",
+    "Amyl Cinnamal",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "CI 75810 (Chlorophyllin)",
+    "Yellow 5 Lake",
+    "Blue 1 Lake",
+    "Yellow 5"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/p4-5_Avocado_Co_Wash_2019_Lush_Times_Winter_2020_WAN_thumbnail_4096.png",
+      "alt": "Avocado. An avocado green, rectangular chunk of solid co-wash (conditioning-wash).",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/p4-5_Avocado_Co_Wash_2019_Lush_Times_Winter_2020_WAN_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_3_c39b8ded_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_3_c39b8ded_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_2_9f917a2d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_2_9f917a2d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_1_a3e5878d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_cowash_hero_image_2023_1_a3e5878d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Hair Care",
+    "Vegan Hair Products",
+    "Summer Essentials",
+    "Plastic Free",
+    "Keep Clean",
+    "Plastic-Free Shower Products",
+    "Plastic-Free Hair Care",
+    "Carry on with Lush",
+    "Natural Care For Textured Hair",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Gourmand",
+    "Customised Lush Gifts",
+    "Rosemary",
+    "Shop Haircare By Benefit",
+    "Hydrating & Moisturizing Haircare"
+  ]
+}

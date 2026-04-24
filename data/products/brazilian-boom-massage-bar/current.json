@@ -1,0 +1,95 @@
+{
+  "slug": "brazilian-boom-massage-bar",
+  "url": "https://www.lush.com/us/en_us/p/brazilian-boom-massage-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/brazilian-boom-massage-bar",
+  "title": "Brazilian Boom",
+  "sku": "4699-NA",
+  "size": "70g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Want to look rear-ly peachy? This workout of a bar is made with caffeine-rich guyausa, yerba mate and Brazilian coffee for lymphatic drainage massage.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Calamine (Calamine Powder)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Brazilian Coffee; Guayusa Leaf and Yerba Mate Infusion",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Parfum",
+    "Andiroba Oil",
+    "Buriti Oil",
+    "Açaí Oil",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Gotu Kola Leaf Tincture",
+    "Panax Ginseng Root Powder (Ginseng Powder)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Angelica Root Oil",
+    "Orris Oil ",
+    "Fennel Oil",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Caffeine Powder",
+    "*Citral",
+    "Coumarin",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_boom_massage_bar_mothers_day_2025_8582d3d9_thumbnail_4096.png",
+      "alt": "Brazilian Boom. An ivory-yellow, solid oil massage bar in an oval shape. The words \"massage bar\" are embossed on the side and there are four raised half-sphere, bubble-type shapes on top. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_boom_massage_bar_mothers_day_2025_8582d3d9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_brazilian_boom_massage_bar_hero_2025_04_7a833670_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_brazilian_boom_massage_bar_hero_2025_04_7a833670_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_brazilian_boom_massage_bar_hero_2025_06_b77b8cfe_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_brazilian_boom_massage_bar_hero_2025_06_b77b8cfe_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_brazilian_boom_massage_bar_hero_2025_01_f85c658d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_brazilian_boom_massage_bar_hero_2025_01_f85c658d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_brazilian_boom_massage_bar_hero_2025_08_9aa83e0e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_brazilian_boom_massage_bar_hero_2025_08_9aa83e0e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Massage Oil Bars",
+    "Plastic Free",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Summer Body Care",
+    "Summer Essentials",
+    "Sporty Soaperstar Gifts",
+    "Muscle Recovery"
+  ]
+}

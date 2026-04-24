@@ -1,0 +1,102 @@
+{
+  "slug": "black-rose-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/black-rose-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/black-rose-bath-bomb",
+  "title": "Black Rose",
+  "sku": "5422-NA",
+  "size": "180g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A heavenly black bath bomb that tempts you to stay in its dark waters just a little longer. If you love your baths a little dark-sided, this one's for you.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Alcohol Denat.",
+    "Dipropylene Glycol",
+    "Pakistani Rose Absolute",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Sodium Coco-Sulfate",
+    "PEG-7 Glyceryl Cocoate",
+    "Cocamidopropyl Betaine",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Citronellol",
+    "Coumarin",
+    "Geraniol",
+    "*Limonene",
+    "Perfume",
+    "Iron Oxides",
+    "Red 28 Lake",
+    "Blue 1",
+    "Red 33",
+    "Red 4",
+    "Green 3",
+    "Yellow 6 Lake",
+    "Red 27",
+    "Red 28",
+    "Blue 1 Lake",
+    "Yellow 5 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_rose_bomb_2026_08_b2911a34_thumbnail_4096.png",
+      "alt": "Black Rose bath bomb. A charcoal-grey bath bomb intricately shaped like a blooming rose. It features a shimmering layer of silver plastic-free glitter across the delicate, textured petals. Standing alone against a plain light grey background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_rose_bomb_2026_08_b2911a34_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_black_rose_bath_bomb_wbbd_hero_2026_7_d36d66f7_thumbnail_4096.jpg",
+      "alt": "Black Rose. A dark, charcoal-grey bath bomb shaped like a blooming rose. It fizzes on the water's surface, releasing deep purple and pink swirls with a shimmering layer of silver plastic-free glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_black_rose_bath_bomb_wbbd_hero_2026_7_d36d66f7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_black_rose_bath_bomb_wbbd_hero_2026_11_7eacc1b1_thumbnail_4096.jpg",
+      "alt": "Black Rose. An aerial view shows the dark rose-shaped bath bomb as it dissolves. It creates a thick layer of velvety, deep-purple foam on the water's surface, rippling with bright pink swirls and shimmering silver plastic-free glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_black_rose_bath_bomb_wbbd_hero_2026_11_7eacc1b1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_black_rose_bath_bomb_wbbd_hero_2026_5_02250553_thumbnail_4096.jpg",
+      "alt": "Black Rose. An aerial view shows the dark rose-shaped bath bomb as it has nearly fully dissolved. The water is a deep, velvety purple and pink, covered in a thick layer of shimmering silver plastic-free glitter and delicate bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_black_rose_bath_bomb_wbbd_hero_2026_5_02250553_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Products",
+    "Bath Bombs",
+    "Plastic Free",
+    "Corporate Gifts",
+    "Our bestselling collection of bathing beauties",
+    "Bath and Shower",
+    "Self-care Under $20",
+    "Floral",
+    "Gifts Under $10",
+    "Customised Lush Gifts",
+    "Floral & Sensual",
+    "Fruity & Imaginative"
+  ]
+}

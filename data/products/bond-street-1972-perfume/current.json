@@ -1,0 +1,57 @@
+{
+  "slug": "bond-street-1972-perfume",
+  "url": "https://www.lush.com/us/en_us/p/bond-street-1972-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bond-street-1972-perfume",
+  "title": "Bond Street 1972",
+  "sku": "62898-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 135.0,
+    "currency": "USD",
+    "formatted": "$135.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 4,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This brilliantly clean, green and grassy perfume means business.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Olibanum (Olibanum Resinoid)",
+    "Aqua (Water)",
+    "Glycerin",
+    "Galbanum Oil",
+    "*Isoeugenol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bond_street_1992_100ml_perfume_ecom_2024_ab5c4841_thumbnail_4096.png",
+      "alt": "Bond Street 1972. A rectangular, glass perfume bottle with a black cap is filled with translucent, off-clear liquid. A black label reads 'Bond Street 1972'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bond_street_1992_100ml_perfume_ecom_2024_ab5c4841_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bond_street_1972_landscape_perfume_2024_d8eaa200_thumbnail_4096.jpg",
+      "alt": "The image shows the Bond Street 1972 glass perfume bottle. It is sitting on a soft, beige background with curved, cream paper creating soft, gliding shapes behind the product.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bond_street_1972_landscape_perfume_2024_d8eaa200_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Perfumes",
+    "Fragrances",
+    "Vegan Perfume"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "bohemian-soap",
+  "url": "https://www.lush.com/us/en_us/p/bohemian-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bohemian-soap",
+  "title": "Bohemian",
+  "sku": "2255-NA",
+  "size": "100g",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Feel squeaky clean with this fresh lemon-scented soap. Lemon oil is great for brightening skin, so lather up!",
+  "ingredients": [
+    "Rapeseed Oil; Coconut Oil",
+    "Aqua (Water)",
+    "Glycerin",
+    "Propylene Glycol",
+    "Lemon Oil",
+    "*Limonene",
+    "Sodium Chloride",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Sodium Hydroxide",
+    "*Citral",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_2020_thumbnail_4096.png",
+      "alt": "Bohemian. A light yellow, creamy swirled, smooth, trapezium shaped soap, with bumps along its left side.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_newsite_2021-2_13e85236_thumbnail_4096.jpg",
+      "alt": "Bohemian, a light yellow, creamy swirled, smooth soap, is being rubbed across a tattooed chest, creating bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_newsite_2021-2_13e85236_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_2021-1_358a6ef6_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_2021-1_358a6ef6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_2021-4_d33645a5_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bohemian_soap_hero_image_2021-4_d33645a5_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Handmade Soap",
+    "Vegan",
+    "Vegan Shower Products",
+    "Vegan Bath Products",
+    "Shower Products",
+    "Plastic Free",
+    "Keep Clean",
+    "Plastic-Free Shower Products",
+    "Plastic Free Showers",
+    "Bath and Shower",
+    "Awake ",
+    "For the Artist",
+    "Trending Now",
+    "Citrus",
+    "Travel-size Essentials",
+    "Gifts Under $10",
+    "Customised Lush Gifts",
+    "Cooling",
+    "Muscle Recovery"
+  ]
+}

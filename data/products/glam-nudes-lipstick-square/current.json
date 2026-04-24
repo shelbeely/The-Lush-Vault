@@ -1,0 +1,89 @@
+{
+  "slug": "glam-nudes-lipstick-square",
+  "url": "https://www.lush.com/us/en_us/p/glam-nudes-lipstick-square",
+  "sourceUrl": "https://www.lush.com/uk/en/p/glam-nudes-lipstick-square",
+  "title": "Glam Nudes",
+  "sku": "63777-UK",
+  "size": "13g",
+  "price": {
+    "amount": 24.0,
+    "currency": "GBP",
+    "formatted": "24.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Enhance your natural tone with a nude lipstick palette for the creative type, with three shades that you can blend as you like!",
+  "ingredients": [
+    "Citrullus Lanatus Seed Oil (Kalahari Melon Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Synthetic Fluorphlogopite",
+    "Kaolin",
+    "Citrus Aurantium Dulcis Peel Cera (Orange Peel Wax)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Glycerin",
+    "Caprylic/Capric Triglyceride",
+    "Rosa Damascena Flower Cera (Rose Wax)",
+    "Polyvinylpyrrolidone (PVP)",
+    "Cetearyl Alcohol",
+    "Tin Oxide",
+    "CI77947",
+    "CI77492",
+    "CI77491",
+    "CI77499",
+    "CI19140:1",
+    "CI73360",
+    "CI12085",
+    "CI42090:2"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/nuclear_nudes_lip_2023_0e3a222b_thumbnail_4096.png",
+      "alt": "A square, two-toned block of Glam Nudes ~ Lip square with glossy terracotta brown and matte peachy nude sections. The center features a raised, textured, circular design in pearlescent champagne nude.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/nuclear_nudes_lip_2023_0e3a222b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_107_0236c7d9_thumbnail_4096.jpg",
+      "alt": "A person with long blonde hair, wearing a pink ribbed top, smiles at the camera while resting their chin on their hand. They wear a light peachy-nude lip color, likely from the Glam Nudes ~ Lip square, against a bright magenta background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_107_0236c7d9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_108_41d26efe_thumbnail_4096.jpg",
+      "alt": "A person with long blonde hair, wearing a pink ribbed top, smiles broadly at the camera while resting their chin on their hand. They wear a light peachy-nude lip color, likely from the Glam Nudes ~ Lip square, against a bright magenta background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_108_41d26efe_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_109_19edd0fe_thumbnail_4096.jpg",
+      "alt": "A person with long blonde hair, wearing a pink top, smiles at the camera while applying a nude lip color with a gold brush. The shade is consistent with the Glam Nudes ~ Lip square, set against a bright magenta background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_square_hero_2025_109_19edd0fe_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_squares_hero_swatch_2025_169f3c62_thumbnail_4096.jpg",
+      "alt": "Three forearms with various complexions are shown on a light grey background. Each has three swatches of Glam Nudes ~ Lip square product, including shades of terracotta brown, peachy nude, and shimmering champagne nude.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glam_nudes_lipstick_squares_hero_swatch_2025_169f3c62_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Lipstick",
+    "Vegan",
+    "Firework Makeup",
+    "Vegan Makeup",
+    "Lips"
+  ]
+}

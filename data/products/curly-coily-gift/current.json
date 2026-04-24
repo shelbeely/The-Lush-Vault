@@ -1,0 +1,95 @@
+{
+  "slug": "curly-coily-gift",
+  "url": "https://www.lush.com/us/en_us/p/curly-coily-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/curly-coily-gift",
+  "title": "Curly Coily",
+  "sku": "62335-NA",
+  "size": "Each",
+  "price": {
+    "amount": 55.0,
+    "currency": "USD",
+    "formatted": "$55.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 13,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Elevate your curls, coils, and waves with this creamy, super-rich, conditioning hair care trio.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coily_hair_care_gift_pr_image_2024_324598f6_thumbnail_4096.png",
+      "alt": "Curly Coily. A box is neatly wrapped in a colourful, exclusive knot wrap with three hair care products consisting of a spray bottle, co-wash and conditioner put beside. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coily_hair_care_gift_pr_image_2024_324598f6_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_130_2f92684e_thumbnail_4096.jpg",
+      "alt": "The image shows the Curly Coily gift, having been unpacked, with the three included haircare products on the bed. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_130_2f92684e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_113_1_02a82083_thumbnail_4096.jpg",
+      "alt": "The image shows a light, cream bedroom with the model drinking from a mug in the blurred background as the foreground focuses on the neatly wrapped Curly Coily gift on the end of the bed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_113_1_02a82083_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_133_1_9ab805d5_thumbnail_4096.jpg",
+      "alt": "The model is sitting cross-legged on the bed, wrapped in an oversized white shirt as they look at the gift tag on the Curly Coily haircare gift. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_133_1_9ab805d5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_finished_hair_gift_ayr_2024_03_80de5ca2_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's hand as they are mid-spritz of the Super Milk conditioning spray as the product is applied to their thick, curly hair. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_finished_hair_gift_ayr_2024_03_80de5ca2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_finished_hair_gift_ayr_2024_100_2ef25163_thumbnail_4096.jpg",
+      "alt": "The model is sat on the bed in an oversized white shirt. They have fashioned the Curly Coily gift knot wrap into a trendy head bandana for their thick, curly hair. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_finished_hair_gift_ayr_2024_100_2ef25163_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coily_knot_wrap_2024_cf6e031c_thumbnail_4096.png",
+      "alt": "Curly Coily knot wrap. A square knot wrap with a rough, red colour base. There is a yellow border with a uniform pattern of blue, wide-tooth afro-combs printed across. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coily_knot_wrap_2024_cf6e031c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_124_c89b8f63_thumbnail_4096.jpg",
+      "alt": "A close-up of the Curly Coily wrapped haircare gift set on the foot of the bed with the three haircare products sitting in front. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_coil_gift_ayr_2024_124_c89b8f63_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Them",
+    "Gifts",
+    "Vegan",
+    "Hair Care",
+    "Gifts for Friends",
+    "Vegan Hair Products",
+    "Travel-size Essentials",
+    "Birthday Gifts",
+    "Gifts by Recipient",
+    "Gifts for Mum",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Shop Haircare By Benefit",
+    "Care for Damaged Hair",
+    "Hydrating & Moisturizing Haircare",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "best-foot-forward-gift-v2",
+  "url": "https://www.lush.com/us/en_us/p/best-foot-forward-gift-v2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/best-foot-forward-gift-v2",
+  "title": "Best Foot Forward",
+  "sku": "63465-NA",
+  "size": "Each",
+  "price": {
+    "amount": 34.0,
+    "currency": "USD",
+    "formatted": "$34.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Sensible folks will make sure they have this gift to hand (or indeed to foot) too. Three treats are solemates for hardworking, much neglected feet!",
+  "ingredients": [],
+  "badges": [
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/best_foot_forward_gift_AYR_ecom_2025_fb941498_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/best_foot_forward_gift_AYR_ecom_2025_fb941498_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/best_foot_forward_gifts_lush_2025_01_f46fb4e9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/best_foot_forward_gifts_lush_2025_01_f46fb4e9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/t_for_toes_foot_powder_hero_2025_03_9f8e7b0f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/t_for_toes_foot_powder_hero_2025_03_9f8e7b0f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_t_for_toes_foot_powder_hero_2025_10_4745753f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_t_for_toes_foot_powder_hero_2025_10_4745753f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2025-Lemony-Flutter-Cuticle-Butter-Hero_03_Digital_1b9edc99_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2025-Lemony-Flutter-Cuticle-Butter-Hero_03_Digital_1b9edc99_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath & Body Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Them",
+    "Gifts",
+    "Gifts for Dad",
+    "Gifts for Friends",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Sporty Soaperstar Gifts",
+    "Gifts Under $50"
+  ]
+}

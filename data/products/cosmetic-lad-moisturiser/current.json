@@ -1,0 +1,87 @@
+{
+  "slug": "cosmetic-lad-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-moisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cosmetic-lad-moisturiser",
+  "title": "Cosmetic Lad (Preserved)",
+  "sku": "413-NA",
+  "size": "45g",
+  "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "formatted": "$33.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Designed to calm and soften sensitive skin, this natural face moisturiser and shaving cream is full of cooling aloe vera and soothing lavender honey water.",
+  "ingredients": [
+    "Lavender Honey Water",
+    "Linseed Mucilage",
+    "Organic Cold Pressed Almond Oil",
+    "Organic Aloe Vera Gel",
+    "Chickweed, Chamomile and Marigold Petal Extract",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Fresh Wheatgrass Juice",
+    "Glycerin",
+    "Cetearyl Alcohol",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Sandalwood Oil",
+    "Triethanolamine",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_moisturiser_2020_thumbnail_4096.png",
+      "alt": "A swatch of smooth, light, orchid white Cosmetic Lad facial moisturiser.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_moisturiser_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_moisturiser_hero_image_2019_8c3d3acb_thumbnail_4096.jpg",
+      "alt": "A close-up of hands holding the Cosmetic Lad pot with one hand dipping two fingers into the velvety, creamy moisturiser. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_moisturiser_hero_image_2019_8c3d3acb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_hero_web_thumbnail_4096.jpeg",
+      "alt": "A light layer of smooth, orchid white Cosmetic Lad facial moisturiser is rubbed across one half of a smiling face.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_hero_web_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Moisturisers",
+    "Best for a calm face",
+    "Balancing Oily Skin",
+    "Winter Cosmetics",
+    "Skincare Routines",
+    "Skin Care for Cold Weather",
+    "Dads Deserve Pampering",
+    " Lightly-scented",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "By Ingredients",
+    "Shea Butter",
+    "Aloe Vera",
+    "Sensitive skin",
+    "Spring Skincare"
+  ]
+}

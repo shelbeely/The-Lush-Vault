@@ -1,0 +1,100 @@
+{
+  "slug": "comforter-rose-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/comforter-rose-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/comforter-rose-bath-bomb",
+  "title": "Comforter Rose",
+  "sku": "64764-NA",
+  "size": "150g",
+  "price": {
+    "amount": 8.0,
+    "currency": "USD",
+    "formatted": "$8.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Sink into comforting, fluffy pink bath art as this rose and jasmine bath bomb, inspired by The Comforter? Lush Spa treatment, blooms with hydrating argan oil.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Coco-Sulfate",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Aqua (Water)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Zea Mays Starch (Cornstarch)",
+    "Titanium Dioxide",
+    "Alcohol Denat.",
+    "Dipropylene Glycol",
+    "Cocamidopropyl Betaine",
+    "Synthetic Fluorphlogopite",
+    "Propylene Glycol",
+    "Tin Oxide",
+    "*Citral",
+    "Citronellol",
+    "Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Yellow 6 Lake",
+    "Yellow 5 Lake",
+    "Red 4",
+    "Red 28 Lake",
+    "Red 27",
+    "Red 7 Lake",
+    "Iron Oxides",
+    "Red 33"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/comforter_rose_bath_bomb_spa_products_lush_2026_11_d176cb5f_thumbnail_4096.png",
+      "alt": "Comforter Rose. A vibrant coral-coloured bath bomb sculpted into the shape of a blooming rose with thick, rounded petals. The textured surface has a matte finish with subtle peach-coloured highlights.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/comforter_rose_bath_bomb_spa_products_lush_2026_11_d176cb5f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_the_comforter_rose_bath_bomb_spa_products_lush_2026__2948460a_thumbnail_4.jpg",
+      "alt": "A vibrant coral-coloured \"Comforter Rose\" bath bomb sits on the edge of a white bathtub. In the background, a white flannel and a small vase with dried wheat create a relaxing spa-like atmosphere against pale beige wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_the_comforter_rose_bath_bomb_spa_products_lush_2026__2948460a_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_the_comforter_rose_bath_bomb_spa_products_lush_2026__3f11bfb1_thumbnail_4.jpg",
+      "alt": "The image shows the \"Comforter Rose\" bath bomb dissolving in bathwater, creating a large island of thick white foam. A model's hand reaches into the deep orange, shimmering water toward the foam, which features a pink floral pattern in its centre.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_the_comforter_rose_bath_bomb_spa_products_lush_2026__3f11bfb1_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_the_comforter_rose_bath_bomb_spa_products_lush_2026__83116285_thumbnail_4.jpg",
+      "alt": "A vibrant coral-coloured \"Comforter Rose\" bath bomb held by two hands just beneath the surface of orange, foamy bathwater. The bath bomb is partially covered in thick white bubbles, which swirl and spread across the warm-toned water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_the_comforter_rose_bath_bomb_spa_products_lush_2026__83116285_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_comforter_rose_bath_bomb_spa_2026_73_bbf8a28a_thumbnail_4096.jpg",
+      "alt": "An aerial image of the \"Comforter Rose' bath bomb as it begins to dissolve. It is surrounded by a ring of thick, cream-coloured bubbles, with swirling patterns of soft pink and peach radiating across the water's surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_comforter_rose_bath_bomb_spa_2026_73_bbf8a28a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Spa Treatments",
+    "Sweet & Comforting"
+  ]
+}

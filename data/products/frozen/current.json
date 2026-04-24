@@ -1,0 +1,47 @@
+{
+  "slug": "frozen",
+  "url": "https://www.lush.com/us/en_us/p/frozen",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/frozen",
+  "title": "Frozen",
+  "sku": "63310GIE-UK",
+  "size": "63310GIE-UK",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Freeze. Grapefruit time.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/frozen_body_lotion_2024_5af6464d_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/frozen_body_lotion_2024_5af6464d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_997cf95a_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_997cf95a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_18a3eeb3_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_18a3eeb3_thumbnail_128.png"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

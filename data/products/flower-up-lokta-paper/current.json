@@ -1,0 +1,56 @@
+{
+  "slug": "flower-up-lokta-paper",
+  "url": "https://www.lush.com/us/en_us/p/flower-up-lokta-paper",
+  "sourceUrl": "https://www.lush.com/au/en/p/flower-up-lokta-paper",
+  "title": "Flower Up Lokta Paper",
+  "sku": "222277-UN",
+  "size": "35cm x 35cm",
+  "price": {
+    "amount": 4.0,
+    "currency": "AUD",
+    "formatted": "4.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "If your mum’s the outdoorsy type, wrap up a floral Lush treat inside this Lokta paper adorned in flowers this Mother's Day, so they can power up with petals!",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/flower_up_lokta_wrap_mothers_day_2026_023936d9_thumbnail_4096.png",
+      "alt": "Flower Up. A vibrant, square sheet of Lokta paper features a soft, impressionist floral design. Large, watercolour blooms in shades of pink, purple, and pale lilac are scattered across a light blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/flower_up_lokta_wrap_mothers_day_2026_023936d9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_flower_up_lokta_wrap_mothers_day_lush_2026_08_3e50d691_thumbnail_4096.jpg",
+      "alt": "The image shows a hand holding a tied, \"Flower Up\" Lokta paper wrapped around a gift. The vibrant material, with hand-painted flowers in pink, purple, and blue on a lime-green background, is being secured over a gift on a pale green tiled surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_flower_up_lokta_wrap_mothers_day_lush_2026_08_3e50d691_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_flower_up_lokta_wrap_mothers_day_lush_2026_15_c91a72bf_thumbnail_4096.jpg",
+      "alt": "The image shows a model with short, curled auburn hair, in a white bathrobe. They are smelling the bath bomb wrapped within the colourful \"Flower Up\" Lokta paper, on a bright, tiled background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_flower_up_lokta_wrap_mothers_day_lush_2026_15_c91a72bf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_flower_up_lokta_paper_mothers_day_texture_2026_22_5d221e8b_thumbnail_4096.jpg",
+      "alt": "A vibrant close-up shows a sheet of the \"Flower Up\" Lokta paper, featuring a hand-painted floral design with light and dark pink flowers with yellow centres, and large, lush green leaves.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_flower_up_lokta_paper_mothers_day_texture_2026_22_5d221e8b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "New Products",
+    "Gift Wrapping",
+    "Mother's Day AU",
+    "New Products AU"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "cucumber-eye-pads",
+  "url": "https://www.lush.com/us/en_us/p/cucumber-eye-pads",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cucumber-eye-pads",
+  "title": "Cucumber Eye Pads",
+  "sku": "1766-NA",
+  "size": "15g",
+  "price": {
+    "amount": 5.5,
+    "currency": "USD",
+    "formatted": "$5.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 36,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Switch from screen time to carrageen time with our cooling cucumber under eye mask. Made only with natural ingredients, refresh tired eyes with plant power!",
+  "ingredients": [
+    "Fresh Cucumber Puree",
+    "Glycerin",
+    "Aqua (Water)",
+    "Chondrus Crispus Extract (Carrageenan Extract)"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cucumber_eye_pads_ecom_2025_407a18a8_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cucumber_eye_pads_ecom_2025_407a18a8_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_cucumber_fresh_eye_pads_lush_2025_02_d80d0743_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_cucumber_fresh_eye_pads_lush_2025_02_d80d0743_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_cucumber_fresh_eye_pads_lush_2025_10_792bae41_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_cucumber_fresh_eye_pads_lush_2025_10_792bae41_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cucumber_fresh_eye_pads_lush_2025_18_62ade0b3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cucumber_fresh_eye_pads_lush_2025_18_62ade0b3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Vegan",
+    "Fresh",
+    "Skincare",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Eye Masks",
+    "Cooling",
+    "For the Nature-Lover",
+    "Travel-size Essentials",
+    "For the Artist",
+    "For the Life and Soul",
+    "Sensitive skin"
+  ]
+}

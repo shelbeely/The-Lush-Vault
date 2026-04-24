@@ -1,0 +1,81 @@
+{
+  "slug": "calm-primer",
+  "url": "https://www.lush.com/us/en_us/p/calm-primer",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/calm-primer",
+  "title": "Calm",
+  "sku": "62445-NA",
+  "size": "45g",
+  "price": {
+    "amount": 35.0,
+    "currency": "USD",
+    "formatted": "$35.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Prep your skin before makeup with this hydrating skin primer, made with beautifully softening ingredients.",
+  "ingredients": [
+    "Avena Sativa Kernel Extract (Oatmeal Extract)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Orange Flower Water",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Propylene Glycol",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Astrocaryum Murumuru Seed Butter (Murumuru Butter)",
+    "Triethanolamine",
+    "Tincture of Benzoin",
+    "Alcohol Denat.",
+    "Cetearyl Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/calm_skin_primer_45g_2023__1123e49c_thumbnail_4096.png",
+      "alt": "A close-up product swatch of a thick, teardrop-shaped dollop of Calm primer. The product has a creamy, smooth texture and a pale, yellowish-ivory color, ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/calm_skin_primer_45g_2023__1123e49c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_calm_face_primer_pack_hero_2025_b4c19bf3_thumbnail_4096.jpg",
+      "alt": "An angled product shot of a black spray bottle of LUSH Calm Face Primer, standing on a reflective surface. A creamy white swatch of the product rests next to the bottle and its reflection, all against a bright blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_calm_face_primer_pack_hero_2025_b4c19bf3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_calm_primer_lush_2025_01_904216f5_thumbnail_4096.jpg",
+      "alt": "A close-up vertical portrait of a smiling person with dark hair, looking up and left. Their chin rests on their hand, and their face has a healthy, radiant sheen from the application of the Calm primer, set against a bright blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_calm_primer_lush_2025_01_904216f5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_calm_primer_lush_2025_30_a5ced877_thumbnail_4096.jpg",
+      "alt": "A close-up vertical shot of a smiling person with dark hair, applying a creamy white swatch of Calm primer to their cheek with a finger. The product is being blended into their skin, set against a bright blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_calm_primer_lush_2025_30_a5ced877_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_calm_primer_lush_2025_15_65490f7a_thumbnail_4096.jpg",
+      "alt": "A close-up vertical portrait of a smiling person with dark hair, winking while holding the small black bottle of LUSH Calm Face Primer up to their cheek. The background is a bright blue.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_calm_primer_lush_2025_15_65490f7a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan Skincare",
+    "Vegan Makeup",
+    "Makeup"
+  ]
+}

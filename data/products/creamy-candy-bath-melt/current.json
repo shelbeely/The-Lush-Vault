@@ -1,0 +1,91 @@
+{
+  "slug": "creamy-candy-bath-melt",
+  "url": "https://www.lush.com/us/en_us/p/creamy-candy-bath-melt",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/creamy-candy-bath-melt",
+  "title": "Creamy Candy",
+  "sku": "64707-NA",
+  "size": "45g",
+  "price": {
+    "amount": 7.0,
+    "currency": "USD",
+    "formatted": "$7.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Use this bath melt to fizz your way to the soft life this Mother's Day as cocoa butter moisturises and vanilla takes you to a world of all things pink and easy.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Laureth 4",
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Parfum",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Glycerin",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Hydroxypropyl Methylcellulose",
+    "Propylene Glycol",
+    "Sodium Carboxymethyl Cellulose",
+    "Alpha-Isomethyl Ionone",
+    "Red 40",
+    "Red 27",
+    "Red 4",
+    "Red 33"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bath_melt_mothers_day_lush_2026_01_5dc70d77_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bath_melt_mothers_day_lush_2026_01_5dc70d77_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_creamy_candy_bath_melt_mothers_day_lush_2026_01_377e1e0e_thumbnail_4096.jpg",
+      "alt": "A hand places a small, square \"Creamy Candy\" bath melt onto a white bath ledge. The melt features pink and white layers topped with small red sprinkles, and sits next to a glass vase of flowers and a wooden bath brush against a mint green tiled wall.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_creamy_candy_bath_melt_mothers_day_lush_2026_01_377e1e0e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_creamy_candy_bath_melt_mothers_day_lush_2026_07_61a9c2e6_thumbnail_4096.jpg",
+      "alt": "A hand holds the melting \"Creamy Candy\" bath melt in the bathwater, which has turned a milky white texture. Small pink flecks float on the surface as the bar dissolves, releasing its moisturizers into the water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_creamy_candy_bath_melt_mothers_day_lush_2026_07_61a9c2e6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_creamy_candy_bath_melt_mothers_day_lush_2026_10_97956011_thumbnail_4096.jpg",
+      "alt": "A top-down view shows a hand holding the pale pink \"Creamy Candy\" bath melt just under the surface of the water. The bathwater has transformed into a silky, milky white liquid with small pink distinct flecks floating around the dissolving bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_creamy_candy_bath_melt_mothers_day_lush_2026_10_97956011_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_creamy_candy_garden_bath_melt_mothers_day_2026_81_b52cb7b9_thumbnail_4096.jpg",
+      "alt": "A top-down view shows a pink bath melt dissolving in milky water, releasing a cloud of vibrant pink foam topped with small red crystal sprinkles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_creamy_candy_garden_bath_melt_mothers_day_2026_81_b52cb7b9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_creamy_candy_garden_bath_melt_mothers_day_2026_86_14a9cf7e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_creamy_candy_garden_bath_melt_mothers_day_2026_86_14a9cf7e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Oils",
+    "Bath Products",
+    "Vegan",
+    "New Products",
+    "Vegan Bath Products",
+    "Mother’s Day",
+    "Gifts for Mum"
+  ]
+}

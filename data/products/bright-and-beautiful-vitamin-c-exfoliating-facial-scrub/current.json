@@ -1,0 +1,103 @@
+{
+  "slug": "bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+  "url": "https://www.lush.com/us/en_us/p/bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+  "title": "Bright and Beautiful",
+  "sku": "61060-NA",
+  "size": "100g",
+  "price": {
+    "amount": 26.0,
+    "currency": "USD",
+    "formatted": "$26.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Get glowing skin with this exfoliating scrub for your face with concentrated vitamin C. Use as a 2-minute mask or a foaming facial cleanser for brighter skin.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Helianthus Annuus Seed Oil (Sunflower Oil)",
+    "Vitamin C Powder",
+    "Citric Acid",
+    "Fukushima Rapeseed Oil",
+    "Soya Oil",
+    "Disodium Lauryl Sulfosuccinate",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Rhus Succedanea Fruit Cera (Japan Wax)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Rosemary Absolute",
+    "Michelia Champaca Flower Extract (Champaca Extract)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Sucrose (Caster Sugar)",
+    "Charcoal Powder (Powdered Charcoal)",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Silica",
+    "Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Red 33",
+    "Red 27",
+    "Red 28",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bright_and_beautiful_vitamin_c_exfoliating_facial_scrub_35c873c8_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bright_and_beautiful_vitamin_c_exfoliating_facial_scrub_35c873c8_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_bright_and_beautiful_face_scrub_2025_03_62f1867e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_bright_and_beautiful_face_scrub_2025_03_62f1867e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_bright_and_beautiful_face_scrub_2025_05_ac569284_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_bright_and_beautiful_face_scrub_2025_05_ac569284_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_bright_and_beautiful_face_scrub_texture_2025_01_67ebe378_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_bright_and_beautiful_face_scrub_texture_2025_01_67ebe378_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_bright_and_beautiful_facial_scrub_lush_2025_01_9a2d5b73_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_bright_and_beautiful_facial_scrub_lush_2025_01_9a2d5b73_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Scrubs & Exfoliators",
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "For the Artist",
+    "Gifts for Gemini",
+    "Brightening Dull Skin",
+    "Skincare By Needs"
+  ]
+}

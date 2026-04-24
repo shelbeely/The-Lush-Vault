@@ -1,0 +1,91 @@
+{
+  "slug": "coconut-rice-cake-shampoo-bar-2021",
+  "url": "https://www.lush.com/us/en_us/p/coconut-rice-cake-shampoo-bar-2021",
+  "sourceUrl": "https://www.lush.com/au/en/p/coconut-rice-cake-shampoo-bar-2021",
+  "title": "Coconut Rice Cake",
+  "sku": "5315-UN",
+  "size": "55g",
+  "price": {
+    "amount": 20.0,
+    "currency": "AUD",
+    "formatted": "20.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "This hydrating vegan solid shampoo bar is loaded with coconut milk to soften and smooth your tresses.",
+  "ingredients": [
+    "Sodium Coco-Sulfate",
+    "Stearic Acid",
+    "Aqua (Water)",
+    "White Rice",
+    "Perfume",
+    "Glyceryl Stearate",
+    "Organic Coconut Milk",
+    "Cocamidopropyl Betaine",
+    "Soya Lecithin",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Creamed Coconut",
+    "Titanium Dioxide",
+    "Propylene Glycol",
+    "Colour 45410:1",
+    "Colour 14700",
+    "Colour 17200",
+    "Sunflower Petals"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_cake_shampoo_bar_8e60bd63_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_cake_shampoo_bar_8e60bd63_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_cake_shampoo_bar_cork_pot_hero_2024_e4bce203_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_cake_shampoo_bar_cork_pot_hero_2024_e4bce203_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_shampoo_bar_hero_image_2000x1364_2022_50fe33ed_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_shampoo_bar_hero_image_2000x1364_2022_50fe33ed_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_shampoo_bar_hero_image_2000x1364_2022_6_200eacd9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_rice_shampoo_bar_hero_image_2000x1364_2022_6_200eacd9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Hair Care",
+    "Shampoo Bars",
+    "Plastic Free",
+    "Keep Clean",
+    "Vegan Hair Products",
+    "Pink Is Powerful",
+    "Winter Cosmetics",
+    "Hair Products For Cold Weather",
+    "LUSH × BARBIE",
+    "Sweet",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Hydrating and Moisturising Haircare",
+    "Last Chance Exclusives"
+  ]
+}

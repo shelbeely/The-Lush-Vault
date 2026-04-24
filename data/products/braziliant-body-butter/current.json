@@ -1,0 +1,101 @@
+{
+  "slug": "braziliant-body-butter",
+  "url": "https://www.lush.com/us/en_us/p/braziliant-body-butter",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/braziliant-body-butter",
+  "title": "Braziliant",
+  "sku": "63164-NA",
+  "size": "225g",
+  "price": {
+    "amount": 32.0,
+    "currency": "USD",
+    "formatted": "$32.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "With nourishing cocoa and avocado, this is a body butter for dry skin which is extremely softening. Providing all the hydration, without the grease (or hassle).",
+  "ingredients": [
+    "Aqua (Water)",
+    "Bertholletia Excelsa Seed Oil (Organic Brazil Nut Oil)",
+    "Glycerin",
+    "Astrocaryum Murumuru Seed Butter (Murumuru Butter)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Propylene Glycol",
+    "Stearic Acid",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Triethanolamine",
+    "Sweet Orange Oil",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Fair Trade Organic Aloe Vera Gel",
+    "Cetearyl Alcohol",
+    "Alpha-Isomethyl Ionone",
+    "Amyl Cinnamal",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "Eugenol",
+    "*Farnesol",
+    "Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_ecom_2024_84e4a74b_thumbnail_4096.png",
+      "alt": "Braziliant. A neatly smudged swatch of thick, creamy ivory-coloured body butter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_ecom_2024_84e4a74b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_1_e0719ef2_thumbnail_4096.jpg",
+      "alt": "A close-up shot of the model's hands. One hand is holding the flat round, white, LUSH Version-themed packed tub of Braziliant body butter. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_1_e0719ef2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_4_dc52b594_thumbnail_4096.jpg",
+      "alt": "The image shows a topless model on a teal background. They are gently soothing the Braziliant body butter in circular motions over their chest and upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_4_dc52b594_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_7_388a4647_thumbnail_4096.jpg",
+      "alt": "The image shows a topless model on a teal background. They are gently soothing the Braziliant body butter in circular motions over their chest and upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_7_388a4647_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_8_c0aa6092_thumbnail_4096.jpg",
+      "alt": "The image shows a topless model on a teal background. They are gently soothing the Braziliant body butter in circular motions over their chest and upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brazilian_body_butter_lush_version_hero_2024_8_c0aa6092_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Citrus",
+    "Body Lotions",
+    "The Lush Version",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Self-Preserving Skincare",
+    "Customised Lush Gifts",
+    "Summer Body Care",
+    "Summer Essentials",
+    "Rewild your routine",
+    "Skin Care for Cold Weather"
+  ]
+}

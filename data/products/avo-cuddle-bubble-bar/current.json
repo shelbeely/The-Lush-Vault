@@ -1,0 +1,102 @@
+{
+  "slug": "avo-cuddle-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/avo-cuddle-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/avo-cuddle-bubble-bar",
+  "title": "Avo Cuddle",
+  "sku": "271-NA",
+  "size": "145g",
+  "price": {
+    "amount": 12.0,
+    "currency": "USD",
+    "formatted": "$12.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Sink into a comforting bubble bath this Mother's Day with our bestselling Avobath scent.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Zea Mays Starch (Cornstarch)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Titanium Dioxide",
+    "Glycerin",
+    "Aqua (Water)",
+    "Astragalus Gummifer Gum (Tragacanth Gum)",
+    "Alcohol Denat.",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Yellow 10",
+    "Iron Oxides",
+    "Green 8",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_2024_9770cb67_thumbnail_4096.png",
+      "alt": "Avo Cuddle. A bright green, off-oval, avocado-shaped bubble bar complete with a heart-shaped stone and a smile. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_2024_9770cb67_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_avo_cuddle_bubble_bar_mothers_day_lush_2026_14_bd9c7ce5_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_avo_cuddle_bubble_bar_mothers_day_lush_2026_14_bd9c7ce5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_14_9aec97b3_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model reaching in from the right-hand side holding the green Avo Cuddle bubble bar above the bath water with running tap water behind it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_14_9aec97b3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_avo_cuddle_bubble_bar_mothers_day_2026_09_1_0449a9ab_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_avo_cuddle_bubble_bar_mothers_day_2026_09_1_0449a9ab_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_10_0f186eb2_thumbnail_4096.jpg",
+      "alt": "The image shows the model's hand crumbling the Avo Cuddle green bubble bar while holding it under running tap water as it creates fresh, green water below with a layer of thick bubbles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_10_0f186eb2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_03_b8482169_thumbnail_4096.jpg",
+      "alt": "An aerial image of the bath water after using the Avo Cuddle Mother's Day bubble bar. The water has been turned a refreshing, lime-green colour and there is a layer of thick, white bubbles on the surface. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avo_cuddle_bubble_bar_mothers_day_2025_03_b8482169_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Citrus",
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Products",
+    "Bubble Bath Bars",
+    "New Products",
+    "Mother’s Day",
+    "Gifts for Mum",
+    "Gifts for Kids & Teens",
+    "Gifts Under $25"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "chirpy-chick-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/chirpy-chick-bath-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/chirpy-chick-bath-bomb",
+  "title": "Chirpy Chick ",
+  "sku": "64864-UN",
+  "size": "200g",
+  "price": {
+    "amount": 5.5,
+    "currency": "GBP",
+    "formatted": "5.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Chick-shaped bath bombs for Easter? Groundbreaking. Seriously, one half has zesty mandarin and orange oil, the other strawberry-scents and softening coconut milk powder.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Cocos Nucifera Fruit Powder (Coconut Milk Powder)",
+    "Gelidium Cartilagineum Extract (Agar Agar)",
+    "Zea Mays Starch (Cornstarch)",
+    "Perfume",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Brazilian Orange Oil",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Sicilian Mandarin Oil",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Cocamidopropyl Betaine",
+    "Sodium Coco-Sulfate",
+    "Propylene Glycol",
+    "Dipropylene Glycol",
+    "Amyl Cinnamal",
+    "Benzyl Alcohol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 47005:1",
+    "Colour 14700",
+    "Colour 45410:1"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_ecom_2026_3d636c92_thumbnail_4096.png",
+      "alt": "A yellow and pink Chirpy Chick bath bomb stands against a plain grey background. The top half is a yellow chick head with carved eyes and a beak, while the bottom half is a round pink body with wing and feet details.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_ecom_2026_3d636c92_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_chirpy_chick_bath_bomb_easter_hero_2026_1_5f64cc74_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_chirpy_chick_bath_bomb_easter_hero_2026_1_5f64cc74_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_22_26701ce9_thumbnail_4096.jpg",
+      "alt": "A yellow and pink Chirpy Chick bath bomb is held by two hands over vibrant pink bathwater with frothy bubbles. The bath bomb has a yellow chick head with wide eyes and a pink bird-shaped body.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_22_26701ce9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_25_e447b2c5_thumbnail_4096.jpg",
+      "alt": "The Chirpy Chick bath bomb dissolves in bathwater, creating a vibrant landscape of thick pink and yellow foam. The yellow chick face is still visible amidst the bubbling, colorful swirls. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_25_e447b2c5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_31_028d3fa3_thumbnail_4096.jpg",
+      "alt": "The Chirpy Chick bath bomb dissolves into a sea of vibrant pink water, releasing a trail of thick yellow foam across the surface. The colors swirl together to create a bright, marbled pattern of pink, orange, and yellow.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chirpy_chick_bath_bomb_easter_hero_2026_31_028d3fa3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath Products",
+    "Vegan",
+    "Vegan Bath Products",
+    "Easter",
+    "Bath Bombs",
+    "Fruity ",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Beauty Gifts Under £10",
+    "Gifts for Kids & Teens",
+    "Fresh & Playful",
+    "Leaving Soon"
+  ]
+}

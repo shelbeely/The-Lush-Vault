@@ -1,0 +1,84 @@
+{
+  "slug": "barbie-dream-body-scrub",
+  "url": "https://www.lush.com/us/en_us/p/barbie-dream-body-scrub",
+  "sourceUrl": "https://www.lush.com/au/en/p/barbie-dream-body-scrub",
+  "title": "Barbie Dream",
+  "sku": "62163-AU",
+  "size": "135g",
+  "price": {
+    "amount": 20.0,
+    "currency": "AUD",
+    "formatted": "20.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "au"
+  },
+  "description": "Exfoliate with swirls of sugar, moisturising butters and brightening citrus oils to make skin feel unreal. ",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Sodium Laureth Sulfate",
+    "Sodium Cocoamphoacetate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Parfum",
+    "Organic Almond Oil",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Persian Lime Oil",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Ruby Cocoa Liquor",
+    "Titanium Dioxide",
+    "Lactic Acid",
+    " Talc (Talc Powder)",
+    "Lauryl Betaine",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 45410:2",
+    "Colour 77491",
+    "Colour 77499"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/barbie_dream_sugar_scrub_2023_c4e53fe8_thumbnail_4096.png",
+      "alt": "A circular swatch of the Barbie Dream sugar scrub which is pretty, gritty swirls of pink and white. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/barbie_dream_sugar_scrub_2023_c4e53fe8_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-26_f8c8c94b_thumbnail_4096.jpg",
+      "alt": "Model is in a pink shower, scooping out the Barbie Dream product from a pink LUSH \"bring it back\" pot as the water runs behind.\n",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-26_f8c8c94b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-29_32e6e98b_thumbnail_4096.jpg",
+      "alt": "Model is stood under a running shower in a pink swimming costume. They are exfoliating the body scrub over their arm.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-29_32e6e98b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-31_a67209c9_thumbnail_4096.jpg",
+      "alt": "Close-up of model's arm under running shower water as the model exfoliates the Barbie Dream body scrub over their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Barbie_x_lush_barbie_dream_sugar_scrub_heros_2023-31_a67209c9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "LUSH × BARBIE"
+  ]
+}

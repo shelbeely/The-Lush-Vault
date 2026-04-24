@@ -1,0 +1,51 @@
+{
+  "slug": "crush-gift",
+  "url": "https://www.lush.com/us/en_us/p/crush-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/crush-gift",
+  "title": "Crush",
+  "sku": "64426-NA",
+  "size": "Each",
+  "price": {
+    "amount": 48.0,
+    "currency": "USD",
+    "formatted": "$48.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "We think we have a crush on this shower and body care gift … But with gorgeous raspberry-rose delights to hydrate and scent the skin, how could you not?",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crush_gift_AYR_ecom_2025_eb9b7dfb_thumbnail_4096.png",
+      "alt": "A LUSH Crush gift set featuring a brightly colored box with pink roses, next to three small black and white bottles: \"Rascal\" exfoliating shower gel, \"Rebel\" body lotion, and \"Brat\" body spray.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crush_gift_AYR_ecom_2025_eb9b7dfb_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crush_gift_lush_landscape_2025_01_a8a74623_thumbnail_4096.jpg",
+      "alt": "A LUSH Crush gift set displayed on bright blue risers against a matching blue backdrop. The set includes a pink rose-patterned \"CRUSH\" box, \"Rebel\" body lotion, \"Rascal\" shower gel, and \"Brat\" body spray.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crush_gift_lush_landscape_2025_01_a8a74623_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Vegan",
+    "Gifts",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion"
+  ]
+}

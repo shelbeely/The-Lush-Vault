@@ -1,0 +1,68 @@
+{
+  "slug": "flamingo-fun",
+  "url": "https://www.lush.com/us/en_us/p/flamingo-fun",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/flamingo-fun",
+  "title": "Flamingo",
+  "sku": "9797-NA",
+  "size": "100g",
+  "price": {
+    "amount": 8.5,
+    "currency": "USD",
+    "formatted": "$8.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 37,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This hot pink pick me up is packed with a sweet cocktail of rosewood, bergamot and ylang ylang so that you can flamin-go about your day smelling delightful.",
+  "ingredients": [
+    "Zea Mays Starch (Cornstarch)",
+    "Glycerin",
+    "Synthetic Fluorphlogopite",
+    "Sodium Laureth Sulfate",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Aqua (Water)",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Red 28"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Flamingo-Fun-PDP-02_Digital_Adrian_908x908_22014048_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Flamingo-Fun-PDP-02_Digital_Adrian_908x908_22014048_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Flamingo-Fun-Hero-04_Digital_-2024-PDP_Hero_I_27acebb3_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Flamingo-Fun-Hero-04_Digital_-2024-PDP_Hero_I_27acebb3_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Neon-Flamingo-Fun-Hero-02_Digital_-2024-PDP_H_57b6d234_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Neon-Flamingo-Fun-Hero-02_Digital_-2024-PDP_H_57b6d234_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Fun",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Shower Products",
+    "Fun"
+  ]
+}

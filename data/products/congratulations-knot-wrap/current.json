@@ -1,0 +1,55 @@
+{
+  "slug": "congratulations-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/congratulations-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/congratulations-knot-wrap",
+  "title": "Congratulations Knot Wrap",
+  "sku": "215318-NA",
+  "size": "70 cm x 70 cm",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 13,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This re-usable, recycled plastic gift wrap is perfect for wrapping your favourite Lush products and celebrating all kinds of special occasions!",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [
+    "Size: Medium - 70cm",
+    "Pattern: Typographic",
+    "Pattern: Geometric"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/congratulations_knot_wrap_ecom_2023_547a3dcd_thumbnail_4096.png",
+      "alt": "Congratulations. This knot wrap shows 16 squares, spelling out \"Congratulations\"  featuring the word in other languages.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/congratulations_knot_wrap_ecom_2023_547a3dcd_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/congratulations_AYR_knot_wrap_hero_2023_1_b1652706_thumbnail_4096.jpg",
+      "alt": "A close-up of a gift wrapped neatly in the Congratulations knot wrap. Pops of colour and the word written in other languages.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/congratulations_AYR_knot_wrap_hero_2023_1_b1652706_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/congratulations_knot_wrap_hero_2023-5_9db91dae_thumbnail_4096.jpg",
+      "alt": "Image shows a super close-up of the Congratulations knot wrap. There is a large pink letter \"A\" surrounded by lightning bolts.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/congratulations_knot_wrap_hero_2023-5_9db91dae_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps"
+  ]
+}

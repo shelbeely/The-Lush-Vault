@@ -1,0 +1,47 @@
+{
+  "slug": "blooming-spring-gift",
+  "url": "https://www.lush.com/us/en_us/p/blooming-spring-gift",
+  "sourceUrl": "https://www.lush.com/uk/en/p/blooming-spring-gift",
+  "title": "Blooming Spring",
+  "sku": "64755-UK",
+  "size": "Each",
+  "price": {
+    "amount": 25.0,
+    "currency": "GBP",
+    "formatted": "25.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Get swept up in spring and give them a bath and bodycare gift with products to scrub, soak and soften inspired by flowering cherry blossom trees and watch love bloom.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_spring_gift_white_day_ecom_2026_2b289e97_thumbnail_4096.png",
+      "alt": "Blooming Spring gift. A wrapped, graphic pink box with a red \"Blooming Spring\" tag, a blue pot of blue body scrub, a pink bath bomb, a \"Smitten\" hand cream tin, and a pink soap with a gold butterfly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_spring_gift_white_day_ecom_2026_2b289e97_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_spring_gift_white_day_2026_16_39a62596_thumbnail_4096.jpg",
+      "alt": "The image shows a gift set featuring a wrapped pink box with a \"Blooming Spring\" tag, a bath bomb, a small tin, a circular soap, and a pot of body scrub. All items are arranged on pink podiums with blossom branches against a blue backdrop.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_spring_gift_white_day_2026_16_39a62596_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "White Day",
+    "Gifts",
+    "Bath & Body Gifts"
+  ]
+}

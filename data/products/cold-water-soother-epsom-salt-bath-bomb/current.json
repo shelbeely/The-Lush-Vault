@@ -1,0 +1,89 @@
+{
+  "slug": "cold-water-soother-epsom-salt-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/cold-water-soother-epsom-salt-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cold-water-soother-epsom-salt-bath-bomb",
+  "title": "Cold Water Soother",
+  "sku": "4180-NA",
+  "size": "170g",
+  "price": {
+    "amount": 8.5,
+    "currency": "USD",
+    "formatted": "$8.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Inhale the reviving aroma of eucalyptus, cypress and patchouli, while magnesium-rich Epsom salts create soft and soothing waters for tired bodies.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Magnesium Sulfate (Epsom Salts)",
+    "Extra Fine Salt",
+    "Citric Acid",
+    "Cedarleaf Oil",
+    "Cupressus Sempervirens Oil (Cypress Oil)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Dark Sumatran Patchouli Oil",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Geosmin",
+    "Dipropylene Glycol",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Tin Oxide",
+    "*Citral",
+    "*Limonene",
+    "Parfum",
+    "Yellow 6 Lake",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cold_water_soother_wbbd_bath_bomb_ecom_2024_7164f80a_thumbnail_4096.png",
+      "alt": "Cold Water Soother. A rounded, cube-shaped bath bomb with a lower diagonal half of crisp white and the top is a peachy-orange colour. There are visible flecks of Epsom salt throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cold_water_soother_wbbd_bath_bomb_ecom_2024_7164f80a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_cold_water_soother_bath_bomb_wbbd_hero_2026_4_1_86f6be1d_thumbnail_4096.jpg",
+      "alt": "The Cold Water Soother bath bomb sits on a plain, light gray background. The spherical product is primarily a pale, icy blue with a marbled, textured surface featuring subtle white and yellow highlights.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_cold_water_soother_bath_bomb_wbbd_hero_2026_4_1_86f6be1d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cold_water_soother_bath_bomb_wbbd_hero_2026_10_253a0b65_thumbnail_4096.jpg",
+      "alt": "The Cold Water Soother bath bomb dissolves on the surface, releasing white, frothy foam and vibrant swirls that ripple across the water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cold_water_soother_bath_bomb_wbbd_hero_2026_10_253a0b65_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_cold_water_soother_bath_bomb_wbbd_hero_2026_12_752ed7f6_thumbnail_4096.jpg",
+      "alt": "An aerial view of the Cold Water Soother bath bomb dissolving. The product creates a thick layer of white velvety foam that ripples and swirls across the surface of yellow water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_cold_water_soother_bath_bomb_wbbd_hero_2026_12_752ed7f6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Products",
+    "Bath Bombs",
+    "Muscle Recovery",
+    "Cooling",
+    "Summer Essentials",
+    "Customised Lush Gifts",
+    "Calming & Relaxing",
+    "Woody & Grounding",
+    "Sporty Soaperstar Gifts"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "dark-angels-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/dark-angels-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dark-angels-cleanser",
+  "title": "Dark Angels",
+  "sku": "62530-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 44,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This charcoal facial cleanser is one hell of a facial polishing paste, buffering skin with black sugar, while rosewood oils provide a cooling effect. ",
+  "ingredients": [
+    "Silt (Rhassoul Mud)",
+    "Cold Pressed Organic Avocado Oil",
+    "Glycerin",
+    "Charcoal Powder (Powdered Charcoal)",
+    "Sodium Lauroyl Sarcosinate",
+    "Sugar",
+    "Parfum",
+    "*Linalool",
+    "Sandalwood Oil",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_fresh_cleanser_thumbnail_4096.png",
+      "alt": "A sample of Dark Angels - a black, textured, loose fresh cleanser.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_fresh_cleanser_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_cleanser_2024_04_f8d3d336_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_cleanser_2024_04_f8d3d336_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_cleanser_2024_11_cd2a2677_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dark_angels_cleanser_2024_11_cd2a2677_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Cleansers",
+    "Skincare",
+    "Brightening Dull Skin",
+    "Vegan Skincare",
+    "Vegan",
+    "Self-Preserving Skincare",
+    "Face Scrubs & Exfoliators",
+    "Skincare Routines",
+    "Super Powered Ingredients",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Fresh",
+    "For the Nature-Lover"
+  ]
+}

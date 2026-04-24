@@ -1,0 +1,84 @@
+{
+  "slug": "alina-perfume",
+  "url": "https://www.lush.com/us/en_us/p/alina-perfume",
+  "title": "Alina",
+  "sku": "62528-NA",
+  "size": "30ml",
+  "price": {
+    "amount": 65.0,
+    "currency": "USD",
+    "formatted": "$65.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 6,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Spicy pink pepper, powdery orris, and cosy vanilla blend for a clean, complex, and timeless scent.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "*Limonene",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Olibanum (Olibanum Resinoid)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Pink Pepper Oil",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Orris Oil ",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "Coumarin",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alina_perfume_24_af51638b_thumbnail_4096.png",
+      "alt": "Alina. A tall, rectangle, glass bottle with a black cap top and a Lush sticker saying \"Alina\" on the front.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alina_perfume_24_af51638b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Alina_perfume_hero_mothers_day_2024-3_4748847d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Alina_perfume_hero_mothers_day_2024-3_4748847d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Alina_perfume_hero_mothers_day_2024-2_d461fb86_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Alina_perfume_hero_mothers_day_2024-2_d461fb86_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Perfumes",
+    "Fragrances",
+    "Vegan Perfume",
+    "Spicy",
+    "Jasmine",
+    "Autumn & Winter Fragrances"
+  ]
+}

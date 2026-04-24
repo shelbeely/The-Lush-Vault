@@ -1,0 +1,102 @@
+{
+  "slug": "dragons-egg-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/dragons-egg-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dragons-egg-bath-bomb",
+  "title": "Dragon's Egg",
+  "sku": "5022-NA",
+  "size": "190g",
+  "price": {
+    "amount": 7.5,
+    "currency": "USD",
+    "formatted": "$7.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Release this bomb into warm water to hatch a fire-breather of your own and watch golden flames shoot across your bath.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Parfum",
+    "Isomalt (Popping Candy)",
+    "Lemon Oil",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Aqua (Water)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Sodium Laureth Sulfate",
+    "Propylene Glycol",
+    "Lauryl Betaine",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "Red 33",
+    "Red 4",
+    "Red 27",
+    "Orange 4",
+    "Synthetic Fluorphlogopite",
+    "Iron Oxides",
+    "Titanium Dioxide",
+    "Tin Oxide",
+    "Silica",
+    "May Contain:",
+    "Blue 1",
+    "Yellow 5",
+    "Wafer Paper"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dragons_egg_bath_bomb_2026__59628739_thumbnail_4096.png",
+      "alt": "Dragon's Egg. A spherical, pale off-white bath bomb with a flat, geometric base. It has small, colourful spots of blue and green peeking through the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dragons_egg_bath_bomb_2026__59628739_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_dragons_egg_bath_bomb_wbbd_hero_2026_7_120ce90a_thumbnail_4096.jpg",
+      "alt": "A model's hand holds a spherical, off-white \"Dragon's Egg\" bath bomb with small slivers of colour over a tub of swirling orange bathwater. The water is frothy with many small bubbles on the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_dragons_egg_bath_bomb_wbbd_hero_2026_7_120ce90a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_dragons_egg_bath_bomb_wbbd_hero_2026_10_80199c7b_thumbnail_4096.jpg",
+      "alt": "An aerial view of the \"Dragon's Egg\" bath bomb with a small green accent dissolving in vibrant orange water. It is surrounded by a ring of frothy white bubbles and swirling, marbled patterns across the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_dragons_egg_bath_bomb_wbbd_hero_2026_10_80199c7b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_dragons_egg_bath_bomb_wbbd_hero_2026_16_65082d32_thumbnail_4096.jpg",
+      "alt": "An aerial view of a \"Dragon'/s Egg\" bath bomb dissolving in orange-tinted water. Bright green, blue, and orange foam swirls outwards, mixing with white frothy bubbles to create a marbled, abstract pattern across the surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_dragons_egg_bath_bomb_wbbd_hero_2026_16_65082d32_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Vegan",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Plastic Free",
+    "LUSH × SHREK",
+    "Citrus",
+    "LUSH x ONE PIECE",
+    "Jasmine",
+    "Customised Lush Gifts",
+    "Fresh & Playful",
+    "Fruity & Imaginative",
+    "Citrus & Uplifting",
+    "Easter"
+  ]
+}

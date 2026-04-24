@@ -1,0 +1,92 @@
+{
+  "slug": "bananas-for-you-bubbleroon-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/bananas-for-you-bubbleroon-bubble-bar",
+  "sourceUrl": "https://www.lush.com/uk/en/p/bananas-for-you-bubbleroon-bubble-bar",
+  "title": "Bananas For You Bubbleroon",
+  "sku": "64636-UN",
+  "size": "130g",
+  "price": {
+    "amount": 9.0,
+    "currency": "GBP",
+    "formatted": "9.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Grab this banana-shaped bubble bar this Valentine’s Day, as labdanum resinoid serves up a warm, banana scent in a comforting cocoa and shea butter bubble bath.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Parfum",
+    "Hexyl Cinnamal",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Musa Paradisiaca Fruit (Fresh Banana)",
+    "Glycerin",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Astragalus Gummifer Gum (Tragacanth Gum)",
+    "Laureth 4",
+    "Alcohol Denat.",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Colour 47005",
+    "Colour 19140",
+    "Colour 45410:2",
+    "Colour 77491"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bananas_for_you_bubbleroon_valentines_ecom_2026_0b7083ce_thumbnail_4096.png",
+      "alt": "Bananas For You. A yellow, banana-shaped bubbleroon bubble bar. The product features a simple smiley face with heart eyes and a curved smile. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bananas_for_you_bubbleroon_valentines_ecom_2026_0b7083ce_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_bananas_for_you_bubbleroon_portrait_valentines_2026_ec1656ca_thumbnail_409.jpg",
+      "alt": "The image shows a yellow, banana-shaped bubble bar with a smiley face consisting of pink heart eyes and a curved mouth. The product sits on a pink podium on a pink fabric background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_bananas_for_you_bubbleroon_portrait_valentines_2026_ec1656ca_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_bananas_for_you_bubbleroon_hero_valentines_2026_30_3dd8b5d8_thumbnail_4096.jpg",
+      "alt": "The image shows two hands crumbling the banana-shaped bubble bar under a stream of running water. The water splashes against the bar, creating pale yellow bubbles and foam in the bath below.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_bananas_for_you_bubbleroon_hero_valentines_2026_30_3dd8b5d8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_bananas_for_you_bubbleroon_hero_valentines_2026_31_82dfd8e7_thumbnail_4096.jpg",
+      "alt": "A close-up, aerial view of a thick layer of pale yellow bubbles and foam covering the surface of the bathwater, created by the Bananas For You bubbleroon bubble bar. The bubbles vary in size, creating a dense, frothy texture with soft yellow hues.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_bananas_for_you_bubbleroon_hero_valentines_2026_31_82dfd8e7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_bananas_for_you_bubbleroon_hero_valentines_2026_20_f2e8f263_thumbnail_4096.jpg",
+      "alt": "The image shows a hand holding the banana-shaped bubble bar under a stream of running water. The water splashes against the bar, creating pale yellow bubbles and foam in the bath below.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_bananas_for_you_bubbleroon_hero_valentines_2026_20_f2e8f263_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Vegan Bath Products",
+    "Valentine’s Day Gift Ideas",
+    "Fruity ",
+    "Self-care Valentine's",
+    "Valentine's Bestie Baskets  ",
+    "Leaving Soon"
+  ]
+}

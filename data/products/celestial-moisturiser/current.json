@@ -1,0 +1,102 @@
+{
+  "slug": "celestial-moisturiser",
+  "url": "https://www.lush.com/us/en_us/p/celestial-moisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/celestial-moisturiser",
+  "title": "Celestial",
+  "sku": "407-NA",
+  "size": "45g",
+  "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "formatted": "$33.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A simple and soothing natural face moisturiser made for dry and sensitive skin, with almond oil to keep stressed skin feeling relaxed and hydrated. ",
+  "ingredients": [
+    "Vanilla Water",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Almond Milk",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Vanilla Pod Extract",
+    "Stearic Acid",
+    "Cetearyl Alcohol",
+    "Triethanolamine",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_2020_thumbnail_4096.png",
+      "alt": "A swatch of smooth, light, orchid white Celestial facial moisturiser.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_04_Quiz_desktop_720x_006e666e_thumbnail_4.jpg",
+      "alt": "A close-up of a person with green dyed hair, eyes closed in relaxation, gently massaging the moisturizer into their temples and cheeks against a warm beige background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_04_Quiz_desktop_720x_006e666e_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_03_Quiz_desktop_720x_c87a8b01_thumbnail_4.jpg",
+      "alt": "A close-up of a person with dark hair and a green dyed fringe gently touching their cheeks. Their skin looks smooth and moisturized, set against a warm, plain beige background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_03_Quiz_desktop_720x_c87a8b01_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_01_Quiz_desktop_720x_71d73ce6_thumbnail_4.jpg",
+      "alt": "A close-up of a person with dark hair and a green dyed fringe gently touching their cheeks with both hands. Their skin looks smooth and moisturized, set against a warm, plain beige background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FACE-SP-CELESTIAL-MOISTURIZER-HERO_01_Quiz_desktop_720x_71d73ce6_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_lush_2025_5_8511c16b_thumbnail_4096.jpg",
+      "alt": "A vertical, extreme close-up of thick, white cream, likely the Celestial Moisturiser, showing several smooth, diagonal, wavelike ridges of product with subtle shadows.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celestial_moisturiser_lush_2025_5_8511c16b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celestial_preserved_moisturiser_texture_2025_c59ce13d_thumbnail_4096.jpg",
+      "alt": "A close-up vertical shot of thick, creamy white product, likely the Celestial Moisturiser, showing several textured, undulating waves and ridges.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celestial_preserved_moisturiser_texture_2025_c59ce13d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Cult Classics",
+    "Calming Skin Redness",
+    "Best for a calm face",
+    "Skincare Routines",
+    "Skincare",
+    "Vegan",
+    "Moisturisers",
+    "Vegan Skincare",
+    "Winter Cosmetics",
+    "Bestsellers",
+    "Skin Care for Cold Weather",
+    "Discover bestselling goodies",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Gifts for Mum",
+    "Cocoa Butter Collection",
+    "For the Life and Soul",
+    "Ways to Shop",
+    "Sensitive skin",
+    "Supporting Skin Barrier",
+    "Vanilla",
+    "Skincare By Needs",
+    "Teen skin",
+    "Bring it Back "
+  ]
+}

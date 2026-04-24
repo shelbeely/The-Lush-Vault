@@ -1,0 +1,88 @@
+{
+  "slug": "coco-loco-shower-oil",
+  "url": "https://www.lush.com/us/en_us/p/coco-loco-shower-oil",
+  "sourceUrl": "https://www.lush.com/uk/en/p/coco-loco-shower-oil",
+  "title": "Coco Loco",
+  "sku": "8127-UN",
+  "size": "50g",
+  "price": {
+    "amount": 6.5,
+    "currency": "GBP",
+    "formatted": "6.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Come on, don’t be coconut shy, this sumptuously softening shower oil is just what you need when the world is feeling a little bit coco-nuts and a moment of calm is on the cards. ",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cocos Nucifera Oil (Organic Extra Virgin Coconut Oil)",
+    "Cocamidopropyl Betaine",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Coconut Flour",
+    "Parfum",
+    "Cocos Nucifera Fruit Extract (Coconut Cream)",
+    "Brazilian Orange Oil",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Titanium Dioxide",
+    "Theobroma Cacao Seed Powder (Fair Trade Cocoa Powder)",
+    "Benzyl Alcohol",
+    "*Citral",
+    "Coumarin",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coco_loco_shower_oil_2020_e77febb0_thumbnail_4096.png",
+      "alt": "Coco Loco. A cream coloured, teardrop shaped solid shower oil, complete with 3 brown dots in the middle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coco_loco_shower_oil_2020_e77febb0_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/New-Routines-Item-31-Square_01_d9009148_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/New-Routines-Item-31-Square_01_d9009148_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/New-Routines-Item-26-Square_01_f0fae545_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/New-Routines-Item-26-Square_01_f0fae545_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coco_loco_shower_oil_2019_01_c05cdc61_thumbnail_4096.jpg",
+      "alt": "Coco Loco, a cream coloured, teardrop shaped solid shower oil, is rubbed between two wet hands, activating the oil.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coco_loco_shower_oil_2019_01_c05cdc61_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Shower Products",
+    "Shower Oils & Moisturisers",
+    "Shower Products",
+    "Winter Bath & Shower Products",
+    "Winter Cosmetics",
+    "Plastic Free",
+    "Skin Care for Cold Weather",
+    "Sweet",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "For the Unconventional",
+    "Leaving Soon"
+  ]
+}

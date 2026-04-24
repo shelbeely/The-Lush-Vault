@@ -1,0 +1,87 @@
+{
+  "slug": "baby-rainbow-carrot-pink-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-pink-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/baby-rainbow-carrot-pink-bubble-bar",
+  "title": "Baby Rainbow Carrots",
+  "sku": "529-NA",
+  "size": "40g",
+  "price": {
+    "amount": 5.0,
+    "currency": "USD",
+    "formatted": "$5.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Paint the rainbow with the Easter Bunny's favourite crop! Choose from three colours with a zesty bergamot and lemon scent that is oh so a-peel-ing.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Sodium Laureth Sulfate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Barosma Betulina Leaf Oil (Buchu Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Carrot Powder",
+    "Titanium Dioxide",
+    "*Limonene",
+    "*Linalool",
+    "Red 27",
+    "Red 28",
+    "Green Raffia"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pink_baby_rainbow_carrot_reusable_bubble_bar_2023_d54a10cb_thumbnail_4096.png",
+      "alt": "Baby Rainbow Carrot. A bubble bar shaped like a perfect pink carrot complete with green raffia leaves on top. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pink_baby_rainbow_carrot_reusable_bubble_bar_2023_d54a10cb_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_baby_rainbow_carrots_reusable_bubble_bar_pink_easter__ab3d9278_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_baby_rainbow_carrots_reusable_bubble_bar_pink_easter__ab3d9278_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_619a7003_thumbnail_4.jpg",
+      "alt": "A hand holds a bright pink, carrot-shaped bubble bar with green raffia stems under a stream of running water. The bar creates a pool of vibrant pink bathwater topped with a thick layer of frothy white bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_619a7003_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_9a00e781_thumbnail_4.jpg",
+      "alt": "A hand holds a bright pink, carrot-shaped bubble bar with green stems over a pool of vibrant pink bathwater. Thick white bubbles are beginning to form on the surface around the carrot as it dips into the water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_9a00e781_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_71e6dad1_thumbnail_4.jpg",
+      "alt": "A top-down view of vibrant pink bathwater with an island of thick, frothy white bubbles. Small clusters of foam drift across the clear pink surface, creating a soft, indulgent texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_pink_easter_her_71e6dad1_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bubble Bath Bars",
+    "Easter",
+    "Zesty",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Bath Products",
+    "Gifts for Kids & Teens",
+    "Leaving Soon"
+  ]
+}

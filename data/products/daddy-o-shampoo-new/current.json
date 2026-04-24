@@ -1,0 +1,94 @@
+{
+  "slug": "daddy-o-shampoo-new",
+  "url": "https://www.lush.com/us/en_us/p/daddy-o-shampoo-new",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/daddy-o-shampoo-new",
+  "title": "Daddy-O",
+  "sku": "2001-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 29,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "A perfect shampoo for blonde or grey hair, this violet-scented purple toning shampoo keeps hair healthy, whilst enhancing hair shine and neutralising brassiness!",
+  "ingredients": [
+    "Fresh Lemon and Bladderwrack Seaweed Infusion",
+    "Sodium Lauryl Sulfate",
+    "Sodium Laureth Sulfate",
+    "Sea Water",
+    "Parfum",
+    "Cocamide MEA",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Glycol Stearate",
+    "Alpha-Isomethyl Ionone",
+    "Violet Leaf Absolute",
+    "Pakistani Rose Absolute",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Cananga Oil",
+    "Citrus Aurantifolia Juice (Fresh Lime Juice)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Benzyl Alcohol",
+    "Coumarin",
+    "Hexyl Cinnamal",
+    "Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Ext. Violet 2",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/daddy_o_shampoo_2022_41063f38_thumbnail_4096.png",
+      "alt": "A sample of vibrant, deep purple, Daddy-O shampoo, swirled with tiny bubbles dotted throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/daddy_o_shampoo_2022_41063f38_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_2000x1364_stories_2022_ba013280_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_2000x1364_stories_2022_ba013280_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_hero_2000x1364_2022_fb79e076_thumbnail_4096.jpg",
+      "alt": "Someone massages vibrant purple Daddy-O shampoo into the back of their head, creating a mass of lilac coloured bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_hero_2000x1364_2022_fb79e076_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_after_2000x1364_20222_92d11f39_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/daddy-o_shampoo_after_2000x1364_20222_92d11f39_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Shampoo",
+    "Keep Clean",
+    "Floral",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "Shop Haircare By Benefit",
+    "Volumizing Haircare",
+    "Soften & Shine Haircare",
+    "Spring Haircare"
+  ]
+}

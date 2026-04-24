@@ -1,0 +1,53 @@
+{
+  "slug": "comfort-and-joy",
+  "url": "https://www.lush.com/us/en_us/p/comfort-and-joy",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/comfort-and-joy",
+  "title": "Comfort And Joy",
+  "sku": "RS62932-NA",
+  "size": "Each",
+  "price": {
+    "amount": 4.5,
+    "currency": "USD",
+    "formatted": "$4.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 32,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Wrap up to seven products in this Christmas hatbox to bring tidings of comfort and joy.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_PDP_6c9377c1_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_PDP_6c9377c1_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_top_PDP_4304172a_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_top_PDP_4304172a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_angle_PDP_130c9754_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_angle_PDP_130c9754_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_PDP_2de49e5c_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Comfort-And-Joy_side_PDP_2de49e5c_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Christmas"
+  ]
+}

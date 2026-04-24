@@ -1,0 +1,71 @@
+{
+  "slug": "charisma-skin-tint",
+  "url": "https://www.lush.com/us/en_us/p/charisma-skin-tint",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/charisma-skin-tint",
+  "title": "Charisma",
+  "sku": "6357-NA",
+  "size": "20g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Smudge a little Charisma along your cheekbones in addition to your usual foundation or colour supplement for a warm undertone, or use on its own to brighten up your look.",
+  "ingredients": [
+    "Avena Sativa Kernel Extract (Oatmeal Extract)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Orange Flower Water",
+    "Propylene Glycol",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Synthetic Fluorphlogopite",
+    "Triethanolamine",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Titanium Dioxide",
+    "Tincture of Benzoin",
+    "Alcohol Denat.",
+    "Cetearyl Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/charisma_skin_tint_2020_thumbnail_4096.png",
+      "alt": "A swatch of slightly shimmery, rosy-bronze Charisma skin tint.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/charisma_skin_tint_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3707_1_thumbnail_4096.jpeg",
+      "alt": "Charisma, a slightly shimmery, rosy-bronze skin tint, is lightly applied to the skin with an index finger.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3707_1_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Skin Tints and Face Powders",
+    "Vegan Makeup",
+    "Makeup",
+    "Travel-size Essentials",
+    "Lush Living Room "
+  ]
+}

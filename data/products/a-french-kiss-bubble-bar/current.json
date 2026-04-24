@@ -1,0 +1,83 @@
+{
+  "slug": "a-french-kiss-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/a-french-kiss-bubble-bar",
+  "sourceUrl": "https://www.lush.com/uk/en/p/a-french-kiss-bubble-bar",
+  "title": "A French Kiss",
+  "sku": "2189-UN",
+  "size": "100g",
+  "price": {
+    "amount": 9.0,
+    "currency": "GBP",
+    "formatted": "9.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Treat your skin to the soft herbal kisses of this fresh rosemary and lavender bubble bath",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Parfum",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Thymus Zygis Oil (Thyme Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "*Coumarin",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 17200",
+    "Colour 42090",
+    "Lavender Sprig"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/french_kiss_bubble_bar_2023_94fe0462_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/french_kiss_bubble_bar_2023_94fe0462_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-03_18565822_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-03_18565822_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-05_8661570b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-05_8661570b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-04_bccc21c4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Remind-2024-French-Kiss-Bubble-Bar-Hero-04_bccc21c4_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Bubble Bath Bars",
+    "Vegan Bath Products",
+    "Lavender",
+    "Bath Products",
+    "Sleep Tight",
+    "Customised Lush Gifts",
+    "For the Dreamer",
+    "For the Unconventional"
+  ]
+}

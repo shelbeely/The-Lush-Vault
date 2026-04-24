@@ -1,0 +1,85 @@
+{
+  "slug": "elsie-the-giraffe-reusable-bubble-bath",
+  "url": "https://www.lush.com/us/en_us/p/elsie-the-giraffe-reusable-bubble-bath",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/elsie-the-giraffe-reusable-bubble-bath",
+  "title": "Elsie The Giraffe",
+  "sku": "4441-NA",
+  "size": "75g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "If you're up to your neck in it, get up to your neck in this instead! Floral, woody scents gallop across the sunshine-yellow bubble bath water and leave you feeling scrumdiddlyumptious.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "*Limonene",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Citrus Aurantium Amara Twig/Leaf Oil (Petitgrain Oil)",
+    "Titanium Dioxide",
+    "*Citral",
+    "*Geraniol",
+    "*Linalool",
+    "Parfum",
+    "Yellow 10 Lake",
+    "Yellow 8",
+    "Red 27"
+  ],
+  "badges": [
+    "Naked",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_bubble_wand_ecom_2024_041fcdf2_thumbnail_4096.png",
+      "alt": "Elsie The Giraffe. A colourful, bright yellow bubble bar in the shape of a giraffe's neck and head. There are embossed spots and a pink mouth. The bubble bar is attached to the top of a wooden stick. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_bubble_wand_ecom_2024_041fcdf2_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_2_5ce10d1b_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_2_5ce10d1b_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_5_8cdc8e8b_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_5_8cdc8e8b_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_1_3b160feb_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_1_3b160feb_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_1_b3a73001_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elsie_the_giraffe_brush_reusable_bubble_bar_hero_2024_1_b3a73001_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Products",
+    "Customised Lush Gifts",
+    "Bath Bombs and Bubble Bars for Kids"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "emotional-brilliance-finishing-powder",
+  "url": "https://www.lush.com/us/en_us/p/emotional-brilliance-finishing-powder",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/emotional-brilliance-finishing-powder",
+  "title": "Emotional Brilliance",
+  "sku": "63775-NA",
+  "size": "10g",
+  "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "formatted": "$24.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Ready, set, go! Push a little of this translucent face powder into your finished makeup look and soak up excess shine and oils without clogging up pores.",
+  "ingredients": [
+    "Synthetic Fluorphlogopite",
+    "Tapioca Starch (Tapioca Starch)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/emotional_brilliance_face_powder_2025_22b6af38_thumbnail_4096.png",
+      "alt": "An overhead close-up view of a small pile of pale pink, finely milled powder that appears slightly chunky and matte, centered on a light grey background. The product is Emotional Brilliance ~ Finishing Powder.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/emotional_brilliance_face_powder_2025_22b6af38_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_emotional_brilliance_finishing_powder_pack_hero_2025_938ec101_thumbnail_4.jpg",
+      "alt": "A partially open black pot of Emotional Brilliance ~ Finishing Powder is shown floating against a blue gradient background. A small pile of the pale pink powder is visible next to the pot's base. The black lid has white text identifying the product.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_emotional_brilliance_finishing_powder_pack_hero_2025_938ec101_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_emotional_brilliance_powder_lush_2025_01_360829a1_thumbnail_4096.jpg",
+      "alt": "A person with dark skin smiles, touching their face. They wear a subtle mauve-brown lip color and gold earrings, against a blue background, likely finished with Emotional Brilliance ~ Finishing Powder.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_emotional_brilliance_powder_lush_2025_01_360829a1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_emotional_brilliance_powder_lush_2025_03_e41dfed6_thumbnail_4096.jpg",
+      "alt": "A person with dark skin smiles widely, touching their cheek. They have a subtle shimmer and gold hoop earrings. The smooth finish on their skin suggests the Emotional Brilliance ~ Finishing Powder, against a bright blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_emotional_brilliance_powder_lush_2025_03_e41dfed6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_emotional_brilliance_powder_lush_2025_08_dd964243_thumbnail_4096.jpg",
+      "alt": "A person with dark skin smiles widely, holding the black pot of Emotional Brilliance ~ Finishing Powder over their left eye. They wear a white top and a gold hoop earring, against a bright blue background. The text on the pot is clearly visible.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_emotional_brilliance_powder_lush_2025_08_dd964243_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Makeup",
+    "Makeup"
+  ]
+}

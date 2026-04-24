@@ -1,0 +1,82 @@
+{
+  "slug": "crash-shower-jelly",
+  "url": "https://www.lush.com/us/en_us/p/crash-shower-jelly",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/crash-shower-jelly",
+  "title": "Crash ",
+  "sku": "9743-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 37,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Lather up with fresh orange juice and lime oil for washes that take the party to the next level.",
+  "ingredients": [
+    "Glycerin",
+    "Aqua (Water)",
+    "Sodium Laureth Sulfate",
+    "Propylene Glycol",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Sweet Orange Oil",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Vitis Vinifera Leaf Oil (Wine Lees Oil)",
+    "Citrus Aurantium Dulcis Juice (Fresh Orange Juice)",
+    "Titanium Dioxide",
+    "Lauryl Betaine",
+    "Citronellol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Green 8",
+    "Yellow 8"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crash_shower_jelly_ecom_2024_2caf8fc4_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crash_shower_jelly_ecom_2024_2caf8fc4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-08_e1319041_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-08_e1319041_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-03_b87da0f9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-03_b87da0f9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-02_12479f91_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-02_12479f91_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-05_7ded5d6d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Crash-Shower-Jelly-PDP-Hero-05_7ded5d6d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Shower Jellies",
+    "Shower Products",
+    "Vegan Shower Products"
+  ]
+}

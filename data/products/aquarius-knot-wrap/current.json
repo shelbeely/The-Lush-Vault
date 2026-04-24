@@ -1,0 +1,59 @@
+{
+  "slug": "aquarius-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/aquarius-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/aquarius-knot-wrap",
+  "title": "Aquarius Knot Wrap",
+  "sku": "218931-NA",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Wrap a birthday gift for your Aquarius friend with this reusable Knot Wrap featuring an exclusive zodiac sign.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Zodiac-Knot-Wrap_ecom_a4543567_thumbnail_4096.png",
+      "alt": "Aquarius. A square, fabric knot wrap. There is a purple border with the word \"Aquarius\" in orange on each side. The central image shows a deep-blue, starry background. A pink, striped vase spills bright teal and aqua-marine blue splashes. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Zodiac-Knot-Wrap_ecom_a4543567_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Knot-Wrap-Zodiac_Hero_floating_2_8da0e8ab_thumbnail_4096.jpg",
+      "alt": "The image shows a blurred pink background scattered with sparkles. The Aquarius-themed knot wrap is floating with the design facing the camera showing the shimmering, silky texture of the fabric. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Knot-Wrap-Zodiac_Hero_floating_2_8da0e8ab_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Knot-Wrap-Zodiac_Hero_portrait_2_58f293c5_thumbnail_4096.jpg",
+      "alt": "The image shows a model in a sapphire-blue dress on a blurred pink background scattered with sparkles. They have fashioned the Aquarius-themed fabric knot wrap into a handled gift bag they are holding over their shoulder. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Knot-Wrap-Zodiac_Hero_portrait_2_58f293c5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Zodiac-Knot-Wrap_texture_portrait_cbaaf242_thumbnail_4096.jpg",
+      "alt": "The image shows a super close-up image of the Aquarius-themed knot wrap. The shot is focused on the texture of the material and the vibrancy of the pink and blue colours included.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Aquarius-Zodiac-Knot-Wrap_texture_portrait_cbaaf242_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Gifts for Aquarius",
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Zodiac Gift Guide"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "fresh-farmacy-facial-soap",
+  "url": "https://www.lush.com/us/en_us/p/fresh-farmacy-facial-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-farmacy-facial-soap",
+  "title": "Fresh Farmacy",
+  "sku": "954-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Enjoy this gentle facial soap bar with carefully selected natural ingredients, such as cooling calamine and calming chamomile, for a truly nurturing cleanse.\n",
+  "ingredients": [
+    "Calamine (Calamine Powder)",
+    "Propylene Glycol",
+    "Chamomile and Elderflower Decoction",
+    "Rapeseed Oil; Coconut Oil",
+    "Sodium Laureth Sulfate",
+    "Sodium Stearate",
+    "Aqua (Water)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Lavandula Hybrida Oil (Lavandin Oil)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Rosemary Absolute",
+    "Glycerin",
+    "Sodium Chloride",
+    "Citric Acid",
+    "Sodium Hydroxide",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_2024_3b06089e_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_2024_3b06089e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_6_d4135c6e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_6_d4135c6e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_5_f4e92bb9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_5_f4e92bb9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_4_10427291_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_farmacy_soap_hero_2024_4_10427291_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Best for a calm face",
+    "Cleansers",
+    "Vegan Skincare",
+    "Calming Skin Redness",
+    "Clarifying Spot-Prone Skin",
+    "Self-Preserving Skincare",
+    "Summer Essentials",
+    "Skincare Routines",
+    "Plastic Free",
+    "Super Powered Ingredients",
+    "Plastic-Free Skincare",
+    "Floral",
+    "Travel-size Essentials",
+    "Soothing & Moisturizing",
+    "Sensitive skin",
+    "Balancing Oily Skin",
+    "Skincare By Needs",
+    "Handmade Soap"
+  ]
+}

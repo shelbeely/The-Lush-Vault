@@ -1,0 +1,49 @@
+{
+  "slug": "foam-sweet-foam-postcard",
+  "url": "https://www.lush.com/us/en_us/p/foam-sweet-foam-postcard",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/foam-sweet-foam-postcard",
+  "title": "Foam Sweet Foam",
+  "sku": "215160-NA",
+  "size": "14.8cm x 10.5cm",
+  "price": {
+    "amount": 1.5,
+    "currency": "USD",
+    "formatted": "$1.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 22,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Showcasing a design inspired by the purple and blue colour palette of our Sleepy bubble bar and printed on 100% recycled card, this postcard is printed in Dorset, England.\n",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_ecom_2023_6cd74f0b_thumbnail_4096.png",
+      "alt": "Foam Sweet Foam. A pink postcard with the words \"Foam Sweet Foam\" in bubble text surrounded by blue bubbles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_ecom_2023_6cd74f0b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_hero_image_2023-1_1_dffcadc0_thumbnail_4096.jpg",
+      "alt": "Image shows the Foam Sweet Foam postcard laid on the table next to a pen and a LUSH knot-wrapped gift.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_hero_image_2023-1_1_dffcadc0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_hero_image_2023-1_2f769e00_thumbnail_4096.jpg",
+      "alt": "Image shows the model holding the Foam Sweet Foam postcard as they read it with a cup of tea.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/foam_sweet_foam_postcard_hero_image_2023-1_2f769e00_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Greeting Cards",
+    "Lifestyle"
+  ]
+}

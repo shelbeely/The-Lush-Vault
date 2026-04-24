@@ -1,0 +1,93 @@
+{
+  "slug": "banana-shampoo",
+  "url": "https://www.lush.com/us/en_us/p/banana-shampoo",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/banana-shampoo",
+  "title": "Banana",
+  "sku": "65166-NA",
+  "size": "125g",
+  "price": {
+    "amount": 13.5,
+    "currency": "USD",
+    "formatted": "$13.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Hydrate tired locks with our banana shampoo for dry hair! Made with 45% sea salt, fresh bananas, molasses and oils, it's our best product for dry, frizzy hair!",
+  "ingredients": [
+    "Coarse Sea Salt",
+    "Sodium Laureth Sulfate",
+    "Linseed Gel",
+    "Lemon Balm Infusion",
+    "Molasses",
+    "Musa Paradisiaca Fruit (Fresh Organic Fair Trade Bananas)",
+    "Lauryl Betaine",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Bertholletia Excelsa Seed Oil (Organic Brazil Nut Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Linseed oil",
+    "Coumarin",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_ecom_2024_9d59c428_thumbnail_4096.png",
+      "alt": "Banana. A smudged swatch of thick, textured shampoo. It is a rich hazelnut-brown colour with an almost treacle-like consistency and a lot of texture. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_ecom_2024_9d59c428_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_1_f654dc12_thumbnail_4096.jpg",
+      "alt": "The image shows the model's arms stretched into the centre holding the white, LUSH Version-themed packed pot of the Banana shampoo. One of their hands is scooping the product out. There is a teal background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_1_f654dc12_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_2_dc48e1d7_thumbnail_4096.jpg",
+      "alt": "The image shows the rear view of the model's shoulder-length hair which is wet and lathered in suds as they lather the Banana shampoo into their roots. There is a teal background with running shower water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_2_dc48e1d7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_5_77387f98_thumbnail_4096.jpg",
+      "alt": "The image shows the rear view of the model's shoulder-length hair which is wet and lathered in suds as they lather the Banana shampoo into their roots. There is a teal background with running shower water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_5_77387f98_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_7_35ba9817_thumbnail_4096.jpg",
+      "alt": "The image shows the rear view of the model's shoulder-length hair which is wet and lathered in suds as they lather the Banana shampoo into their roots. There is a teal background with running shower water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_7_35ba9817_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_10_8fc6616c_thumbnail_4096.jpg",
+      "alt": "The model is on a teal background with a cream-coloured tank top. They have light brown, shoulder-length, freshly-dried hair which looks clean and healthy and is being fanned with air. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banana_shampoo_lush_version_hero_2024_10_8fc6616c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "The Lush Version",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Shampoo",
+    "Gourmand",
+    "Customised Lush Gifts",
+    "Care for Damaged Hair",
+    "Banana Beauty",
+    "Rewild your routine",
+    "Vanilla",
+    "Gifts for Dad",
+    "Gifts for Mum"
+  ]
+}

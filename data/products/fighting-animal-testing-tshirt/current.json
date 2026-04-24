@@ -1,0 +1,63 @@
+{
+  "slug": "fighting-animal-testing-tshirt",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-tshirt",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fighting-animal-testing-tshirt",
+  "title": "Fighting Animal Testing",
+  "sku": "1171-NA",
+  "size": "XS",
+  "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "formatted": "$25.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 2,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Join the movement to end animal testing for good. Help start a conversation and spread the word wearing this 100% organic cotton tee.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fat_tshirt_merch_2023_af902f6d_thumbnail_4096.png",
+      "alt": "A black t-shirt with the white bunnies logo. The white print underneath reads: “Fighting Animal Testing” ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fat_tshirt_merch_2023_af902f6d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-2_1e5dba54_thumbnail_4096.jpeg",
+      "alt": "Model is stood in front of a marbled background wearing the t-shirt with a black long skirt, facing away.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-2_1e5dba54_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-8_073e7b91_thumbnail_4096.jpeg",
+      "alt": "Model stands in front of a marbled background with their hands above their head, smiling with eyes closed wearing the t-shirt.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-8_073e7b91_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-1_67fc1d6a_thumbnail_4096.jpeg",
+      "alt": "Model is stood in front of a marbled background wearing the t-shirt with a black long skirt facing frontwards.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-1_67fc1d6a_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-11_6a96d9bc_thumbnail_4096.jpeg",
+      "alt": "Model stands in front of marbled background wearing the t-shirt with black trousers.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_t-shirt_merch_2023-11_6a96d9bc_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Apparel",
+    "Lifestyle",
+    "Advocate in style",
+    "Gifts for Dad",
+    " LUSH x Lazy Oaf",
+    "For the Artist"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "chelsea-morning-perfume",
+  "url": "https://www.lush.com/us/en_us/p/chelsea-morning-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/chelsea-morning-perfume",
+  "title": "Chelsea Morning",
+  "sku": "62881-NA",
+  "size": "30ml",
+  "price": {
+    "amount": 45.0,
+    "currency": "USD",
+    "formatted": "$45.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 26,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A sweet and buttery perfume that’ll stick to your senses like butterscotch. This gourmand fragrance has bright, biscuity notes and a hint of citrus.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Fenugreek Absolute",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "Coumarin",
+    "*Eugenol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_100ml_perfume_ecom_2024_2bd43b53_thumbnail_4096.png",
+      "alt": "Chelsea Morning. A rectangular, glass perfume bottle with a black cap is filled with amber liquid. A white label reads 'Chelsea Morning'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_100ml_perfume_ecom_2024_2bd43b53_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_core_perfume_2024_1_b05f3877_thumbnail_4096.jpg",
+      "alt": "The image shows a background of layered, cream, satin fabric. In the centre is the focus of precisely balanced, white stacked stones. There is a dried vanilla pot standing on top and the two sizes of perfume leaning against the stones. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chelsea_morning_core_perfume_2024_1_b05f3877_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Perfumes",
+    "Sweet-scented goodies",
+    "Fragrances",
+    "Vegan Perfume",
+    "Gourmand",
+    "Trending Now",
+    "Ways to Shop",
+    "Cosy Season",
+    "Autumn & Winter Fragrances",
+    "Vanilla",
+    "Mother’s Day",
+    "Bestsellers"
+  ]
+}

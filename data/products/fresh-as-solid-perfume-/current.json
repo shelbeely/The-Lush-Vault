@@ -1,0 +1,82 @@
+{
+  "slug": "fresh-as-solid-perfume-",
+  "url": "https://www.lush.com/us/en_us/p/fresh-as-solid-perfume-",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-as-solid-perfume-",
+  "title": "Fresh As",
+  "sku": "62950-NA",
+  "size": "11g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 28,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "The revitalising fir needle absolute and tagetes oils in this solid perfume mingle to surround you with the bracing draw of nature. ",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Parfum",
+    "*Linalool",
+    "Pinus Sylvestris Oil (Pine Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Orris Oil ",
+    "Abies Balsamea Extract (Fir Needle Extract)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Citronellol",
+    "*Eugenol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "Blue 1 Lake",
+    "Yellow 5 Lake"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_pack_11g_2024_772da82d_thumbnail_4096.png",
+      "alt": "Fresh As. A short, cylindrical black push-up tube of the Fresh As solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_pack_11g_2024_772da82d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_hero_2024_1213157a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_hero_2024_1213157a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_hero_2024_1_923c1755_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_hero_2024_1_923c1755_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_pack_11g_2024_891a4111_thumbnail_4096.png",
+      "alt": "Fresh As. A short, cylindrical black push-up tube of the Fresh As solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_as_solid_perfume_pack_11g_2024_891a4111_thumbnail_128.png"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Solid Perfume",
+    "Fragrances",
+    "Vegan Perfume",
+    "Travel-size Essentials",
+    "Small Gifts"
+  ]
+}

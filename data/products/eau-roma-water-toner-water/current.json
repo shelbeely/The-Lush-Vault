@@ -1,0 +1,88 @@
+{
+  "slug": "eau-roma-water-toner-water",
+  "url": "https://www.lush.com/us/en_us/p/eau-roma-water-toner-water",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/eau-roma-water-toner-water",
+  "title": "Eau Roma Water",
+  "sku": "2813-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 23,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This rose water face toner was created for individuals with sensitive skin; hydrating and gently soothing without causing skin irritation on the face.",
+  "ingredients": [
+    "Lavender Water",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Methylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_water_toner_water_2020_thumbnail_4096.png",
+      "alt": "Droplets of transparent Eau Roma Water toner water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_water_toner_water_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_toner_water_2025_01_1_8d12a082_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_toner_water_2025_01_1_8d12a082_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_toner_water_2025_02_3e6e0d6b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_toner_water_2025_02_3e6e0d6b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_water_toner_water_texture_01_92048f65_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/eau_roma_water_toner_water_texture_01_92048f65_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_eau_roma_water_toner_water_lush_2025_01jpg_f78d5f46_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_eau_roma_water_toner_water_lush_2025_01jpg_f78d5f46_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Toners",
+    "Best for a calm face",
+    "Skincare",
+    "Vegan Skincare",
+    "Vegan",
+    "Cult Classics",
+    "Calming Skin Redness",
+    "Winter Cosmetics",
+    "Skincare Routines",
+    "Skin Care for Cold Weather",
+    "Discover bestselling goodies",
+    "Floral",
+    "Travel-size Essentials",
+    "Lush Living Room ",
+    "Ways to Shop",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "Mature skin",
+    "Spring Skincare"
+  ]
+}

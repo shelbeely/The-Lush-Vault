@@ -1,0 +1,88 @@
+{
+  "slug": "big-pressed-conditioner",
+  "url": "https://www.lush.com/us/en_us/p/big-pressed-conditioner",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/big-pressed-conditioner",
+  "title": "Big",
+  "sku": "9016-NA",
+  "size": "65g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 39,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "For beachy waves, this hair smoothing conditioner bar will volumise hair with a combination of hydrating coconut and sea salt which were mer-made for each other.",
+  "ingredients": [
+    "Cetearyl Alcohol",
+    "PEG-7 Glyceryl Cocoate",
+    "Maris Sal (Fine Sea Salt)",
+    "Polyquaternium-81",
+    "Polyquaternium-88",
+    "Guar Gum",
+    "Cetrimonium Chloride",
+    "Parfum",
+    "Behentrimonium chloride",
+    "Aqua (Water)",
+    "Toothed Wrack Seaweed Infusion",
+    "Ethyl Macadamiate",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Citrus Limon Juice (Fresh Lemon Juice)",
+    "Citrus Aurantifolia Juice (Fresh Lime Juice)",
+    "Alpha-Isomethyl Ionone",
+    "*Coumarin",
+    "Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_pressed_conditioner_2020_a3ee4d65_thumbnail_4096.png",
+      "alt": "Big. A bright blue, oval shaped solid conditioner bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_pressed_conditioner_2020_a3ee4d65_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_pressed_solid_conditioner_hair_lab_2020-2_48c8e8f1_thumbnail_4096.jpg",
+      "alt": "A person with long, brown hair and tatoos works Big, a bright blue, oval shaped solid conditioner bar, through their hair.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_pressed_solid_conditioner_hair_lab_2020-2_48c8e8f1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Conditioners",
+    "Vegan",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Summer Essentials",
+    "Plastic Free",
+    "Rewild your routine",
+    "Ocean-inspired faves",
+    "Plastic-Free Shower Products",
+    "Plastic-Free Hair Care",
+    "Jasmine",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Volumizing Haircare",
+    "Shop Haircare By Benefit"
+  ]
+}

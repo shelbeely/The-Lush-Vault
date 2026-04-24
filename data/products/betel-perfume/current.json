@@ -1,0 +1,72 @@
+{
+  "slug": "betel-perfume",
+  "url": "https://www.lush.com/us/en_us/p/betel-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/betel-perfume",
+  "title": "Betel",
+  "sku": "62894-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 180.0,
+    "currency": "USD",
+    "formatted": "$180.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 5,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A perfume with an evocative blend of davana, jasmine and coriander to evoke vibrant floral and aromatic memories of travels in India. ",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "*Eugenol",
+    "Mango Leaf Absolute",
+    "Artemisia Pallens Herb Oil (Davana Oil)",
+    "Illicium Verum Fruit/Seed Oil (Aniseed Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Amyl Cinnamal",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Benzyl Salicylate",
+    "*Cinnamal",
+    "*Citral",
+    "*Citronellol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/betel_100ml_perfume_ecom_2024_1_d8ccdb8a_thumbnail_4096.png",
+      "alt": "Betel. A rectangular, glass perfume bottle with a black cap is filled with translucent, deep-amber liquid. The name \"Betel\" is arched in gold letters on the front of the bottle along with flower decals.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/betel_100ml_perfume_ecom_2024_1_d8ccdb8a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/betel_perfume_landscape_2024_522f44af_thumbnail_4096.jpg",
+      "alt": "The image shows the Betel glass perfume bottle. It is sitting on a soft, beige background with curved, cream paper creating soft, gliding shapes behind the product.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/betel_perfume_landscape_2024_522f44af_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Perfumes",
+    "Fragrances",
+    "Vegan Perfume"
+  ]
+}

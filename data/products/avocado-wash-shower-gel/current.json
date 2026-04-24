@@ -1,0 +1,86 @@
+{
+  "slug": "avocado-wash-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/avocado-wash-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/avocado-wash-shower-gel",
+  "title": "Avocado Wash",
+  "sku": "9269-NA",
+  "size": "500ml",
+  "price": {
+    "amount": 48.0,
+    "currency": "USD",
+    "formatted": "$48.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 30,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Get that feel-good Friday feeling all week long. Uplifting bergamot combines with organic avocado to reassure you that the weekend is only a few washes away.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Sodium Cocoamphoacetate",
+    "Lauryl Betaine",
+    "Parfum",
+    "Titanium Dioxide",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Litsea Cubeba Fruit Oil (Litsea Cubeba Oil)",
+    "Olibanum Oil",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Persea Gratissima Fruit (Fresh Avocado)",
+    "Propylene Glycol",
+    "Amyl Cinnamal",
+    "*Benzyl Cinnamate",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "CI 75810 (Chlorophyllin)",
+    "Blue 1 Lake",
+    "Yellow 5"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_wash_shower_gel_spring2019_542aba1c_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_wash_shower_gel_spring2019_542aba1c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-9_3d9c2daf_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-9_3d9c2daf_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-0_3b1256e9_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-0_3b1256e9_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-0_216c5f2c_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/avocado_co_wash_shower_gel_valentines_day_image_2019_-0_216c5f2c_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shower Gels",
+    "Shower Products",
+    "The Archive",
+    "Zest is Best",
+    "Customised Lush Gifts",
+    "Leaving Soon"
+  ]
+}

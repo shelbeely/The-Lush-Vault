@@ -1,0 +1,85 @@
+{
+  "slug": "black-tea-mochi-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/black-tea-mochi-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/black-tea-mochi-face-mask",
+  "title": "Black Tea Mochi",
+  "sku": "64695-NA",
+  "size": "75g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 4,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A Lunar New Year’s treat for the skin, Black Tea Mochi fresh face mask brings the bounce to your routine, leaving skin soft, supple and wonderfully nourished.",
+  "ingredients": [
+    "Kaolin",
+    "Black Tea Infusion",
+    "Zea Mays Starch (Cornstarch)",
+    "Glycerin",
+    "Sake",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Camellia Sinensis Leaf Powder (Green Tea Powder)",
+    "Gelidium Cartilagineum Extract (Agar Agar)",
+    "Black Sesame Oil",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "Perfume",
+    "Dried Black Tea"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_ecom_2025_cea9cd35_thumbnail_4096.png",
+      "alt": "A textured swipe of Black Tea Mochi face mask on a light gray background. The thick, creamy beige formula is heavily speckled with crushed black tea particles throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_ecom_2025_cea9cd35_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_1_ccb8f71b_thumbnail_4096.jpg",
+      "alt": "A smiling model in a yellow waffle-knit robe applies the Black Tea Mochi mask to their cheek. They hold the open container, showing the thick beige formula speckled with black tea particles, against a solid orange background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_1_ccb8f71b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_5_6405081a_thumbnail_4096.jpg",
+      "alt": "A smiling person wearing a yellow robe applies the thick, textured Black Tea Mochi face mask to their skin against a bright orange background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_5_6405081a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_11_11dd4d87_thumbnail_4096.jpg",
+      "alt": "A smiling person with dark hair wears a yellow robe and touches their face, showcasing the full application and texture of the Black Tea Mochi face mask against an orange background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_11_11dd4d87_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_9_75ff0b64_thumbnail_4096.jpg",
+      "alt": "A smiling person with dark hair wears a yellow robe and touches their cheeks, showcasing the full application and texture of the Black Tea Mochi face mask against an orange background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_tea_mochi_fresh_face_mask_LNY_hero_2025_9_75ff0b64_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Skincare",
+    "Vegan",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Vegan Skincare",
+    "Leaving Soon",
+    "Lunar New Year"
+  ]
+}

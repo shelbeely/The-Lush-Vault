@@ -1,0 +1,49 @@
+{
+  "slug": "cheek-to-cheek-makeup-brush",
+  "url": "https://www.lush.com/us/en_us/p/cheek-to-cheek-makeup-brush",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cheek-to-cheek-makeup-brush",
+  "title": "Cheek To Cheek",
+  "sku": "210304-NA",
+  "size": "Each",
+  "price": {
+    "amount": 35.0,
+    "currency": "USD",
+    "formatted": "$35.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 1,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Cheek to Cheek blusher brush is an expert in giving sculpted radiance and a flawless flush to the skin.",
+  "ingredients": [],
+  "badges": [
+    "Naked",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cheek_to_cheek__makeup_brush_2020_9fcbbc88_thumbnail_4096.png",
+      "alt": "Cheek To Cheek Brush. A blusher brush, with tapered brown bristles and a gold and dark wooden handle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cheek_to_cheek__makeup_brush_2020_9fcbbc88_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Cheek_to_Cheek_Brush_254a78ee_thumbnail_4096.jpg",
+      "alt": "A bearded person with an earring smiles, as they sweep Cheek to Cheek, a soft, tapered blusher brush, across their cheek.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Cheek_to_Cheek_Brush_254a78ee_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Makeup Brushes",
+    "Makeup",
+    "Firework Makeup"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "american-cream-conditioner",
+  "url": "https://www.lush.com/us/en_us/p/american-cream-conditioner",
+  "title": "American Cream",
+  "sku": "61778-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 13.5,
+    "currency": "USD",
+    "formatted": "$13.50",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 45,
+    "schemaAvailability": ""
+  },
+  "description": "Indulge in this creamy, natural hair conditioner with sweet perfume scents. Feel like a celebrity with truly voluminous, addictively sweet Hollywood hair.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Vanilla Pod Infusion",
+    "Propylene Glycol",
+    "Whole Fresh Orange",
+    "Cetearyl Alcohol & Sodium Lauryl Sulfate",
+    "Strawberries",
+    "Parfum",
+    "Honey",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Cetearyl Alcohol",
+    "Cetrimonium Bromide",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Alpha-Isomethyl Ionone",
+    "Coumarin",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_hair_conditioner_lanolin_free_2023_ff632442_thumbnail_4096.png",
+      "alt": "A swatch of velvety, light, Dream Cream hair conditioner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_hair_conditioner_lanolin_free_2023_ff632442_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_american_cream_conditoner_ayr_2018_1_of_4_3b8d00f4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_american_cream_conditoner_ayr_2018_1_of_4_3b8d00f4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_conditioner_hero_image_2020_modelTL01-2_bbfc5e81_thumbnail_40.jpg",
+      "alt": "Model stands in a running shower facing away running their hands down the length of their hair on a salmon pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_conditioner_hero_image_2020_modelTL01-2_bbfc5e81_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/hair-american-cream-conditioner-hero-landscape_01_1f50b4bc_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/hair-american-cream-conditioner-hero-landscape_01_1f50b4bc_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Conditioners",
+    "Hair Care",
+    "American Cream",
+    "Travel-size Essentials",
+    "Summer Treats",
+    "Berries & Cream Trifle",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "Shop Haircare By Benefit",
+    "Hydrating & Moisturizing Haircare",
+    "As seen at Curly Con",
+    "Refresh Your Routine ",
+    "Vanilla",
+    "Gourmand",
+    "Gifts for Mum"
+  ]
+}

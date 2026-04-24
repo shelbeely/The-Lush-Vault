@@ -1,0 +1,99 @@
+{
+  "slug": "candy-rain-conditioner",
+  "url": "https://www.lush.com/us/en_us/p/candy-rain-conditioner",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/candy-rain-conditioner",
+  "title": "Candy Rain",
+  "sku": "63234-NA",
+  "size": "100g",
+  "price": {
+    "amount": 14.5,
+    "currency": "USD",
+    "formatted": "$14.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 21,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Packed with nourishing ingredients, this coconut and macadamia nut oil conditioner for hair softens, smoothens and detangles messy hair for a sleek finish. ",
+  "ingredients": [
+    "Aqua (Water)",
+    "Cashew Cream",
+    "Brazil Nut Milk",
+    "Cocos Nucifera Fruit Extract (Coconut Cream)",
+    "Macadamia Nut Milk",
+    "Cetearyl Alcohol",
+    "Parfum",
+    "Propylene Glycol",
+    "Ethyl Macadamiate",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Macadamia Nut Oil",
+    "Bertholletia Excelsa Seed Oil (Brazil Nut Oil)",
+    "Behentrimonium chloride",
+    "Rain Water",
+    "Barosma Betulina Leaf Oil (Buchu Oil)",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Theobroma Cacao Extract (Cocoa Extract)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Cetrimonium Chloride",
+    "Phenoxyethanol",
+    "Benzyl Alcohol",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "Eugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_conditioner_2020_thumbnail_4096.png",
+      "alt": "A sample of smooth, thick, cream coloured Candy Rain conditioner.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_conditioner_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-01_Digita_fe0ee05e_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-01_Digita_fe0ee05e_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-06_Digita_1e102165_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-06_Digita_1e102165_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-03_Digita_877263ce_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Haircare-AYR-2025-Candy-Rain-Conditioner-Hero-03_Digita_877263ce_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Conditioners",
+    "Hair Care",
+    "Vegan Hair Products",
+    "Winter Cosmetics",
+    "Hair Products For Cold Weather",
+    "Rewild your routine",
+    "Discover bestselling goodies",
+    "Sweet-scented goodies",
+    "Trending Now",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Hydrating & Moisturizing Haircare",
+    "As seen at Curly Con",
+    "Ways to Shop",
+    "Gourmand"
+  ]
+}

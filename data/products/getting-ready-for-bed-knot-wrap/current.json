@@ -1,0 +1,60 @@
+{
+  "slug": "getting-ready-for-bed-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/getting-ready-for-bed-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/getting-ready-for-bed-knot-wrap",
+  "title": "Getting Ready For Bed Knot Wrap",
+  "sku": "215517-UK",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "This Knot Wrap makes a perfect reusable gift wrap for an array of your favourite Lush products, as well as a wearable scarf or bandana.",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [
+    "Size: Medium - 70cm",
+    "Pattern: Characters",
+    "Pattern: Typographic"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knot_wrap_ecom_2023_9711a082_thumbnail_4096.png",
+      "alt": "Getting Ready for Bed. A blue, square knot wrap with a white border showing images reflecting bedtime routine tasks. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knot_wrap_ecom_2023_9711a082_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knot_wrap_ecom_2023_ad63cd42_thumbnail_4096.png",
+      "alt": "Getting Ready for Bed. A blue, square knot wrap with a white border showing images reflecting bedtime routine tasks. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knot_wrap_ecom_2023_ad63cd42_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knotwrap_hero_20234142__f411b205_thumbnail_4096.jpg",
+      "alt": "Getting Ready For Bed Knot Wrap is shown two ways: folded and wrapping a gift on a dark chromatic platform with bold shapes. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knotwrap_hero_20234142__f411b205_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knotwrap_2023_1_cdb863d0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/getting_ready_for_bed_knotwrap_2023_1_cdb863d0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "fighting-animal-testing-green-pouch",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-green-pouch",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fighting-animal-testing-green-pouch",
+  "title": "Fighting Animal Testing - Green Pouch",
+  "sku": "216344-NA",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 47,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "What better way to store all your cruelty-free essentials than in a pouch that tells everyone what you stand for?",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/web_F.A.T_cosmetic_pouch_green_fluoro_2023_eb04d544_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/web_F.A.T_cosmetic_pouch_green_fluoro_2023_eb04d544_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Makeup",
+    "Travel-size Essentials",
+    "Lifestyle",
+    "The Archive"
+  ]
+}

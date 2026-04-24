@@ -1,0 +1,84 @@
+{
+  "slug": "ahaa-fresh-scalp-treatment",
+  "url": "https://www.lush.com/us/en_us/p/ahaa-fresh-scalp-treatment",
+  "title": "Ahaa",
+  "sku": "9997-NA",
+  "size": "100g",
+  "price": {
+    "amount": 22.0,
+    "currency": "USD",
+    "formatted": "$22.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 8,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Cleanse and clear your scalp with this fresh treatment. ",
+  "ingredients": [
+    "Nettle Infusion",
+    "Cashew Cream",
+    "Propylene Glycol",
+    "Lycopodium Powder",
+    "Soymilk Ferment Curd (Organic Soya Yogurt)",
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Cetearyl Alcohol",
+    "Fresh Papaya Juice",
+    "Fresh Kiwi Juice",
+    "Parfum",
+    "Fresh Mango Juice",
+    "Fresh Pineapple Juice",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Juniperberry Oil",
+    "Aqua (Water)",
+    "Menthol (Menthol Crystals)",
+    "Algin (Sodium Alginate)",
+    "Cetrimonium Chloride",
+    "Salicylic Acid",
+    "Benzyl Alcohol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ahaa_fresh_scalp_treatment_lanolin_free_20236155_cf1147c5_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ahaa_fresh_scalp_treatment_lanolin_free_20236155_cf1147c5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ahaa_fresh_scalp_treatment_hero_NEWSITE_2019_01_024d4ac5_de175b6f_thumbnail.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ahaa_fresh_scalp_treatment_hero_NEWSITE_2019_01_024d4ac5_de175b6f_thumbnail.jpeg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Hair Treatments",
+    "Hair Care",
+    "Vegan",
+    "Natural Care For Textured Hair",
+    "Vegan Hair Products",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Scalp Care",
+    "Cooling",
+    "Mint",
+    "Fresh"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "ceridwens-cauldron-bath-oil",
+  "url": "https://www.lush.com/us/en_us/p/ceridwens-cauldron-bath-oil",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/ceridwens-cauldron-bath-oil",
+  "title": "Ceridwen's Cauldron",
+  "sku": "592-NA",
+  "size": "80g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 42,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "If your skin is feeling a little dry and sensitive, or you’ve always fancied bathing like Cleopatra, this oaty, milky melt will work magic.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Whole Oats",
+    "Laureth 4",
+    "Walnut Oil",
+    "Parfum",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Sandalwood Oil",
+    "Frankincense Resinoid",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Elderflowers",
+    "Daisy Flowers",
+    "Primula Veris (Cowslips)",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ceridwens_cauldron_bath_oil_2020_8937adec_thumbnail_4096.png",
+      "alt": "Ceridwen's Cauldron Bath Melt. Wrapped in white muslin cloth and tied with a red ribbon is a cream coloured, round bath melt.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ceridwens_cauldron_bath_oil_2020_8937adec_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ceridwens_hero_2ea145a0_thumbnail_4096.jpg",
+      "alt": "The muslin cloth and red ribbon of Ceridwen's Cauldron sticks out of the water topped with white bubbles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ceridwens_hero_2ea145a0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Oils",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Bath Oils",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Winter Cosmetics",
+    "Winter Bath & Shower Products",
+    "Body Care",
+    "Plastic Free",
+    "Bath and Shower",
+    " Lightly-scented",
+    "Floral",
+    "Customised Lush Gifts",
+    "Cocoa Butter Collection",
+    "For the Dreamer",
+    "Ways to Shop",
+    "Skin Care for Cold Weather"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "bunnies-picnic-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/bunnies-picnic-knot-wrap",
+  "sourceUrl": "https://www.lush.com/au/en/p/bunnies-picnic-knot-wrap",
+  "title": "Bunnies Picnic Knot Wrap",
+  "sku": "222299-UN",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 10.0,
+    "currency": "AUD",
+    "formatted": "10.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Show them how much you appreciate hopping around with them during Easter by wrapping up all their Lush favourites with this colourful Knot Wrap. Hop to it!",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [
+    "Size: Small - 35-55cm",
+    "Organic Cotton"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_2026_b3ca42ea_thumbnail_4096.png",
+      "alt": "Bunnies Picnic. A square, fabric Knot Wrap featuring a colourful, cartoon-style pattern of cheerful rabbits and chicks. The characters are illustrated in bright shades of pink, blue, yellow, and purple against a multi-coloured, geometric background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_2026_b3ca42ea_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_hero_2026_2_52276490_thumbnail_4096.jpg",
+      "alt": "The image shows the colourful \"Bunnies Picnic\" knot wrap, tied in a traditional Japanese knot, resting on a slatted wooden bathtub tray. The wrap features colourful flowers and characters in bright yellow, pink, and blue. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_hero_2026_2_52276490_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_hero_2026_5_e853e764_thumbnail_4096.jpg",
+      "alt": "A model's tattooed arms reach over a white bathtub to untie a \"Bunnies Picnic\" knot wrap tied neatly around a gift. The parcel sits on a slatted wooden bath tray above soapy water, with a modern black tap and mint tiles in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_hero_2026_5_e853e764_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_texture_2026_11_c785ab0c_thumbnail_4096.jpg",
+      "alt": "A super close-up of the vibrant \"Bunnies Picnic\" knot wrap featuring a repeat pattern of colourful, cartoon-style bunnies and chicks amidst flowers. The design uses a bright palette of pink, yellow, blue, and green.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bunnies_picnic_knot_wrap_easter_texture_2026_11_c785ab0c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Easter"
+  ]
+}

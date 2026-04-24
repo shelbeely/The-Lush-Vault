@@ -1,0 +1,85 @@
+{
+  "slug": "brun-henna-hair-dye",
+  "url": "https://www.lush.com/us/en_us/p/brun-henna-hair-dye",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/brun-henna-hair-dye",
+  "title": "Brun Henna",
+  "sku": "61864-NA",
+  "size": "325g",
+  "price": {
+    "amount": 30.0,
+    "currency": "USD",
+    "formatted": "$30.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 24,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Our Brun henna brunette hair dye will give cool brown shades. This henna natural hair dye is a permanent hair dye that will fade and can be reapplied.",
+  "ingredients": [
+    "Indigo Herb Powder",
+    "Red Henna",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Noni Fruit Powder",
+    "Noni Fruit Juice",
+    "Maris Sal (Fine Sea Salt)",
+    "Ground Coffee",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Nettle Powder",
+    "Organic Irish Moss Powder",
+    "*Citral",
+    "*Citronellol",
+    "*Eugenol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Perfume"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hair_dye_ecom_image_2021_f16eea4c_thumbnail_4096.png",
+      "alt": "Brun Henna. A brown rectangular block of solid henna hair colour, with a floral design and the letter B pressed on the top.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hair_dye_ecom_image_2021_f16eea4c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hero_2022-2_9bf3cabc_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hero_2022-2_9bf3cabc_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brun_jelena_before_and_after_henna_portrait_2022_4a68afc5_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brun_jelena_before_and_after_henna_portrait_2022_4a68afc5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hair_dye_hero_2000x1364_2022-1_7c890b95_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brun_henna_hair_dye_hero_2000x1364_2022-1_7c890b95_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/brun_monica_before_and_after_henna_portrait_2022_1910f863_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/brun_monica_before_and_after_henna_portrait_2022_1910f863_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Henna Hair Dye",
+    "Vegan",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Rewild your routine",
+    "Plastic-Free Hair Care",
+    "Customised Lush Gifts"
+  ]
+}

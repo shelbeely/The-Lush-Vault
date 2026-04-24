@@ -1,0 +1,75 @@
+{
+  "slug": "chris-the-carrot-gift",
+  "url": "https://www.lush.com/us/en_us/p/chris-the-carrot-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/chris-the-carrot-gift",
+  "title": "Chris The Carrot",
+  "sku": "64903-NA",
+  "size": "Each",
+  "price": {
+    "amount": 40.0,
+    "currency": "USD",
+    "formatted": "$40.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "For an Easter gift that's a carrot above the rest, look no further than this vibrant veggie.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_easter_gift_lush_2026_20_c52e59e9_thumbnail_4096.png",
+      "alt": "Chris The Carrot. A gift comprised of an orange drawstring bag designed to look like a smiling carrot with a green leafy top. It is displayed alongside four bath products, including two bath bombs, a bubble bar and a bottle of shower gel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_easter_gift_lush_2026_20_c52e59e9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_gift_easter_hero_2026_3_ff55d9d0_thumbnail_4096.jpg",
+      "alt": "The image shows the orange \"Chris The Carrot\" gift drawstring bag with a green leafy top sitting on a tiled bathroom ledge alongside the included products of two bath bombs, a bubble bar and a bottle of shower gel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_gift_easter_hero_2026_3_ff55d9d0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_gift_easter_hero_2026_73c1260c_thumbnail_4096.jpg",
+      "alt": "A model's tattooed hand retrieves a small, bunny-shaped bath bomb from the top of a large \"Chris The Carrot\" drawstring bag. The bag features a smiling face, and the scene is set against the edge of a white bathtub and mint-green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chris_the_carrot_gift_easter_hero_2026_73c1260c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_orange_easter_h_9d2e6682_thumbnail_4.jpg",
+      "alt": "The image shows a close-up of a model's hand holding an orange \"Baby Rainbow Carrot\" bubble bar by its green paper stalks. The bubble bar is held under a stream of running water over a bathtub filled with thick white bubbles and golden water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baby_rainbow_carrot_reusable_bubble_bar_orange_easter_h_9d2e6682_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/munching_bunny_bath_bomb_easter_hero_2026_09_a55cec90_thumbnail_4096.jpg",
+      "alt": "An aerial view image of the Lush \"Munching Bunny\" rabbit-shaped bath bomb, creating a swirl of pale purple foam. The bunny has a small orange carrot detail on its paws. The product dissolves, leaving a thick blanket of velvety lilac foam. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/munching_bunny_bath_bomb_easter_hero_2026_09_a55cec90_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/spring_sunrise_bath_bomb_WBBD_hero_2025_11_8eaaa696_thumbnail_4096.jpg",
+      "alt": "An aerial view image of the Spring Sunrise bath bomb bath art. The product has almost fully dissolved, leaving behind a vibrant blanket of orange, pink, purple and yellow foam with tiny, velvety bubbles laced across the surface. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/spring_sunrise_bath_bomb_WBBD_hero_2025_11_8eaaa696_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Bath Bomb Gift Sets",
+    "Vegan Gifts",
+    "Easter",
+    "Gifts",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts for Kids & Teens",
+    "Leaving Soon"
+  ]
+}

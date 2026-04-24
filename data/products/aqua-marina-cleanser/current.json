@@ -1,0 +1,87 @@
+{
+  "slug": "aqua-marina-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/aqua-marina-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/aqua-marina-cleanser",
+  "title": "Aqua Marina",
+  "sku": "62532-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 12,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "A mineral-rich, mattifying face wash with fresh seaweed and calamine. A face cleanser that absorbs excess oils and leaves your skin feeling clear and refreshed.",
+  "ingredients": [
+    "Glycerin",
+    "Calamine (Calamine Powder)",
+    "Kaolin",
+    "Irish Moss Gel",
+    "Organic Aloe Vera Gel",
+    "Maris Sal (Fine Sea Salt)",
+    "Nori Seaweed",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Hexyl Cinnamal",
+    "Parfum"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aqua_marina_fresh_cleanser_thumbnail_4096.png",
+      "alt": "A swatch of smooth, thick, pale pink fresh cleanser Aqua Marina, featuring green seaweed.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aqua_marina_fresh_cleanser_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3978_1_thumbnail_4096.jpg",
+      "alt": "Pale pink, creamy cleanser Aqua Marina is being mixed in the palm of the hand. Nori seaweed forms part of the mixture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3978_1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aqua_marina_pink_fresh_cleanser_hero_image_newsite_2021_d314c062_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aqua_marina_pink_fresh_cleanser_hero_image_newsite_2021_d314c062_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Cleansers",
+    "Best for a calm face",
+    "Skincare",
+    "Vegan Skincare",
+    "Vegan",
+    "Self-Preserving Skincare",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "Ocean-inspired faves",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Bath and Shower",
+    "Self-care Under $20",
+    "Fresh",
+    "For the Nature-Lover",
+    "Hydrating Dry Skin",
+    "Calming Skin Redness",
+    "Clarifying Spot-Prone Skin",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Aloe Vera",
+    "Summer Essentials",
+    "Balancing Oily Skin"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "american-cream-pressed-conditioner",
+  "url": "https://www.lush.com/us/en_us/p/american-cream-pressed-conditioner",
+  "title": "American Cream",
+  "sku": "8956-NA",
+  "size": "55g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "This shine-enhancing, reparative conditioner will volumise strands for thick tresses that deserve to be in the spotlight. ",
+  "ingredients": [
+    "Cetearyl Alcohol",
+    "PEG-7 Glyceryl Cocoate",
+    "Polyquaternium-81",
+    "Polyquaternium-88",
+    "Guar Gum",
+    "Parfum",
+    "Aqua (Water)",
+    "Behentrimonium chloride",
+    "Cetrimonium Chloride",
+    "Propylene Glycol",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Fragaria Vesca Juice (Fresh Strawberry Juice)",
+    "Citrus Aurantium Dulcis Juice (Fresh Orange Juice)",
+    "Agave Tequilana Stem Extract (Organic Agave Syrup)",
+    "Titanium Dioxide",
+    "Hydrolyzed Wheat Protein",
+    "Alpha-Isomethyl Ionone",
+    "Coumarin",
+    "Red 33 Lake",
+    "Red 28 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_pressed_conditioner_2020_6516f091_thumbnail_4096.png",
+      "alt": "American Cream. A fuchsia pink, oval shaped solid conditioner bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_pressed_conditioner_2020_6516f091_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_conditioner_lush_labs_2019_01_1166b47e_thumbnail_4096.jpeg",
+      "alt": "A person with bobbed pink hair works American Cream, a pink, oval shaped solid conditioner bar, through their hair.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_conditioner_lush_labs_2019_01_1166b47e_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Conditioners",
+    "Vegan",
+    "Vegan Hair Products",
+    "Hair Care",
+    "Plastic Free",
+    "Plastic-Free Hair Care",
+    "Carry on with Lush",
+    "Self-care Under $20",
+    "American Cream",
+    "Scent Families",
+    "Travel-size Essentials",
+    "Berries & Cream Trifle",
+    "Customised Lush Gifts",
+    "Hydrating & Moisturizing Haircare",
+    "Vanilla",
+    "Gourmand"
+  ]
+}

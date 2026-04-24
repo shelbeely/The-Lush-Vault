@@ -1,0 +1,73 @@
+{
+  "slug": "boom-toothpaste-tabs",
+  "url": "https://www.lush.com/us/en_us/p/boom-toothpaste-tabs",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/boom-toothpaste-tabs",
+  "title": "Boom!",
+  "sku": "61258-NA",
+  "size": "50g",
+  "price": {
+    "amount": 12.0,
+    "currency": "USD",
+    "formatted": "$12.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 20,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "These charcoal toothpaste tablets will remove stains and have a whitening effect. Our toothpaste packaging is recyclable and all our oral care range is great on the go. ",
+  "ingredients": [
+    "Dicalcium Phosphate Anhydrous",
+    "Sodium Bicarbonate",
+    "Charcoal",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Lauroyl Sarcosine",
+    "Sorbitol",
+    "Kaolin",
+    "Maris Sal (Fine Sea Salt)",
+    "Flavour",
+    "Persian Lime Oil",
+    "Illicium Verum Fruit/Seed Oil (Aniseed Oil)",
+    "Piper Nigrum Fruit Oil (Black Pepper Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Powdered Gunpowder Tea",
+    "Organic Ground Chili",
+    "Sodium Saccharin",
+    "*Citral",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/boom_toothpaste_tabs_ecom_2022_1259a01b_thumbnail_4096.png",
+      "alt": "A pile of small, circular, black Boom! toothpaste tabs shot from above. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/boom_toothpaste_tabs_ecom_2022_1259a01b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/boom_toothpaste_tabs_hero_2000x1364_2022-3_2edc5f6b_thumbnail_4096.jpg",
+      "alt": "A person shows off their teeth and holds a small black Boom! toothpaste tab between their front teeth.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/boom_toothpaste_tabs_hero_2000x1364_2022-3_2edc5f6b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Oral Care",
+    "Vegan",
+    "Toothpastes",
+    "Summer Essentials",
+    "Keep Clean",
+    "Spicy",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Ways to Shop"
+  ]
+}

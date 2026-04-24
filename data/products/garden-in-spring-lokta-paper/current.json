@@ -1,0 +1,61 @@
+{
+  "slug": "garden-in-spring-lokta-paper",
+  "url": "https://www.lush.com/us/en_us/p/garden-in-spring-lokta-paper",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/garden-in-spring-lokta-paper",
+  "title": "Garden In Springtime",
+  "sku": "222276-NA",
+  "size": "35cm x 35cm",
+  "price": {
+    "amount": 3.0,
+    "currency": "USD",
+    "formatted": "$3.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Green fingers not run in the family? Show mum you care in your own way this Mother’s Day by wrapping up a gift in a colourful alternative to single-use wrapping paper.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/garden_in_springtime_lokta_wrap_mothers_day_2026_2bcd7e00_thumbnail_4096.png",
+      "alt": "Garden in Spring. A vibrant, square sheet of Lokta paper with a lush floral design. Small pink, purple, and yellow flowers are nestled among green leaves, covering the entire surface in a dense, meadow-like pattern on a soft green background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/garden_in_springtime_lokta_wrap_mothers_day_2026_2bcd7e00_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_d77f3d21_thumbnail_4.jpg",
+      "alt": "The image shows a round bath bomb wrapped in a sheet of \"Garden in Spring\" Lokta paper. The wrap is secured at the top with a yellow twine bow, creating a decorative gathered effect. The background shows a soft, botanical-themed bathroom setting.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_d77f3d21_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_0895ae01_thumbnail_4.jpg",
+      "alt": "The image shows a colourful sheet of \"Garden in Spring\" Lokta paper featuring a hand-painted floral design, wrapped around a spherical bath bomb gift and tied with a yellow twine bow. The background features a tiled background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_0895ae01_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_071919b5_thumbnail_4.jpg",
+      "alt": "The image shows a model with short hair, in a white robe, sitting on the edge of a tiled bath. They are holding a bath bomb wrapped in the \"Garden in Spring\" Lokta paper gathered on top and tied with yellow twine.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_garden_in_springtime_lokta_wrap_mothers_day_lush_2026_071919b5_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_garden_in_springtime_lokta_paper_mothers_day_texture__ced6c3ab_thumbnail_4.jpg",
+      "alt": "A vibrant close-up shows a sheet. of the \"Garden in Spring Lokta paper, featuring a hand-painted floral design with pink, purple, yellow, and blue flowers, and large, lush green leaves.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_garden_in_springtime_lokta_paper_mothers_day_texture__ced6c3ab_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mother’s Day",
+    "New Products",
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

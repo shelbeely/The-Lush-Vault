@@ -1,0 +1,77 @@
+{
+  "slug": "birth-of-venus-jelly-mask",
+  "url": "https://www.lush.com/us/en_us/p/birth-of-venus-jelly-mask",
+  "sourceUrl": "https://www.lush.com/au/en/p/birth-of-venus-jelly-mask",
+  "title": "Birth Of Venus",
+  "sku": "7373-AU",
+  "size": "60g",
+  "price": {
+    "amount": 22.0,
+    "currency": "AUD",
+    "formatted": "22.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "A masterpiece of toning fresh sea water, soothing lavender and calming chamomile blue for perfectly balanced skin.",
+  "ingredients": [
+    "Rosa Centifolia Flower Extract (Rose Petal Extract)",
+    "Kaolin",
+    "Glycerin",
+    "Propylene Glycol",
+    "Fresh Sea Water",
+    " Talc (Talc Powder)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Olibanum Oil",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Aqua (Water)",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 42090"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/birth_of_venus_jelly_mask_ecom_73fe48c4_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/birth_of_venus_jelly_mask_ecom_73fe48c4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_01_36ab39fd_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_01_36ab39fd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_05_2063d4b4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_05_2063d4b4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_06_842ca05b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-Birth-Of-Venus-Jelly-Face-Mask-Hero_06_842ca05b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Skincare",
+    "Face Masks",
+    "Calming Skin Redness",
+    "Sensitive skin"
+  ]
+}

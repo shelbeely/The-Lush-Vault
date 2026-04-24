@@ -1,0 +1,48 @@
+{
+  "slug": "christmas-balls-of-bicarb",
+  "url": "https://www.lush.com/us/en_us/p/christmas-balls-of-bicarb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/christmas-balls-of-bicarb",
+  "title": "Christmas Balls Of Bicarb",
+  "sku": "RS62919-NA",
+  "size": "Each",
+  "price": {
+    "amount": 4.5,
+    "currency": "USD",
+    "formatted": "$4.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 31,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Box up to five bath bombs in this reusable gift container.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Balls-Of-Bicarb-Gift-box_PDP_D_ef4a400e_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Balls-Of-Bicarb-Gift-box_PDP_D_ef4a400e_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Christmas-Balls-Of-Bicarb-Gift-Hero-02_41c7b90f_thumbnail_409.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2024-Christmas-Balls-Of-Bicarb-Gift-Hero-02_41c7b90f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Balls-Of-Bicarb-Gift-box_PDP_D_d99546ed_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Balls-Of-Bicarb-Gift-box_PDP_D_d99546ed_thumbnail_1.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Christmas"
+  ]
+}

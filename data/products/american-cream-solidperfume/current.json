@@ -1,0 +1,79 @@
+{
+  "slug": "american-cream-solidperfume",
+  "url": "https://www.lush.com/us/en_us/p/american-cream-solidperfume",
+  "title": "American Cream",
+  "sku": "62942-NA",
+  "size": "11g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 26,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "We’ve packed in big dollops of vanilla alongside a splash of benzoin resinoid in this solid perfume for the perfect sweet shake.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Parfum",
+    "Alpha-Isomethyl Ionone",
+    "Titanium Dioxide",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Salvia Sclarea Oil (Clary Sage Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "*Anise Alcohol",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Red 7 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_pack_11g_2024_HIRES_3312ef65_thumbnail_4096.png",
+      "alt": "American Cream. A short, cylindrical black push-up tube of the American Cream solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_pack_11g_2024_HIRES_3312ef65_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_hero_2024_2af1ab08_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_hero_2024_2af1ab08_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_hero_2024_1_85cf21e7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_hero_2024_1_85cf21e7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_pack_11g_2024_HIRES_32630fd9_thumbnail_4096.png",
+      "alt": "American Cream. A short, cylindrical black push-up tube of the American Cream solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/american_cream_solid_perfume_pack_11g_2024_HIRES_32630fd9_thumbnail_128.png"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Solid Perfume",
+    "Vegan Perfume",
+    "Vegan",
+    "Fragrances",
+    "American Cream",
+    "Travel-size Essentials",
+    "Vanilla",
+    "Gourmand",
+    "Small Gifts"
+  ]
+}

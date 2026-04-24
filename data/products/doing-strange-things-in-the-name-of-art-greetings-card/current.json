@@ -1,0 +1,49 @@
+{
+  "slug": "doing-strange-things-in-the-name-of-art-greetings-card",
+  "url": "https://www.lush.com/us/en_us/p/doing-strange-things-in-the-name-of-art-greetings-card",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/doing-strange-things-in-the-name-of-art-greetings-card",
+  "title": "Doing Strange Things In The Name Of Art",
+  "sku": "216170-NA",
+  "size": "15cm x 15cm",
+  "price": {
+    "amount": 4.0,
+    "currency": "USD",
+    "formatted": "$4.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 17,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This greetings card is made from 100% recycled paper and comes with a detachable pin badge made from 100% recycled plastic yogurt pots.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_greetings_card__55da857e_thumbnail_4.png",
+      "alt": "A Square greetings card with a warped white and neon green checkered design. A black badge sits in the centre with green text that reads \"Doing Strange Things In The Name Of Art\".",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_greetings_card__55da857e_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_gift_card_hero__a08a2cd7_thumbnail_4.jpg",
+      "alt": "The funky-patterned greetings card is sitting on a pastel table surrounded by a sculpture, flowers and a multitude of paintbrushes.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_gift_card_hero__a08a2cd7_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_hero_2024_8ccbc5b3_thumbnail_4096.jpg",
+      "alt": "A close-up of the black badge with the green text \"Doing Strange Things In The Name Of Art\" pinned to a baby pink denim jacket pocket. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/doing_strange_things_in_the_name_of_art_hero_2024_8ccbc5b3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Greeting Cards",
+    "Lifestyle"
+  ]
+}

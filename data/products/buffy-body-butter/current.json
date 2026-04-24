@@ -1,0 +1,85 @@
+{
+  "slug": "buffy-body-butter",
+  "url": "https://www.lush.com/us/en_us/p/buffy-body-butter",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/buffy-body-butter",
+  "title": "Buffy",
+  "sku": "265-NA",
+  "size": "95g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Our classic scrubby and moisturising body butter for you to buff your backside with ground rice. Slay dead skin and let hydrating butters leave you feeling angel soft.",
+  "ingredients": [
+    "Fair Trade Cocoa Butter",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Ground Rice",
+    "Prunus Amygdalus Dulcis Seed (Ground Almonds)",
+    "Ground Aduki Beans",
+    "Parfum",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Lemon Oil",
+    "*Citral",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_2020_thumbnail_4096.png",
+      "alt": "Buffy. A cream coloured, rounded square shaped, solid body butter, flecked with ground rice, almonds and aduki beans.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021-7_db1d2cf3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021-7_db1d2cf3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021_a04129f7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021_a04129f7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021-8_e7a6ee3c_thumbnail_4096.jpg",
+      "alt": "A person with long, curly hair holds Buffy, a cream coloured, square shaped solid body butter, on their water beaded shoulder.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/buffy_body_scrub_newsite_hero_2021-8_e7a6ee3c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Scrubs",
+    "Body Care",
+    "Vegan",
+    "Vegan Body Care Products",
+    "Vegan Shower Products",
+    "Shower Products",
+    "Winter Cosmetics",
+    "Skin Care for Cold Weather",
+    "Infuse a little luxury into your showers",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Discover bestselling goodies",
+    " Lightly-scented",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Cocoa Butter Collection",
+    "Ways to Shop",
+    "Summer Body Care"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "coconut-body-butter",
+  "url": "https://www.lush.com/us/en_us/p/coconut-body-butter",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/coconut-body-butter",
+  "title": "Coconut",
+  "sku": "63165-NA",
+  "size": "225g",
+  "price": {
+    "amount": 32.0,
+    "currency": "USD",
+    "formatted": "$32.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 35,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A supremely creamy coconut body butter cream, made with over 10% coconut ingredients and is one of our best body lotions for dry skin.",
+  "ingredients": [
+    "Coconut Infusion",
+    "Glycerin",
+    "Cocos Nucifera Oil (Coconut Oil)",
+    "Propylene Glycol",
+    "Astrocaryum Murumuru Seed Butter (Murumuru Butter)",
+    "Sesamum Indicum Seed Oil (Fair Trade Organic Sesame Oil)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Stearic Acid",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Mel (Organic Orange Blossom Honey)",
+    "Cetearyl Alcohol",
+    "Parfum",
+    "Triethanolamine",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Brazilian Orange Oil",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Organic Coconut Cream",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "Hexyl Cinnamal",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_ecom_2024_9bd85d66_thumbnail_4096.png",
+      "alt": "Coconut. A neatly smudged swatch of thick, creamy ivory-coloured body butter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_ecom_2024_9bd85d66_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_10_408b4544_thumbnail_4096.jpg",
+      "alt": "The image shows a close-up of the model, wrapped in a sage-green towel on a teal background. They are gently applying the Coconut body butter to their upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_10_408b4544_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_5_8ce02835_thumbnail_4096.jpg",
+      "alt": "The image shows the model wrapped in a sage-green towel on a teal background. They have blue hair with a full fringe and are gently applying the Coconut body butter to their upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_5_8ce02835_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_8_24b02023_thumbnail_4096.jpg",
+      "alt": "The image shows the model wrapped in a sage-green towel on a teal background. They have blue hair with a full fringe and are gently applying the Coconut body butter to their upper arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_8_24b02023_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_2_365e8100_thumbnail_4096.jpg",
+      "alt": "A close-up shot of the model's hands. One hand is holding the flat round, white, LUSH Version-themed packed tub of Coconut body butter. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_body_butter_lush_version_hero_2024_2_365e8100_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Lotions",
+    "The Lush Version",
+    "Body Care",
+    "Customised Lush Gifts",
+    "Gourmand",
+    "Skin Care for Cold Weather"
+  ]
+}

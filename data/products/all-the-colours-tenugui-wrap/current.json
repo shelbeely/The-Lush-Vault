@@ -1,0 +1,65 @@
+{
+  "slug": "all-the-colours-tenugui-wrap",
+  "url": "https://www.lush.com/us/en_us/p/all-the-colours-tenugui-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/all-the-colours-tenugui-wrap",
+  "title": "All The Colors Tenugui Wrap",
+  "sku": "216615-UN",
+  "size": "30cm x 90cm",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Gift one or two packaging-free Lush goodies in this reusable organic cotton wrap, then reuse it as a hand towel!",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gift-all-the-colours-tenugui-knot-wrap_42d35f5a_thumbnail_4096.png",
+      "alt": "All The Colours. An oblong, Tenugui-style fabric wrap placed vertically. There are horizontal layers of vividly bright colours ranging from neon yellow to deep purple.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gift-all-the-colours-tenugui-knot-wrap_42d35f5a_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_3_3a8538f3_thumbnail_4096.jpg",
+      "alt": "The image shows the model stood at the sink drying their hands with the All The Colours Tenugui knot wrap after having just washed their hands. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_3_3a8538f3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_1bb07ae3_thumbnail_4096.jpg",
+      "alt": "The image shows the colourful All The Colours Tenugui knot wrap folded neatly over the side of a sink as a freshly used soap slice sits beside it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_1bb07ae3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_4_3819b26a_thumbnail_4096.jpg",
+      "alt": "The image shows the model stood at the sink drying their hands with the All The Colours Tenugui knot wrap after having just washed their hands. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_2024_4_3819b26a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_texture_2024_86019ca8_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the All The Colours Tenugui knot wrap with the lighting focusing on the texture of the material and the vibrant colours. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_hero_texture_2024_86019ca8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_2024_0023_0eedffb2_thumbnail_4096.png",
+      "alt": "All The Colours. An oblong, Tenugui-style fabric wrap placed vertically. There are horizontal layers of vividly bright colours ranging from neon yellow to deep purple.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_colours_tenugui_knot_wrap_2024_0023_0eedffb2_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping"
+  ]
+}

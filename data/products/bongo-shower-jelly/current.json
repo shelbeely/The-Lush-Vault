@@ -1,0 +1,81 @@
+{
+  "slug": "bongo-shower-jelly",
+  "url": "https://www.lush.com/us/en_us/p/bongo-shower-jelly",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bongo-shower-jelly",
+  "title": "Bongo",
+  "sku": "9774-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 32,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "When it comes to fruity refreshment, you just can’t beat the wibbly-wobbly tropical goodness of this shower jelly.",
+  "ingredients": [
+    "Glycerin",
+    "Coconut Milk",
+    "Sodium Laureth Sulfate",
+    "Propylene Glycol",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Parfum",
+    "Fresh Mango Juice",
+    "Oakwood Absolute",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Aqua (Water)",
+    "Titanium Dioxide",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Coumarin",
+    "Orange 4"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bongo_shower_jelly_ecom_2024_42525d8c_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bongo_shower_jelly_ecom_2024_42525d8c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-04_4016b40d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-04_4016b40d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-01_1af36e7a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-01_1af36e7a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-06_1d4f4cb1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Bongo-Shower-Jelly-Hero-06_1d4f4cb1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Gong-Shower-Jelly-Hero_01_7cf0239e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Gong-Shower-Jelly-Hero_01_7cf0239e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bath and Shower",
+    "Vegan Shower Products",
+    "Shower Jellies",
+    "Shower Products",
+    "Vegan"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "blue-skies-and-fluffy-white-clouds-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/blue-skies-and-fluffy-white-clouds-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blue-skies-and-fluffy-white-clouds-bubble-bar",
+  "title": "Blue Skies and Fluffy White Clouds",
+  "sku": "4097-NA",
+  "size": "200g",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A double-sized bubble bar scented for when you need to get away from it all, this bubble bar will help you float off. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Zea Mays Starch (Cornstarch)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Frankincense Resinoid",
+    "Cinnamomum Zeylanicum Leaf Oil (Cinnamon Leaf Oil)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Amyl Cinnamal",
+    "*Eugenol",
+    "*Limonene",
+    "Parfum",
+    "Blue 1",
+    "Blue 1 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_bubble_bar_2020_e72e63d8_thumbnail_4096.png",
+      "alt": "Blue Skies and Fluffy White Clouds. A sky blue and white swirled, oval shaped, bubble bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_and_fluffy_white_clouds_bubble_bar_2020_e72e63d8_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_group_hero_2024__c4aa4c2e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_group_hero_2024__c4aa4c2e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__4_f1ad8d0c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__4_f1ad8d0c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__10_017bf5e0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__10_017bf5e0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__13_6d223924_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blue_skies_bubble_bar_hero_2024__13_6d223924_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Plastic Free",
+    "Bath and Shower",
+    "The Adventurer Mom",
+    "Customised Lush Gifts",
+    "The Mini Collection",
+    "Gifts for Dad",
+    "Bestsellers"
+  ]
+}

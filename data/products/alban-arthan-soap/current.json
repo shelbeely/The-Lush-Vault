@@ -1,0 +1,100 @@
+{
+  "slug": "alban-arthan-soap",
+  "url": "https://www.lush.com/us/en_us/p/alban-arthan-soap",
+  "title": "Alban Arthan",
+  "sku": "4166-NA",
+  "size": "100g",
+  "price": {
+    "amount": 11.5,
+    "currency": "USD",
+    "formatted": "$11.50",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": ""
+  },
+  "description": "A comforting olive oil soap to nourish the skin with barley and fresh watercress when the days are hard and short.",
+  "ingredients": [
+    "Rapeseed Oil; Coconut Oil",
+    "Barley Water",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Pinus Sylvestris Oil (Pine Oil)",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Abies Balsamea Extract (Fir Needle Extract)",
+    "Cocos Nucifera Oil (Organic Extra Virgin Coconut Oil)",
+    "Fresh Watercress",
+    "Sodium Chloride",
+    "Citric Acid",
+    "Titanium Dioxide",
+    "Sodium Hydroxide",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Alpha-Isomethyl Ionone",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1",
+    "Yellow 5",
+    "Red 30"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_jamie_reid_ecom_2024_46594027_thumbnail_40.png",
+      "alt": "Alban Arthan. A colourful, thick soap slice with a deep, ocean-blue base with large square flecks of off-white. In the centre is a large, yellow circle with warm red swirls.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_jamie_reid_ecom_2024_46594027_thumbnail_12.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024_c73a9f6f_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's hand, lathered up with blue, soapy suds while holding the Alban Arthan soap. Water is falling from above and there is a pale blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024_c73a9f6f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024__17_6611cd9a_thumbnail_4096.jpg",
+      "alt": "The model is standing under running shower water on a pale blue background. Their curly hair is tied up as they lather their shoulder with the Alban Arthan soap. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024__17_6611cd9a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024_3_9218e445_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's hands, lathered up with soapy suds while holding the Alban Arthan soap. Water is falling from above and there is a pale blue background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero_2024_3_9218e445_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero__2024_copy_51e88ef2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_arthan_winter_solstice_soap_hero__2024_copy_51e88ef2_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Collaborations",
+    "Handmade Soap",
+    "Shower Products",
+    "Vegan",
+    "Vegan Shower Products",
+    "Plastic Free",
+    "Keep Clean",
+    "Travel-size Essentials",
+    "Summer Essentials",
+    "Customised Lush Gifts",
+    "LUSH × Jamie Reid",
+    "For the Artist",
+    "Mint",
+    "Awake "
+  ]
+}

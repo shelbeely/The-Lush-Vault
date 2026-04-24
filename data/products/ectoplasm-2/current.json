@@ -1,0 +1,42 @@
+{
+  "slug": "ectoplasm-2",
+  "url": "https://www.lush.com/us/en_us/p/ectoplasm-2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/ectoplasm-2",
+  "title": "Ectoplasm",
+  "sku": "63182GIE-UK",
+  "size": "100g",
+  "price": {
+    "amount": 0.01,
+    "currency": "USD",
+    "formatted": "$0.01",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 25,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Raise your spirits",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ectoplasm_shower_cream_2024_905f6bb2_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ectoplasm_shower_cream_2024_905f6bb2_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_box_october_kitchen_landscape_hero_2024_2a9d87c9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_box_october_kitchen_landscape_hero_2024_2a9d87c9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

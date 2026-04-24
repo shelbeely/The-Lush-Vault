@@ -1,0 +1,104 @@
+{
+  "slug": "angels-on-bare-skin-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/angels-on-bare-skin-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/angels-on-bare-skin-cleanser",
+  "title": "Angels on Bare Skin",
+  "sku": "62529-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Sensitive skin sings to the heavens. This simple and effective fresh cleanser will leave even the most delicate faces feeling good as new.",
+  "ingredients": [
+    "Prunus Amygdalus Dulcis Seed (Ground Almonds)",
+    "Glycerin",
+    "Kaolin",
+    "Aqua (Water)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Lavender Flowers",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_ecom_2025_5c993ae5_thumbnail_4096.png",
+      "alt": "A close-up, top-down studio shot of a light tan, crumbly, dough-like facial cleanser (Lush's Angels on Bare Skin) spread in a dollop on a neutral background. The textured paste is visibly studded with small, dried purple and brown lavender buds",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_ecom_2025_5c993ae5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_2025_02_1819b21b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_2025_02_1819b21b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_2025_09_5bfa9f05_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_2025_09_5bfa9f05_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_texture_2025_01_53a62790_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/angels_on_bare_skin_cleanser_texture_2025_01_53a62790_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_angels_on_bare_skin_fresh_cleanser_lush_2025_01_1_aa250972_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_angels_on_bare_skin_fresh_cleanser_lush_2025_01_1_aa250972_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Cleansers",
+    "Best for a calm face",
+    "Skincare",
+    "Vegan Skincare",
+    "Vegan",
+    "Cult Classics",
+    "Calming Skin Redness",
+    "Winter Cosmetics",
+    "Bestsellers",
+    "Self-Preserving Skincare",
+    "Face Scrubs & Exfoliators",
+    "Skincare Routines",
+    "Skin Care for Cold Weather",
+    "Super Powered Ingredients",
+    "Lavender",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Self-care Under $20",
+    "Fresh",
+    "Floral",
+    "Balancing Oily Skin",
+    "Clarifying Spot-Prone Skin",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "Teen skin",
+    "Mature skin",
+    "Refresh Your Routine ",
+    "Our Staff Picks",
+    "Spring Skincare",
+    "Bring it Back "
+  ]
+}

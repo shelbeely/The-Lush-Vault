@@ -1,0 +1,95 @@
+{
+  "slug": "clear-the-air-lush-melt",
+  "url": "https://www.lush.com/us/en_us/p/clear-the-air-lush-melt",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/clear-the-air-lush-melt",
+  "title": "Clear the Air",
+  "sku": "393-NA",
+  "size": "70g",
+  "price": {
+    "amount": 10.5,
+    "currency": "USD",
+    "formatted": "$10.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 48,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Usher in some clarity with this crisp home fragrance blend of peppermint, eucalyptus and lemongrass to shift the atmosphere in the room and uplift your space.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cetearyl Olivate & Sorbitan Olivate",
+    "PEG-7 Glyceryl Cocoate",
+    "Polysorbate 20",
+    "Glyceryl Stearate",
+    "Silica",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Parfum",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Eucalyptus Globulus Oil (Eucalyptus Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Moringa Oil",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Propylene Glycol",
+    "*Citral",
+    "*Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Blue 1 Lake",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/clean_the_air_lush_melt_2023_0d1d6220_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/clean_the_air_lush_melt_2023_0d1d6220_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/clear_the_air_lush_melt_bath_hero_portrait_2023_7c190e04_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/clear_the_air_lush_melt_bath_hero_portrait_2023_7c190e04_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/clear_the_air_lush_melt_hero_portrait_2023_02aec1db_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/clear_the_air_lush_melt_hero_portrait_2023_02aec1db_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Home Fragrances",
+    "Fragrances",
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Lifestyle",
+    "Bath Oils",
+    "Plastic Free",
+    "Keep Your Cool with Summer Essentials",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "New Creations. New Sensations.",
+    "Bath and Shower",
+    "Peppermint Oil",
+    "Gifts for Cancer",
+    "Customised Lush Gifts",
+    "Cocoa Butter Collection",
+    "For the Artist",
+    "For the Nature-Lover",
+    "Awake ",
+    "Mint"
+  ]
+}

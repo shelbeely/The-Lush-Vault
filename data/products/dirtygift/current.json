@@ -1,0 +1,82 @@
+{
+  "slug": "dirtygift",
+  "url": "https://www.lush.com/us/en_us/p/dirtygift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirtygift",
+  "title": "Dirty",
+  "sku": "63470-NA",
+  "size": "Each",
+  "price": {
+    "amount": 63.0,
+    "currency": "USD",
+    "formatted": "$63.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 24,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "There ain't nothin' dirty about this gift! Revive your routine with a sultry liaison of thyme and spearmint oil for your shower, scent and shaving routines!",
+  "ingredients": [],
+  "badges": [
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-PDP_01_2_c99251f7_thumbnail_4096.PNG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-PDP_01_2_c99251f7_thumbnail_128.PNG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-Hero_01_61da3ee1_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-Hero_01_61da3ee1_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-Hero_03_3e78e749_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Dirty-Gift-Hero_03_3e78e749_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_02_Digital_-2024-PDP_Hero_e9fa1529_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-Dirty-Shaving-Cream-Hero_02_Digital_-2024-PDP_Hero_e9fa1529_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/summer-essentials-2021-item-4-outback-mate-soap-vertica_962745a8_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/summer-essentials-2021-item-4-outback-mate-soap-vertica_962745a8_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-2_1_c3dc3322_thumbnail_4096.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_springwash_shower_gels_2022-2_1_c3dc3322_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gifts",
+    "Gifts for Her",
+    "Shower Gifts",
+    "Perfume Gift Sets",
+    "Gifts for Him",
+    "Gifts for Them",
+    "Dirty",
+    "Gifts for Every Budget",
+    "Gifts by Recipient",
+    "Gifts for Dad",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Mint",
+    "Sporty Soaperstar Gifts",
+    "Body Sprays",
+    "Gifts Over $50"
+  ]
+}

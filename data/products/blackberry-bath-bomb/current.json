@@ -1,0 +1,64 @@
+{
+  "slug": "blackberry-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/blackberry-bath-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/blackberry-bath-bomb",
+  "title": "Blackberry",
+  "sku": "2172-UN",
+  "size": "190g",
+  "price": {
+    "amount": 5.0,
+    "currency": "GBP",
+    "formatted": "5.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "This fruity favourite has returned - Pick this berry when you need to untangle knotted thoughts. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Olibanum Oil",
+    "Aqua (Water)",
+    "Hexyl Cinnamal",
+    "*Limonene",
+    "*Linalool",
+    "Colour 42053",
+    "Colour 17200"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blackberry_bath_bomb_2023_1bd40826_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blackberry_bath_bomb_2023_1bd40826_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blackberry_bath_bomb_hero_ayr_4770cf65_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blackberry_bath_bomb_hero_ayr_4770cf65_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Plastic Free",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Customised Lush Gifts"
+  ]
+}

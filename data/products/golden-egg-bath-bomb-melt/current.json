@@ -1,0 +1,104 @@
+{
+  "slug": "golden-egg-bath-bomb-melt",
+  "url": "https://www.lush.com/us/en_us/p/golden-egg-bath-bomb-melt",
+  "sourceUrl": "https://www.lush.com/uk/en/p/golden-egg-bath-bomb-melt",
+  "title": "Golden Egg",
+  "sku": "978-UN",
+  "size": "100g",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "How do you like your Golden Egg bath bomb melt on Easter morning? We like ours covered in sparkle with a side of skin-softening cocoa butter.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "PEG-7 Glyceryl Cocoate",
+    "Zea Mays Starch (Cornstarch)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Brazilian Orange Oil",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Aqua (Water)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Sodium Coco-Sulfate",
+    "Cocamidopropyl Betaine",
+    "Dipropylene Glycol",
+    "Silica",
+    "Tin Oxide",
+    "Amyl Cinnamal",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Colour 77491",
+    "Colour 19140:1",
+    "Colour 47005",
+    "Colour 42090",
+    "Colour 19140"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_day_2024_c0014730_thumbnail_4096.png",
+      "alt": "Golden Egg. A perfectly egg-shaped bath bomb covered in thick, lustrous golden glitter, shimmering under the light. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_day_2024_c0014730_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_easter_hero_2026_1_copy_c245e532_thumbnail_4096.jpg",
+      "alt": "An oval, textured Golden Egg bath bomb coated in a vibrant, metallic gold shimmer sits on the edge of a white bathtub. The background features soft mint green tiles and a black faucet. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_easter_hero_2026_1_copy_c245e532_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_3_43ae70af_thumbnail_4096.jpg",
+      "alt": "An oval Golden Egg bath bomb coated in a vibrant, metallic gold shimmer dissolves in water. It releases thick, neon yellow and lime green foam that swirls across the surface. All glitter used is plastic-free.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_3_43ae70af_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_7_33d0072f_thumbnail_4096.jpg",
+      "alt": "The Golden Egg bath bomb dissolves in a pool of vibrant green water, releasing a core of bright turquoise foam. Shimmering, plastic-free gold glitter sparkles throughout the swirling bubbles and neon-colored ripples.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_bath_bomb_melt_easter_hero_2026_7_33d0072f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_golden_egg_bath_bomb_melt_easter_hero_2026_8_cbd64bc7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_golden_egg_bath_bomb_melt_easter_hero_2026_8_cbd64bc7_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Gourmand",
+    "Honey I Washed The Kids",
+    "Easter",
+    "Bath Bombs",
+    "Sweet",
+    "Beauty Gifts Under £10",
+    "Gifts for Kids & Teens",
+    "Sweet & Comforting",
+    "Leaving Soon"
+  ]
+}

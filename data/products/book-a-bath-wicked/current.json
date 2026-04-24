@@ -1,0 +1,53 @@
+{
+  "slug": "book-a-bath-wicked",
+  "url": "https://www.lush.com/us/en_us/p/book-a-bath-wicked",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/book-a-bath-wicked",
+  "title": "Book a Bath: Wicked",
+  "sku": "40120-NA",
+  "size": "40120-NA",
+  "price": {
+    "amount": 75.0,
+    "currency": "USD",
+    "formatted": "$75.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "The Wicked Book A Bath is a 30 minute self-led immersive bathing experience. Defy gravity as you relax in the bath with two bewitching products that are part of our exclusive Wicked x Lush collection, then enjoy an amazafying selection of skincare and body products.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Lush.com_908x908px_1366ca54_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Lush.com_908x908px_1366ca54_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_1_a4083a92_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_1_a4083a92_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_2_218014e4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_2_218014e4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_3_ae10b152_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9060_WickedForGood_BAB_Carousel_3_ae10b152_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Spa",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Spa Treatments"
+  ]
+}

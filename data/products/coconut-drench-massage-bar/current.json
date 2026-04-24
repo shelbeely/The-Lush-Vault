@@ -1,0 +1,86 @@
+{
+  "slug": "coconut-drench-massage-bar",
+  "url": "https://www.lush.com/us/en_us/p/coconut-drench-massage-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/coconut-drench-massage-bar",
+  "title": "Coconut Drench",
+  "sku": "438-NA",
+  "size": "65g",
+  "price": {
+    "amount": 15.0,
+    "currency": "USD",
+    "formatted": "$15.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "You'll be coconuts about this moisturising body massage bar and moisturiser. A delicious blend of tonka and vanilla add a rich and cosy sweet fragrance.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Butyrospermum Parkii Butter (Organic Shea Butter)",
+    "Parfum",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Babassu Oil",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Carrot Seed Oil",
+    "Organic Linseed Oil",
+    "*Anise Alcohol",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bar_2022_3b198012_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bar_2022_3b198012_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bars6585_b83fef00_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bars6585_b83fef00_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bars6617_ba0dab59_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/coconut_drench_massage_bars6617_ba0dab59_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Massage Oil Bars",
+    "Body Care",
+    "Vegan",
+    "Hand Care",
+    "Foot Care",
+    "Vegan Body Care Products",
+    "Rewild your routine",
+    "Plastic Free",
+    "Plastic-Free Body Care",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Ways to Shop",
+    "Vanilla",
+    "Gourmand",
+    "Skin Care for Cold Weather",
+    "Bestsellers",
+    "Trending Now"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "flourish-in-colour-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/flourish-in-colour-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/flourish-in-colour-knot-wrap",
+  "title": "Flourish in Color",
+  "sku": "222272-NA",
+  "size": "100cm x 100cm",
+  "price": {
+    "amount": 22.0,
+    "currency": "USD",
+    "formatted": "$22.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Life would be a dull old thing without mums, so this Mother’s Day bundle up their Lush favourites in a bright, reusable Knot Wrap to show your love and appreciation.",
+  "ingredients": [],
+  "badges": [
+    "Organic Cotton",
+    "Size: Large - 90-120cm"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_knot_wrap_mothers_day_2026_35b523fe_thumbnail_4096.png",
+      "alt": "Flourish In Colour. A vibrant, square fabric knot-wrap with a hand-painted floral design. Pink, purple, yellow, and blue flowers are scattered across a bright lime-green background with a hot-pink border",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_knot_wrap_mothers_day_2026_35b523fe_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_knot_wrap_mothers_day_2026_02_acda0e5b_thumbnail_4096.jpg",
+      "alt": "A person's hand holds the \"Flourish In Colour\" fabric knot-wrap, tied at the top to form a bag. The vibrant material features pink and blue flowers on a lime-green background. It rests on a wooden bath bridge in a bathroom with pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_knot_wrap_mothers_day_2026_02_acda0e5b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_flourish_in_colour_knotwrap_mothers_day_lush_2026_17_3123d08e_thumbnail_4.jpg",
+      "alt": "A model's hand holds the colourful \"Flourish In Colour\" knot-wrap, tied at the top to form a gift bag. The material features a hand-painted floral design in pink, blue, and yellow on a green background, set in a bright, botanical-themed bathroom.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_flourish_in_colour_knotwrap_mothers_day_lush_2026_17_3123d08e_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_flourish_in_colour_knotwrap_mothers_day_lush_2026_11_e84cbecf_thumbnail_4.jpg",
+      "alt": "A close-up of a model in a white dressing gown, tying a \"Flourish In Colour\" fabric knot-wrap. The vibrant material, featuring hand-painted flowers on a lime-green background, is being secured into a knot over a gift on a pale green tiled surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_flourish_in_colour_knotwrap_mothers_day_lush_2026_11_e84cbecf_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_flourish_in_colour_knotwrap_mothers_day_lush_2026_04_d83c92e2_thumbnail_4.jpg",
+      "alt": "A close-up of a model in a white dressing gown, tying a \"Flourish In Colour\" fabric knot-wrap. The vibrant material, featuring hand-painted flowers on a lime-green background, is being secured into a knot over a gift on a pale green tiled surface.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_flourish_in_colour_knotwrap_mothers_day_lush_2026_04_d83c92e2_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_wrap_mothers_day_texture_2026_14_dce4e7a6_thumbnail_4096.jpg",
+      "alt": "A super close-up texture shot of the \"Flourish In Colour\" fabric knot wrap. The image focuses on the soft texture of the knot wrap material and the vibrancy of the colours in the floral, hand-painted design.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/flourish_in_colour_wrap_mothers_day_texture_2026_14_dce4e7a6_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mother’s Day",
+    "New Products",
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

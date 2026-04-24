@@ -1,0 +1,92 @@
+{
+  "slug": "butter-wouldnt-melt-lush-melt",
+  "url": "https://www.lush.com/us/en_us/p/butter-wouldnt-melt-lush-melt",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/butter-wouldnt-melt-lush-melt",
+  "title": "Sticky Dates",
+  "sku": "396-NA",
+  "size": "70g",
+  "price": {
+    "amount": 10.5,
+    "currency": "USD",
+    "formatted": "$10.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Cosy up with this melt to bathe your home in rich, caramel warmth. Pop a square or two into your oil burner or bath and let waves of sweet vanilla and comforting sandalwood wrap you up.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cetearyl Olivate & Sorbitan Olivate",
+    "PEG-7 Glyceryl Cocoate",
+    "Polysorbate 20",
+    "Silica",
+    "Glyceryl Stearate",
+    "Parfum",
+    "Cetearyl Alcohol",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Sandalwood Oil",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Titanium Dioxide",
+    "Aqua (Water)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Benzyl Alcohol",
+    "Iron Oxides",
+    "Yellow 10",
+    "Yellow 6 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_2023_64ebc249_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_2023_64ebc249_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_bath_hero_portrait_2023_55437922_thumbnail_409.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_bath_hero_portrait_2023_55437922_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_hero_portrait_2023_bd5052d0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butter_wouldnt_melt_lush_melt_hero_portrait_2023_bd5052d0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Home Fragrances",
+    "Fragrances",
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Lifestyle",
+    "Bath Oils",
+    "Plastic Free",
+    "New Creations. New Sensations.",
+    "Bath and Shower",
+    "Winter Bath & Shower Products",
+    "Winter Cosmetics",
+    "Gourmand",
+    "Sticky Dates",
+    "Cosy Season",
+    "Caramel Latte",
+    "Autumn & Winter Fragrances",
+    "Blissful Bather Gifts"
+  ]
+}

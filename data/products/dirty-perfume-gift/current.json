@@ -1,0 +1,51 @@
+{
+  "slug": "dirty-perfume-gift",
+  "url": "https://www.lush.com/us/en_us/p/dirty-perfume-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-perfume-gift",
+  "title": "Dirty Perfume",
+  "sku": "60969-NA",
+  "size": "40g",
+  "price": {
+    "amount": 60.0,
+    "currency": "USD",
+    "formatted": "$60.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A perfect gift for perfume lovers, ethically wrapped and ready to go. Our Dirty fragrance is refreshingly minty scented and wrapped in an exclusively designed reusable Knot Wrap.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_knot_wrap_perfume_gift_pr_2021_276a0d44_thumbnail_4096.png",
+      "alt": "Dirty. A perfume bottle, wrapped in an artistic white, blue, yellow, orange and red knot wrap, complete with a brown gift tag.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_knot_wrap_perfume_gift_pr_2021_276a0d44_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_knot_wrap_perfume_gift_hero_image_2021_03_1_4e6b9443_thumbnail_4096.jpg",
+      "alt": "Dirty lies on a light blue background, alongside its two elements: a small bottle of Dirty perfume and a colourful knot wrap.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_knot_wrap_perfume_gift_hero_image_2021_03_1_4e6b9443_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gifts",
+    "Perfumes",
+    "Dirty",
+    "Fragrances",
+    "Layer on a dose of herbaceous freshness",
+    "Dads Deserve Pampering",
+    "Perfume Gift Sets"
+  ]
+}

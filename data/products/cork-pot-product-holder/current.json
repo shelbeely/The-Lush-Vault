@@ -1,0 +1,55 @@
+{
+  "slug": "cork-pot-product-holder",
+  "url": "https://www.lush.com/us/en_us/p/cork-pot-product-holder",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cork-pot-product-holder",
+  "title": "Cork Pot",
+  "sku": "29435-NA",
+  "size": "30g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 18,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "100% natural, reusable and biodegradable, the Cork Pot is a carbon-positive piece of packaging, removing over 33 times its weight in carbon dioxide for every single pot.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cork_pot_2020_b667fa73_thumbnail_4096.png",
+      "alt": "Cork Pot. A round, beige, product holder made of natural cork. LUSH is printed on top, in black, bold letters.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cork_pot_2020_b667fa73_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Cork_Pot_eed2410f_thumbnail_4096.jpg",
+      "alt": "A round, natural Cork Pot product holder is being used to store a bright blue Seanik shampoo bar, just visible under the lid.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Cork_Pot_eed2410f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Shampoo",
+    "Shampoo Bars",
+    "Containers & Packaging",
+    "Lifestyle",
+    "Summer Essentials",
+    "Bathroom Accessories",
+    "Rewild your routine",
+    "Hair Care",
+    "Carry on with Lush",
+    "For the Nature-Lover",
+    "Travel-size Essentials",
+    "Gifts for Sagittarius",
+    "Customised Lush Gifts"
+  ]
+}

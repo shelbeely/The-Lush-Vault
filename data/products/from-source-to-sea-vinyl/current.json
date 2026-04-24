@@ -1,0 +1,49 @@
+{
+  "slug": "from-source-to-sea-vinyl",
+  "url": "https://www.lush.com/us/en_us/p/from-source-to-sea-vinyl",
+  "sourceUrl": "https://www.lush.com/uk/en/p/from-source-to-sea-vinyl",
+  "title": "From Source To Sea",
+  "sku": "200437-UK",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "GBP",
+    "formatted": "20.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "These traditional work songs and sea shanties were fused with modern day folk music.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/from_source_to_sea_vinyl_2021____thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/from_source_to_sea_vinyl_2021____thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Spa-Vinyl-2024-Source-Of-The-Sea-Hero-02_0d5207f4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Spa-Vinyl-2024-Source-Of-The-Sea-Hero-02_0d5207f4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Spa-Vinyl-From-Source-To-Sea-PDP-Hero-Flat-Lay-01_7f02f184_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Spa-Vinyl-From-Source-To-Sea-PDP-Hero-Flat-Lay-01_7f02f184_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Music",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Books & Music"
+  ]
+}

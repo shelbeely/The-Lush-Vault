@@ -1,0 +1,84 @@
+{
+  "slug": "bananaaaa-shower-cream",
+  "url": "https://www.lush.com/us/en_us/p/bananaaaa-shower-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bananaaaa-shower-cream",
+  "title": "Bananaaaa",
+  "sku": "63090-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 12.5,
+    "currency": "USD",
+    "formatted": "$12.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Doing a boss’s dirty work is no mean feat. That’s why no self-respecting minion would be without this creamy, bananary-scented gel after a hard day’s badness.\n",
+  "ingredients": [
+    "Sodium Lauryl Sulfate",
+    "Glycerin",
+    "Oat Milk",
+    "Sodium Cocoamphoacetate",
+    "Coconut Cream Infusion",
+    "Lauryl Betaine",
+    "Parfum",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Titanium Dioxide",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Coumarin",
+    "Yellow 10 Lake"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_2024_b430c80f_thumbnail_4096.png",
+      "alt": "Bananaaaa. A perfectly circular swatch of thick, glossy, brilliantly-yellow shower cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_2024_b430c80f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9044_250gPack_3314f430_thumbnail_4096.png",
+      "alt": "A classic LUSH shower gel bottle made with clear plastic. The bright yellow shower cream is visible through the bottle and there is a mischievous Minion face printed on the front. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9044_250gPack_3314f430_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_minions_2024_06_1a2f928f_thumbnail_4096.jpg",
+      "alt": "The image shows the model's forearms as they squeeze the bottle of Bananaaa shower cream to catch the yellow product from below. There is running shower water and a pale blue background. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_minions_2024_06_1a2f928f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9044_500gPack_388dc62f_thumbnail_4096.png",
+      "alt": "A classic LUSH shower gel bottle made with clear plastic. The bright yellow shower cream is visible through the bottle and there is a mischievous Minion face printed on the front. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9044_500gPack_388dc62f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_minions_2024_29_7c67bac2_thumbnail_4096.jpg",
+      "alt": "The image shows the model standing under running shower water as they face away from the camera. They have lathered the Bananaaaa shower cream over their shoulder and back. The Minions X LUSH logo is at the bottom. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bananaaa_shower_gel_minions_2024_29_7c67bac2_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Collaborations",
+    "Vegan",
+    "Shower Gels",
+    "Shower Products",
+    "Vegan Shower Products",
+    "Minions × Lush",
+    "Customised Lush Gifts",
+    "Gifts for Kids & Teens",
+    "Banana Beauty",
+    "Vanilla",
+    "Gourmand"
+  ]
+}

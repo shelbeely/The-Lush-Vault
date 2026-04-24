@@ -1,0 +1,96 @@
+{
+  "slug": "banoffee-pie-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/banoffee-pie-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/banoffee-pie-shower-gel",
+  "title": "Banoffee Pie",
+  "sku": "64870-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 11.5,
+    "currency": "USD",
+    "formatted": "$11.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Easter calls for something special, how about a shower gel scented like caramel-like, creamy banoffee pie? Made with fresh banana to keep skin soft and soothed.",
+  "ingredients": [
+    "Glycerin",
+    "Sodium Cocoamphoacetate",
+    "Sodium Laureth Sulfate",
+    "Aqua (Water)",
+    "Maris Sal (Fine Sea Salt)",
+    "Fresh Bananas",
+    "Calcium Gluconate",
+    "Calcium Lactate",
+    "Lauryl Betaine",
+    "Parfum",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Zea Mays Starch (Cornstarch)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Coumarin",
+    "Yellow 5",
+    "Yellow 5 Lake"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_ecom_2026_e5517f9b_thumbnail_4096.png",
+      "alt": "A smooth, circular dollop of creamy yellow shower gel with a glossy finish. The thick, opaque liquid features tiny air bubbles and is centered against a clean, neutral grey background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_ecom_2026_e5517f9b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_19_a8ddf50b_thumbnail_4096.jpg",
+      "alt": "A hand holds a bottle of Lush Banoffee Pie shower gel under a stream of water in a shower. The clear bottle reveals the creamy yellow gel inside, and the black label features white text. Mint green tiles are in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_19_a8ddf50b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_2_78beda7a_thumbnail_4096.jpg",
+      "alt": "A person's hands are shown in a shower, with one hand holding an upside-down bottle of Lush Banoffee Pie shower gel. A thick stream of the creamy yellow gel is being squeezed into the palm of the other hand against a background of mint green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_2_78beda7a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_28_6811ac28_thumbnail_4096.jpg",
+      "alt": "A close-up of a person’s arms and hands in a shower, lathering a light, soapy foam. The background features mint green wall tiles and the soft, vertical spray of water from a showerhead.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_28_6811ac28_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_10_46d49c6e_thumbnail_4096.jpg",
+      "alt": "A person's side profile in the shower, applying a light, bubbly soap lather to their shoulder. The background features light mint green wall tiles and the soft spray of falling water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_10_46d49c6e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_4_f4893619_thumbnail_4096.jpg",
+      "alt": "A person's back and shoulder are shown from behind in a shower as they apply a light, creamy soap lather. The background features light mint green wall tiles and the steady, soft spray of falling water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/banoffee_pie_shower_gel_easter_hero_2026_4_f4893619_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "New Products",
+    "Easter",
+    "Gourmand",
+    "Shower Products",
+    "Shower Gels",
+    "Vegan Shower Products",
+    "Personalized Shower Gels",
+    "Banana Beauty",
+    "Spring Cleaning"
+  ]
+}

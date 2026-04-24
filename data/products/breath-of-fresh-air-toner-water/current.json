@@ -1,0 +1,86 @@
+{
+  "slug": "breath-of-fresh-air-toner-water",
+  "url": "https://www.lush.com/us/en_us/p/breath-of-fresh-air-toner-water",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/breath-of-fresh-air-toner-water",
+  "title": "Breath Of Fresh Air",
+  "sku": "2811-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 20,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Want to know how to rehydrate skin on the go? Our most refreshing cleansing water toner for the face balances and tones skin with mineral rich ingredients .",
+  "ingredients": [
+    "Spring Water",
+    "Fresh Sea Water",
+    "Fair Trade Organic Aloe Vera Gel",
+    "Parfum",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Seaweed Absolute",
+    "*Limonene",
+    "*Linalool",
+    "Methylparaben"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2020_thumbnail_4096.png",
+      "alt": "Droplets of transparent Breath of Fresh Air toner water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2025_03_e7c2470f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2025_03_e7c2470f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2025_04_91c9e158_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/breath_of_fresh_air_toner_water_2025_04_91c9e158_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_breath_of_fresh_air_toner_water_lush_2025_01_dda0932a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_breath_of_fresh_air_toner_water_lush_2025_01_dda0932a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Toners",
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "Brightening Dull Skin",
+    "Hydrating Dry Skin",
+    "Summer Essentials",
+    "Skincare Routines",
+    "Cooling",
+    "Ocean-inspired faves",
+    "Carry on with Lush",
+    "For the Nature-Lover",
+    " Lightly-scented",
+    "Travel-size Essentials",
+    "Rosemary",
+    "Ways to Shop",
+    "By Ingredients",
+    "Aloe Vera"
+  ]
+}

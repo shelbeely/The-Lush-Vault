@@ -1,0 +1,78 @@
+{
+  "slug": "all-the-best-gift",
+  "url": "https://www.lush.com/us/en_us/p/all-the-best-gift",
+  "title": "All the Best",
+  "sku": "60618-NA",
+  "size": "60618-NA",
+  "price": {
+    "amount": 46.0,
+    "currency": "USD",
+    "formatted": "$46.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "Leave them feeling their best with this handmade gift. These bestsellers are citrusy,  sweet and ethically sourced for body and shower. ",
+  "ingredients": [],
+  "badges": [
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_best_ribbon_updated_pr_gift_2021_thumbnail_4096.png",
+      "alt": "All the Best. A square box, wrapped in green, floral printed banana paper, tied with pink ribbon and a yellow gift tag.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_best_ribbon_updated_pr_gift_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/all_the_best_gift_hero_image_2021_01_thumbnail_4096.jpeg",
+      "alt": "All the Best, opened onto a light blue surface, with its included products and eco packaging pops arranged randomly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/all_the_best_gift_hero_image_2021_01_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/honey_I_washed_the_kids_soap_hero_image_2021-1_0b32a352_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/honey_I_washed_the_kids_soap_hero_image_2021-1_0b32a352_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_image_2020_modelTL01-1_913cb0b8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dream_cream_body_lotion_hero_image_2020_modelTL01-1_913cb0b8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/the_olive_branch_shower_gel_2022-4_1_9ded4476_thumbnail_4096.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/the_olive_branch_shower_gel_2022-4_1_9ded4476_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_rub_rub_rub_body_scrub_hero_image_2020_modelbws_1feb088b_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Copy_of_rub_rub_rub_body_scrub_hero_image_2020_modelbws_1feb088b_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Shower Gifts",
+    "Gifts for Her",
+    "Gifts for Them",
+    "Gifts",
+    "Birthday Gifts",
+    "Gifts for Him",
+    "Gifts for Friends",
+    "Bath & Body Gifts",
+    "Corporate Gifts",
+    " LUSH x Lazy Oaf",
+    "Gifts for Sagittarius",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "eGift Cards",
+    "Gifts Under $50"
+  ]
+}

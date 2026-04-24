@@ -1,0 +1,104 @@
+{
+  "slug": "cherry-on-top-soap",
+  "url": "https://www.lush.com/us/en_us/p/cherry-on-top-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cherry-on-top-soap",
+  "title": "Cherry On Top",
+  "sku": "4670-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.0,
+    "currency": "USD",
+    "formatted": "$10.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Pop your cherry with this firm and fruity soap, inspired by mouthwatering fruit sandwich recipes from Japan.",
+  "ingredients": [
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Parfum",
+    "Organic Cherry Juice",
+    "Cocos Nucifera Oil (Organic Extra Virgin Coconut Oil)",
+    "Titanium Dioxide",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Mimosa Absolute",
+    "Citrus Aurantium Amara Flower Extract (Orange Flower Extract)",
+    "Sodium Chloride",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Citric Acid",
+    "Sodium Hydroxide",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Alpha-Isomethyl Ionone",
+    "Benzyl Alcohol",
+    "Coumarin",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "Red 4",
+    "Red 33",
+    "Green 5",
+    "Yellow 8"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_on_top_soap_valentines_2026_dc315524_thumbnail_4096.png",
+      "alt": "Cherry On Top. An off-square slice of cream-coloured soap which features a cross-section design of a large dark pink cherry with a large green leaf.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_on_top_soap_valentines_2026_dc315524_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_on_top_soap_lush_2026_29_569682c3_thumbnail_4096.jpg",
+      "alt": "A square Cherry On Top soap bar with a dark cherry and green leaf design sits in a small dish on a pink table. A person with pink-tipped nails reaches for the soap near a white bathtub and a vase of pink flowers.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_on_top_soap_lush_2026_29_569682c3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_on_top_soap_lush_2026_06_267facc0_thumbnail_4096.jpg",
+      "alt": "A person with pink-tipped nails holds the cream-coloured Cherry On Top soap bar over a white bathtub. The soap features a large dark pink cherry and green leaf design, its surface wet from the bathwater.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_cherry_on_top_soap_lush_2026_06_267facc0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_on_top_soap_lush_2026_08_d16e8ab4_thumbnail_4096.jpg",
+      "alt": "A person with pink-tipped nails uses the cream-coloured Cherry On Top soap bar to lather their skin in a white bathtub. The soap, featuring a dark pink cherry and green leaf design, creates white foam on their wet skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_cherry_on_top_soap_lush_2026_08_d16e8ab4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_cherry_on_top_soap_lush_2026_23_3474bb0d_thumbnail_4096.jpg",
+      "alt": "A person with pink-tipped nails washes their arms in a white bathtub. White soap suds from the Cherry On Top soap cover their wet skin under a stream of water. In the background, a red curtain, yellow robe, and red strawberry jar are visible.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_cherry_on_top_soap_lush_2026_23_3474bb0d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/06_cherry_on_top_soap_lush_2026_01_1556ce6e_thumbnail_4096.jpg",
+      "alt": "A close-up image showing white soap suds and bubbles dripping down a person's wet skin after using a Lush Cherry On Top soap bar. The foamy lather creates organic patterns against the skin in a brightly lit bathroom setting.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/06_cherry_on_top_soap_lush_2026_01_1556ce6e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Shower Products",
+    "Shower Products",
+    "Plastic Free",
+    "Vegan",
+    "Bath and Shower",
+    "Handmade Soap",
+    "Team Appreciation Gifts",
+    "Floral"
+  ]
+}

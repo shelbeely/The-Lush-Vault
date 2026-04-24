@@ -1,0 +1,77 @@
+{
+  "slug": "celebrate-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/celebrate-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/celebrate-shower-gel",
+  "title": "Celebrate Shower Gel",
+  "sku": "60637-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 44,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Crack open the bubbly and shower yourself in delicious sweet wild orange and lime oils. ",
+  "ingredients": [
+    "Vine Leaf Infusion",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Sodium Cocoamphoacetate",
+    "Lauryl Betaine",
+    "Parfum",
+    "*Limonene",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Fresh Grape Juice",
+    "Lactic Acid",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Aqua (Water)",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Linalool",
+    "Orange 4"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_2023_1d852a35_thumbnail_4096.png",
+      "alt": "Celebrate. A perfectly circular swatch of glossy, vibrant, orange shower gel. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_2023_1d852a35_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_3_07f555bc_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's hand as they squeeze the Celebrate shower gel into their hand under running shower water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_3_07f555bc_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_13_de863d3b_thumbnail_4096.jpg",
+      "alt": "Image shows a close-up of the model's back as they face away. They are lathering up the shower gel on their shoulder.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_13_de863d3b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_9_e1d5ab7f_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's hands and forearms as they get soapy, shower gel suds over their skin under the shower water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_9_e1d5ab7f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_8_40b02bd8_thumbnail_4096.jpg",
+      "alt": "We see from shoulders and above as the model is under the shower water lathering up their skin with Celebrate shower gel.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/celebrate_shower_gel_hero_2023_8_40b02bd8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Party",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

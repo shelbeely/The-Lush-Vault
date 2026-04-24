@@ -1,0 +1,68 @@
+{
+  "slug": "25-43-body-spray",
+  "url": "https://www.lush.com/us/en_us/p/25-43-body-spray",
+  "sourceUrl": "https://www.lush.com/au/en/p/25-43-body-spray",
+  "title": "25:43",
+  "sku": "64672-AU",
+  "size": "200ml",
+  "price": {
+    "amount": 75.0,
+    "currency": "AUD",
+    "formatted": "75.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Allow the limited edition 25:43 perfume to whisk you away with fresh and citrusy litsea and lemongrass, before falling into the arms of a big hug of tonka and vanilla.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Litsea Cubeba Fruit Oil (Litsea Cubeba Oil)",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "Coumarin",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/25-43_body_spray_pack_ecom_2025_d62a5394_thumbnail_4096.png",
+      "alt": "A black, curvy spray bottle of 25:43 Body Spray with a black trigger nozzle, centered on a black background. The label is black with white text detailing the product name and description, and it features a bright green \"LUSH CLUB\" sticker.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/25-43_body_spray_pack_ecom_2025_d62a5394_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/25_43_body_spray_black_friday_lush_2025_01_386264fc_thumbnail_4096.jpg",
+      "alt": "\nA black spray bottle of 25:43 Body Spray stands on a reflective surface against a soft blue and white gradient background. It is flanked by a lime half, a vanilla bean, and a stalk of fresh lemongrass.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/25_43_body_spray_black_friday_lush_2025_01_386264fc_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_c623a5c0_thumbnail_4096.jpg",
+      "alt": "Six Lush Club fragrances (Body Spray in Snowcake, VIMT-NO, 25:43; Perfume in Big Blue, Candy Rain, Black Pearl) are shown floating diagonally against a vibrant green and yellow background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_c623a5c0_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Body Sprays"
+  ]
+}

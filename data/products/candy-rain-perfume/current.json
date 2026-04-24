@@ -1,0 +1,71 @@
+{
+  "slug": "candy-rain-perfume",
+  "url": "https://www.lush.com/us/en_us/p/candy-rain-perfume",
+  "sourceUrl": "https://www.lush.com/au/en/p/candy-rain-perfume",
+  "title": "Candy Rain",
+  "sku": "64669-AU",
+  "size": "30ml",
+  "price": {
+    "amount": 65.0,
+    "currency": "AUD",
+    "formatted": "65.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "au"
+  },
+  "description": "Spritz on the sweet-as-can-be fragrance of Candy Rain with this limited edition perfume of creamy tonka and cocoa absolute, with mouth-watering buchu oil.",
+  "ingredients": [
+    "Alcohol Denat. (Organic)",
+    "Parfum",
+    "Aqua (Water)",
+    "Glycerin",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Theobroma Cacao Extract (Cocoa Extract)",
+    "Barosma Betulina Leaf Oil (Buchu Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Benzyl Salicylate",
+    "*Cinnamal",
+    "*Citral",
+    "Coumarin",
+    "Eugenol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_perfume_ecom_2025_88465385_thumbnail_4096.png",
+      "alt": "A clear glass square bottle of Candy Rain Perfume containing amber-colored liquid and a black spray top, is centered on a light grey background. The label is black with white, handwritten-style text and a small green \"LUSH CLUB\" sticker.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_perfume_ecom_2025_88465385_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_black_friday_perfume_lush_2025_1_43f62a74_thumbnail_4096.jpg",
+      "alt": "A clear glass bottle of Candy Rain Perfume with amber liquid stands on a reflective surface against an orange and pink gradient background. It is flanked by almonds, a dark raisin, and several pieces of creamy white cocoa butter. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/candy_rain_black_friday_perfume_lush_2025_1_43f62a74_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_0dc6e620_thumbnail_4096.jpg",
+      "alt": "Six Lush Club fragrances (Body Spray in Snowcake, VIMT-NO, 25:43; Perfume in Big Blue, Candy Rain, Black Pearl) are shown floating diagonally against a vibrant green and yellow background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/black_friday_fragrance_group_lush_2025_portrait_1_0dc6e620_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Perfume"
+  ]
+}

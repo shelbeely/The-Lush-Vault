@@ -1,0 +1,65 @@
+{
+  "slug": "be-cool-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/be-cool-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/be-cool-knot-wrap",
+  "title": "Be Cool Knot Wrap",
+  "sku": "218926-NA",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 8.0,
+    "currency": "USD",
+    "formatted": "$8.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 3,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Say happy birthday to your unique friend with a gift of wonderful Lush inventions tied up in this colourful organic cotton Knot Wrap.",
+  "ingredients": [
+    "Organic cotton"
+  ],
+  "badges": [
+    "Size: Small - 35-55cm",
+    "Organic Cotton"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_ecom_a2aee680_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_ecom_a2aee680_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_float_hero_portrait_1b62d4de_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_float_hero_portrait_1b62d4de_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_texture_hero_portrait_6fe30902_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_texture_hero_portrait_6fe30902_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_hero_04_414ac2dc_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_hero_04_414ac2dc_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_ecom_da6b21fc_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2024-Be-Cool-Knot-Wrap_ecom_da6b21fc_thumbnail_128.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Lifestyle"
+  ]
+}

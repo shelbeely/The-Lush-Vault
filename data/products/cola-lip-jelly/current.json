@@ -1,0 +1,81 @@
+{
+  "slug": "cola-lip-jelly",
+  "url": "https://www.lush.com/us/en_us/p/cola-lip-jelly",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cola-lip-jelly",
+  "title": "Cola",
+  "sku": "62526-NA",
+  "size": "7g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 18,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "For lips that are parched, pop open a little cola and feel the hydration soothe dry lips.",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Glycerin",
+    "Rhus Verniciflua Peel Wax (Berry Wax)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Arrowroot Powder",
+    "*Limonene",
+    "Piper Nigrum Fruit Oil (Black Pepper Oil)",
+    "Cistus Ladaniferus Resin (Labdanum Resinoid)",
+    "Cold Pressed Raspberry Seed Oil",
+    "Tocopherol",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "Synthetic Fluorphlogopite",
+    "*Citral",
+    "Flavour",
+    "Iron Oxides",
+    "Red 30",
+    "Zinc Oxide"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2023_74b637e5_thumbnail_4096.png",
+      "alt": "Cola. A neatly smudged swatch of thick, syrupy, molasses-coloured lip jelly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2023_74b637e5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_08_da266c19_thumbnail_4096.jpg",
+      "alt": "The model is on a pastel pink, blue and purple hue background in a vivid teal jumper. They are glancing away with the focal point being the juicy coating of grounding, earth-toned tint on their lips created by the Cola lip jelly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_08_da266c19_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_02_ae771cd7_thumbnail_4096.jpg",
+      "alt": "The model is on a pastel pink, blue and purple hue background in a vivid teal jumper. They are glancing away with the focal point being the juicy coating of grounding, earth-toned tint on their lips created by the Cola lip jelly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_02_ae771cd7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_13_9e3b308a_thumbnail_4096.jpg",
+      "alt": "The model is on a pastel pink, blue and purple hue background in a vivid teal jumper. They are using a thin lip brush to apply a juicy coating of grounding, earth-toned tint on their lips created by the Cola lip jelly.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cola_lip_jelly_2024_13_9e3b308a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Lipstick",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Vegan Makeup",
+    "Makeup",
+    "Halloween Makeup"
+  ]
+}

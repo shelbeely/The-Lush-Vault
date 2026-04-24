@@ -1,0 +1,79 @@
+{
+  "slug": "death-and-decay-perfume",
+  "url": "https://www.lush.com/us/en_us/p/death-and-decay-perfume",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/death-and-decay-perfume",
+  "title": "Death and Decay",
+  "sku": "1674-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 180.0,
+    "currency": "USD",
+    "formatted": "$180.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 5,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A calming room of freshly cut flowers. Let this floral perfume transport you to a serene space where the fullness of beauty and its inevitable decay can be contemplated without fear. The message is one of meditation, acceptance and optimism delivered in a glorious, floral flourish.",
+  "ingredients": [
+    "DRF Alcohol",
+    "Parfum",
+    "Hydroxycitronellal",
+    "Aqua (Water)",
+    "Coumarin",
+    "Glycerin",
+    "*Linalool",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Dipteryx Odorata Seed Extract (Tonka Seed Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Alpha-Isomethyl Ionone",
+    "Amyl Cinnamal",
+    "Benzyl Alcohol",
+    "Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "Benzyl Salicylate",
+    "*Cinnamal",
+    "Cinnamyl Alcohol",
+    "*Citral",
+    "Citronellol",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/death_and_decay_the_perfume_library_100ml_perfume_2021_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with dark amber liquid. A black label reads 'The Perfume Library' and 'Death and Decay'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/death_and_decay_the_perfume_library_100ml_perfume_2021_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/death_and_decay_perfume_library_hero5386-edit_thumbnail_4096.jpg",
+      "alt": "A number of black label perfume bottles are arranged randomly, with Death and Decay in the centre, lid off, ready to spritz.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/death_and_decay_perfume_library_hero5386-edit_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Vegan",
+    "Vegan Perfume",
+    "Perfumes",
+    "Autumn & Winter Fragrances",
+    "Jasmine",
+    "Floral"
+  ]
+}

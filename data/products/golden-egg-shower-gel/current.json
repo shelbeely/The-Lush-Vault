@@ -1,0 +1,99 @@
+{
+  "slug": "golden-egg-shower-gel",
+  "url": "https://www.lush.com/us/en_us/p/golden-egg-shower-gel",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/golden-egg-shower-gel",
+  "title": "Golden Egg",
+  "sku": "61902DP-NA",
+  "size": "250ml",
+  "price": {
+    "amount": 29.0,
+    "currency": "USD",
+    "formatted": "$29.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Bring the shimmer to your shower this Easter with this Golden Egg scented showstopper.",
+  "ingredients": [
+    "Glycerin",
+    "Sodium Cocoamphoacetate",
+    "Aqua (Water)",
+    "Sodium Laureth Sulfate",
+    "Calcium Lactate",
+    "Maris Sal (Fine Sea Salt)",
+    "Lauryl Betaine",
+    "Parfum",
+    "Lactic Acid",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Brazilian Orange Oil",
+    "Titanium Dioxide",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Silica",
+    "*Citronellol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 77491",
+    "Colour 19140"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_day_2024_63a28183_thumbnail_4096.png",
+      "alt": "Golden Egg. A perfectly circular swatch of glossy, golden shower gel packed with glittery, gold lustre throughout. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_day_2024_63a28183_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_2_6d9c67b5_thumbnail_4096.jpg",
+      "alt": "A bottle of Lush Golden Egg shower gel filled with shimmering gold glitter liquid sits on a tiled shower ledge. The view is partially obscured by a glass shower door covered in clear water droplets.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_2_6d9c67b5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_23_e2961e95_thumbnail_4096.jpg",
+      "alt": "A person's hands and arms are shown in the shower, covered in a thick, creamy yellow lather. The shimmering gel creates a smooth, moisturizing texture against the skin, set against a background of mint green tiles and falling water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_23_e2961e95_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_32_320497d2_thumbnail_4096.jpg",
+      "alt": "A woman seen from behind in the shower, applying a light, bubbly lather to her shoulder. The background features light mint green wall tiles and the soft, vertical spray of falling water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_32_320497d2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_37_copy_ab2c7379_thumbnail_4096.jpg",
+      "alt": "A woman with reddish-brown hair smiles in the shower while lathering a shimmering gold gel onto her shoulder. The background features light mint green tiles and the soft, vertical spray of falling water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_37_copy_ab2c7379_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_33_7fe4d093_thumbnail_4096.jpg",
+      "alt": "A close-up of a person's skin in the shower, covered in a thin layer of shimmering gold-tinted soap suds. Small, delicate white bubbles are scattered across the damp skin, creating a glistening, hydrated texture.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/golden_egg_shower_gel_easter_hero_2026_33_7fe4d093_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Shower Products",
+    "Shower Gels",
+    "Vegan Shower Products",
+    "Easter",
+    "Gourmand",
+    "Personalized Shower Gels",
+    "Glitter Products",
+    "Leaving Soon",
+    "Honey"
+  ]
+}

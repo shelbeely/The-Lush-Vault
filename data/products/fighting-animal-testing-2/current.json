@@ -1,0 +1,51 @@
+{
+  "slug": "fighting-animal-testing-2",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fighting-animal-testing-2",
+  "title": "Fighting Animal Testing",
+  "sku": "29955-NA",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "By purchasing one of these, not only will you help to raise awareness for the ongoing fight against testing cosmetic products on animals – you'll also be supporting the efforts of re-wrap, empowering women in India through training and employment in handcrafting sustainable textile products.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fighting_animal_testing_bag_2020_ffec5b88_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fighting_animal_testing_bag_2020_ffec5b88_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/f.at_summit_swag_tote_hero_2018-4_f21c0a3f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/f.at_summit_swag_tote_hero_2018-4_f21c0a3f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Advocate in style",
+    "Gifts for Dad",
+    " LUSH x Lazy Oaf",
+    "Zodiac Gift Guide",
+    "Gifts for Cancer",
+    "Gifts for Kids & Teens",
+    "Gifts for Mum",
+    "For the Artist"
+  ]
+}

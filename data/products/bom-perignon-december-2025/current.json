@@ -1,0 +1,42 @@
+{
+  "slug": "bom-perignon-december-2025",
+  "url": "https://www.lush.com/us/en_us/p/bom-perignon-december-2025",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bom-perignon-december-2025",
+  "title": "Bom Perignon",
+  "sku": "64727-NA",
+  "size": "64727-NA",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Fizzy citrus fragrance",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bom_perignon_perfume_10ml_kitchen_ecom_2025_981a5d68_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bom_perignon_perfume_10ml_kitchen_ecom_2025_981a5d68_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/standard_box_kitchen_decemeber_hero_landscape_2025_c18d39a1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/standard_box_kitchen_decemeber_hero_landscape_2025_c18d39a1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

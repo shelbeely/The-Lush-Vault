@@ -1,0 +1,68 @@
+{
+  "slug": "bubblegum-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/bubblegum-lip-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bubblegum-lip-scrub",
+  "title": "Bubblegum",
+  "sku": "3056-NA",
+  "size": "25g",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Brighten your day with a sweep of this popular bubblegum-pink lip scrub.",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Alpha-Isomethyl Ionone",
+    "Aroma",
+    "Red 21 Lake"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bubblegum_lip_scrub_2020_thumbnail_4096.png",
+      "alt": "Bubblegum. A neatly piled swatch of thick, textured, vibrant pink lip scrub with visible sugar granules.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bubblegum_lip_scrub_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mouthcare-bubblegum-lip-scrub-hero_Digital_-2024-PDP_He_e5f30c7a_thumbnail_4.jpg",
+      "alt": " A close-up shot of a person's finger dipping into a small glass jar of Lush 'Bubblegum' lip scrub. The scrub has a vibrant pink, grainy sugar texture. The jar features a bright pink label with white text. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mouthcare-bubblegum-lip-scrub-hero_Digital_-2024-PDP_He_e5f30c7a_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mouth-Bubblegum-Lip-Scrub-Hero_04_Digital_-2024-PDP_Her_bfb04f77_thumbnail_4.jpg",
+      "alt": "A model smiles while applying the Lush \"Bubblegum\" lip scrub to their bottom lip with a finger. They hold a small glass jar, which features a pink label with white text, in their other hand against a plain pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mouth-Bubblegum-Lip-Scrub-Hero_04_Digital_-2024-PDP_Her_bfb04f77_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Mouth-Bubblegum-Lip-Scrub-Hero_02_Digital_-2024-PDP_Her_8a580d97_thumbnail_4.jpg",
+      "alt": "A close-up shot of a model smiling widely while applying the Lush \"Bubblegum\" lip scrub to their bottom lip with a finger against a plain pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Mouth-Bubblegum-Lip-Scrub-Hero_02_Digital_-2024-PDP_Her_8a580d97_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lip Scrubs & Balms",
+    "Vegan",
+    "Skincare",
+    "Summer Essentials",
+    "Carry on with Lush",
+    "Travel-size Essentials",
+    "Colorful Products"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "fighting-animal-testing",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fighting-animal-testing",
+  "title": "Fighting Animal Testing",
+  "sku": "208485-NA",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 18,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "It's black and white - testing on animals needs to stop. What better way to store all your cruelty-free essentials than in a pouch that tells everyone what you stand for?",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fighting_animal_testing_pouch_2020_f538a4ff_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fighting_animal_testing_pouch_2020_f538a4ff_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/f.at_summit_swag_pouch_hero_2018-3_25f08654_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/f.at_summit_swag_pouch_hero_2018-3_25f08654_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Makeup",
+    "Summer Essentials",
+    "Advocate in style",
+    "Carry on with Lush",
+    "Travel-size Essentials"
+  ]
+}

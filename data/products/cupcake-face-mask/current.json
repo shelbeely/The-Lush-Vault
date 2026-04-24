@@ -1,0 +1,85 @@
+{
+  "slug": "cupcake-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/cupcake-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cupcake-face-mask",
+  "title": "Cupcake",
+  "sku": "64958-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 9,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Treat spot-prone skin to some exceedingly good quality time this Mother’s Day, with a chocolate-scented fresh face mask that’ll mop up excess oils with no fuss.",
+  "ingredients": [
+    "Silt (Rhassoul Mud)",
+    "Glycerin",
+    "Aqua (Water)",
+    "Kaolin",
+    "Theobroma Cacao Seed Powder (Cocoa Powder)",
+    "Cocoa Butter",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Santalum Album Oil (Sandalwood Oil)",
+    "Linseed Extract",
+    "Mentha Piperita Leaf (Fresh Mint)",
+    "*Farnesol",
+    "*Limonene",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_2026_b3dac533_thumbnail_4096.png",
+      "alt": "Cupcake. A neatly smeared swatch of thick, dark brown clay-like face mask with a matte, textured finish.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_2026_b3dac533_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_1_daa27d02_thumbnail_409.jpg",
+      "alt": "An open pot of dark brown \"Cupcake\" fresh face mask sits on pale green bathroom tiles. In the background, a small tray holds gold rings and hoop earrings, next to a glass vase with a green plant.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_1_daa27d02_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_5_22483c6a_thumbnail_409.jpg",
+      "alt": "A close-up of a model smiling while applying a dark brown \"Cupcake\" face mask to their cheek with their hand. They are wearing a white dressing gown, set against a blurred bathroom background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_5_22483c6a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_8_1a56a3b6_thumbnail_409.jpg",
+      "alt": "A close-up of a model smiling while applying a dark brown \"Cupcake\" face mask to their forehead with their hand. They are wearing a white dressing gown, set against a blurred bathroom background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_8_1a56a3b6_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_11_eb0b590a_thumbnail_40.jpg",
+      "alt": "A model is smiling broadly while applying a thick, dark brown \"Cupcake\" face mask to their forehead and cheeks. They are wearing a white dressing gown and gold hoop earrings, set against a background of pale green bathroom tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cupcake_fresh_face_mask_mothers_day_fresh_hero_2026_11_eb0b590a_thumbnail_12.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Skincare",
+    "Vegan",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Vegan Skincare",
+    "Balancing Oily Skin",
+    "Mother’s Day",
+    "Clarifying Spot-Prone Skin",
+    "Posh Chocolate"
+  ]
+}

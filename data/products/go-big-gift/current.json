@@ -1,0 +1,87 @@
+{
+  "slug": "go-big-gift",
+  "url": "https://www.lush.com/us/en_us/p/go-big-gift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/go-big-gift",
+  "title": "Go Big",
+  "sku": "62336-NA",
+  "size": "Each",
+  "price": {
+    "amount": 65.0,
+    "currency": "USD",
+    "formatted": "$65.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Boost your hair from flat to full with a trio of sea salt products for the perfect volumising hair care routine.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_big_hair_care_gift_pr_image_2024_2ad3ec18_thumbnail_4096.png",
+      "alt": "Go Big. A tall, fabric, pink and yellow zip pouch bag with three LUSH hair care products sat in front. There is a hair mist spray, a solid conditioner bar and a LUSH tub of shampoo. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_big_hair_care_gift_pr_image_2024_2ad3ec18_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_08_5655fed1_thumbnail_4096.jpg",
+      "alt": "The image shows the model in a lavender-purple loungewear set, with curly blonde hair on a warm, earth-toned background holding the Go Big haircare gift bag up to the camera.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_08_5655fed1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_14_1_9dc02c59_thumbnail_4096.jpg",
+      "alt": "The image shows the model in a lavender-purple loungewear set, with curly blonde hair on a warm, earth-toned background holding the Go Big haircare gift bag and taking out the contents.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_14_1_9dc02c59_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_22_491182fb_thumbnail_4096.jpg",
+      "alt": "The image shows the Go Big pouch bag along with the three included haircare products sitting on top of a wicker hamper on a warm, earth-toned background. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_big_gift_ayr_2024_22_491182fb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/big_shampoo_go_big_gift_ayr_2024_78_9b10c771_thumbnail_4096.jpg",
+      "alt": "The model is in a pastel-purple swimsuit facing away as they lather up their hair with the included shampoo product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/big_shampoo_go_big_gift_ayr_2024_78_9b10c771_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_big_finished_hair_gift_ayr_2024_20_1_7d21bd43_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_big_finished_hair_gift_ayr_2024_20_1_7d21bd43_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Them",
+    "Gifts",
+    "Hair Care",
+    "Vegan",
+    "Gifts for Friends",
+    "Vegan Hair Products",
+    "Gifts for Mum",
+    "Travel-size Essentials",
+    "Birthday Gifts",
+    "Gifts for Aries",
+    "Gifts for Cancer",
+    "Gifts by Recipient",
+    "Gifts for Every Budget",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Shop Haircare By Benefit",
+    "Volumizing Haircare",
+    "Soften & Shine Haircare",
+    "Leaving Soon"
+  ]
+}

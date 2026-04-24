@@ -1,0 +1,102 @@
+{
+  "slug": "cup-o-coffee-face-and-body-mask",
+  "url": "https://www.lush.com/us/en_us/p/cup-o-coffee-face-and-body-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cup-o-coffee-face-and-body-mask",
+  "title": "Cup O' Coffee",
+  "sku": "5552-NA",
+  "size": "325g",
+  "price": {
+    "amount": 36.0,
+    "currency": "USD",
+    "formatted": "$36.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Wake up with our bestselling coffee-infused face and body mask, as ground coffee beans and organic agave revive and restore. Ideal for perking up dull skin.",
+  "ingredients": [
+    "Agave Tequilana Stem Extract (Organic Agave Syrup)",
+    "Kaolin",
+    "Glycerin",
+    "Coffee Infusion",
+    " Talc (Talc Powder)",
+    "Ground Coffee",
+    "Bentone",
+    "Perfume",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Roasted Cocoa Extract",
+    "Coriandrum Sativum Seed Oil (Coriander Seed Oil)",
+    "Caffeine Powder",
+    "*Coumarin",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2020_thumbnail_4096.png",
+      "alt": "A swatch of Cup o' Coffee, a brown, creamy face and body mask, textured with ground coffee.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_03_2fb2d52c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_03_2fb2d52c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_14_8aa98721_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_14_8aa98721_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_32_2f67671a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cup_o_coffee_face_and_body_mask_2024_32_2f67671a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Skincare",
+    "Vegan Skincare",
+    "Vegan",
+    "Brightening Dull Skin",
+    "Self-Preserving Skincare",
+    "Skin Care for Cold Weather",
+    "Skincare Routines",
+    "Super Powered Ingredients",
+    "Dads Deserve Pampering",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Put your best fresh face forward",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Gourmand",
+    "Scent Families",
+    "The Sports Star Mom",
+    "Summer Treats",
+    "Zodiac Gift Guide",
+    "Gifts for Capricorn",
+    "For the Artist",
+    "Ways to Shop",
+    "Hydrating Dry Skin",
+    "Skincare By Needs",
+    "Summer Body Care",
+    "Summer Essentials",
+    "Caramel Latte",
+    "Small Gifts",
+    "Blissful Bather Gifts"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "cocoa-butter-hand-and-body-lotion",
+  "url": "https://www.lush.com/us/en_us/p/cocoa-butter-hand-and-body-lotion",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cocoa-butter-hand-and-body-lotion",
+  "title": "Cocoa Butter",
+  "sku": "63158-NA",
+  "size": "225g",
+  "price": {
+    "amount": 30.0,
+    "currency": "USD",
+    "formatted": "$30.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 34,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A sublime, creamy combination of fair trade cocoa butter and fragrance almond oils for the skin. A nostaligc scent, with herbal notes and a smooth impression. ",
+  "ingredients": [
+    "Aqua (Water)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Stearic Acid",
+    "Triethanolamine",
+    "Santalum Album Oil (Sandalwood Oil)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Cetearyl Alcohol",
+    "Alpha-Isomethyl Ionone",
+    "Amyl Cinnamal",
+    "Benzyl Alcohol",
+    "Benzyl Benzoate",
+    "Benzyl Salicylate",
+    "*Citral",
+    "Citronellol",
+    "Geraniol",
+    "Hydroxycitronellal",
+    "Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_ecom_2024_b5c921a7_thumbnail_409.png",
+      "alt": "Cocoa Butter. A neatly smudged swatch of creamy, white, hand and body lotion.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_ecom_2024_b5c921a7_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__5e453f7d_thumbnail_40.jpg",
+      "alt": "The image shows the model's arms stretched into the centre holding the white, LUSH Version-themed packed pot of the Cocoa Butter hand and body lotion. One of their hands is scooping the product out. There is a teal background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__5e453f7d_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__6d8af587_thumbnail_40.jpg",
+      "alt": "The image shows a close-up of half the model's torso. They are wearing a white cropped top and high-waisted trousers, on a teal background. They are gently soothing the Cocoa Butter lotion to their arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__6d8af587_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__a9f04d98_thumbnail_40.jpg",
+      "alt": "The image shows a close-up of half the model's torso. They are wearing a white cropped top and high-waisted trousers, on a teal background. They are gently soothing the Cocoa Butter lotion to their arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__a9f04d98_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__66904469_thumbnail_40.jpg",
+      "alt": "The image shows the model who has blue hair with a full fringe and space buns. They are wearing a white cropped top and high-waisted trousers, on a teal background. They are gently soothing the Cocoa Butter lotion to their arm. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cocoa_butter_hand__body_lotion_lush_version_hero_2024__66904469_thumbnail_12.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Body Lotions",
+    "The Lush Version",
+    "Hand Care",
+    "Body Care",
+    "Vegan Body Care Products",
+    "Self-Preserving Skincare",
+    "Customised Lush Gifts",
+    "Gourmand"
+  ]
+}

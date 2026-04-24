@@ -1,0 +1,102 @@
+{
+  "slug": "glindas-wedding-dress-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/glindas-wedding-dress-bath-bomb",
+  "sourceUrl": "https://www.lush.com/uk/en/p/glindas-wedding-dress-bath-bomb",
+  "title": "Glinda's Wedding Dress",
+  "sku": "64606-UN",
+  "size": "245g",
+  "price": {
+    "amount": 8.5,
+    "currency": "GBP",
+    "formatted": "8.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "This Wicked: For Good x Lush bath bomb blooms with exquisite violet, powdery rose and a centre of fizzing butterflies.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Zea Mays Starch (Cornstarch)",
+    "Parfum",
+    "Violet Leaf Absolute",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Orris Butter",
+    "Aqua (Water)",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Titanium Dioxide",
+    "Zein (Corn Protein)",
+    "Alcohol Denat.",
+    "Synthetic Fluorphlogopite",
+    "Dipropylene Glycol",
+    "Sodium Coco-Sulfate",
+    "Cocamidopropyl Betaine",
+    "Propylene Glycol",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 47005:1",
+    "Colour 45410:1",
+    "Colour 45410",
+    "Colour 77491",
+    "Colour 45410:2"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/glindas_wedding_dress_bath_bomb_lush_x_wicked_2025_lush_28b0b0e5_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/glindas_wedding_dress_bath_bomb_lush_x_wicked_2025_lush_28b0b0e5_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-10_005c78cb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-10_005c78cb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-8_1ff82fb1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-8_1ff82fb1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-2_d3b7acaf_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-2_d3b7acaf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-5_e6a190ad_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-5_e6a190ad_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-7_97cc0c7c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wiced_for_good_GLINDAS_WEDDING_DRESS-7_97cc0c7c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Collaborations",
+    "Bath Products",
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Bombs",
+    "Wicked: For Good × Lush"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "comforter-rose-body-scrub",
+  "url": "https://www.lush.com/us/en_us/p/comforter-rose-body-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/comforter-rose-body-scrub",
+  "title": "Comforter Rose",
+  "sku": "64766-NA",
+  "size": "100g",
+  "price": {
+    "amount": 9.5,
+    "currency": "USD",
+    "formatted": "$9.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Inspired by The Comforter? Lush Spa treatment, let soothing rose oil, sugar and hydrating illipe butter comfort the skin as you buff this body scrub all over.",
+  "ingredients": [
+    "Sucrose (Granulated Sugar)",
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Cinnamomum Camphora Oil (Ho Wood Oil)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Lauryl Betaine",
+    "*Citral",
+    "Citronellol",
+    "Geraniol",
+    "Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Rosa Centifolia Flower (Dried Red Rose Petals)"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/comforter_rose_sugar_scrub_lush_2026_1_c7d99a70_thumbnail_4096.png",
+      "alt": "The Rose Comforter. A white, dome-shaped solid body scrub with a crystalline, salt-like texture. The top of the sphere is decorated with dried pink and yellow rose petals.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/comforter_rose_sugar_scrub_lush_2026_1_c7d99a70_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_the_comforter_rose_body_scrub_spa_products_lush_2026_58f7ffde_thumbnail_4.jpg",
+      "alt": "The image shows the \"Comforter Rose\" solid body scrub topped with dried rose petals, sitting on a beige stone tray in a bathroom. A pink flannel is tucked beside it, set against a background of soft pink wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_the_comforter_rose_body_scrub_spa_products_lush_2026_58f7ffde_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_comforter_rose_body_scrub_spa_products_lush_2026_01_c1617f01_thumbnail_40.jpg",
+      "alt": "A model in a bath uses the white, dome-shaped \"Comforter Rose\" solid body scrub. They are rubbing the textured surface against their leg, leaving a fine, white exfoliating residue on the skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_comforter_rose_body_scrub_spa_products_lush_2026_01_c1617f01_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_comforter_rose_body_scrub_spa_products_lush_2026_07_0fa50f86_thumbnail_40.jpg",
+      "alt": "A model in a bath uses a white, dome-shaped \"Comforter Rose\" solid body scrub. They are rubbing the textured surface against their shoulder, leaving a fine, white exfoliating residue on their skin.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_comforter_rose_body_scrub_spa_products_lush_2026_07_0fa50f86_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_comforter_rose_body_scrub_spa_products_lush_2026_09_8729cae2_thumbnail_40.jpg",
+      "alt": "A close-up shot of wet skin with droplets of water and a trail of white, salt-like exfoliating granules. A hand with a pinkish tint is seen at the top, pressing down on the skin as if applying a scrub.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_comforter_rose_body_scrub_spa_products_lush_2026_09_8729cae2_thumbnail_12.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Body Scrubs",
+    "Shower Products",
+    "Vegan Shower Products",
+    "Spa Treatments"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "garden-mural-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/garden-mural-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/garden-mural-knot-wrap",
+  "title": "Garden Mural Knot Wrap",
+  "sku": "222274-UN",
+  "size": "50cm x 50cm",
+  "price": {
+    "amount": 6.0,
+    "currency": "GBP",
+    "formatted": "6.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "If your mum wants to spend Mother’s Day in nature, bundle up some of their favourite Lush products in a Knot Wrap that shares their passion for all things green.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [
+    "Size: Small - 35-55cm"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/garden_mural_knot_wrap_mothers_day_2026_b19e36f6_thumbnail_4096.png",
+      "alt": "Garden Mural. A vibrant, square fabric knot-wrap features a hand-painted scene on a bright blue background. The design includes a large sun, a tall green plant, a soaring black bird, a fox, a mole emerging from a mound, with flowers and berries.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/garden_mural_knot_wrap_mothers_day_2026_b19e36f6_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_garden_mural_knotwrap_mothers_day_lush_2026_08_5f69a97a_thumbnail_4096.jpg",
+      "alt": "A model in a white dressing gown ties a blue fabric \"Garden Mural\" knot-wrap, featuring a whimsical nature design, over a gift. A pink \"Happy Mother's Day\" tag is attached to the knot. The scene is set in a bright bathroom with soft floral accents.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_garden_mural_knotwrap_mothers_day_lush_2026_08_5f69a97a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_garden_mural_knotwrap_mothers_day_lush_2026_11_12dc1bf2_thumbnail_4096.jpg",
+      "alt": "The image shows the arms of a model in a white dressing gown holding a gift wrapped in a \"Garden Mural\" knot-wrap. The wrap features a whimsical nature design and a pink \"Happy Mother's Day\" tag is attached to the central knot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_garden_mural_knotwrap_mothers_day_lush_2026_11_12dc1bf2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_garden_mural_knotwrap_mothers_day_lush_2026_04_dd8ea280_thumbnail_4096.jpg",
+      "alt": "A model in a white dressing gown sits on the edge of a white bath, holding a flat gift wrapped in a \"Garden Mural\" fabric knot-wrap. The wrap features a whimsical nature design. The background is a bathroom with pale green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_garden_mural_knotwrap_mothers_day_lush_2026_04_dd8ea280_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/5_garden_mural_knot_wrap_mothers_day_texture_2026_18_c0406e15_thumbnail_4096.jpg",
+      "alt": "A super close-up texture shot of the \"Garden Mural\" fabric knot wrap. The image focuses on the soft texture of the knot wrap material and the vibrancy of the colours in the bright, nature design.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/5_garden_mural_knot_wrap_mothers_day_texture_2026_18_c0406e15_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Mother’s Day",
+    "New Products",
+    "Knot Wraps",
+    "Gift Wrapping"
+  ]
+}

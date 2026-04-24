@@ -1,0 +1,97 @@
+{
+  "slug": "alina-solidperfume",
+  "url": "https://www.lush.com/us/en_us/p/alina-solidperfume",
+  "title": "Alina",
+  "sku": "62939-NA",
+  "size": "11g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 11,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": " Bergamot, pink pepper and vetivert create a sweet and fresh first impression, with powdery, floral notes.",
+  "ingredients": [
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Olibanum (Olibanum Resinoid)",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Pink Pepper Oil",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Orris Oil ",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "Coumarin",
+    "*Eugenol",
+    "Evernia Prunastri Extract (Oakmoss Extract)",
+    "*Farnesol",
+    "*Geraniol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Yellow 10",
+    "Yellow 5 Lake",
+    "Red 30"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_pack_11g_2024_902a7ba4_thumbnail_4096.png",
+      "alt": "Alina. A short, cylindrical black push-up tube of the Alina solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_pack_11g_2024_902a7ba4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_hero_2024_1_78be3708_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_hero_2024_1_78be3708_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_hero_2024_e53cc268_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_hero_2024_e53cc268_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_pack_11g_2024_2080c619_thumbnail_4096.png",
+      "alt": "Alina. A short, cylindrical black push-up tube of the Alina solid perfume with a black label on the front covering the cap, with the product name and scent printed on it. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alina_solid_perfume_pack_11g_2024_2080c619_thumbnail_128.png"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Vegan",
+    "Solid Perfume",
+    "Fragrances",
+    "Vegan Perfume",
+    "Spicy",
+    "Travel-size Essentials",
+    "Autumn & Winter Fragrances"
+  ]
+}

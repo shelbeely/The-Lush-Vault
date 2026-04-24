@@ -1,0 +1,45 @@
+{
+  "slug": "circular-ceramic-dish",
+  "url": "https://www.lush.com/us/en_us/p/circular-ceramic-dish",
+  "sourceUrl": "https://www.lush.com/uk/en/p/circular-ceramic-dish",
+  "title": "Circular Dish",
+  "sku": "219149-UN",
+  "size": "Each",
+  "price": {
+    "amount": 16.0,
+    "currency": "GBP",
+    "formatted": "16.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Simple and elegant in style, yet multifunctional and purposeful — the perfect dish to house your Lush goodies, organise your favourite jewellery, or on the coffee table as a stylish coaster.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/circle_dish_granby_ecom_2024_c2e02371_thumbnail_4096.png",
+      "alt": "The image shows a perfectly circular ceramic dish. The dish is a pure, bright white colour with a slightly raised beige edging. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/circle_dish_granby_ecom_2024_c2e02371_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/circle_soap_dish_hero_2025_1_6c6c62d8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/circle_soap_dish_hero_2025_1_6c6c62d8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bathroom Accessories",
+    "Lifestyle",
+    "Soap Dishes"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "family-face-time-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/family-face-time-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/family-face-time-face-mask",
+  "title": "Family Face Time",
+  "sku": "64964-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 20,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Make mum happy with a soothing face mask of oatmeal and aloe that’s fit for a family pamper night. Before you say no to the matching PJs, remember it’s Mother’s Day.",
+  "ingredients": [
+    "Kaolin",
+    "Glycerin",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Aqua (Water)",
+    "Calamine (Calamine Powder)",
+    "Cucumis Sativus Fruit (Fresh Cucumber)",
+    "Prunus Amygdalus Dulcis Seed (Ground Almonds)",
+    "Aloe Vera Extract",
+    "Avena Sativa Kernel Meal (Oatmeal)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Anthemis Nobilis Flower Oil (Chamomile Oil)",
+    "Melaleuca Alternifolia Leaf Oil (Tea Tree Oil)",
+    "Fresh Rose Petal Infusion",
+    "Tapioca Starch (Tapioca Starch)",
+    "Gelidium Cartilagineum Extract (Agar Agar)",
+    "Zea Mays Starch (Cornstarch)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Linalool",
+    "Parfum",
+    "Red 28 Lake",
+    "Red 33",
+    "Red 33 Lake",
+    "Red 28"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_face_mask_mothers_day_2026_44c461d1_thumbnail_4096.png",
+      "alt": "Family Face Time. A neatly smeared swatch of thick, light-pink, textured face mask with a matte finish, small flecks of dark pink, and visible swooping peaks from being spread.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_face_mask_mothers_day_2026_44c461d1_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_b0484a9c_thumbnail_4.jpg",
+      "alt": "An open, clear plastic pot of 'FAMILY FACE TIME' fresh face mask sits on a pale green tiled ledge. The pot contains a thick, grainy pink face mask, with some residue on the lid. A small dish with gold rings and a pink flower are nearby.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_b0484a9c_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_7dadaade_thumbnail_4.jpg",
+      "alt": "A model with a moustache and nose piercings smiles while applying a thick, grainy pink \"Family Face Time\" face mask to their cheek. They are wearing a white dressing gown against a background of pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_7dadaade_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_2cc28b94_thumbnail_4.jpg",
+      "alt": "A close-up of a model with a moustache and nose piercings smiling as they apply a thick, grainy pink \"Family Face Time\" face mask to their forehead. They are wearing a white fluffy dressing gown against a background of pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_2cc28b94_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_d8eed5e8_thumbnail_4.jpg",
+      "alt": "A model with a moustache and nose piercings smiles while looking to the side. Most of their face is covered in a thick, pink \"Family Face Time\" face mask. They wear a white dressing gown against a background of pale green bathroom tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/family_face_time_fresh_face_mask_mothers_day_fresh_hero_d8eed5e8_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Masks",
+    "Skincare",
+    "Vegan",
+    "Fresh",
+    "Self-Preserving Skincare",
+    "Vegan Skincare",
+    "Mother’s Day",
+    "Calming Skin Redness"
+  ]
+}

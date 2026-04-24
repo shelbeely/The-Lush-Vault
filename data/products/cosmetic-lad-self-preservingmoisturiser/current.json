@@ -1,0 +1,92 @@
+{
+  "slug": "cosmetic-lad-self-preservingmoisturiser",
+  "url": "https://www.lush.com/us/en_us/p/cosmetic-lad-self-preservingmoisturiser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cosmetic-lad-self-preservingmoisturiser",
+  "title": " Cosmetic Lad Self-Preserving",
+  "sku": "62676-NA",
+  "size": "45g",
+  "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "formatted": "$33.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 27,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This stubble-softening, self preserving moisturiser can soothe sensitive skin of any gender, acting both as a natural face moisturiser and sensitive shaving cream.",
+  "ingredients": [
+    "Linseed Mucilage",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Lavender Honey Water",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Propylene Glycol",
+    "Alcohol Denat. (Organic)",
+    "Stearic Acid",
+    "Fair Trade Organic Aloe Vera Gel",
+    "Cetearyl Alcohol",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Triethanolamine",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Tincture of Benzoin",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sp_cosmetic_lad_moisturiser_2024_c92ea63d_thumbnail_4096.png",
+      "alt": "Cosmetic Lad. A neatly smudged swatch of smooth, thick, creamy, self-preserving moisturiser. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sp_cosmetic_lad_moisturiser_2024_c92ea63d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_2024_10_e5632089_thumbnail_4096.jpg",
+      "alt": "A close-up image of the mode's cheek as they gently smooth the Cosmetic Lad self-preserving moisturiser over their cheekbones.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_2024_10_e5632089_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_2024_09_866479de_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's smiling face as they start to apply the Cosmetic Lad self-preserving moisturiser to one cheek. They are on a warm, earthy-brown background and their hair is tied back.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_2024_09_866479de_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_finished_skin_2024_04_bb2da4f8_thumbnail_4096.jpg",
+      "alt": "The model is on a warm, earthy-brown background with their head rested upon their hand as they are smiling with glowing, freshly moisturised skin. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_finished_skin_2024_04_bb2da4f8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_texture_02_ed7d9d06_thumbnail_4096.jpg",
+      "alt": "A super-close up image of the Cosmetic Lad self-preserving moisturiser showing the silky, soft texture of the product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cosmetic_lad_texture_02_ed7d9d06_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Moisturisers",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "By Ingredients",
+    "Shea Butter",
+    "Aloe Vera",
+    "Sensitive skin",
+    "Spring Skincare"
+  ]
+}

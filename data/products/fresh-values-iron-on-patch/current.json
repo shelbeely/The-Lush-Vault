@@ -1,0 +1,57 @@
+{
+  "slug": "fresh-values-iron-on-patch",
+  "url": "https://www.lush.com/us/en_us/p/fresh-values-iron-on-patch",
+  "sourceUrl": "https://www.lush.com/uk/en/p/fresh-values-iron-on-patch",
+  "title": "Fresh Values",
+  "sku": "216872-UN",
+  "size": "Each",
+  "price": {
+    "amount": 2.5,
+    "currency": "GBP",
+    "formatted": "2.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Freshen up your favourite outfit with this eye-catching woven patch. Measuring 9cm by 6cm, this patch is ideal for small repairs, or simply adding a pop of colour to an existing garment or bag.\n",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_values_patch_2023_5d92a933_thumbnail_4096.png",
+      "alt": "Fresh Values. A yellow, lemon-shaped fabric patch with a black border and the word \"FRESH\" in green bubble letters. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_values_patch_2023_5d92a933_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_3_01ffc185_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_3_01ffc185_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_2_c0b0f1aa_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_2_c0b0f1aa_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_1_cfb95b7c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/patch_fresh_values_apparel_hero_2024_1_cfb95b7c_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Freshers Essentials",
+    "Gifts for Kids & Teens",
+    "Gifts for Dad",
+    "For the Artist"
+  ]
+}

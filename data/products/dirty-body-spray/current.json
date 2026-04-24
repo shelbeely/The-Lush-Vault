@@ -1,0 +1,99 @@
+{
+  "slug": "dirty-body-spray",
+  "url": "https://www.lush.com/us/en_us/p/dirty-body-spray",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-body-spray",
+  "title": "Dirty",
+  "sku": "7320-NA",
+  "size": "200ml",
+  "price": {
+    "amount": 42.0,
+    "currency": "USD",
+    "formatted": "$42.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 28,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Embrace a sophisticated mix of revitalising spearmint, mood-boosting neroli and woody sandalwood oil. Refresh and reset with every spritz, as peppery tarragon oil and aromatic thyme hits you like a breath of fresh air.",
+  "ingredients": [
+    "Alcohol Denat.",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Artemisia Dracunculus Oil (Tarragon Oil)",
+    "Sandalwood Oil",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Thymus Vulgaris Leaf Extract (Thyme Extract)",
+    "*Benzyl Cinnamate",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Citronellol",
+    "*Coumarin",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Alpha-Isomethyl Ionone",
+    "Hydroxycitronellal",
+    "Evernia Prunastri Extract (Oakmoss Extract)"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Dirty_Body_Spray_200ml_207a3ea4_thumbnail_4096.png",
+      "alt": "Dirty body spray. A black spray bottle of Lush \"Dirty\" Body Spray. The product label is black with a neon-blue banded border. White text states the product name and the scent description.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Dirty_Body_Spray_200ml_207a3ea4_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_1_048d14e3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_1_048d14e3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_02_8d386fe1_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_02_8d386fe1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_b094f031_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_body_spray_lush_2025_b094f031_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Fragrances",
+    "Body Sprays",
+    "Vegan Perfume",
+    "Dirty",
+    "Summer Essentials",
+    "Rewild your routine",
+    "Layer on a dose of herbaceous freshness",
+    "Dads Deserve Pampering",
+    "Cooling",
+    "Discover bestselling goodies",
+    "Scent Families",
+    "Awake ",
+    "Summer Treats",
+    "Cooling Mint Chocolate",
+    "Lush Living Room ",
+    "Top Lush Scents",
+    "For the Nature-Lover",
+    "Refresh Your Routine ",
+    "Mint"
+  ]
+}

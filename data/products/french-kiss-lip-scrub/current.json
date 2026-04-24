@@ -1,0 +1,90 @@
+{
+  "slug": "french-kiss-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/french-kiss-lip-scrub",
+  "sourceUrl": "https://www.lush.com/uk/en/p/french-kiss-lip-scrub",
+  "title": "French Kiss",
+  "sku": "64642-UK",
+  "size": "25g",
+  "price": {
+    "amount": 7.5,
+    "currency": "GBP",
+    "formatted": "7.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Get your lips ready to pucker up this Valentine's Day with our absinthe-flavoured lip scrub. Mon cheri, how smooth your lips are!",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Citrus Sinensis Peel Oil Expressed (Organic Sweet Orange Oil)",
+    "Artemisia Pallens Herb Oil (Davana Oil)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Alpha-Isomethyl Ionone",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 47005:1",
+    "Colour 42090:2"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/french_kiss_lip_scrub_valentines_ecom_2026_1141151e_thumbnail_4096.png",
+      "alt": "French Kiss. A neatly smudged swatch of thick, textured, bright lime-green lip scrub with visible sugar granules. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/french_kiss_lip_scrub_valentines_ecom_2026_1141151e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_french_kiss_lip_scrub_portrait_vlentines_2026_49bc086d_thumbnail_4096.jpg",
+      "alt": "A small, clear glass jar of Lush \"French Kiss\" lip scrub sits on a pink podium. The lime-green scrub is shown with its black lid resting nearby against a pink curtain with a heart-shaped spotlight.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_french_kiss_lip_scrub_portrait_vlentines_2026_49bc086d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_french_kiss_lip_scrub_lush_2026_07_15ba8c2d_thumbnail_4096.jpg",
+      "alt": "A woman in pink strawberry pyjamas lies on a bed, smiling as she holds an open jar of green \"French Kiss\" lip scrub. She holds the black lid in her other hand while reclining on a red and green patterned bedspread.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_french_kiss_lip_scrub_lush_2026_07_15ba8c2d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_french_kiss_lip_scrub_lush_2026_08_d531d1e0_thumbnail_4096.jpg",
+      "alt": "A woman in pink strawberry pyjamas holds an open jar of green \"French Kiss\" lip scrub while reclining on a bed. She smiles as she prepares to apply the product with her finger in a cosy, candlelit bedroom setting.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_french_kiss_lip_scrub_lush_2026_08_d531d1e0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_french_kiss_lip_scrub_lush_2026_24_98cbb893_thumbnail_4096.jpg",
+      "alt": "A close-up image shows the grainy, sparkling texture of Lush \"French Kiss\" lip scrub. A person with dark skin uses a finger to apply the bright green, sugary paste to their lips.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_french_kiss_lip_scrub_lush_2026_24_98cbb893_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/05_french_kiss_lip_scrub_lush_2026_26_32812e89_thumbnail_4096.jpg",
+      "alt": "A woman in pink strawberry pyjamas laughs while applying green \"French Kiss\" lip scrub to her bottom lip. She holds the open jar in her other hand while reclining in a warm, dimly lit room with red curtains.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/05_french_kiss_lip_scrub_lush_2026_26_32812e89_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/6_french_kiss_lip_scrub_texture_valentines_2026_fa2ec428_thumbnail_4096.jpg",
+      "alt": "A close-up image showing the thick, grainy texture of Lush \"French Kiss\" lip scrub. The vibrant green scrub is spread in diagonal, overlapping ridges, highlighting its sugary consistency.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/6_french_kiss_lip_scrub_texture_valentines_2026_fa2ec428_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Valentine’s Day Gift Ideas",
+    "Skincare",
+    "Valentine's Bestie Baskets  ",
+    "For the Dreamer",
+    "Leaving Soon"
+  ]
+}

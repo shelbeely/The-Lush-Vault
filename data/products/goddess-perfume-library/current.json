@@ -1,0 +1,66 @@
+{
+  "slug": "goddess-perfume-library",
+  "url": "https://www.lush.com/us/en_us/p/goddess-perfume-library",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/goddess-perfume-library",
+  "title": "Goddess",
+  "sku": "61359-NA",
+  "size": "100ml",
+  "price": {
+    "amount": 225.0,
+    "currency": "USD",
+    "formatted": "$225.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Heavenly scent, jasmine absolute seduces you into lilac and silver waters, while the darkness of oudh and the richness of sandalwood keep you there, lingering a little longer.",
+  "ingredients": [
+    "Organic DRF Alcohol",
+    "Parfum",
+    "*Linalool",
+    "*Limonene",
+    "Jasminum Grandiflorum Flower Extract (Jasmine Extract)",
+    "Osmanthus Fragrans Flower Extract (Osmanthus Extract)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Sandalwood Oil",
+    "Oudh Oil",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Salicylate",
+    "*Citral",
+    "*Citronellol",
+    "*Eugenol",
+    "*Farnesol",
+    "*Geraniol"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_perfume_100ml_ecom_2022_e4d71dce_thumbnail_4096.png",
+      "alt": "A glass perfume bottle filled with dark amber liquid. A black label reads 'The Perfume Library' and 'Goddess'.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_perfume_100ml_ecom_2022_e4d71dce_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/goddess_perfume_100ml_2000x1364_2022-2_eacb45d9_thumbnail_4096.jpg",
+      "alt": "A dark amber coloured bottled perfume, Goddess, sits on top of a display of sandalwood, one of it's main ingredients.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/goddess_perfume_100ml_2000x1364_2022-2_eacb45d9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Fragrances",
+    "Perfumes",
+    "Goddess"
+  ]
+}

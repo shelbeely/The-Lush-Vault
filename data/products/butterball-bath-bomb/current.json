@@ -1,0 +1,93 @@
+{
+  "slug": "butterball-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/butterball-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/butterball-bath-bomb",
+  "title": "Butterball",
+  "sku": "5021-NA",
+  "size": "90g",
+  "price": {
+    "amount": 5.0,
+    "currency": "USD",
+    "formatted": "$5.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "If you have dry, sensitive or irritated skin, this is the bath bomb to replenish it. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Synthetic Musk",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_2026_18_1_87f0351f_thumbnail_4096.png",
+      "alt": "Butterball bath bomb. A smooth, ivory-white spherical bath bomb with a slightly textured surface. Small, buttery specks of cocoa butter are visible across the exterior. Standing alone against a plain light grey background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/butterball_bath_bomb_2026_18_1_87f0351f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_butterball_bath_bomb_wbbd_model_hero_2026_16_0ab52a50_thumbnail_4096.jpg",
+      "alt": "An aerial view of a white, spherical Butterball bath bomb dissolving on the surface of clear, light blue water. The product fizzes, creating a thin layer of white foam and releasing small, visible flecks of cocoa butter across the bath.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_butterball_bath_bomb_wbbd_model_hero_2026_16_0ab52a50_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_butterball_bath_bomb_wbbd_model_hero_2026_3_9020ffe3_thumbnail_4096.jpg",
+      "alt": "An aerial view of the white, spherical Butterball bath bomb dissolving in light blue water. The product creates a layer of creamy, white foam on the surface, with visible small pieces of cocoa butter floating as it fizzes.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_butterball_bath_bomb_wbbd_model_hero_2026_3_9020ffe3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_butterball_bath_bomb_wbbd_hero_2026_4_cbc82516_thumbnail_4096.jpg",
+      "alt": "The white, spherical Butterball bath bomb sits on a plain, light gray background. The product features a matte, slightly textured surface with small, visible brown flecks of cocoa butter throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_butterball_bath_bomb_wbbd_hero_2026_4_cbc82516_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/04_butterball_bath_bomb_wbbd_model_hero_2026_11_33983dd8_thumbnail_4096.jpg",
+      "alt": "An aerial view of a person with their head tilted back and eyes closed, soaking in a bath of light blue water. The surface is covered in a thick layer of creamy, white foam and visible cocoa butter flecks from the Butterball bath bomb.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/04_butterball_bath_bomb_wbbd_model_hero_2026_11_33983dd8_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Bath Products",
+    "Bath Bombs",
+    "Vegan",
+    "Winter Bath & Shower Products",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Winter Cosmetics",
+    "Plastic Free",
+    "Discover bestselling goodies",
+    "Bath and Shower",
+    "Gourmand",
+    "For the Dreamer",
+    " Lightly-scented",
+    "LUSH × SPONGEBOB",
+    "LUSH x ONE PIECE",
+    " LUSH x Lazy Oaf",
+    "Gifts Under $10",
+    "Customised Lush Gifts",
+    "Gifts for Mum",
+    "Cocoa Butter Collection",
+    "Ways to Shop",
+    "Decadent & Gourmand",
+    "Sweet & Comforting",
+    "Mother’s Day",
+    "Bestsellers"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "et-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/et-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/et-bath-bomb",
+  "title": "E.T.",
+  "sku": "4963-NA",
+  "size": "170g",
+  "price": {
+    "amount": 12.5,
+    "currency": "USD",
+    "formatted": "$12.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Send your imagination soaring this World Bath Bomb Day with your very own E.T. bath bomb, bringing you lustrous waters and an extraordinary lemon scent. ",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Alcohol Denat.",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Aqua (Water)",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Zein (Corn Protein)",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Sodium Coco-Sulfate",
+    "Dipropylene Glycol",
+    "Synthetic Fluorphlogopite",
+    "Cocamidopropyl Betaine",
+    "Tin Oxide",
+    "*Citral",
+    "*Limonene",
+    "Parfum",
+    "Yellow 10",
+    "Yellow 6 Lake",
+    "Yellow 5 Lake",
+    "Red 4",
+    "Yellow 5",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/E.T._bath_bomb_WBBD_ecom_2025_6e5603f5_thumbnail_4096.png",
+      "alt": "E.T. A fun, two-part bath bomb with a removable head of the classic film, alien character E.T. The product is wrapped in a muslin cloth and sits in a square, silver basket base. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/E.T._bath_bomb_WBBD_ecom_2025_6e5603f5_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T-Bath-Bomb-Vertical_01_7ab3f2bd_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T-Bath-Bomb-Vertical_01_7ab3f2bd_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-01_8dbc36ca_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-01_8dbc36ca_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-04_a8172df2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-04_a8172df2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-11_8cccc3ba_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2025-E.T.-Bath-Bomb-Hero-11_8cccc3ba_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Bath Products",
+    "Bath Bombs",
+    "Fresh & Playful",
+    "WBBD 2025 Livestream",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Collaborations",
+    "Gifts for Kids & Teens",
+    "Citrus & Uplifting"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "blissfulgift",
+  "url": "https://www.lush.com/us/en_us/p/blissfulgift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blissfulgift",
+  "title": "Blissful",
+  "sku": "63472-NA",
+  "size": "Each",
+  "price": {
+    "amount": 76.0,
+    "currency": "USD",
+    "formatted": "$76.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 15,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Where there is bliss, magic will follow. Treat someone with this delightful shower and body gift, with seven treats beautifully packaged in a reusable box.",
+  "ingredients": [],
+  "badges": [
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Blissful-Gift-PDP_01_fb90bbe4_thumbnail_4096.PNG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Blissful-Gift-PDP_01_fb90bbe4_thumbnail_128.PNG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Blissful-Gift_product_01_73ac0d05_thumbnail_4096.JPG",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Gift-2025-Blissful-Gift_product_01_73ac0d05_thumbnail_128.JPG"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-Rub-Rub-Rub-Body-Scrub-Vertical-Hero_04_17f1bcc8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-Rub-Rub-Rub-Body-Scrub-Vertical-Hero_04_17f1bcc8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Honey-I-Washed-The-Kids-Soap-Hero_02_b2eece7e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Shower-2024-Honey-I-Washed-The-Kids-Soap-Hero_02_b2eece7e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20223_5e9a1fa0_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sleepy_shower_gel_hero_2000x1364_20223_5e9a1fa0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/shower-ros-argan-body-conditioner-hero_03_1d881776_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/shower-ros-argan-body-conditioner-hero_03_1d881776_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Dream-Cream-Body-Lotion-Hero_05_cfb9f54f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Dream-Cream-Body-Lotion-Hero_05_cfb9f54f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pink_peppermint_foot_cream_hero_2024_4_bd52cd1c_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pink_peppermint_foot_cream_hero_2024_4_bd52cd1c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gorgeous_cream_2024_28_83e945a7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gorgeous_cream_2024_28_83e945a7_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gifts",
+    "Shower Gifts",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Floral",
+    "Birthday Gifts",
+    "Gifts for Her",
+    "Gifts for Every Budget",
+    "Gifts by Recipient",
+    "Gifts for Dad",
+    "Gifts for Mum",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts Over $50"
+  ]
+}

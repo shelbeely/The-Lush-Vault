@@ -1,0 +1,70 @@
+{
+  "slug": "9-to-5-2",
+  "url": "https://www.lush.com/us/en_us/p/9-to-5-2",
+  "title": "9 To 5 (Preserved)",
+  "sku": "3171-NA",
+  "size": "250ml",
+  "price": {
+    "amount": 31.0,
+    "currency": "USD",
+    "formatted": "$31.00",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "What a way to make a cleanser.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Stearic Acid",
+    "Fresh Dove Orchid Infusion",
+    "Everlasting Flower Absolute",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "Triethanolamine",
+    "Cetearyl Alcohol",
+    "Parfum",
+    "Methylparaben",
+    "Propylparaben"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/9_to_5_cleanser_2020_0a272314_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/9_to_5_cleanser_2020_0a272314_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_02_7463d679_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_02_7463d679_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_04_8c3e56a4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_04_8c3e56a4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_06_549d6418_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-9-5-Cleanser-SP-Hero_06_549d6418_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "The Archive",
+    "Skincare",
+    "Vegan",
+    "Skincare Routines",
+    "Vegan Skincare",
+    "Cleansers",
+    "Supporting Skin Barrier",
+    "Sensitive skin",
+    "Leaving Soon"
+  ]
+}

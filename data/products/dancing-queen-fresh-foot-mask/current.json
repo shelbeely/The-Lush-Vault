@@ -1,0 +1,95 @@
+{
+  "slug": "dancing-queen-fresh-foot-mask",
+  "url": "https://www.lush.com/us/en_us/p/dancing-queen-fresh-foot-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dancing-queen-fresh-foot-mask",
+  "title": "Dancing Queen",
+  "sku": "64973-NA",
+  "size": "150g",
+  "price": {
+    "amount": 17.5,
+    "currency": "USD",
+    "formatted": "$17.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Feet tuckered out from busting those mum-moves? Get your feet off the sidelines this Mother’s Day with deodorising tomatoes and invigorating menthol.",
+  "ingredients": [
+    "Kaolin",
+    "Eucalyptus Globulus Leaf Extract (Eucalyptus Extract)",
+    "Glycerin",
+    "Pumice (Pumice Powder)",
+    "Lycopersicon Esculentum (Fresh Tomato)",
+    "Castor Oil",
+    "Magnesium Sulfate",
+    "Matricaria Chamomilla Flower Extract (Chamomile Vinegar)",
+    "Maris Sal (Fine Sea Salt)",
+    "Peppermint Leaves",
+    "Propylene Glycol",
+    "Mentha Piperita Oil (Peppermint Oil)",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Menthol (Menthol Crystals)",
+    "Synthetic Fluorphlogopite",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Tin Oxide",
+    "*Citral",
+    "*Limonene",
+    "*Linalool",
+    "Parfum",
+    "Red 33",
+    "Red 33 Lake",
+    "Red 28 Lake",
+    "Red 28"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_2026_5cf228b3_thumbnail_4096.png",
+      "alt": "Dancing Queen. A thick, textured pink foot mask product. It has visible ridges from being spread and contains tiny dark exfoliating flecks throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_2026_5cf228b3_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_2_9845e144_thumbnail_409.jpg",
+      "alt": "A hand reaches for an open tub of \"Dancing Queen\" pink foot mask sitting on a wooden bath tray. The background features a white bathtub, light green wall tiles, and other LUSH self-care products.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_2_9845e144_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_4_ea0b123e_thumbnail_409.jpg",
+      "alt": "A model sits on the edge of a bathtub, applying a thick, textured pink \"Dancing Queen\" foot mask to their lower leg and foot. The cream is spread across the skin from the ankle to the mid-calf against a backdrop of light green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_4_ea0b123e_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_6_8191c949_thumbnail_409.jpg",
+      "alt": "A close-up of a model sitting on a bath with their foot on a wooden stool, applying a thick, textured pink \"Dancing Queen\" mask to their lower leg and foot. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_6_8191c949_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_8_79e3b8ee_thumbnail_409.jpg",
+      "alt": "A close-up of a person using a black-handled brush with gold detailing to apply a thick pink foot mask to their foot. The \"Dancing Queen\" foot mask tub sits on a wooden tray in the background against light green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dancing_queen_foot_mask_mothers_day_fresh_hero_2026_8_79e3b8ee_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Feet",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Foot Care",
+    "Body Care",
+    "Vegan Body Care Products",
+    "Mother’s Day",
+    "Fresh",
+    "Gifts Under $25"
+  ]
+}

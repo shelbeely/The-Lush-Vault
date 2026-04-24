@@ -1,0 +1,73 @@
+{
+  "slug": "dirty-toothpaste-tabs",
+  "url": "https://www.lush.com/us/en_us/p/dirty-toothpaste-tabs",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dirty-toothpaste-tabs",
+  "title": "Dirty",
+  "sku": "61259-NA",
+  "size": "50g",
+  "price": {
+    "amount": 12.0,
+    "currency": "USD",
+    "formatted": "$12.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Fresh spearmint and neroli flavour toothpaste tablets. Fluoride free in recyclable packaging, all our oral care range is great on the go. ",
+  "ingredients": [
+    "Dicalcium Phosphate Anhydrous",
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sorbitol",
+    "Lauroyl Sarcosine",
+    "Kaolin",
+    "Mentha Spicata Herb Oil (Spearmint Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Sodium Saccharin",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_toothpaste_tabs_ecom_image_2022_eb98cd39_thumbnail_4096.png",
+      "alt": "A pile of small, circular, white Dirty toothpaste tabs shot from above. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_toothpaste_tabs_ecom_image_2022_eb98cd39_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dirty_toothpaste_tabs_hero_2000x1364_2022-3_cef6211f_thumbnail_4096.jpg",
+      "alt": "A person shows off their teeth and holds a small white Dirty toothpaste tab between their front teeth.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dirty_toothpaste_tabs_hero_2000x1364_2022-3_cef6211f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Oral Care",
+    "Vegan",
+    "Toothpastes",
+    "Gifts for Dad",
+    "Dirty",
+    "Keep Clean",
+    "Layer on a dose of herbaceous freshness",
+    "Lavender",
+    "The Adventurer Mom",
+    "Travel-size Essentials",
+    "Customised Lush Gifts",
+    "Ways to Shop",
+    "Mint"
+  ]
+}

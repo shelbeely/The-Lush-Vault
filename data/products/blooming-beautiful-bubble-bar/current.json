@@ -1,0 +1,96 @@
+{
+  "slug": "blooming-beautiful-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/blooming-beautiful-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/blooming-beautiful-bubble-bar",
+  "title": "Blooming Beautiful",
+  "sku": "64706-NA",
+  "size": "100g",
+  "price": {
+    "amount": 11.0,
+    "currency": "USD",
+    "formatted": "$11.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This Mother’s Day gift mum the glory of the great outdoors, without stepping a foot out the bath with fluffy bubbles that smell just like freshly cut grass!",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Lauryl Betaine",
+    "Zea Mays Starch (Cornstarch)",
+    "Parfum",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Santalum Album Oil (Sandalwood Oil)",
+    "Titanium Dioxide",
+    "Glycerin",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Benzoate",
+    "Coumarin",
+    "*Farnesol",
+    "*Limonene",
+    "*Linalool",
+    "Yellow 10",
+    "Green 8",
+    "Blue 1"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_lush_2025_1_4e76360b_thumbnail_4096.png",
+      "alt": "A round, bright green \"Blooming Beautiful\" bubble bar features a large, white flower design on top. The flower has textured petals and a yellow center, resembling a daisy, set against a plain light background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_lush_2025_1_4e76360b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_blooming_beautiful_bubble_bar_mothers_day_lush_2026__ccdf7cc6_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_blooming_beautiful_bubble_bar_mothers_day_lush_2026__ccdf7cc6_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_42_61651d26_thumbnail_4096.jpg",
+      "alt": "A hand holds the \"Blooming Beautiful\" bubble bar under a running tap, allowing the stream of water to hit the white flower and yellow center. The running water is generating bubbles in the pale green bathwater below.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_42_61651d26_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_46_d111def5_thumbnail_4096.jpg",
+      "alt": "Hands break apart a green \"Blooming Beautiful\" bubble bar under a stream of running water. As the bar crumbles, revealing its yellow and white interior, it generates frothy bubbles in the pale green bathwater below.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_46_d111def5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_51_06ee32f1_thumbnail_4096.jpg",
+      "alt": "A hand holds the dissolving remnants of the green \"Blooming Beautiful\" bubble bar under a running tap. The water stream breaks down the product in the palm, turning the bathwater a vibrant lime green surrounded by soft white foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_51_06ee32f1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_56_6960e4c1_thumbnail_4096.jpg",
+      "alt": "A top-down close-up shows the surface of the bathwater, which has turned a vibrant lime green. Patches of white frothy bubbles float on the colorful water, highlighting the result of using the bubble bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_beautiful_bubble_bar_mothers_day_2026_56_6960e4c1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Bath Products",
+    "Vegan",
+    "New Products",
+    "Vegan Bath Products",
+    "Mother’s Day",
+    "Floral",
+    "Gifts for Mum"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "aromaco-solid-deodorant",
+  "url": "https://www.lush.com/us/en_us/p/aromaco-solid-deodorant",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/aromaco-solid-deodorant",
+  "title": "Aromaco",
+  "sku": "951-NA",
+  "size": "100g",
+  "price": {
+    "amount": 11.0,
+    "currency": "USD",
+    "formatted": "$11.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A antibacterial, solid \"roll-on\" deodorant, without the extra packaging. Feel the drying, cooling benefits of witch hazel and chamomile vinegar on the skin.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Propylene Glycol",
+    "Sodium Stearate",
+    "Hamamelis Virginiana Leaf Extract (Witch Hazel Extract)",
+    "Matricaria Chamomilla Flower Extract (Chamomile Vinegar)",
+    "Sodium Bicarbonate",
+    "Pogostemon Cablin Oil (Patchouli Oil)",
+    "*Citral",
+    "*Limonene",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aromaco_soap_2024_65418924_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aromaco_soap_2024_65418924_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aromaco_deodorant_hero_2024_01_e64b749d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aromaco_deodorant_hero_2024_01_e64b749d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aromaco_deodorant_hero_2024_02_1bc2de39_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aromaco_deodorant_hero_2024_02_1bc2de39_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Deodorants & Dusting Powders",
+    "Vegan Body Care Products",
+    "Body Care",
+    "Summer Essentials",
+    "Plastic Free",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Plastic-Free Body Care",
+    "Carry on with Lush",
+    "LUSH × SPONGEBOB",
+    "The Sports Star Mom",
+    "Travel-size Essentials",
+    "Balancing & Grounding",
+    "Customised Lush Gifts",
+    "For the Nature-Lover",
+    "Keep Clean",
+    "Ways to Shop",
+    "Bestsellers"
+  ]
+}

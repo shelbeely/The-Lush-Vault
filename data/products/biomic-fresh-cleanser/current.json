@@ -1,0 +1,80 @@
+{
+  "slug": "biomic-fresh-cleanser",
+  "url": "https://www.lush.com/us/en_us/p/biomic-fresh-cleanser",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/biomic-fresh-cleanser",
+  "title": "Biomic",
+  "sku": "63705-NA",
+  "size": "100g",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 5,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Cleanse with kefir and live lactic acid bacteria which are believed to have probiotic qualities.",
+  "ingredients": [
+    "Kaolin",
+    "Prunus Amygdalus Dulcis Seed (Ground Almonds)",
+    "Glycerin",
+    "Lactobacillus/Soymilk Ferment (Organic Soya Kefir Yoghurt)",
+    "Sweet White Miso",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Pelargonium Graveolens Flower Oil (Geranium Oil)",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Benzyl Salicylate",
+    "Geraniol",
+    "*Limonene",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Fresh"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/biomic_cleanser_ecom_2025_fdb6ce89_thumbnail_4096.png",
+      "alt": "The image shows a neatly smudged swatch of thick, textured, ivory/sand-coloured, paste-like face cleanser product. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/biomic_cleanser_ecom_2025_fdb6ce89_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_biomic_cleanser_2025_06_ce4b3288_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's face on an olive-green background. Their dark hair is tied back, and they are applying the textured Biomic facial cleanser to the skin on their cheek with their eyes closed. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_biomic_cleanser_2025_06_ce4b3288_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_biomic_cleanser_2025_13_e694f615_thumbnail_4096.jpg",
+      "alt": "A close-up image of half of the model's face, which is coated in a layer of the textured Biomic facial cleanser as they smile at the camera, on an olive-green background. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_biomic_cleanser_2025_13_e694f615_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_biomic_cleanser_texture_2025_01_9982eae7_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the sand/ivory-coloured, textured Biomic facial cleanser, focusing on the consistency of grainy dough. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_biomic_cleanser_texture_2025_01_9982eae7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/4_biomic_fresh_cleanser_lush_2025_03_7cc8ec4b_thumbnail_4096.jpg",
+      "alt": "The image shows a clear, recycled plastic, open pot of Biomic facial cleanser with the lid leaning on the side and a smeared swatch of the textured product on the cream-tiled floor beside the pot.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/4_biomic_fresh_cleanser_lush_2025_03_7cc8ec4b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Cleansers",
+    "Vegan Skincare",
+    "Skincare",
+    "Fresh",
+    "Brightening Dull Skin",
+    "Supporting Skin Barrier"
+  ]
+}

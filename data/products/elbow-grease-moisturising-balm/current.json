@@ -1,0 +1,83 @@
+{
+  "slug": "elbow-grease-moisturising-balm",
+  "url": "https://www.lush.com/us/en_us/p/elbow-grease-moisturising-balm",
+  "sourceUrl": "https://www.lush.com/uk/en/p/elbow-grease-moisturising-balm",
+  "title": "Elbow Grease",
+  "sku": "6422-UK",
+  "size": "60g",
+  "price": {
+    "amount": 16.0,
+    "currency": "GBP",
+    "formatted": "16.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Well, this bar is supreme. It moisturises like a dream. Why, it's tattoo brightenin'.",
+  "ingredients": [
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Cold Pressed Murumuru Butter",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Soya Oil",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Citrus Aurantium Amara Flower Extract (Orange Flower Extract)",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Sandalwood Oil",
+    "Cananga Odorata Flower Oil (Ylang Ylang Oil)",
+    "*Benzyl Alcohol",
+    "Benzyl Benzoate",
+    "*Citral",
+    "*Farnesol",
+    "*Geraniol",
+    "*Hydroxycitronellal",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elbow_grease_moisturising_bar_naked_commerce_ayr_5f49fd07_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elbow_grease_moisturising_bar_naked_commerce_ayr_5f49fd07_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_07_46ead8a8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_07_46ead8a8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_04_990b925d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_04_990b925d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_05_6f5f8e8d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Body-2024-Elbow-Grease-Moisturizing-Bar-Hero_05_6f5f8e8d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Body Care Products",
+    "Body Care",
+    "The Archive",
+    "Customised Lush Gifts",
+    "Body Lotions",
+    "Hand Care",
+    "Leaving Soon"
+  ]
+}

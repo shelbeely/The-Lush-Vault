@@ -1,0 +1,56 @@
+{
+  "slug": "fresh-values-pin-badge",
+  "url": "https://www.lush.com/us/en_us/p/fresh-values-pin-badge",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fresh-values-pin-badge",
+  "title": "Fresh As Pin",
+  "sku": "216739-NA",
+  "size": "Each",
+  "price": {
+    "amount": 6.0,
+    "currency": "USD",
+    "formatted": "$6.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Join us in celebrating this core Lush Value with this fun and fruity pin badge. Measuring 3cm by 2cm, this badge is designed to be cherished, gifted and treasured.\n",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fresh_values_pin_2024_f5ef4d9e_thumbnail_4096.png",
+      "alt": "Fresh Values. A yellow, lemon-shaped metal badge with a black border and the word \"FRESH\" in green bubble letters. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fresh_values_pin_2024_f5ef4d9e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_5_d0ca9c4f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_5_d0ca9c4f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_2_284ceefc_thumbnail_4096.jpg",
+      "alt": "A super close-up of the model's face and head wearing a black hat with the Fresh Values pin badge attached.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_2_284ceefc_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_3_85c593b4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/pin_badge_fresh_values_apparel_hero_2024_3_85c593b4_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Gifts for Kids & Teens",
+    "Gifts for Dad",
+    "For the Artist"
+  ]
+}

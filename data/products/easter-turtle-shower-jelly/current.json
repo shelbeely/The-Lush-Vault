@@ -1,0 +1,85 @@
+{
+  "slug": "easter-turtle-shower-jelly",
+  "url": "https://www.lush.com/us/en_us/p/easter-turtle-shower-jelly",
+  "sourceUrl": "https://www.lush.com/au/en/p/easter-turtle-shower-jelly",
+  "title": "Turtle",
+  "sku": "63369-AU",
+  "size": "90g",
+  "price": {
+    "amount": 15.0,
+    "currency": "AUD",
+    "formatted": "15.00 AUD",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "au"
+  },
+  "description": "True to their graceful nature, this Easter jelly glides effortlessly across the skin leaving light apple-y suds in its wake. Turtle-y awesome!",
+  "ingredients": [
+    "Aqua (Water)",
+    "Glycerin",
+    "Sodium Laureth Sulfate",
+    "Propylene Glycol",
+    "Chondrus Crispus Extract (Carrageenan Extract)",
+    "Cinnamomum Zeylanicum Bark Oil (Cinnamon Bark Oil)",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "Citrus Aurantium Amara Twig/Leaf Oil (Petitgrain Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Organic Apple Juice",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Titanium Dioxide",
+    "*Eugenol",
+    "Perfume",
+    "Colour 45350",
+    "Colour 42090"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/easter_turtle_shower_jelly_ecom_2024_d38bf9bd_thumbnail_4096.png",
+      "alt": "Easter Turtle. A fun, turtle-shaped shower jelly with bright green and yellow colours. Complete with an embossed shell design on top. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/easter_turtle_shower_jelly_ecom_2024_d38bf9bd_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_25_15268eff_thumbnail_4096.jpg",
+      "alt": "The image shows a vibrant lime-green \"Easter Turtle\" shower jelly shaped like a sea turtle sitting on a white shower ledge. The turtle is surrounded by a light layer of white soap suds against a backdrop of pale green wall tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_25_15268eff_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_3_5e0fc65f_thumbnail_4096.jpg",
+      "alt": "The image shows a vibrant lime-green and yellow shower jelly soap shaped like a sea turtle held in a person's cupped palms. The turtle is being rinsed under falling water in a shower against a backdrop of pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_3_5e0fc65f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_6_b2f954f0_thumbnail_4096.jpg",
+      "alt": "The image shows the vibrant lime-green \"Easter Turtle\" shower jelly, shaped like a sea turtle, being rubbed onto a person's soapy forearm in the shower. Water falls in the background against pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_6_b2f954f0_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_12_dde1019b_thumbnail_4096.jpg",
+      "alt": "The image shows the vibrant lime-green \"Easter Turtle\" shower jelly, shaped like a sea turtle, being rubbed onto a person's soapy forearm in the shower. Water falls in the background against pale green tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/turtle_shower_jelly_easter_hero_2026_12_dde1019b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Spicy",
+    "Vegan Shower Products",
+    "Easter",
+    "Shower Products",
+    "Shower Jellies",
+    "Gifts for Kids & Teens",
+    "Last Chance Exclusives"
+  ]
+}

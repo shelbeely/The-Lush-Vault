@@ -1,0 +1,54 @@
+{
+  "slug": "go-naked-greetings-card",
+  "url": "https://www.lush.com/us/en_us/p/go-naked-greetings-card",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/go-naked-greetings-card",
+  "title": "Go Naked",
+  "sku": "215165-NA",
+  "size": "15cm x 15cm",
+  "price": {
+    "amount": 4.0,
+    "currency": "USD",
+    "formatted": "$4.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 10,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This greetings card is made from 100% recycled paper, and comes with a detachable 'Go Naked' pin badge made from 100% recycled plastic yoghurt pots.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_ecom_2023_1e3c5099_thumbnail_4096.png",
+      "alt": "Go Naked. A sunbeam-style card shows pink, orange and yellow rays. A white badge saying \"Go Naked\" is in the centre.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_ecom_2023_1e3c5099_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-3_b932c4b3_thumbnail_4096.jpg",
+      "alt": "The colourful \"Go Naked\" card is stood up as the model writes the envelope on the table. The badge is still attached.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-3_b932c4b3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-1_072fdf85_thumbnail_4096.jpg",
+      "alt": "A close-up of the model wearing a white turtle neck with dark, curly hair. They are wearing the \"Go Naked\" badge. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-1_072fdf85_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-5_b1ee7609_thumbnail_4096.jpg",
+      "alt": "The vibrant \"Go Naked\" card and badge lay flat on a table surrounded by a wrapped gift, a pen and a mug of coffee.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/go_naked_greetings_card_hero_image_2023-5_b1ee7609_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Greeting Cards",
+    "Lifestyle"
+  ]
+}

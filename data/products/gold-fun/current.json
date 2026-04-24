@@ -1,0 +1,69 @@
+{
+  "slug": "gold-fun",
+  "url": "https://www.lush.com/us/en_us/p/gold-fun",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/gold-fun",
+  "title": "Gold",
+  "sku": "9857-NA",
+  "size": "100g",
+  "price": {
+    "amount": 8.5,
+    "currency": "USD",
+    "formatted": "$8.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 27,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Grab yourself some of this addictively orange and bergamot-scented bar of Gold, and enjoy yourself in the bath, lather up from head to toe to enjoy a jolly good cleanse or shampoo.",
+  "ingredients": [
+    "Zea Mays Starch (Cornstarch)",
+    "Glycerin",
+    "Sodium Laureth Sulfate",
+    "Synthetic Fluorphlogopite",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Titanium Dioxide",
+    "Tin Oxide",
+    "*Limonene",
+    "*Linalool",
+    "*Citronellol",
+    "*Geraniol",
+    "Parfum",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-PDP-02_Digital_Adrian_908x908_fccaafbd_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-PDP-02_Digital_Adrian_908x908_fccaafbd_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-Hero-03_Digital_-2024-PDP_Hero_Image_836c3e73_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-Hero-03_Digital_-2024-PDP_Hero_Image_836c3e73_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-Hero-01_Digital_-2024-PDP_Hero_Image_4abe7605_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2024-Gold-Fun-Hero-01_Digital_-2024-PDP_Hero_Image_4abe7605_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Fun",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Bath Products",
+    "Shower Products",
+    "Fun"
+  ]
+}

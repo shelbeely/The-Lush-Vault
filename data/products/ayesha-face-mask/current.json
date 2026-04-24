@@ -1,0 +1,89 @@
+{
+  "slug": "ayesha-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/ayesha-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/ayesha-face-mask",
+  "title": "Ayesha",
+  "sku": "62375-NA",
+  "size": "75g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 24,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Formulated to give the appearance of firmer, brighter skin for a spell, turn to this fresh face mask of toning, smoothing and reviving ingredients for a plumping pamper.",
+  "ingredients": [
+    "Solum Fullonum (Fuller's Earth)",
+    "Honey",
+    "Lime Tree Flower and Elderflower Decoction",
+    "Glycerin",
+    "Fresh Asparagus",
+    "Fresh Kiwi",
+    "Kaolin",
+    "Hamamelis Virginiana Leaf Extract (Witch Hazel Extract)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Rosmarinus Officinalis Leaf Oil (Rosemary Oil)",
+    "Dark Sumatran Patchouli Oil",
+    "Hectorite (Bentone Gel)",
+    "Elderflower Vinegar",
+    "*Farnesol",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Parfum"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegetarian Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_mask_2024_9c1a0031_thumbnail_4096.png",
+      "alt": "Ayesha. A round swatch of creamy, brown,  visibly-textured face mask.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_mask_2024_9c1a0031_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_05_cce70f6f_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's face as they gently apply the Ayesha face mask onto their cheek. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_05_cce70f6f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_27_c34f8a94_thumbnail_4096.jpg",
+      "alt": "A close-up of the model smiling widely as they face the camera with the Ayesha face mask applied all over.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_27_c34f8a94_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_35_d075da90_thumbnail_4096.jpg",
+      "alt": "The image shows the model looking off into the distance as the Ayesha mask is applied evenly over their face.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ayesha_fresh_face_mask_2024_35_d075da90_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ayesha_face_mask_texture_2024_0419_f7ff2216_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ayesha_face_mask_texture_2024_0419_f7ff2216_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Face Masks",
+    "Fresh",
+    "Brightening Dull Skin",
+    "Rosemary",
+    "Skincare By Needs",
+    "By Ingredients",
+    "Fresh Fruit Enzymes"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "fighting-animal-testing-socks",
+  "url": "https://www.lush.com/us/en_us/p/fighting-animal-testing-socks",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/fighting-animal-testing-socks",
+  "title": "Fighting Animal Testing",
+  "sku": "214811-NA",
+  "size": "S/M EU 35-39",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 12,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Put your best foot forward and stand up in the fight against animal testing in these socks made with organic cotton.\n",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/fat_socks_merch_2023_7b967d9e_thumbnail_4096.png",
+      "alt": "Black socks with the toe, heel and tops white. “Lush” is on the soles with ‘Fighting Animal Testing’ logo and text on the ankle.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/fat_socks_merch_2023_7b967d9e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_socks_merch_2023-2_5a2f7cd6_thumbnail_4096.jpeg",
+      "alt": "Model is pulling up the socks from the knee up as their legs are in the air. They wear white trainers on a marbled background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_socks_merch_2023-2_5a2f7cd6_thumbnail_128.jpeg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/FAT_socks_merch_2023-6_262f9733_thumbnail_4096.jpeg",
+      "alt": "Models legs are crossed at the ankles upside down. They are wearing the socks with the \"LUSH\" visible on the soles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/FAT_socks_merch_2023-6_262f9733_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lifestyle",
+    "Advocate in style",
+    "Gifts for Dad",
+    " LUSH x Lazy Oaf",
+    "For the Artist",
+    "Apparel"
+  ]
+}

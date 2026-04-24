@@ -1,0 +1,90 @@
+{
+  "slug": "elphabas-broomstick-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/elphabas-broomstick-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/elphabas-broomstick-bubble-bar",
+  "title": "Elphaba's Broomstick",
+  "sku": "4680-NA",
+  "size": "125g",
+  "price": {
+    "amount": 14.5,
+    "currency": "USD",
+    "formatted": "$14.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This billowing, bubble bar brew of carnation absolute with reassuring rose. A wickedly beautiful scent that’ll leave you feeling like you’re floating over Oz.",
+  "ingredients": [
+    "Sodium Carbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Glycerin",
+    "Lauryl Betaine",
+    "Parfum",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Carnation Absolute",
+    "Citrus Reticulata Peel Oil (Tangerine Oil)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Tin Oxide",
+    "Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/elphabas_broomstick_bubble_wand_wicked_lush_2024_01_a32beac7_thumbnail_4096.png",
+      "alt": "Elphaba's Broomstick. A brown, wooden stick with flecks of gold glitter. Attached to the bottom is a bubble bar shaped like the end of a broomstick imitating the tied bristles. It is entirely coated in thick, shimmering, gold glitter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/elphabas_broomstick_bubble_wand_wicked_lush_2024_01_a32beac7_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_04_b711d0ad_thumbnail_409.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_04_b711d0ad_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_07_ef3cf323_thumbnail_409.jpg",
+      "alt": "The image shows a close-up of the model's hand holding the Elphaba's Broomstick bubble bar by the wooden stick handle as running tap water flows over the shimmering, golden broomstick bubble bar creating a blanket of bubbles on the water below. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_07_ef3cf323_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_09_00272a10_thumbnail_409.jpg",
+      "alt": "The image shows a close-up of the model's hand reaching in from the left-hand side holding the wooden stick of the Elphaba's Broomstick bubble bar as they swish and swirl it around the bathwater which has been coated in a blanket of bubbles. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_09_00272a10_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_11_67e8f867_thumbnail_409.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ELPHABAS_BROOMSTICK_BUBBLE_WAND_WICKED_X_LUSH_2024_11_67e8f867_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Bath Products",
+    "Vegan",
+    "Floral",
+    "Vegan Bath Products",
+    "Plastic Free",
+    "Customised Lush Gifts",
+    "Wicked: For Good × Lush",
+    "Collaborations"
+  ]
+}

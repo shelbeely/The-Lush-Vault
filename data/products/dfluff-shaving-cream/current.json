@@ -1,0 +1,95 @@
+{
+  "slug": "dfluff-shaving-cream",
+  "url": "https://www.lush.com/us/en_us/p/dfluff-shaving-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dfluff-shaving-cream",
+  "title": "D'Fluff",
+  "sku": "8699-NA",
+  "size": "150g",
+  "price": {
+    "amount": 32.0,
+    "currency": "USD",
+    "formatted": "$32.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 30,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "You’ll be craving second helpings of this fresh strawberry and organic maple sugar de-fluffer, it’ll leave you feeling marshmallow-soft.",
+  "ingredients": [
+    "Aqua (Water)",
+    "Rapeseed Oil; Coconut Oil",
+    "Golden Syrup",
+    "Glycerin",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Rosa Canina Fruit Oil (Organic Rose Hip Oil)",
+    "Fresh Strawberries",
+    "Aquafaba",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Silken Tofu",
+    "Titanium Dioxide",
+    "Sodium Chloride",
+    "Bentone",
+    "Propylene Glycol",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Sodium Hydroxide",
+    "Benzyl Alcohol",
+    "*Eugenol",
+    "Hexyl Cinnamal",
+    "*Limonene",
+    "Parfum",
+    "Red 40",
+    "Red 27"
+  ],
+  "badges": [
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dfluff_strawberry_shaving_soap_2020_9dfe10a9_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dfluff_strawberry_shaving_soap_2020_9dfe10a9_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_02_841e4ad2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_02_841e4ad2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_09_41d8ed10_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_09_41d8ed10_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_10_2b99a070_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Face-2024-D-Fluff-Strawberry-Shaving-Soap-Hero_10_2b99a070_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Shower Products",
+    "Shower Products",
+    "Shaving",
+    "The Archive",
+    "Customised Lush Gifts",
+    "Ways to Shop",
+    "Skincare",
+    "By Ingredients",
+    "Gourmand",
+    "Vanilla",
+    "Brightening Dull Skin",
+    "Leaving Soon"
+  ]
+}

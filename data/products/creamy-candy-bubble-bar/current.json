@@ -1,0 +1,95 @@
+{
+  "slug": "creamy-candy-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/creamy-candy-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/creamy-candy-bubble-bar",
+  "title": "Creamy Candy",
+  "sku": "767-NA",
+  "size": "100g",
+  "price": {
+    "amount": 7.5,
+    "currency": "USD",
+    "formatted": "$7.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Enjoy a soak infused with a sugar rush of vanilla and bubblegum notes. Fair Trade organic cocoa butter features in a starring role, leaving your skin soft and silky, with a deliciously sweet fragrance.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Lauryl Betaine",
+    "Zea Mays Starch (Cornstarch)",
+    "Parfum",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Citric Acid",
+    "Titanium Dioxide",
+    "Laureth 4",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "Red 27",
+    "Red 4",
+    "Red 33"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_ecom_2023_b6b6f449_thumbnail_4096.png",
+      "alt": "Creamy Candy bubble bar. A vibrant, hot pink rounded-square block, embossed with a flower on top.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_ecom_2023_b6b6f449_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__6_14ab3ef4_thumbnail_4096.jpg",
+      "alt": "Image shows the model gently crumbling the pink bubble bar under running water in front of bubbly, pink bath water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__6_14ab3ef4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__7_755e9636_thumbnail_4096.jpg",
+      "alt": "Image shows the model gently crumbling the pink bubble bar under running water in front of bubbly, pink bath water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__7_755e9636_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__10_38ffa408_thumbnail_4096.jpg",
+      "alt": "Image shows the model gently crumbling the pink bubble bar under running water in front of bubbly, pink bath water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__10_38ffa408_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__12_d310d2d3_thumbnail_4096.jpg",
+      "alt": "Image shows soft, foamy bubbles on a deep pink sea of bath water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/creamy_candy_bubble_bar_hero_2023__12_d310d2d3_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Vegan Bath Products",
+    "Bath Products",
+    "New Creations. New Sensations.",
+    "Bath and Shower",
+    "LUSH × SPONGEBOB",
+    "LUSH x ONE PIECE",
+    "Plastic Free",
+    "Exfoliating & Invigorating",
+    "Customised Lush Gifts",
+    "White Day",
+    "Gourmand"
+  ]
+}

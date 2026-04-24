@@ -1,0 +1,48 @@
+{
+  "slug": "christmas-bathtime-favorites",
+  "url": "https://www.lush.com/us/en_us/p/christmas-bathtime-favorites",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/christmas-bathtime-favorites",
+  "title": "Christmas Bathtime Favorites",
+  "sku": "RS62926-NA",
+  "size": "Each",
+  "price": {
+    "amount": 4.5,
+    "currency": "USD",
+    "formatted": "$4.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 19,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Create a customized gift with their favorite bath bombs and bubble bars and pop them in this beautiful, reusable hatbox for two gifts in one!",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_eba1682a_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_eba1682a_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_10ec0894_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_10ec0894_thumbnail_1.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_4847b0c7_thumbnail_4.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Christmas-2025-Christmas-Bathtime-Favourites-Hat-Box-Gi_4847b0c7_thumbnail_1.png"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Christmas"
+  ]
+}

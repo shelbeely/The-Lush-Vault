@@ -1,0 +1,100 @@
+{
+  "slug": "alban-hefin-soap",
+  "url": "https://www.lush.com/us/en_us/p/alban-hefin-soap",
+  "title": "Alban Hefin",
+  "sku": "4162-NA",
+  "size": "100g",
+  "price": {
+    "amount": 11.5,
+    "currency": "USD",
+    "formatted": "$11.50",
+    "onSale": false
+  },
+  "availability": {
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 31,
+    "schemaAvailability": "https://schema.org/InStock"
+  },
+  "description": "A sweet and grassy soap made with the gifts of high summer.",
+  "ingredients": [
+    "Mallow Leaf and Blackberry Leaf Infusion",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Cocos Nucifera Oil (Organic Extra Virgin Coconut Oil)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "*Limonene",
+    "Sodium Hydroxide",
+    "Fresh Strawberries",
+    "Palmarosa Oil",
+    "Cymbopogon Flexuosus Leaf Oil (Lemongrass Oil)",
+    "Backhousia Citriodora Leaf Oil (Lemon Myrtle Oil)",
+    "Citronella Oil",
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Titanium Dioxide",
+    "Sodium Chloride",
+    "Citric Acid",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "*Benzyl Benzoate",
+    "*Citral",
+    "*Citronellol",
+    "*Geraniol",
+    "*Linalool",
+    "Blue 1",
+    "Yellow 5",
+    "Red 30",
+    "Green 3"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin_summer_solstice_soap_jamie_reid_ecom_2024_71b3c63e_thumbnail_409.png",
+      "alt": "Alban Hefin is a thick, off-square slice of soap. An abstract design shows a green, pyramid-like shape at the bottom with a bright yellow, sun-like circle, surrounded by blue swirls. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin_summer_solstice_soap_jamie_reid_ecom_2024_71b3c63e_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__19_008c4000_thumbnail_4096.jpg",
+      "alt": "A close-up of the model's hands, lathered up with soapy suds while holding the Alban Hefan soap. Water is falling from above and there is a pastel yellow background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__19_008c4000_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__11_3ad8263a_thumbnail_4096.jpg",
+      "alt": "A close-up image of the model's hand holing the Alban Hefin soap in their hand as the smooth it over their shoulder under running shower water on a yellow background. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__11_3ad8263a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__22_f62b9e25_thumbnail_4096.jpg",
+      "alt": "A shot of the model's arms on a yellow background as water is falling. They use one hand to smooth the soap over their forearm.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin__summer_solstice_soap_hero_2024__22_f62b9e25_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin_summer_solstice_soap_soap_2024_copy_fd8cd466_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/alban_hefin_summer_solstice_soap_soap_2024_copy_fd8cd466_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T17:59:24.000Z",
+  "updatedAt": "2026-04-24T17:59:24.000Z",
+  "collections": [
+    "Collaborations",
+    "Handmade Soap",
+    "Shower Products",
+    "Vegan Shower Products",
+    "Plastic Free",
+    "Vegan",
+    "Keep Clean",
+    "Travel-size Essentials",
+    "Summer Essentials",
+    "Customised Lush Gifts",
+    "LUSH × Jamie Reid",
+    "For the Artist"
+  ]
+}

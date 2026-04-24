@@ -1,0 +1,105 @@
+{
+  "slug": "baklava-soap",
+  "url": "https://www.lush.com/us/en_us/p/baklava-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/baklava-soap",
+  "title": "Baklava",
+  "sku": "65199-NA",
+  "size": "100g",
+  "price": {
+    "amount": 10.5,
+    "currency": "USD",
+    "formatted": "$10.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Sharing is caring, so for Eid we’re sharing this hydrating soap with layers of soothing rosewater and moisturising cocoa butter with you for deliciously soft skin.",
+  "ingredients": [
+    "Brassica Napus Seed Oil (Rapeseed Oil)",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "Cocos Nucifera Oil (Coconut Oil)",
+    "Parfum",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Juniperus Virginiana Wood Oil (Cedarwood Oil)",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cocos Nucifera Fruit Powder (Coconut Milk Powder)",
+    "Sodium Chloride",
+    "Titanium Dioxide",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Aloe Vera Powder",
+    "Citric Acid",
+    "Sodium Hydroxide",
+    "Sodium Bicarbonate",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "Synthetic Fluorphlogopite",
+    "Silica",
+    "Tin Oxide",
+    "Geraniol",
+    "Coumarin",
+    "*Benzyl Benzoate",
+    "*Limonene",
+    "*Linalool",
+    "Iron Oxides",
+    "Yellow 8",
+    "Green 5",
+    "Blue 1",
+    "Elettaria Cardamomum Seed (Cardamom Seeds)"
+  ],
+  "badges": [
+    "Contains Glitter",
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_eid_2026__3adce590_thumbnail_4096.png",
+      "alt": "A rectangular bar of Baklava handmade soap with a cream base and marbled swirls of green and gold. The top is sprinkled with dark brown spice seeds, set against a solid black background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_eid_2026__3adce590_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_baklava_soap_eid_lush_2026_03_07a7b176_thumbnail_4096.jpg",
+      "alt": "A stack of marbled green \"Baklava\" soap bars on a brass cake stand. The festive scene includes a red velvet tablecloth, a lit candle, an ornate gold lantern, and plates of baklava and nuts against a backdrop of draped red fabric.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_baklava_soap_eid_lush_2026_03_07a7b176_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_30_3fa59274_thumbnail_4096.jpg",
+      "alt": "Hairy hands hold the marbled green and gold Baklava handmade soap under a splashing stream of clear water. The soap has seeds on top and is held against a soft, light neutral background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_30_3fa59274_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_32_495de108_thumbnail_4096.jpg",
+      "alt": "Hands lather the green and gold marbled Baklava soap under a stream of water. Dark seeds are visible on the soap's surface. Set against a soft white background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_32_495de108_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_35_c418b1c1_thumbnail_4096.jpg",
+      "alt": "Hands lather the green and cream marbled Baklava soap, creating white bubbles. The soap features dark seeds on its surface. Set against a soft white background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/baklava_soap_lush_2026_35_c418b1c1_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Handmade Soap ",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Handmade Soap",
+    "Shower Products",
+    "Plastic-Free Shower Products",
+    "Vegan",
+    "New Products",
+    "EID Gifts",
+    "Vegan Shower Products"
+  ]
+}

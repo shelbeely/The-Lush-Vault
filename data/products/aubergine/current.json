@@ -1,0 +1,43 @@
+{
+  "slug": "aubergine",
+  "url": "https://www.lush.com/us/en_us/p/aubergine",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/aubergine",
+  "title": "Aubergine",
+  "sku": "64996G-UN",
+  "size": "105g",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Ready to please",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aubergine_bath_bomb_feb_kitchen_ecom_2026_1d15e5bd_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aubergine_bath_bomb_feb_kitchen_ecom_2026_1d15e5bd_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/xl_box_jan_kitchen_hero_landscape_2026_f2e4972f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/xl_box_jan_kitchen_hero_landscape_2026_f2e4972f_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

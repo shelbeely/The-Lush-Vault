@@ -1,0 +1,79 @@
+{
+  "slug": "aduki-washing-grains-facial-exfoliator",
+  "url": "https://www.lush.com/us/en_us/p/aduki-washing-grains-facial-exfoliator",
+  "sourceUrl": "https://www.lush.com/uk/en/p/aduki-washing-grains-facial-exfoliator",
+  "title": "Aduki Washing Grains",
+  "sku": "63163-UK",
+  "size": "70g",
+  "price": {
+    "amount": 12.0,
+    "currency": "GBP",
+    "formatted": "12.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Our beautifully simple waterless scrub is made with softening tapioca and ground adzuki beans for soft, bright skin.",
+  "ingredients": [
+    "Ground Organic Aduki Beans",
+    "Zea Mays Starch (Cornstarch)",
+    "Tapioca Flour",
+    "Plukenetia Volubilis Seed Oil (Organic Sacha Inchi Oil)",
+    "Citrus Aurantium Amara Twig/Leaf Oil (Petitgrain Oil)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Everlasting Flower Absolute",
+    "*Citral",
+    "*Geraniol",
+    "*Limonene",
+    "*Linalool",
+    "Perfume"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/aduki_wash_grains_lush_version_ecom_2024_1_4114e2ab_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/aduki_wash_grains_lush_version_ecom_2024_1_4114e2ab_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_1_976137f7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_1_976137f7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_2_ff4053d7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_2_ff4053d7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_3_a2d96995_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_3_a2d96995_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_5_bc3caa1e_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/japanese_washing_grains_lush_version_hero_2024_5_bc3caa1e_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Face Scrubs & Exfoliators",
+    "Skincare Routines",
+    "Skincare",
+    "Vegan",
+    "Vegan Skincare",
+    "The Lush Version",
+    "Customised Lush Gifts"
+  ]
+}

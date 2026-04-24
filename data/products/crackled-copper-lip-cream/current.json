@@ -1,0 +1,103 @@
+{
+  "slug": "crackled-copper-lip-cream",
+  "url": "https://www.lush.com/us/en_us/p/crackled-copper-lip-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/crackled-copper-lip-cream",
+  "title": "Crackled Copper",
+  "sku": "62502-NA",
+  "size": "7g",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 18,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Prep dry lips with a cream of conditioning shea butter, castor oil and shimmer for your kisser. Lips will feel hydrated and moisturised under all that shine.",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Synthetic Fluorphlogopite",
+    "Glycerin",
+    "Butyrospermum Parkii Butter (Organic Shea Butter)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Candelilla Wax",
+    "Flavour",
+    "Titanium Dioxide",
+    "Tin Oxide",
+    "Fenugreek Absolute",
+    "Brazilian Orange Oil",
+    "Tagetes Minuta Flower Oil (Tagetes Oil)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Sesame Seed Absolute ",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Stevia Rebaudiana Extract (Stevia)",
+    " Talc (Talc Powder)",
+    "*Anise Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Citral",
+    "*Eugenol",
+    "*Farnesol",
+    "*Isoeugenol",
+    "*Limonene",
+    "*Linalool",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_2023_b0f6cf82_thumbnail_4096.png",
+      "alt": "Crackled Copper. A neatly smudged swatch of thick, textured, deep rusted-bronze coloured lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_2023_b0f6cf82_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_29_32caa8f1_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle shimmering lips from using the Crackled Copper lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_29_32caa8f1_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_30_3522bec4_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background as they rest their chin on their hands. They have pink hair and subtle shimmering lips from using the Crackled Copper lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_30_3522bec4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_31_47728458_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background, smiling with their eyes closed. They have pink hair and subtle shimmering lips from using the Crackled Copper lip cream. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_31_47728458_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_32_ec603cec_thumbnail_4096.jpg",
+      "alt": "The image shows a fair-skinned model on a pink and blue gradient background. They have pink hair and subtle shimmering lips from using the Crackled Copper lip cream product, which they are holding up to their face.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/crackled_copper_lip_cream_hero_2025_32_ec603cec_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_1_b2a61460_thumbnail_4096.jpg",
+      "alt": "The image shows an aerial view of three forearms of differing skin tones. Across each of the arms are swatched the five Firework Lush lip creams, from light to dark, to display how they show on different skin tones. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/lip_cream_hero_swatch_2025_1_b2a61460_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Makeup",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Firework Makeup",
+    "Vegan Lipstick",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Vegan Makeup",
+    "Ways to Shop",
+    "Makeup"
+  ]
+}

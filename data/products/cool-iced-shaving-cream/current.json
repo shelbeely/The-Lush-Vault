@@ -1,0 +1,72 @@
+{
+  "slug": "cool-iced-shaving-cream",
+  "url": "https://www.lush.com/us/en_us/p/cool-iced-shaving-cream",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cool-iced-shaving-cream",
+  "title": "Cool Iced",
+  "sku": "61283-NA",
+  "size": "61283-NA",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 13,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "An ultra-soothing blend of oat milk and rose water make for a smooth, close shave.",
+  "ingredients": [
+    "Oat Milk",
+    "Rosa Damascena Flower Water (Rose Water)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Glycerin",
+    "Stearic Acid",
+    "Cetearyl Alcohol",
+    "Parfum",
+    "Triethanolamine",
+    "Lebanese Neroli Oil",
+    "Rosa Damascena Flower Oil (Rose Oil)",
+    "Oakmoss Absolute",
+    "Sandalwood Oil",
+    "Menthol (Menthol Crystals)",
+    "Charcoal Powder (Activated Charcoal)",
+    "Tincture of Benzoin",
+    "Benzyl Salicylate",
+    "*Linalool",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/shaved_ice_2020_thumbnail_4096_bd9f35f2_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/shaved_ice_2020_thumbnail_4096_bd9f35f2_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/unnamed1_86e547bc_thumbnail_4096.jpeg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/unnamed1_86e547bc_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Gifts for Dad",
+    "Super Powered Ingredients",
+    "Skincare Routines",
+    "Bath and Shower",
+    "Shaving"
+  ]
+}

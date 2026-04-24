@@ -1,0 +1,68 @@
+{
+  "slug": "bath-art",
+  "url": "https://www.lush.com/us/en_us/p/bath-art",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bath-art",
+  "title": "Bath Art",
+  "sku": "63452-NA",
+  "size": "Each",
+  "price": {
+    "amount": 20.0,
+    "currency": "USD",
+    "formatted": "$20.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Bathe like Pablo Picasso and soak is a kaleidoscope of colour with two fresh and fruity bath bombs.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_art_gift_pr_2025_b73e60a3_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_art_gift_pr_2025_b73e60a3_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/bath_art_ayr_gift_2025_01_798dae74_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/bath_art_ayr_gift_2025_01_798dae74_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-2025-Intergalactic-Bath-Bomb-Hero-08_Digital_-2024_bf064b9e_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-2025-Intergalactic-Bath-Bomb-Hero-08_Digital_-2024_bf064b9e_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2024-Thermal-Waves-Bath-Bomb-Hero-02_Digital_-2024_312fc57a_thumbnail_4.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/WBBD-2024-Thermal-Waves-Bath-Bomb-Hero-02_Digital_-2024_312fc57a_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Vegan",
+    "Bath Bomb Gift Sets",
+    "Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts for Every Budget",
+    "Gifts for Dad",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Bath & Body Gifts",
+    "Gifts for Friends",
+    "Gifts Under $25",
+    "Gifts Under $50"
+  ]
+}

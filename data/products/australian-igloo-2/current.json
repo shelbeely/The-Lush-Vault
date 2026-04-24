@@ -1,0 +1,43 @@
+{
+  "slug": "australian-igloo-2",
+  "url": "https://www.lush.com/us/en_us/p/australian-igloo-2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/australian-igloo-2",
+  "title": "Australian Igloo",
+  "sku": "4717G-UN",
+  "size": "90g",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Buff your outback",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Naked"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/australian_igloo_scrub_c3866834_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/australian_igloo_scrub_c3866834_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_6eb3c686_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_6eb3c686_thumbnail_128.png"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

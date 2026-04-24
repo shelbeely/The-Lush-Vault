@@ -1,0 +1,69 @@
+{
+  "slug": "gemini-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/gemini-knot-wrap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/gemini-knot-wrap",
+  "title": "Gemini Knot Wrap",
+  "sku": "217319-NA",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 9.0,
+    "currency": "USD",
+    "formatted": "$9.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Releasing as part of our Zodiac 2024 collection, Gemini Knot Wrap is a reusable gift wrapping option, made from 100% recycled plastic bottles.",
+  "ingredients": [
+    "Recycled polyester"
+  ],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/256x256-thunbnail-knot-wrap-5_3af5bd65_thumbnail_4096.png",
+      "alt": "Gemini. A vibrantly, colourful square knot wrap with a striped border. The centre has a large diamond shape showing the Gemini star sign, and playful sun and moon depictions. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/256x256-thunbnail-knot-wrap-5_3af5bd65_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_11_3d82f8d3_thumbnail_4096.jpg",
+      "alt": "Two similar-looking models wearing the same outfit with the same hairstyle have fashioned the Gemini knot wrap into a stylish head bandana and are standing facing towards and away from the camera to show each angle. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_11_3d82f8d3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_04_7e55bfa8_thumbnail_4096.jpg",
+      "alt": "The two similar-looking models are wearing a white tank top with the Gemini knot wrap fashioned into a stylish head bandana standing back to back on a sparkling pink background. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_04_7e55bfa8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_07_aad0eb1c_thumbnail_4096.jpg",
+      "alt": "Two similar-looking models wearing the same outfit with the same hairstyle have fashioned the Gemini knot wrap into a stylish head bandana and are standing facing towards and away from the camera to show each angle. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/gemini_knotwrap_2024_07_aad0eb1c_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1125x2000-know-wrap-3_d39056f4_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the Gemini knot wrap to focus on the vibrant contrasting colours and the texture of the fabric. The area focused on has a checkered pattern of brightly coloured squares. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1125x2000-know-wrap-3_d39056f4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1125x2000-know-wrap-2_48f9cc41_thumbnail_4096.jpg",
+      "alt": "A super close-up image of the Gemini knot wrap to focus on the vibrant contrasting colours and the texture of the fabric. The area focused on has a section of dark, starry sky and a fraction of colourful border. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1125x2000-know-wrap-2_48f9cc41_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Knot Wraps",
+    "Gift Wrapping",
+    "Zodiac Gift Guide",
+    "Gifts for Gemini",
+    "Lifestyle"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "curly-wurly-shampoo",
+  "url": "https://www.lush.com/us/en_us/p/curly-wurly-shampoo",
+  "sourceUrl": "https://www.lush.com/uk/en/p/curly-wurly-shampoo",
+  "title": "Curly Wurly",
+  "sku": "62569-UK",
+  "size": "220g",
+  "price": {
+    "amount": 22.0,
+    "currency": "GBP",
+    "formatted": "22.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Embrace your kinky side and go nuts for moisture boosting coconut and avocado butter for bounce, strength and shine.",
+  "ingredients": [
+    "Sodium Lauryl Sulfate",
+    "Aqua (Water)",
+    "Desiccated Coconut",
+    "Sodium Cocoyl Isethionate",
+    "Cetearyl Alcohol",
+    "Propylene Glycol",
+    "Linum Usitatissimum Seed Extract (Linseed Extract)",
+    "Citrus Limon Juice (Fresh Organic Lemon Juice)",
+    "Glyceryl Stearate & PEG-100 Stearate",
+    "Parfum",
+    "Carica Papaya Fruit (Fresh Papaya)",
+    "Lauryl Betaine",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Cocos Nucifera Oil (Extra Virgin Coconut Oil)",
+    "Cicer Arietinum Seed Extract (Aquafaba Powder)",
+    "Silken Tofu",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Theobroma Grandiflorum Seed Butter (Cupuaçu Butter)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Avocado Butter",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Vetiveria Zizanoides Root Oil (Vetivert Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Olea Europaea Fruit Oil (Organic Extra Virgin Olive Oil)",
+    "Alkanet Extracted in Castor Oil",
+    "Cetrimonium Chloride",
+    "*Coumarin"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/curly_wurly_shampoo_spring_2019_1190a965_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/curly_wurly_shampoo_spring_2019_1190a965_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_01_e2282a0f_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_01_e2282a0f_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_03_7a6eef0a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_03_7a6eef0a_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_02_38ff147d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Hair-2024-Curly-Wurly-Shampoo-Hero_02_38ff147d_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Archive",
+    "Shampoo",
+    "Hair Care",
+    "Customised Lush Gifts",
+    "Shop Haircare By Benefit",
+    "Soften & Shine Haircare",
+    "Hydrating and Moisturising Haircare",
+    "Curly and Coily Hair",
+    "Vegan",
+    "Vegan Hair Products",
+    "Leaving Soon"
+  ]
+}

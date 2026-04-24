@@ -1,0 +1,105 @@
+{
+  "slug": "deep-sleep-massage-bar",
+  "url": "https://www.lush.com/us/en_us/p/deep-sleep-massage-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/deep-sleep-massage-bar",
+  "title": "Deep Sleep",
+  "sku": "451-NA",
+  "size": "65g",
+  "price": {
+    "amount": 15.0,
+    "currency": "USD",
+    "formatted": "$15.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A dose of lavender, chamomile and magnesium combine in this calming massage body bar for sleep, encouraging the body and mind to rest when slumber won’t come.",
+  "ingredients": [
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Calamine (Calamine Powder)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Lavender Flower Infusion",
+    "Parfum",
+    "Shorea Stenoptera Seed Butter (Illipe Butter)",
+    "Magnesium Chloride",
+    "Organic Cold Pressed Passion Seed Oil",
+    "*Linalool",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "Anthemis Nobilis Flower Oil (Chamomile Oil)",
+    "Lavandula Angustifolia Extract (Lavender Extract)",
+    "Citrus Aurantium Amara Flower Oil (Neroli Oil)",
+    "Aqua (Water)",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Coumarin",
+    "*Eugenol",
+    "*Geraniol",
+    "*Limonene"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_2022_b0834819_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_2022_b0834819_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_7_340c0ecb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_7_340c0ecb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_10_0155f3a3_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_10_0155f3a3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_13_65e00620_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/deep_sleep_magnesium_massage_bar_hero_2023_13_65e00620_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Body",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Massage Oil Bars",
+    "Sleep Tight",
+    "Body Care",
+    "Vegan",
+    "Super Powered Ingredients",
+    "Sleepy",
+    "Rewild your routine",
+    "Plastic Free",
+    "Plastic-Free Body Care",
+    "Lavender",
+    "Muscle Recovery",
+    "Floral",
+    "Soothing & Moisturizing",
+    "Trending Now",
+    "Customised Lush Gifts",
+    "The Scent House",
+    "Gifts for Mum",
+    "Cocoa Butter Collection",
+    "For the Dreamer",
+    "For the Life and Soul",
+    "Bestsellers",
+    "Burr Basket Ideas",
+    "Gifts for Dad",
+    "Small Gifts",
+    "Sporty Soaperstar Gifts",
+    "Blissful Bather Gifts"
+  ]
+}

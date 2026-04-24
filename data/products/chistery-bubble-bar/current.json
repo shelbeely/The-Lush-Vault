@@ -1,0 +1,103 @@
+{
+  "slug": "chistery-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/chistery-bubble-bar",
+  "sourceUrl": "https://www.lush.com/uk/en/p/chistery-bubble-bar",
+  "title": "Chistery",
+  "sku": "64608-UN",
+  "size": "110g",
+  "price": {
+    "amount": 9.5,
+    "currency": "GBP",
+    "formatted": "9.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "Our fleet of Wicked: For Good x Lush bubble bars are equipped with cocoa butter wings to soften while you soak.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Zea Mays Starch (Cornstarch)",
+    "Lauryl Betaine",
+    "Parfum",
+    "PEG-7 Glyceryl Cocoate",
+    "Sodium Coco-Sulfate",
+    "Citrus Paradisi Peel Oil (Grapefruit Oil)",
+    "Eugenia Caryophyllus Oil (Clove Bud Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Styrax Tonkinensis Resin Extract (Benzoin Resinoid Extract)",
+    "Organic Carnauba Wax",
+    "Titanium Dioxide",
+    "Cocamidopropyl Betaine",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Alpha-Isomethyl Ionone",
+    "*Benzyl Benzoate",
+    "*Benzyl Cinnamate",
+    "*Cinnamal",
+    "*Cinnamyl Alcohol",
+    "*Citral",
+    "*Eugenol",
+    "*Limonene",
+    "*Linalool",
+    "Colour 42090:2",
+    "Colour 47005",
+    "Colour 42090",
+    "Colour 42053",
+    "Colour 77288",
+    "Colour 19140",
+    "Colour 59040",
+    "Colour 77499"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/chistery_bubble_bar_lush_x_wicked_2025_16bcd986_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/chistery_bubble_bar_lush_x_wicked_2025_16bcd986_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---2_fb706b51_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---2_fb706b51_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---3_ec206741_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---3_ec206741_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---5_454217cf_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---5_454217cf_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---9_fba16681_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Lush_X_Wicked_for_good_CHISTERY_Bubble_Barr---9_fba16681_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Vegan",
+    "Vegan Bath Products",
+    "Bath Products",
+    "Wicked: For Good × Lush",
+    "Collaborations"
+  ]
+}

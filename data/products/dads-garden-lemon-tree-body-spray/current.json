@@ -1,0 +1,81 @@
+{
+  "slug": "dads-garden-lemon-tree-body-spray",
+  "url": "https://www.lush.com/us/en_us/p/dads-garden-lemon-tree-body-spray",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/dads-garden-lemon-tree-body-spray",
+  "title": "Dad's Garden Lemon Tree",
+  "sku": "7317-NA",
+  "size": "200ml",
+  "price": {
+    "amount": 38.0,
+    "currency": "USD",
+    "formatted": "$38.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 7,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "A bittersweet landscape of lemon and lime, watered with fresh, juicy bergamot and infused with African sunshine.",
+  "ingredients": [
+    "Alcohol Denat.",
+    "Aqua (Water)",
+    "Parfum",
+    "Glycerin",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Lavandula Angustifolia Oil (Lavender Oil)",
+    "*Citral",
+    "*Limonene",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Dads_Garden_Lemon_Tree_Body_Spray_200ml_3739e692_thumbnail_4096.png",
+      "alt": "Dad's Garden Lemon Tree body spray. A black spray bottle of Lush \"Dad's Garden Lemon Tree\" Body Spray. The product label is black with a vibrant, dandelion-yellow banded border. White text states the product name and the scent description.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Dads_Garden_Lemon_Tree_Body_Spray_200ml_3739e692_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_01_971adfe7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_01_971adfe7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_02_2ca61de4_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_02_2ca61de4_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_02_1_ca75a4b2_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/dads_garden_lemon_tree_body_spray_2025_02_1_ca75a4b2_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Fragrance",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan",
+    "Zesty",
+    "Body Sprays",
+    "Fragrances",
+    "Vegan Perfume",
+    "Dads Deserve Pampering",
+    "Keep Your Cool with Summer Essentials",
+    "Ocean-inspired faves",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Awake ",
+    "Citrus",
+    "Zest is Best",
+    "Cooling",
+    "Spring Fragrance"
+  ]
+}

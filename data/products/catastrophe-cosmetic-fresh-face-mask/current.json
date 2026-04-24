@@ -1,0 +1,95 @@
+{
+  "slug": "catastrophe-cosmetic-fresh-face-mask",
+  "url": "https://www.lush.com/us/en_us/p/catastrophe-cosmetic-fresh-face-mask",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/catastrophe-cosmetic-fresh-face-mask",
+  "title": "Catastrophe Cosmetic",
+  "sku": "62368-NA",
+  "size": "75g",
+  "price": {
+    "amount": 14.0,
+    "currency": "USD",
+    "formatted": "$14.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 19,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "When hormones are playing havoc with your skin, reach for this ultimate maintenance mask. You’ll be back to cool, calm and clear skin in no time.",
+  "ingredients": [
+    "Calamine (Calamine Powder)",
+    " Talc (Talc Powder)",
+    "Irish Moss Gel",
+    "Fresh Blueberries",
+    "Glycerin",
+    "Prunus Amygdalus Dulcis Oil (Almond Oil)",
+    "Rosa Damascena Extract (Rose Extract)",
+    "Matricaria Recutita Flower Oil (Chamomile Blue Oil)",
+    "Citrus Sinensis Peel Oil Expressed (Sweet Wild Orange Oil)",
+    "*Limonene",
+    "Alpha-Isomethyl Ionone",
+    "Parfum"
+  ],
+  "badges": [
+    "Fresh",
+    "Vegan",
+    "100% Recycled Pot",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_fresh_mask_2020_thumbnail_4096.png",
+      "alt": "A swatch of thick, pale lilacy blue coloured Catastrophe Cosmetic face mask, complete with tiny pieces of blueberry throughout.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_fresh_mask_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_03_55c1364b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_03_55c1364b_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_10_626a59cb_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_10_626a59cb_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_20_9f69e2b8_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_2024_20_9f69e2b8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_fresh_face_mask_lush_2025_03_2844729d_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_fresh_face_mask_lush_2025_03_2844729d_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_texture_01_70e39fa9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/catastrophe_cosmetic_face_mask_texture_01_70e39fa9_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Face Masks",
+    "Fresh",
+    "Vegan",
+    "Balancing Oily Skin",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Summer Essentials",
+    "Super Powered Ingredients",
+    "Calming Skin Redness",
+    "Sensitive skin",
+    "Skincare By Needs",
+    "Teen skin",
+    "Matcha & Blueberry"
+  ]
+}

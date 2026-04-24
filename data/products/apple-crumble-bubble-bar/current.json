@@ -1,0 +1,85 @@
+{
+  "slug": "apple-crumble-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/apple-crumble-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/apple-crumble-bubble-bar",
+  "title": "Apple Crumble",
+  "sku": "1863-NA",
+  "size": "200g",
+  "price": {
+    "amount": 14.5,
+    "currency": "USD",
+    "formatted": "$14.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Fresh apple pulp and Fair Trade organic cocoa butter are a recipe for deliciously moisturising, packaging-free bubble baths.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Sodium Laureth Sulfate",
+    "Theobroma Cacao Seed Butter (Fair Trade Organic Cocoa Butter)",
+    "Parfum",
+    "Lauryl Betaine",
+    "Zea Mays Starch (Cornstarch)",
+    "Commiphora Myrrha Resin (Myrrh Resinoid)",
+    "Citrus Aurantium Amara Flower Extract (Orange Flower Extract)",
+    "Cinnamomum Zeylanicum Leaf Oil (Cinnamon Leaf Oil)",
+    "Fresh Apple Pulp",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Guar Gum",
+    "Titanium Dioxide",
+    "Laureth 4",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Silica",
+    "*Eugenol",
+    "*Hydroxycitronellal",
+    "*Linalool",
+    "Red 4",
+    "Iron Oxides",
+    "Makrut Lime Leaf"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/apple_crumble_bubbleroon_thumbnail_4096.png",
+      "alt": "Apple Crumble. A red and shimmery gold, apple shaped, bubble bar. Split in two with a creamy filling and topped with a leaf.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/apple_crumble_bubbleroon_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/apple_crumble_bubbleroon_hero_2019-2_thumbnail_4096.jpeg",
+      "alt": "Vivid red water with a covering of bubbles of all different sizes, dotted in white foam.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/apple_crumble_bubbleroon_hero_2019-2_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Bubble Bars",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Bubble Bath Bars",
+    "Bath Products",
+    "Vegan",
+    "Winter Bath & Shower Products",
+    "Online Exclusives",
+    "Winter Cosmetics",
+    "Plastic Free",
+    "Gifts for Kids & Teens",
+    "Bath and Shower",
+    "Spicy",
+    "Exfoliating & Invigorating",
+    "Customised Lush Gifts",
+    "Cosy Season"
+  ]
+}

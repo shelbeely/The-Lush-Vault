@@ -1,0 +1,74 @@
+{
+  "slug": "every-cloudgift",
+  "url": "https://www.lush.com/us/en_us/p/every-cloudgift",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/every-cloudgift",
+  "title": "Every Cloud",
+  "sku": "63453-NA",
+  "size": "Each",
+  "price": {
+    "amount": 19.0,
+    "currency": "USD",
+    "formatted": "$19.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 44,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "This gift holds the silver lining you need. After a long day, float away on clouds of lavender and let this duo of dreamy delights soothe the soul.",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/every_cloud_gift_ecom_2025_dcfa8303_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/every_cloud_gift_ecom_2025_dcfa8303_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/every_cloud_ayr_gift_2025_01_7baf1e29_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/every_cloud_ayr_gift_2025_01_7baf1e29_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/sleepy_bubble_bar_hero_2024__16_1_d31f91e7_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/sleepy_bubble_bar_hero_2024__16_1_d31f91e7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_11305c66_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath-twilight-bath-bomb-hero_03_11305c66_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Gifts",
+    "Vegan",
+    "Bath Bomb Gift Sets",
+    "Sleepy",
+    "Lavender",
+    "Gifts for Every Budget",
+    "Bath & Body Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts by Recipient",
+    "Gifts for Mum",
+    "Gifts By Type",
+    "Gifts by Occasion",
+    "Gifts for Friends",
+    "Team Appreciation Gifts",
+    "Blissful Bather Gifts",
+    "Gifts Under $25",
+    "Gifts Under $50"
+  ]
+}

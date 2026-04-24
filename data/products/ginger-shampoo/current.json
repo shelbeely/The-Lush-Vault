@@ -1,0 +1,100 @@
+{
+  "slug": "ginger-shampoo",
+  "url": "https://www.lush.com/us/en_us/p/ginger-shampoo",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/ginger-shampoo",
+  "title": "Ginger",
+  "sku": "65167-NA",
+  "size": "140g",
+  "price": {
+    "amount": 16.0,
+    "currency": "USD",
+    "formatted": "$16.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 40,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Fight dry flakes with our fresh ginger, anti-dandruff shampoo! Made with sea salt and salicylic acid, this nourishing shampoo promotes a balanced, healthy scalp.",
+  "ingredients": [
+    "Coarse Sea Salt",
+    "Sodium Laureth Sulfate",
+    "Zingiber Officinale Root Extract (Fresh Ginger Root Extract)",
+    "Fairly Traded Honey",
+    "Rosmarinus Officinalis Leaf Extract (Fresh Rosemary Extract)",
+    "Propylene Glycol",
+    "Lauryl Betaine",
+    "Parfum",
+    "Zingiber Officinale Root Oil (Ginger Oil)",
+    "Argania Spinosa Kernel Oil (Organic Argan Oil)",
+    "Persea Gratissima Oil (Organic Avocado Oil)",
+    "Sunflower Lecithin",
+    "Lactobacillus/Soymilk Ferment (Organic Soya Kefir Yoghurt)",
+    "Mimosa Absolute",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Sicilian Mandarin Oil",
+    "Kenyan Geranium Oil",
+    "Sandalwood Oil",
+    "Gardenia Jasminoides Fruit Extract (Gardenia Extract)",
+    "Aqua (Water)",
+    "Salicylic Acid",
+    "Piroctone Olamine",
+    "Alpha-Isomethyl Ionone",
+    "Citronellol",
+    "*Limonene",
+    "*Linalool",
+    "Yellow 5"
+  ],
+  "badges": [
+    "100% Recycled Pot",
+    "Vegetarian"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_ecom_2024_4b36b59c_thumbnail_4096.png",
+      "alt": "Ginger. A smudged swatch of thick, textured, bright orange hair shampoo.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_ecom_2024_4b36b59c_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_1_ceb32308_thumbnail_4096.jpg",
+      "alt": "The image shows the model's arms stretched into the centre holding the white, LUSH Version-themed packed pot of the Ginger shampoo. One of their hands is scooping the product out. There is a teal background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_1_ceb32308_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_3_65a8f604_thumbnail_4096.jpg",
+      "alt": "The model is standing under running shower water on a teal background. Their dark, long hair is wet and lathered in suds as they lather the Ginger shampoo into their roots. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_3_65a8f604_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_4_466be7f7_thumbnail_4096.jpg",
+      "alt": "The image shows the rear view of the model's dark, long hair which is wet and lathered in suds as they lather the Ginger shampoo into their roots. There is a teal background with running shower water. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_4_466be7f7_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_7_b3ae3da5_thumbnail_4096.jpg",
+      "alt": "The model is standing under running shower water on a teal background. Their dark, long hair is wet and lathered in suds as they lather the Ginger shampoo into their roots. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_7_b3ae3da5_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_11_7c24a063_thumbnail_4096.jpg",
+      "alt": "The model is on a teal background with a contrasting, yellow and orange gradient tank top. They have thick, shoulder-length hair which looks clean and healthy and is being fanned with air. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/ginger_shampoo_lush_version_hero_2024_11_7c24a063_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Hair",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "The Lush Version",
+    "Shampoo",
+    "Hair Care",
+    "Spicy",
+    "Gifts for Leo",
+    "Customised Lush Gifts",
+    "Scalp Care"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "cherry-lip-scrub",
+  "url": "https://www.lush.com/us/en_us/p/cherry-lip-scrub",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/cherry-lip-scrub",
+  "title": "Cherry",
+  "sku": "60069-NA",
+  "size": "25g",
+  "price": {
+    "amount": 13.0,
+    "currency": "USD",
+    "formatted": "$13.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 34,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Polish your pout to perfection. This playfully pink confection uses davana, lime, and cocoa absolute for a deliciously sour hit of tangy cherry flavour.",
+  "ingredients": [
+    "Sucrose (Caster Sugar)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Prunus Avium Seed Oil (Cherry Kernel Oil)",
+    "Butyrospermum Parkii Butter (Shea Butter)",
+    "Citric Acid",
+    "Artemisia Pallens Herb Oil (Davana Oil)",
+    "Citrus Aurantifolia Peel Oil (Lime Oil)",
+    "Theobroma Cacao Extract (Cocoa Extract)",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Titanium Dioxide",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "*Eugenol",
+    "*Limonene",
+    "Aroma",
+    "Iron Oxides",
+    "Red 7 Lake",
+    " Talc (Talc Powder)",
+    "Zea Mays Starch (Cornstarch)"
+  ],
+  "badges": [
+    "Vegan",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_scrub_2020_thumbnail_4096.png",
+      "alt": "A sample of fuchsia pink Cherry sugar lip scrub.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_scrub_2020_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_scrub_spring_2020-3_thumbnail_4096.jpeg",
+      "alt": "A person with a nose piercing, wearing a Hijab, scrubs their pouted lips with  fuchsia pink Cherry sugar lip scrub.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cherry_lip_scrub_spring_2020-3_thumbnail_128.jpeg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Lip Scrubs & Balms",
+    "Vegan Skincare",
+    "Vegan",
+    "Skincare",
+    "Summer Gourmand",
+    "Travel-size Essentials",
+    "Lush Living Room ",
+    "Summer Treats",
+    "Berries & Cream Trifle",
+    "Colorful Products",
+    "For the Dreamer"
+  ]
+}

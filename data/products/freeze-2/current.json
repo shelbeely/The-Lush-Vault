@@ -1,0 +1,47 @@
+{
+  "slug": "freeze-2",
+  "url": "https://www.lush.com/us/en_us/p/freeze-2",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/freeze-2",
+  "title": "Freeze",
+  "sku": "63309GIE-UK",
+  "size": "63309GIE-UK",
+  "price": {
+    "amount": 1.0,
+    "currency": "USD",
+    "formatted": "$1.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 48,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "It’s brrr-illiant!",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/freeze_shower_scrub_2024_a27cedfc_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/freeze_shower_scrub_2024_a27cedfc_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_444b5589_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_shower_box_ecom_2025_444b5589_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_bc64dbba_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/january_kitchen_standard_box_ecom_2025_bc64dbba_thumbnail_128.png"
+    }
+  ],
+  "category": "Shower",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "charcoal-facial-soap",
+  "url": "https://www.lush.com/us/en_us/p/charcoal-facial-soap",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/charcoal-facial-soap",
+  "title": "Charcoal",
+  "sku": "953-NA",
+  "size": "Each",
+  "price": {
+    "amount": 18.0,
+    "currency": "USD",
+    "formatted": "$18.00",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "For a deep cleansing facial, use this clarifying charcoal facial soap for clearer skin. Gentle yet effective, this soap can be used on both face and body.\n",
+  "ingredients": [
+    "Liquorice Root Decoction",
+    "Rapeseed Oil; Coconut Oil",
+    "Glycerin",
+    "Propylene Glycol",
+    "Aqua (Water)",
+    "*Linalool",
+    "Sandalwood Oil",
+    "Aniba Rosaeodora Wood Oil (Rosewood Oil)",
+    "Charcoal Powder (Powdered Charcoal)",
+    "Sodium Chloride",
+    "Titanium Dioxide",
+    "Zea Mays Starch (Cornstarch)",
+    "Synthetic Fluorphlogopite",
+    "Tin Oxide",
+    "Sodium Hydroxide",
+    "EDTA",
+    "Tetrasodium Etidronate",
+    "*Geraniol",
+    "Iron Oxides"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_2024_408aa84f_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_2024_408aa84f_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_6_30548d57_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_6_30548d57_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_3_0ae46369_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_3_0ae46369_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_2_534d086a_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/charcoal_soap_hero_2024_2_534d086a_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Face",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Handmade Soap",
+    "Cleansers",
+    "Vegan",
+    "Balancing Oily Skin",
+    "Vegan Skincare",
+    "Self-Preserving Skincare",
+    "Skincare Routines",
+    "Plastic Free",
+    "Super Powered Ingredients",
+    "Rewild your routine",
+    "Don't Sweat It, Stay Fresh, Summer Done Right",
+    "Plastic-Free Skincare",
+    "Carry on with Lush",
+    "Self-care Under $20",
+    "Travel-size Essentials",
+    "Balancing & Grounding",
+    "For the Nature-Lover",
+    "Clarifying Spot-Prone Skin",
+    "Skincare By Needs"
+  ]
+}

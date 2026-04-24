@@ -1,0 +1,86 @@
+{
+  "slug": "cookie-dough-lip-oil",
+  "url": "https://www.lush.com/us/en_us/p/cookie-dough-lip-oil",
+  "sourceUrl": "https://www.lush.com/uk/en/p/cookie-dough-lip-oil",
+  "title": "Cookie Dough",
+  "sku": "63372-UK",
+  "size": "4g",
+  "price": {
+    "amount": 6.5,
+    "currency": "GBP",
+    "formatted": "6.50 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Long for the taste of warm crumbly cookies? Smooth on a little pocked-sized lip oil with the sweet scent of carob resinoid and vanilla absolute.",
+  "ingredients": [
+    "Ricinus Communis Seed Oil (Organic Castor Oil)",
+    "Simmondsia Chinensis Seed Oil (Organic Jojoba Oil)",
+    "Helianthus Annuus Seed Cera (Sunflower Wax)",
+    "Euphorbia Cerifera Cera (Organic Candelilla Wax)",
+    "Aroma",
+    "Prunus Amygdalus Amara Kernel Oil (Almond Essential Oil)",
+    "Ceratonia Siliqua Gum (Carob Resinoid)",
+    "Vanilla Planifolia Fruit Extract (Vanilla Extract)",
+    "Fragaria Ananassa Seed Oil (Cold Pressed Strawberry Seed Oil)",
+    "Tocopherol",
+    "Stevia Rebaudiana Extract (Stevia)",
+    "Helianthus Annuus Seed Oil (Sunflower Oil)",
+    "*Anise Alcohol",
+    "*Benzyl Alcohol",
+    "*Benzyl Benzoate",
+    "*Linalool"
+  ],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_ecom_easter_2025_71b022dc_thumbnail_4096.png",
+      "alt": "Cookie Dough. A smudged swatch of luscious, soft, light caramel-coloured solid lip oil.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_ecom_easter_2025_71b022dc_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_7_6b5cca04_thumbnail_4096.jpg",
+      "alt": "A close-up shot shows a hand holding a gold compact mirror. The reflection shows a model's lips while applying Lush 'Cookie Dough' lip balm. The background features light blue bathroom tiles and a glimpse of green foliage.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_7_6b5cca04_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_21_4a784b36_thumbnail_4096.jpg",
+      "alt": "A close-up, profile shot of a model applying Lush 'Cookie Dough' lip oil to their lips. They have dark hair in braids and are wearing a thin silver chain necklace. The background consists of pale blue bathroom tiles.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_21_4a784b36_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_27_44b422c3_thumbnail_4096.jpg",
+      "alt": "A close-up image shows a model applying the Lush 'Cookie Dough' lip oil to their lips. They have dark hair styled in braids and are looking upwards and to the side.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_27_44b422c3_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_30_f8f19839_thumbnail_4096.jpg",
+      "alt": "A person's hand reaches into a beige, fleecy makeup bag to retrieve a black tube of Lush 'Cookie Dough' lip oil. They are wearing a white top and a delicate silver bracelet, with a bathroom sink and light blue tiles in the background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/cookie_dough_lip_oil_easter_hero_2026_30_f8f19839_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Mouth",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Skincare",
+    "Vegan",
+    "Lip Scrubs & Balms",
+    "Gourmand",
+    "Customised Lush Gifts",
+    "Vegan Skincare",
+    "Easter",
+    "Sweet",
+    "Beauty Gifts Under £10",
+    "Leaving Soon"
+  ]
+}

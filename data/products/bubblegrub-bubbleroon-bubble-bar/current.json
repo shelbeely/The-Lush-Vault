@@ -1,0 +1,44 @@
+{
+  "slug": "bubblegrub-bubbleroon-bubble-bar",
+  "url": "https://www.lush.com/us/en_us/p/bubblegrub-bubbleroon-bubble-bar",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/bubblegrub-bubbleroon-bubble-bar",
+  "title": "Bubblegrub Bubbleroon",
+  "sku": "4775-NA",
+  "size": "95g",
+  "price": {
+    "amount": 0.0,
+    "currency": "USD",
+    "formatted": "",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 0,
+    "schemaAvailability": "",
+    "dataLocale": "us"
+  },
+  "description": "Like emergin'",
+  "ingredients": [],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bubblegrub_bubbleroon_ecom_march_kitchen_box_2025_8078ee8d_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bubblegrub_bubbleroon_ecom_march_kitchen_box_2025_8078ee8d_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/Bath_box_hero_march_kitchen_box_2025_landscape_9558ae2b_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/Bath_box_hero_march_kitchen_box_2025_landscape_9558ae2b_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Bath",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z"
+}

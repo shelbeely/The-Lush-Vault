@@ -1,0 +1,98 @@
+{
+  "slug": "follow-the-white-rabbit-bath-bomb",
+  "url": "https://www.lush.com/us/en_us/p/follow-the-white-rabbit-bath-bomb",
+  "sourceUrl": "https://www.lush.com/us/en_us/p/follow-the-white-rabbit-bath-bomb",
+  "title": "Follow The White Rabbit",
+  "sku": "148-NA",
+  "size": "100g",
+  "price": {
+    "amount": 6.5,
+    "currency": "USD",
+    "formatted": "$6.50",
+    "onSale": false
+  },
+  "availability": {
+    "status": "active",
+    "inStock": true,
+    "isAvailableForPurchase": true,
+    "quantityAvailable": 50,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "us"
+  },
+  "description": "Don't be late for a very important bathing date! This Easter follow the white rabbit to magical rainbow waters for a fruity fragrant soak.",
+  "ingredients": [
+    "Sodium Bicarbonate",
+    "Citric Acid",
+    "Isomalt (Popping Candy)",
+    "Titanium Dioxide",
+    "Potassium Bitartrate (Cream of Tartar)",
+    "Citrus Aurantium Bergamia Fruit Oil (Bergamot Oil)",
+    "Barosma Betulina Leaf Oil (Buchu Oil)",
+    "Citrus Limon Peel Oil (Lemon Oil)",
+    "Aqua (Water)",
+    "Zea Mays Starch (Cornstarch)",
+    "Sodium Coco-Sulfate",
+    "Cocamidopropyl Betaine",
+    "Dipropylene Glycol",
+    "Synthetic Fluorphlogopite",
+    "Propylene Glycol",
+    "Silica",
+    "Tin Oxide",
+    "*Limonene",
+    "Parfum",
+    "Yellow 10",
+    "Red 4",
+    "Iron Oxides",
+    "Red 27",
+    "Red 28",
+    "Blue 1 Lake",
+    "Chromium Oxide Greens"
+  ],
+  "badges": [
+    "Vegan",
+    "Naked",
+    "Contains Glitter",
+    "Vegan Society"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/follow_the_white_rabbit_bath_bomb_2024_79cce96b_thumbnail_4096.png",
+      "alt": "Follow The White Rabbit. A white bath bomb shaped like a sitting rabbit with ears pointed up and rainbow colours of pink, yellow orange and blue just peeking out at the edge.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/follow_the_white_rabbit_bath_bomb_2024_79cce96b_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_follow_the_white_rabbit_bath_bomb_easter_hero_2026_2_3438d2b0_thumbnail_40.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_follow_the_white_rabbit_bath_bomb_easter_hero_2026_2_3438d2b0_thumbnail_12.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_follow_the_white_rabbit_bath_bomb_easter_hero_2026_63_0af8e63d_thumbnail_4.jpg",
+      "alt": "A hand holds a white, rabbit-shaped Follow The White Rabbit bath bomb over swirling peach and pink bathwater. The rabbit has colorful pink and yellow accents.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_follow_the_white_rabbit_bath_bomb_easter_hero_2026_63_0af8e63d_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/2_follow_the_white_rabbit_bath_bomb_hero_easter_2026_01_24b8354b_thumbnail_4.jpg",
+      "alt": "A white, rabbit-shaped Follow The White Rabbit bath bomb floats in peach-colored water. It features vibrant pink, blue, and yellow streaks as it dissolves, creating colorful swirls.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/2_follow_the_white_rabbit_bath_bomb_hero_easter_2026_01_24b8354b_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/3_follow_the_white_rabbit_bath_bomb_easter_hero_2026_68_92de8056_thumbnail_4.jpg",
+      "alt": "A close-up of the Follow the White Rabbit bath bomb as it dissolves in bathwater. Swirls of orange, pink, and yellow foam expand across the surface of the water, creating a vibrant, marbled sunset effect.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/3_follow_the_white_rabbit_bath_bomb_easter_hero_2026_68_92de8056_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Bath Bombs",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Plastic Free",
+    "Vegan",
+    "Vegan Bath Products",
+    "Easter",
+    "Bath Products",
+    "Bath Bombs",
+    "Citrus",
+    "Bath Bombs and Bubble Bars for Kids",
+    "Leaving Soon"
+  ]
+}

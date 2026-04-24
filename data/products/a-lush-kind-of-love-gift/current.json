@@ -1,0 +1,82 @@
+{
+  "slug": "a-lush-kind-of-love-gift",
+  "url": "https://www.lush.com/us/en_us/p/a-lush-kind-of-love-gift",
+  "sourceUrl": "https://www.lush.com/uk/en/p/a-lush-kind-of-love-gift",
+  "title": "A Lush Kind Of Love",
+  "sku": "64746-UK",
+  "size": "Each",
+  "price": {
+    "amount": 59.0,
+    "currency": "GBP",
+    "formatted": "59.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "",
+    "dataLocale": "uk"
+  },
+  "description": "A gift of luxurious bath, body and shower delights is sure to unlock their love this Valentine’s Day. Because the key to someone’s heart? It’s in these amorous aromas.",
+  "ingredients": [],
+  "badges": [
+    "Vegan"
+  ],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/a_lush_kind_of_love_gift_valentines_ecom_2026_78febbe7_thumbnail_4096.png",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/a_lush_kind_of_love_gift_valentines_ecom_2026_78febbe7_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/03_a_lush_kind_of_love_gift_lush_2025_04_f75f46d8_thumbnail_4096.jpg",
+      "alt": "The A Lush Kind of Love gift set displays a colourful box beside Passion shower gel, Posh Chocolate lotion, a strawberry bubbleroon, a white heart bomb, a love letter bomb, and a shimmering ladybug bar.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/03_a_lush_kind_of_love_gift_lush_2025_04_f75f46d8_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_on_top_soap_lush_2026_29_b3c274b9_thumbnail_4096.jpg",
+      "alt": "",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_cherry_on_top_soap_lush_2026_29_b3c274b9_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_sweetheart_bath_bomb_hero_valentines_2025_04_feb84c0f_2371572c_thumbnail_4.jpg",
+      "alt": "A person's hand holds a round, pink and white Sweetheart bath bomb decorated with small pink hearts above a surface of swirling pink water.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_sweetheart_bath_bomb_hero_valentines_2025_04_feb84c0f_2371572c_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/02_love_bug_scrubee_lush_2026_01_67a71374_thumbnail_409_d50da842_thumbnail_4.jpg",
+      "alt": "A person with tattooed hands holds a cream-coloured, ladybird-shaped Love Bug Scrubee solid body scrub over a tub of bubbly water. The bath bomb has red-shimmering wings and a winking face, shown as it is held over the bath.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/02_love_bug_scrubee_lush_2026_01_67a71374_thumbnail_409_d50da842_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/1_love_letter_bath_bomb_hero_valentines_2025_34_03d10db_ac23215f_thumbnail_4.jpg",
+      "alt": "A person’s hand holds a white, envelope-shaped bath bomb over soft pink water. The bath bomb is decorated with tiny red flecks and a single raised purple heart, designed to look like a sealed love letter.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/1_love_letter_bath_bomb_hero_valentines_2025_34_03d10db_ac23215f_thumbnail_1.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/01_a_lush_kind_of_love_gift_lush_2025_01_736f1d06_thumbnail_4096.jpg",
+      "alt": "The A Lush Kind of Love Gift features a colorful box with a heart lock design and pink ribbon. It sits with Passion shower gel, Posh Chocolate, a strawberry, envelope, heart bomb, and shimmering ladybug bar against a pink background.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/01_a_lush_kind_of_love_gift_lush_2025_01_736f1d06_thumbnail_128.jpg"
+    }
+  ],
+  "category": "Gifts",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Vegan Gifts",
+    "Bath & Body Gifts",
+    "Gifts for Her",
+    "Gifts for Him",
+    "Gifts",
+    "Vegan",
+    "Valentine’s Day Gift Ideas",
+    "Valentine's Bestie Baskets  ",
+    "Gifts over £40",
+    "Gifts by Recipient",
+    "Gifts by Occasion",
+    "Bath Bomb Gift Sets",
+    "Leaving Soon"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "blooming-good-deeds-knot-wrap",
+  "url": "https://www.lush.com/us/en_us/p/blooming-good-deeds-knot-wrap",
+  "sourceUrl": "https://www.lush.com/uk/en/p/blooming-good-deeds-knot-wrap",
+  "title": "Blooming Good Deeds Knot Wrap",
+  "sku": "219300-UN",
+  "size": "70cm x 70cm",
+  "price": {
+    "amount": 7.0,
+    "currency": "GBP",
+    "formatted": "7.00 GBP",
+    "onSale": false
+  },
+  "availability": {
+    "status": "unavailable_in_us",
+    "inStock": false,
+    "isAvailableForPurchase": false,
+    "quantityAvailable": null,
+    "schemaAvailability": "https://schema.org/InStock",
+    "dataLocale": "uk"
+  },
+  "description": "Tie up a few of our limited-edition products in this organic cotton Knot Wrap for a fragrant gift that celebrates Eid.",
+  "ingredients": [],
+  "badges": [],
+  "images": [
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_eid_ecom_2025_1b40b221_thumbnail_4096.png",
+      "alt": "Blooming Good Deeds. A square, fabric, knot wrap. There is a bright, pink, spotted border with palm tree illustrations in each corner. The centre shows a vibrantly, colourful illustrated, abstract scene of palm trees, flowers and lanterns.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_eid_ecom_2025_1b40b221_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_eid_ecom_2025_85f81225_thumbnail_4096.png",
+      "alt": "Blooming Good Deeds. A square, fabric, knot wrap. There is a bright, pink, spotted border with palm tree illustrations in each corner. The centre shows a vibrantly, colourful illustrated, abstract scene of palm trees, flowers and lanterns.",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_eid_ecom_2025_85f81225_thumbnail_128.png"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knotwrap_eid_hero_2025_1_d49882a2_thumbnail_4096.jpg",
+      "alt": "The image shows a deep, red background with blurred warm lights and lanterns. The Blooming Good Deeds fabric knot wrap has been neatly wrapped around an unknown gift with a neat knot and a gift tag which reads \"Eid Mubarak\".",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knotwrap_eid_hero_2025_1_d49882a2_thumbnail_128.jpg"
+    },
+    {
+      "url": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_texture_portrait_eid_2025_2bb540de_thumbnail_4.jpg",
+      "alt": "The image shows a super close-up of the Blooming Good Deeds, Eid-themed knot wrap. The shot is focused on the texture of the material and the vibrancy of the bright colours included. ",
+      "thumbnail": "https://unicorn.lush.com/media/thumbnails/products/blooming_good_deeds_knot_wrap_texture_portrait_eid_2025_2bb540de_thumbnail_1.jpg"
+    }
+  ],
+  "category": "Sundries",
+  "fetchedAt": "2026-04-24T18:04:56.000Z",
+  "updatedAt": "2026-04-24T18:04:56.000Z",
+  "collections": [
+    "Gift Wrapping",
+    "Knot Wraps",
+    "Lifestyle"
+  ]
+}
